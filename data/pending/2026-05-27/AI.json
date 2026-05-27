@@ -1,0 +1,305 @@
+{
+  "ticker": "AI",
+  "fetched_at": "2026-05-27T13:32:42.535605",
+  "overview": {
+    "name": "C3.ai, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "description": "C3.ai, Inc. operates as an enterprise artificial intelligence application software company. The company offers C3 agentic AI platform, an application development and runtime environment that enables customers to design, develop, and deploy enterprise AI applications; C3 AI CRM Suite, a customer relationship management solution; C3 Generative AI that enables to locate, retrieve, present information, disparate data stores, applications, and enterprise information systems; C3 AI Health Suite to accelerate healthcare innovation; and C3 AI Financial Services Suite. Its C3 AI Applications include C3 AI Asset Performance suite, which consists of C3 AI Reliability, C3 AI Process Optimization, and C3 AI Energy Management applications. The company's C3 AI Supply Chain Suite comprises C3 AI Supply Network Risk, C3 AI Inventory Optimization, C3 AI Demand Forecasting, C3 AI Production Schedule Optimization, and C3 AI Sourcing Optimization solutions; C3 AI Sustainability Suite includes C3 AI ESG and C3 AI Energy Management applications to decrease greenhouse gas emissions; and C3 AI Defense & Intelligence Suite. It provides C3 AI State and Local Government Suite that includes various applications, such as C3 Law Enforcement for state, county, and municipal law enforcement agencies; C3 AI Residential Property Appraisal and C3 AI Commercial Property Appraisal for county property assessors and appraisers; and C3 Generative AI for Government Programs and C3 Generative AI for Constituent Services for federal, state, and local governments. It has strategic partnerships with Microsoft Azure, AWS, Google Cloud, McKinsey & Company, Baker Hughes, Booz Allen, and others. The company has a strategic alliance with SMX Group, LLC for the development of mission critical AI in the secure environments. The company was formerly known as C3 IoT, Inc. and changed its name to C3.ai, Inc. in June 2019. C3.ai, Inc. was incorporated in 2009 and is headquartered in Redwood City, California.",
+    "market_cap": 1393342720,
+    "enterprise_value": 831669824,
+    "shares_outstanding": 141791230,
+    "float_shares": 135411419,
+    "short_ratio": 10.2,
+    "short_percent_of_float": 0.352,
+    "held_by_insiders": 0.05178,
+    "held_by_institutions": 0.638,
+    "revenue_ttm": 307391008,
+    "revenue_growth": -0.461,
+    "gross_margins": 0.43452,
+    "operating_margins": -2.63627,
+    "profit_margins": -1.4135201,
+    "free_cashflow": 11594375,
+    "operating_cashflow": -124524000,
+    "total_cash": 621923008,
+    "total_debt": 60250000,
+    "debt_to_equity": 8.374,
+    "current_ratio": 6.581,
+    "trailing_pe": null,
+    "forward_pe": -11.418706,
+    "price_to_book": 1.9218438,
+    "ev_to_ebitda": -1.836,
+    "ev_to_revenue": 2.706,
+    "fifty_two_week_high": 30.24,
+    "fifty_two_week_low": 7.675,
+    "current_price": 9.59,
+    "analyst_target_mean": 8.81818,
+    "analyst_target_high": 17.0,
+    "analyst_target_low": 6.0,
+    "recommendation": "hold",
+    "num_analysts": 11,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-06-03 16:00:00-04:00",
+        "EPS Estimate": -0.37,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-02-25 16:00:00-05:00",
+        "EPS Estimate": -0.29,
+        "Reported EPS": -0.4,
+        "Surprise(%)": -38.27
+      },
+      {
+        "Earnings Date": "2025-12-03 16:00:00-05:00",
+        "EPS Estimate": -0.33,
+        "Reported EPS": -0.25,
+        "Surprise(%)": 24.77
+      },
+      {
+        "Earnings Date": "2025-09-03 16:00:00-04:00",
+        "EPS Estimate": -0.21,
+        "Reported EPS": -0.37,
+        "Surprise(%)": -75.31
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 14,
+    "nearest_expiry": "2026-05-29",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 90.72274902343749,
+    "total_call_oi": 11305,
+    "total_put_oi": 8178
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 3154722.0,
+        "Trans": 24
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 2985576.0,
+        "Trans": 15
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 169146.0,
+        "Trans": 39
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 7523179.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.023,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.42900002,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.406,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 481638,
+        "Value": 982542.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 2.04 per share.",
+        "Insider": "SIEBEL THOMAS M",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 481638,
+        "Value": 4192042.0,
+        "URL": "",
+        "Text": "Sale at price 8.65 - 8.72 per share.",
+        "Insider": "SIEBEL THOMAS M",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25915,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "SIEBEL THOMAS M",
+        "Position": "Officer, Director and Beneficial Owner",
+        "Transaction": "",
+        "Start Date": "2026-05-05 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 27210,
+        "Value": 252237.0,
+        "URL": "",
+        "Text": "Sale at price 9.27 per share.",
+        "Insider": "SIEBEL THOMAS M",
+        "Position": "Officer, Director and Beneficial Owner",
+        "Transaction": "",
+        "Start Date": "2026-05-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 53125,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SIEBEL THOMAS M",
+        "Position": "Officer, Director and Beneficial Owner",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 47316,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "EHIKIAN STEPHEN BRADLEY",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 52194,
+        "Value": 429092.0,
+        "URL": "",
+        "Text": "Sale at price 8.22 per share.",
+        "Insider": "EHIKIAN STEPHEN BRADLEY",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-31 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 43944,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "HYTEN JOHN E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-31 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 32093,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "EHIKIAN STEPHEN BRADLEY",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 80800.0,
+        "URL": "",
+        "Text": "Sale at price 8.08 per share.",
+        "Insider": "SNABE JIM HAGEMANN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-27 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 42.26011355364015,
+    "pct_above_200d_ma": -27.419612008042684,
+    "pct_of_100d_ma": 95.35167106168423,
+    "pct_change_1d": 0.052138835884885104,
+    "pct_change_5d": 8.663650622113185,
+    "pct_change_30d": 14.226198842466387
+  }
+}

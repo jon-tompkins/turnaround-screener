@@ -1,0 +1,305 @@
+{
+  "ticker": "AVTR",
+  "fetched_at": "2026-05-27T13:32:58.029528",
+  "overview": {
+    "name": "Avantor, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "description": "Avantor, Inc. engages in the provision of mission-critical products and services to customers in the biopharma, healthcare, education and government, advanced technologies, and applied materials industries in the Americas, Europe, Asia, the Middle East, and Africa. The company offers materials and consumables, such as purity chemicals and reagents, lab products and supplies, formulated silicone materials, customized excipients, customized single-use assemblies, process chromatography resins and columns, analytical sample prep kits, education and microbiology products, clinical trial kits, and fluid handling tips. It also provides equipment and instrumentation products, including filtration systems, virus inactivation systems, incubators, analytical instruments, evaporators, ultra-low-temperature freezers, biological safety cabinets, peristaltic pumps, and critical environment supplies. In addition, the company offers services and specialty procurements comprising onsite lab and production, equipment, procurement and sourcing, and biopharmaceutical material scale-up and development services. Further, it provides scientific research support services, such as DNA extraction, bioreactor servicing, clinical and biorepository, compound management, cleanroom control, monitoring, maintenance, and sanitization services. The company was founded in 1904 and is headquartered in Radnor, Pennsylvania.",
+    "market_cap": 5735144960,
+    "enterprise_value": 9094629376,
+    "shares_outstanding": 682755402,
+    "float_shares": 664286868,
+    "short_ratio": 4.45,
+    "short_percent_of_float": 0.0716,
+    "held_by_insiders": 0.01456,
+    "held_by_institutions": 1.01557,
+    "revenue_ttm": 6552200192,
+    "revenue_growth": 0.0,
+    "gross_margins": 0.3213,
+    "operating_margins": 0.0626,
+    "profit_margins": -0.08415,
+    "free_cashflow": 489362496,
+    "operating_cashflow": 573200000,
+    "total_cash": 279300000,
+    "total_debt": 3816300032,
+    "debt_to_equity": 68.286,
+    "current_ratio": 1.758,
+    "trailing_pe": null,
+    "forward_pe": 9.861238,
+    "price_to_book": 1.0164568,
+    "ev_to_ebitda": 9.592,
+    "ev_to_revenue": 1.388,
+    "fifty_two_week_high": 15.93,
+    "fifty_two_week_low": 7.265,
+    "current_price": 8.4,
+    "analyst_target_mean": 9.85714,
+    "analyst_target_high": 19.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "hold",
+    "num_analysts": 14,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-31 08:00:00-04:00",
+        "EPS Estimate": 0.19,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-29 06:00:00-04:00",
+        "EPS Estimate": 0.16,
+        "Reported EPS": 0.17,
+        "Surprise(%)": 8.18
+      },
+      {
+        "Earnings Date": "2026-02-11 06:00:00-05:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": 0.08,
+        "Surprise(%)": -31.58
+      },
+      {
+        "Earnings Date": "2025-10-29 06:00:00-04:00",
+        "EPS Estimate": 0.23,
+        "Reported EPS": 0.22,
+        "Surprise(%)": -2.28
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 7,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 89.45323046875,
+    "total_call_oi": 2053,
+    "total_put_oi": 765
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 9940919,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 10000,
+        "Value": 83200,
+        "URL": "",
+        "Text": "Purchase at price 8.32 per share.",
+        "Insider": "LUCIER GREGORY T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MEHRA SANJEEV K",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LUCIER GREGORY T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SUMME GREGORY L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MURTHY MALA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAKIN LOUISE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MASSARO JOSEPH R",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SEVERINO MICHAEL E",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 25270,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DINGEMANS SIMON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 146566,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRELLIER LUDOVIC",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 44.419503955571116,
+    "pct_above_200d_ma": -22.33314992472727,
+    "pct_of_100d_ma": 91.77423193838656,
+    "pct_change_1d": 3.071252941716085,
+    "pct_change_5d": 9.816760339580455,
+    "pct_change_30d": 2.3170797375255514
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "ticker": "RZLV",
+  "fetched_at": "2026-05-27T13:32:01.812139",
+  "overview": {
+    "name": "Rezolve AI PLC",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "description": "Rezolve AI PLC provides generative AI solutions for the retail and e-commerce sectors in the United Kingdom and the United States. It sells its solutions retailers, brands, manufacturers, banks, and other enterprise customers. The company was formerly known as Rezolve AI Limited and changed its name to Rezolve AI PLC in March 2025. Rezolve AI PLC was founded in 2016 and is based in London, the United Kingdom.",
+    "market_cap": 1017010304,
+    "enterprise_value": 920617216,
+    "shares_outstanding": 398827587,
+    "float_shares": 195355879,
+    "short_ratio": 2.13,
+    "short_percent_of_float": 0.1691,
+    "held_by_insiders": 0.5034,
+    "held_by_institutions": 0.14604001,
+    "revenue_ttm": 46800100,
+    "revenue_growth": 48.884,
+    "gross_margins": 0.65977997,
+    "operating_margins": -1.34457,
+    "profit_margins": -2.1668801,
+    "free_cashflow": 9768310,
+    "operating_cashflow": -63147256,
+    "total_cash": 111112248,
+    "total_debt": 157277728,
+    "debt_to_equity": 63.723,
+    "current_ratio": 0.668,
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": 3.4741142,
+    "ev_to_ebitda": -10.633,
+    "ev_to_revenue": 19.671,
+    "fifty_two_week_high": 8.45,
+    "fifty_two_week_low": 1.9,
+    "current_price": 2.55,
+    "analyst_target_mean": 10.75,
+    "analyst_target_high": 15.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "none",
+    "num_analysts": 6,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-01 16:00:00-04:00",
+        "EPS Estimate": NaN,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 11,
+    "nearest_expiry": "2026-05-29",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 106.64109179687502,
+    "total_call_oi": 29399,
+    "total_put_oi": 13222
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 169307312,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": []
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 35.28391035053858,
+    "pct_above_200d_ma": -25.989349492009527,
+    "pct_of_100d_ma": 92.81502353692707,
+    "pct_change_1d": -1.923075159625831,
+    "pct_change_5d": 4.938266759770915,
+    "pct_change_30d": -1.544400122725742
+  }
+}

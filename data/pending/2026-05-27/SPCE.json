@@ -1,0 +1,305 @@
+{
+  "ticker": "SPCE",
+  "fetched_at": "2026-05-27T13:31:27.070835",
+  "overview": {
+    "name": "Virgin Galactic Holdings, Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "description": "Virgin Galactic Holdings, Inc., an aerospace and space travel company, focuses on the development, manufacture, and operation of spaceships and related technologies. It engages in the design and development, manufacturing, ground and flight testing, spaceflight operation, and post-flight maintenance of spaceflight systems for private individuals, researchers, and government agencies. Virgin Galactic Holdings, Inc. is headquartered in Tustin, California.",
+    "market_cap": 395872992,
+    "enterprise_value": 453243872,
+    "shares_outstanding": 104451974,
+    "float_shares": 100481064,
+    "short_ratio": 2.04,
+    "short_percent_of_float": 0.23200001,
+    "held_by_insiders": 0.00412,
+    "held_by_institutions": 0.1683,
+    "revenue_ttm": 1310000,
+    "revenue_growth": -0.508,
+    "gross_margins": 0.0,
+    "operating_margins": -288.95154,
+    "profit_margins": 0.0,
+    "free_cashflow": -303645632,
+    "operating_cashflow": -217724992,
+    "total_cash": 219891008,
+    "total_debt": 319736000,
+    "debt_to_equity": 142.912,
+    "current_ratio": 1.003,
+    "trailing_pe": null,
+    "forward_pe": -7.8549223,
+    "price_to_book": 1.0144539,
+    "ev_to_ebitda": -1.84,
+    "ev_to_revenue": 345.988,
+    "fifty_two_week_high": 5.23,
+    "fifty_two_week_low": 2.13,
+    "current_price": 3.79,
+    "analyst_target_mean": 3.55,
+    "analyst_target_high": 5.0,
+    "analyst_target_low": 2.05,
+    "recommendation": "hold",
+    "num_analysts": 5,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-05 16:00:00-04:00",
+        "EPS Estimate": -0.65,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-14 16:00:00-04:00",
+        "EPS Estimate": -0.94,
+        "Reported EPS": -0.81,
+        "Surprise(%)": 13.83
+      },
+      {
+        "Earnings Date": "2026-03-30 16:00:00-04:00",
+        "EPS Estimate": -1.07,
+        "Reported EPS": -0.93,
+        "Surprise(%)": 12.35
+      },
+      {
+        "Earnings Date": "2025-11-13 16:00:00-05:00",
+        "EPS Estimate": -1.48,
+        "Reported EPS": -1.1,
+        "Surprise(%)": 25.85
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-05-29",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-07-17",
+    "sampled_atm_iv_pct": 161.328318359375,
+    "total_call_oi": 168045,
+    "total_put_oi": 33822
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 414815,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 20000,
+        "Value": 49780.0,
+        "URL": "",
+        "Text": "Purchase at price 2.49 per share.",
+        "Insider": "STRANDBERG DIANA S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 66570,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CHITALE APARNA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 55594,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "KIM SARAH E",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 152996,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "AHRENS DOUGLAS T",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 277945,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "COLGLAZIER MICHAEL A",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 13470,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CHITALE APARNA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 11853,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "KIM SARAH E",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 35560,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "AHRENS DOUGLAS T",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 43103,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "COLGLAZIER MICHAEL A",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 525,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CHITALE APARNA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2025-12-30 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 10.869908072495965,
+    "pct_above_200d_ma": 20.018365731546204,
+    "pct_of_100d_ma": 138.0591560630043,
+    "pct_change_1d": 7.9772071837759695,
+    "pct_change_5d": 51.59999847412109,
+    "pct_change_30d": 31.141862431824862
+  }
+}

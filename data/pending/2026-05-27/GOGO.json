@@ -1,0 +1,305 @@
+{
+  "ticker": "GOGO",
+  "fetched_at": "2026-05-27T13:33:03.907590",
+  "overview": {
+    "name": "Gogo Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "description": "Gogo Inc., together with its subsidiaries, provides broadband connectivity services to the aviation industry in the United States and internationally. The company's product platform includes networks, antennas, and airborne equipment and software. The company offers in-flight systems; in-flight services; aviation partner support; and engineering, design, and development services, as well as production operations functions. It offers voice and data, in-flight entertainment, and other services. In addition, the company's infrastructure includes networks, towers, cyber security software and data centers to support in-flight connectivity services, as well as in the provision of telecommunications services. The company sells its products primarily to aircraft operators and original equipment manufacturers of business aviation aircraft through a distribution network of independent dealers. Gogo Inc. was founded in 1991 and is headquartered in Broomfield, Colorado.",
+    "market_cap": 635621056,
+    "enterprise_value": 1396956032,
+    "shares_outstanding": 135238523,
+    "float_shares": 96047751,
+    "short_ratio": 11.5,
+    "short_percent_of_float": 0.21280001,
+    "held_by_insiders": 0.24999,
+    "held_by_institutions": 0.71723,
+    "revenue_ttm": 906502976,
+    "revenue_growth": -0.017,
+    "gross_margins": 0.42931,
+    "operating_margins": 0.14803,
+    "profit_margins": 0.01541,
+    "free_cashflow": 24533876,
+    "operating_cashflow": 84782000,
+    "total_cash": 106732000,
+    "total_debt": 903228992,
+    "debt_to_equity": 765.319,
+    "current_ratio": 1.66,
+    "trailing_pe": 46.999996,
+    "forward_pe": 5.8749995,
+    "price_to_book": 6.25,
+    "ev_to_ebitda": 7.69,
+    "ev_to_revenue": 1.541,
+    "fifty_two_week_high": 16.82,
+    "fifty_two_week_low": 3.805,
+    "current_price": 4.7,
+    "analyst_target_mean": 9.5,
+    "analyst_target_high": 12.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "buy",
+    "num_analysts": 2,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 08:00:00-04:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-07 07:00:00-04:00",
+        "EPS Estimate": 0.08,
+        "Reported EPS": 0.08,
+        "Surprise(%)": 0.44
+      },
+      {
+        "Earnings Date": "2026-02-27 07:00:00-05:00",
+        "EPS Estimate": 0.06,
+        "Reported EPS": -0.01,
+        "Surprise(%)": -113.5
+      },
+      {
+        "Earnings Date": "2025-11-06 07:00:00-05:00",
+        "EPS Estimate": 0.11,
+        "Reported EPS": 0.12,
+        "Surprise(%)": 12.82
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 79.101771484375,
+    "total_call_oi": 737,
+    "total_put_oi": 227
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 33808280,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 4365,
+        "URL": "",
+        "Text": "",
+        "Insider": "GOLDFINE LEIGH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 17743,
+        "URL": "",
+        "Text": "",
+        "Insider": "GORDON CRYSTAL L",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 50539,
+        "URL": "",
+        "Text": "",
+        "Insider": "COTNER ZACHARY A.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-20 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 13477,
+        "URL": "",
+        "Text": "",
+        "Insider": "OLSON HAYDEN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-20 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 4874,
+        "URL": "",
+        "Text": "",
+        "Insider": "GOLDFINE LEIGH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-20 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 168464,
+        "URL": "",
+        "Text": "",
+        "Insider": "MOORE CHRISTOPHER JOHN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-20 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 43801,
+        "URL": "",
+        "Text": "",
+        "Insider": "GORDON CRYSTAL L",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-03-20 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 250000,
+        "URL": "",
+        "Text": "Purchase at price 4.54 - 4.57 per share.",
+        "Insider": "TOWNSEND CHARLES C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-12 00:00:00",
+        "Ownership": "D",
+        "Value": 1138706.0
+      },
+      {
+        "Shares": 3327,
+        "URL": "",
+        "Text": "",
+        "Insider": "GOLDFINE LEIGH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 10587,
+        "URL": "",
+        "Text": "",
+        "Insider": "GORDON CRYSTAL L",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 45.396261737928924,
+    "pct_above_200d_ma": -27.369664188689356,
+    "pct_of_100d_ma": 105.2419403183591,
+    "pct_change_1d": 5.85585019580932,
+    "pct_change_5d": 15.196075910607053,
+    "pct_change_30d": 0.4273500354724069
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "ticker": "GO",
+  "fetched_at": "2026-05-27T13:32:15.320878",
+  "overview": {
+    "name": "Grocery Outlet Holding Corp.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "description": "Grocery Outlet Holding Corp. operates as a retailer of consumables and fresh products sold through independently operated stores in the United States. It offers perishable department products, including dairy and deli; produce and floral; and meat and seafood. The company also provides non-perishable department products, such as non-perishable grocery, general merchandise, health and beauty care, frozen foods, and beer and wine. It operates stores in California, Washington, Oregon, Pennsylvania, Tennessee, Idaho, Maryland, Nevada, North Carolina, New Jersey, Georgia, Ohio, Alabama, Delaware, Kentucky, and Virginia. The company was founded in 1946 and is headquartered in Emeryville, California.",
+    "market_cap": 812155136,
+    "enterprise_value": 2566239488,
+    "shares_outstanding": 98922672,
+    "float_shares": 93395862,
+    "short_ratio": 8.46,
+    "short_percent_of_float": 0.3946,
+    "held_by_insiders": 0.05831,
+    "held_by_institutions": 1.1967,
+    "revenue_ttm": 4729544192,
+    "revenue_growth": 0.036,
+    "gross_margins": 0.30067,
+    "operating_margins": -0.00105,
+    "profit_margins": -0.080749996,
+    "free_cashflow": -60709752,
+    "operating_cashflow": 215752992,
+    "total_cash": 58998000,
+    "total_debt": 1841769984,
+    "debt_to_equity": 228.197,
+    "current_ratio": 1.281,
+    "trailing_pe": null,
+    "forward_pe": 13.032781,
+    "price_to_book": 1.0062507,
+    "ev_to_ebitda": 12.41,
+    "ev_to_revenue": 0.543,
+    "fifty_two_week_high": 19.41,
+    "fifty_two_week_low": 5.655,
+    "current_price": 8.21,
+    "analyst_target_mean": 8.46154,
+    "analyst_target_high": 10.5,
+    "analyst_target_low": 6.0,
+    "recommendation": "hold",
+    "num_analysts": 13,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-04 16:00:00-04:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-13 16:00:00-04:00",
+        "EPS Estimate": -0.04,
+        "Reported EPS": -1.83,
+        "Surprise(%)": -4890.46
+      },
+      {
+        "Earnings Date": "2026-03-04 16:00:00-05:00",
+        "EPS Estimate": 0.21,
+        "Reported EPS": 0.19,
+        "Surprise(%)": -8.93
+      },
+      {
+        "Earnings Date": "2025-11-04 16:00:00-05:00",
+        "EPS Estimate": 0.19,
+        "Reported EPS": 0.21,
+        "Surprise(%)": 11.48
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 7,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 310.93772265624995,
+    "total_call_oi": 1,
+    "total_put_oi": 0
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 1781455.0,
+        "Trans": 19
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 100732.0,
+        "Trans": 10
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 1680723.0,
+        "Trans": 29
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 5768181.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.41099998,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.436,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.025,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1851,
+        "Value": 12957,
+        "URL": "",
+        "Text": "Sale at price 7.00 per share.",
+        "Insider": "BORTNER ANDREA RENEE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 125000,
+        "Value": 882500,
+        "URL": "",
+        "Text": "Purchase at price 7.06 per share.",
+        "Insider": "RAGATZ ERIK D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-27 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 112808,
+        "Value": 717174,
+        "URL": "",
+        "Text": "Purchase at price 6.35 - 6.68 per share.",
+        "Insider": "POTTER JASON JAY",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 83997,
+        "Value": 486382,
+        "URL": "",
+        "Text": "Purchase at price 5.75 - 5.85 per share.",
+        "Insider": "RAGATZ ERIK D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-19 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 286097,
+        "Value": 1687972,
+        "URL": "",
+        "Text": "Purchase at price 5.90 per share.",
+        "Insider": "POTTER JASON JAY",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 116003,
+        "Value": 702618,
+        "URL": "",
+        "Text": "Purchase at price 5.85 - 6.09 per share.",
+        "Insider": "RAGATZ ERIK D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-17 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 4721,
+        "Value": 28609,
+        "URL": "",
+        "Text": "Sale at price 6.06 per share.",
+        "Insider": "WILSON STEVEN K",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3705,
+        "Value": 22452,
+        "URL": "",
+        "Text": "Sale at price 6.06 per share.",
+        "Insider": "BORTNER ANDREA RENEE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3425,
+        "Value": 20756,
+        "URL": "",
+        "Text": "Sale at price 6.06 per share.",
+        "Insider": "THOMPSON LUKE D",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 64435,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BORTNER ANDREA RENEE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-12 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 37.85913742600496,
+    "pct_above_200d_ma": -27.493033665906776,
+    "pct_of_100d_ma": 99.01408086860441,
+    "pct_change_1d": 3.661615644689853,
+    "pct_change_5d": 1.1083762790188079,
+    "pct_change_30d": 14.345407164817182
+  }
+}

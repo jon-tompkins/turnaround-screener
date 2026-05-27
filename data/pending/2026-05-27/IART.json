@@ -1,0 +1,305 @@
+{
+  "ticker": "IART",
+  "fetched_at": "2026-05-27T13:33:28.662510",
+  "overview": {
+    "name": "Integra LifeSciences Holdings Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "description": "Integra LifeSciences Holdings Corporation manufactures and sells surgical instruments, neurosurgical, ear, nose, throat, and wound care products for use in neurosurgery, neurocritical care, and otolaryngology. It operates through Codman Specialty Surgical and Tissue Technologies segments. The company offers neurosurgery and neuro critical care products, including tissue ablation equipment, dural repair products, cerebral spinal fluid management devices, intracranial monitoring equipment, and cranial stabilization equipment. It also offers after-market services; surgical headlamps and instrumentation; instrument patterns and surgical and lighting products to hospitals, surgery centers, dental, podiatry, and veterinary offices. In addition, the company provides treatment of acute wounds, such as burns; chronic wounds, including diabetic foot ulcers; and surgical tissue repair applications, including hernia reinforcement, tendon protection, and peripheral nerve repair. Further, it offers skin and wound repair, plastics and surgical reconstruction products, and nerve and tendon repair products. Additionally, the company is involved in the ear, nose, and throat business that includes instrumentation, balloon technologies for sinus dilation and eustachian tube dilation, and surgical navigation systems. It offers its products directly through various salesforces and other distribution channels to the hospitals, integrated health networks, group purchasing organizations, clinicians, surgery centers, and health care providers in the United States, Europe, the Asia Pacific, and internationally. Integra LifeSciences Holdings Corporation was formerly known as Integra LifeSciences Corp. and changed its name to Integra LifeSciences Holdings Corporation in June 1995. Integra LifeSciences Holdings Corporation was incorporated in 1989 and is headquartered in Princeton, New Jersey.",
+    "market_cap": 1181734912,
+    "enterprise_value": 2957112064,
+    "shares_outstanding": 77796903,
+    "float_shares": 58689984,
+    "short_ratio": 13.0,
+    "short_percent_of_float": 0.16530001,
+    "held_by_insiders": 0.14412,
+    "held_by_institutions": 1.01079,
+    "revenue_ttm": 1644509952,
+    "revenue_growth": 0.024,
+    "gross_margins": 0.56716,
+    "operating_margins": 0.10406999,
+    "profit_margins": -0.30149,
+    "free_cashflow": 69289752,
+    "operating_cashflow": 71444000,
+    "total_cash": 265502000,
+    "total_debt": 2040878976,
+    "debt_to_equity": 195.785,
+    "current_ratio": 3.379,
+    "trailing_pe": null,
+    "forward_pe": 5.818608,
+    "price_to_book": 1.1340052,
+    "ev_to_ebitda": 9.592,
+    "ev_to_revenue": 1.798,
+    "fifty_two_week_high": 16.49,
+    "fifty_two_week_low": 8.7,
+    "current_price": 15.19,
+    "analyst_target_mean": 16.71429,
+    "analyst_target_high": 27.0,
+    "analyst_target_low": 11.0,
+    "recommendation": "hold",
+    "num_analysts": 7,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-30 08:00:00-04:00",
+        "EPS Estimate": 0.48,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 0.4,
+        "Reported EPS": 0.54,
+        "Surprise(%)": 33.36
+      },
+      {
+        "Earnings Date": "2026-02-26 06:00:00-05:00",
+        "EPS Estimate": 0.8,
+        "Reported EPS": 0.83,
+        "Surprise(%)": 3.73
+      },
+      {
+        "Earnings Date": "2025-10-30 06:00:00-04:00",
+        "EPS Estimate": 0.43,
+        "Reported EPS": 0.54,
+        "Surprise(%)": 24.3
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 115.13714306640624,
+    "total_call_oi": 79,
+    "total_put_oi": 133
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 11212089,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 24338,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HILL BARBARA BENTON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20138,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SINGH HARVINDER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1390,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "POUL MOJDEH",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9000,
+        "Value": 102150.0,
+        "URL": "",
+        "Text": "Purchase at price 11.35 per share.",
+        "Insider": "GRAVES JEFFREY A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-05 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 11965,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SINGH HARVINDER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2025-10-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 19592,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRADLEY KEITH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-05-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 31837,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ESSIG STUART M",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2025-05-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 26531,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HILL BARBARA BENTON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-05-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 26531,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SCHADE CHRISTIAN S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-05-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 19592,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRAVES JEFFREY A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-05-09 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 49.712572365590404,
+    "pct_above_200d_ma": 20.88943733974691,
+    "pct_of_100d_ma": 133.41882103474074,
+    "pct_change_1d": 0.0,
+    "pct_change_5d": 5.632819607066297,
+    "pct_change_30d": 37.34176314714581
+  }
+}

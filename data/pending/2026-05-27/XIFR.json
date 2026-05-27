@@ -1,0 +1,250 @@
+{
+  "ticker": "XIFR",
+  "fetched_at": "2026-05-27T13:32:32.286474",
+  "overview": {
+    "name": "XPLR Infrastructure, LP",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "description": "XPLR Infrastructure, LP engages in the energy selling business in the United States. It operates a portfolio of contracted clean energy assets, including wind, solar, and battery storage projects. The company was formerly known as NextEra Energy Partners, LP and changed its name to XPLR Infrastructure, LP in January 2025. XPLR Infrastructure, LP was incorporated in 2014 and is based in Juno Beach, Florida.",
+    "market_cap": 1103934336,
+    "enterprise_value": 14029304832,
+    "shares_outstanding": 94272795,
+    "float_shares": 82698924,
+    "short_ratio": 4.58,
+    "short_percent_of_float": 0.038399998,
+    "held_by_insiders": 0.03277,
+    "held_by_institutions": 0.63811,
+    "revenue_ttm": 1180999936,
+    "revenue_growth": -0.025,
+    "gross_margins": 0.55799997,
+    "operating_margins": -0.06182,
+    "profit_margins": 0.08721,
+    "free_cashflow": -241375008,
+    "operating_cashflow": 644000000,
+    "total_cash": 943000000,
+    "total_debt": 6328000000,
+    "debt_to_equity": 58.958,
+    "current_ratio": 1.02,
+    "trailing_pe": 9.59836,
+    "forward_pe": 9.758333,
+    "price_to_book": 0.34506127,
+    "ev_to_ebitda": 20.877,
+    "ev_to_revenue": 11.879,
+    "fifty_two_week_high": 12.61,
+    "fifty_two_week_low": 7.99,
+    "current_price": 11.71,
+    "analyst_target_mean": 12.09091,
+    "analyst_target_high": 17.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "hold",
+    "num_analysts": 11,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 08:00:00-04:00",
+        "EPS Estimate": 0.19,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-07 07:00:00-04:00",
+        "EPS Estimate": 0.14,
+        "Reported EPS": 0.35,
+        "Surprise(%)": 148.23
+      },
+      {
+        "Earnings Date": "2026-02-10 07:00:00-05:00",
+        "EPS Estimate": -0.57,
+        "Reported EPS": 0.31,
+        "Surprise(%)": 154.12
+      },
+      {
+        "Earnings Date": "2025-11-04 16:00:00-05:00",
+        "EPS Estimate": 1.25,
+        "Reported EPS": -0.11,
+        "Surprise(%)": -108.5
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-07-17",
+    "sampled_atm_iv_pct": 55.859816406250005,
+    "total_call_oi": 23186,
+    "total_put_oi": 29506
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3089319,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 28663,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HICKSON MARK E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-02-17 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 101997,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KETCHUM JOHN W.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-02-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 15135,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DUNNE MICHAEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-02-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 30199,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BOLSTER BRIAN W.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-02-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7191,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GEOFFROY JESSICA",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2025-02-18 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 42.08792282582671,
+    "pct_above_200d_ma": 15.400156080207195,
+    "pct_of_100d_ma": 111.70040329523707,
+    "pct_change_1d": -0.9306231769651618,
+    "pct_change_5d": 5.972849194749363,
+    "pct_change_30d": 13.910509166545214
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "ticker": "TENX",
+  "fetched_at": "2026-05-27T13:31:42.722817",
+  "overview": {
+    "name": "Tenax Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Tenax Therapeutics, Inc., a development-stage pharmaceutical company, develops novel cardiopulmonary therapies in the United States. It develops TNX-101, TNX-102, and TNX-103 (levosimendan) that have completed phase II clinical trials for the treatment of patients with pulmonary hypertension in heart failure with preserved ejection fraction and associated pulmonary hypertension; and TNX-201 (imatinib), a tyrosine kinase inhibitor for the treatment of chronic myeloid leukemia. The company was formerly known as Oxygen Biotherapeutics, Inc. and changed its name to Tenax Therapeutics, Inc. in September 2014. Tenax Therapeutics, Inc. was founded in 1967 and is headquartered in Chapel Hill, North Carolina.",
+    "market_cap": 315118912,
+    "enterprise_value": 172065488,
+    "shares_outstanding": 26525159,
+    "float_shares": 10613977,
+    "short_ratio": 1.25,
+    "short_percent_of_float": 0.0287,
+    "held_by_insiders": 0.00121,
+    "held_by_institutions": 0.84397006,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": 0.0,
+    "operating_margins": 0.0,
+    "profit_margins": 0.0,
+    "free_cashflow": null,
+    "operating_cashflow": null,
+    "total_cash": 118755000,
+    "total_debt": 0,
+    "debt_to_equity": null,
+    "current_ratio": 14.515,
+    "trailing_pe": null,
+    "forward_pe": -8.425532,
+    "price_to_book": 5.1923075,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 18.38,
+    "fifty_two_week_low": 5.34,
+    "current_price": 11.88,
+    "analyst_target_mean": 29.71429,
+    "analyst_target_high": 36.0,
+    "analyst_target_low": 20.0,
+    "recommendation": "strong_buy",
+    "num_analysts": 7,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-05-12 08:00:00-04:00",
+        "EPS Estimate": -0.4,
+        "Reported EPS": -0.35,
+        "Surprise(%)": 11.77
+      },
+      {
+        "Earnings Date": "2026-03-10 07:00:00-04:00",
+        "EPS Estimate": -0.41,
+        "Reported EPS": -0.38,
+        "Surprise(%)": 8.43
+      },
+      {
+        "Earnings Date": "2025-11-12 16:00:00-05:00",
+        "EPS Estimate": -1.12,
+        "Reported EPS": -0.4,
+        "Surprise(%)": 64.41
+      },
+      {
+        "Earnings Date": "2025-08-13 16:00:00-04:00",
+        "EPS Estimate": -0.45,
+        "Reported EPS": -0.27,
+        "Surprise(%)": 39.66
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 279.1995207519531,
+    "total_call_oi": 1350,
+    "total_put_oi": 104
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 29373,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 10000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "STAAB THOMAS R II",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 50000,
+        "Value": 625500,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 12.51 per share.",
+        "Insider": "MCGAULEY THOMAS A",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 50792,
+        "URL": "",
+        "Text": "Purchase at price 10.10 - 10.22 per share.",
+        "Insider": "RICH STUART",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2025-12-09 00:00:00",
+        "Ownership": "D/I"
+      },
+      {
+        "Shares": 5000,
+        "Value": 45622,
+        "URL": "",
+        "Text": "Purchase at price 9.01 - 9.20 per share.",
+        "Insider": "RICH STUART",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2025-12-04 00:00:00",
+        "Ownership": "D/I"
+      },
+      {
+        "Shares": 2605,
+        "Value": 20000,
+        "URL": "",
+        "Text": "Purchase at price 7.51 - 7.75 per share.",
+        "Insider": "GIORDANO CHRISTOPHER THOMAS",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2025-11-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1993,
+        "Value": 14945,
+        "URL": "",
+        "Text": "Purchase at price 7.15 - 7.52 per share.",
+        "Insider": "ALMENOFF JUNE SHERIE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1993,
+        "Value": 14945,
+        "URL": "",
+        "Text": "Purchase at price 7.15 - 7.52 per share.",
+        "Insider": "ALMENOFF JUNE SHERIE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-18 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 8000,
+        "Value": 58164,
+        "URL": "",
+        "Text": "Purchase at price 7.23 - 7.35 per share.",
+        "Insider": "MCGAULEY THOMAS A",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2025-11-17 00:00:00",
+        "Ownership": "D/I"
+      },
+      {
+        "Shares": 1666,
+        "Value": 6781,
+        "URL": "",
+        "Text": "Purchase at price 4.07 per share.",
+        "Insider": "PROEHL GERALD T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-08-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2500,
+        "Value": 10175,
+        "URL": "",
+        "Text": "Purchase at price 4.07 per share.",
+        "Insider": "DAVIDSON MICHAEL H",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-08-08 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 25.758982262609422,
+    "pct_above_200d_ma": 11.842555708928693,
+    "pct_of_100d_ma": 88.37904901628251,
+    "pct_change_1d": -0.8347197964645559,
+    "pct_change_5d": 3.529409320327348,
+    "pct_change_30d": -19.621107381084457
+  }
+}

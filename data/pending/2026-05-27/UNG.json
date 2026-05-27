@@ -1,0 +1,133 @@
+{
+  "ticker": "UNG",
+  "fetched_at": "2026-05-27T13:32:27.323996",
+  "overview": {
+    "name": "United States Natural Gas Fund, LP",
+    "sector": null,
+    "industry": null,
+    "description": "The fund invests primarily in futures contracts for natural gas that are traded on the NYMEX, ICE Futures Europe and ICE Futures U.S. (together, \u201cICE Futures\u201d) or other U.S. and foreign exchanges. The Benchmark Futures Contract is the futures contract on natural gas as traded on the New York Mercantile Exchange that is the near month contract to expire, except when the near month contract is within two weeks of expiration.",
+    "market_cap": null,
+    "enterprise_value": null,
+    "shares_outstanding": 12084600,
+    "float_shares": null,
+    "short_ratio": null,
+    "short_percent_of_float": null,
+    "held_by_insiders": null,
+    "held_by_institutions": null,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": null,
+    "operating_margins": null,
+    "profit_margins": null,
+    "free_cashflow": null,
+    "operating_cashflow": null,
+    "total_cash": null,
+    "total_debt": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": 0.9166189,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 18.12,
+    "fifty_two_week_low": 9.95,
+    "current_price": 11.18,
+    "analyst_target_mean": null,
+    "analyst_target_high": null,
+    "analyst_target_low": null,
+    "recommendation": null,
+    "num_analysts": null,
+    "earnings_dates": [],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 12,
+    "nearest_expiry": "2026-05-27",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-07-17",
+    "sampled_atm_iv_pct": 61.71913281250001,
+    "total_call_oi": 109846,
+    "total_put_oi": 23847
+  },
+  "insider": {
+    "insider_purchases_summary": [],
+    "recent_transactions": []
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.98676289308843,
+    "pct_above_200d_ma": -10.36495181135938,
+    "pct_of_100d_ma": 94.85026121060197,
+    "pct_change_1d": 2.474797997616074,
+    "pct_change_5d": -6.050414591890696,
+    "pct_change_30d": 5.871210804190352
+  }
+}

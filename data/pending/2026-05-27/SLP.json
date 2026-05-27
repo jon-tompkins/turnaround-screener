@@ -1,0 +1,305 @@
+{
+  "ticker": "SLP",
+  "fetched_at": "2026-05-27T13:33:09.182557",
+  "overview": {
+    "name": "Simulations Plus, Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "description": "Simulations Plus, Inc. develops drug discovery and development software for modeling and simulation, and prediction of molecular properties utilizing artificial intelligence and machine learning based technology worldwide. It operates through Software and Services segments. The company offers GastroPlus, which predicts absorption, biopharmaceutics, pharmacokinetics, and pharmacodynamics in humans and animals; and DDDPlus and MembranePlus simulation products. It also provides products based on mechanistic and mathematical models, such as DILIsym, NAFLDsym, ILDsym, IPFsym, RENAsym, MITOsym, OBESITYsym, and Thales products. In addition, the company offers Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) predictor for chemistry-based computer program that takes molecular structures as inputs and predicts their properties; and MedChem Designer, as well as MonolixSuite products for modeling and simulation that allows for population analyses, rapid clinical trial data analyses, and regulatory submissions. Further, it provides clinical-pharmacology-based consulting services, which includes population pharmacokinetic and pharmacodynamic modeling, exposure-response analyses, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions; and early drug discovery services. Additionally, the company offers creative and insightful consulting services to support its quantitative systems pharmacology and other modeling systems. The company serves pharmaceutical, biotechnology, agrochemical, cosmetics, and food industry companies, as well as academic and regulatory agencies. Simulations Plus, Inc. was incorporated in 1996 and is headquartered in Research Triangle Park, North Carolina.",
+    "market_cap": 314195264,
+    "enterprise_value": 267411760,
+    "shares_outstanding": 20205482,
+    "float_shares": 16711348,
+    "short_ratio": 3.31,
+    "short_percent_of_float": 0.0913,
+    "held_by_insiders": 0.17292999,
+    "held_by_institutions": 0.82936996,
+    "revenue_ttm": 80535000,
+    "revenue_growth": 0.083,
+    "gross_margins": 0.61973,
+    "operating_margins": 0.23177,
+    "profit_margins": -0.77962,
+    "free_cashflow": 17182124,
+    "operating_cashflow": 24377000,
+    "total_cash": 41836000,
+    "total_debt": 508000,
+    "debt_to_equity": 0.38,
+    "current_ratio": 5.474,
+    "trailing_pe": null,
+    "forward_pe": 16.871548,
+    "price_to_book": 2.348588,
+    "ev_to_ebitda": 19.153,
+    "ev_to_revenue": 3.32,
+    "fifty_two_week_high": 32.65,
+    "fifty_two_week_low": 11.09,
+    "current_price": 15.55,
+    "analyst_target_mean": 23.66667,
+    "analyst_target_high": 31.0,
+    "analyst_target_low": 16.0,
+    "recommendation": "none",
+    "num_analysts": 3,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-15 16:00:00-04:00",
+        "EPS Estimate": 0.23,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-09 16:00:00-04:00",
+        "EPS Estimate": 0.31,
+        "Reported EPS": 0.35,
+        "Surprise(%)": 14.75
+      },
+      {
+        "Earnings Date": "2026-01-08 16:00:00-05:00",
+        "EPS Estimate": 0.2,
+        "Reported EPS": 0.13,
+        "Surprise(%)": -34.06
+      },
+      {
+        "Earnings Date": "2025-12-01 16:00:00-05:00",
+        "EPS Estimate": -0.02,
+        "Reported EPS": -0.03,
+        "Surprise(%)": -50.0
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 71.0940390625,
+    "total_call_oi": 124,
+    "total_put_oi": 145
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 44917.0,
+        "Trans": 12
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 18866.0,
+        "Trans": 5
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 26051.0,
+        "Trans": 17
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3494133.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.008,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.012999999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.005,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1000,
+        "Value": 16530,
+        "URL": "",
+        "Text": "Sale at price 16.53 per share.",
+        "Insider": "FIEDLER-KELLY JILL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1000,
+        "Value": 10050,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.05 per share.",
+        "Insider": "FIEDLER-KELLY JILL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 15000,
+        "Value": 226950,
+        "URL": "",
+        "Text": "Sale at price 15.13 per share.",
+        "Insider": "WOLTOSZ WALTER S",
+        "Position": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-05-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1000,
+        "Value": 14980,
+        "URL": "",
+        "Text": "Sale at price 14.98 per share.",
+        "Insider": "DIBELLA JOHN ANTHONY II",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2117,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PAGLIA JOHN KENNETH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2117,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "EVANS SHARLENE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2117,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WOLTOSZ WALTER S",
+        "Position": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2117,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WEINER DANIEL LEE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1000,
+        "Value": 13370,
+        "URL": "",
+        "Text": "Sale at price 13.37 per share.",
+        "Insider": "DIBELLA JOHN ANTHONY II",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10300,
+        "Value": 100013,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 9.71 per share.",
+        "Insider": "DIBELLA JOHN ANTHONY II",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-06 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.085159669350844,
+    "pct_above_200d_ma": 0.29831621575460154,
+    "pct_of_100d_ma": 106.8155916675176,
+    "pct_change_1d": 1.7670187335217413,
+    "pct_change_5d": 10.283686312311957,
+    "pct_change_30d": 16.305163229884513
+  }
+}

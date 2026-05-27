@@ -1,0 +1,305 @@
+{
+  "ticker": "IT",
+  "fetched_at": "2026-05-27T13:32:52.895078",
+  "overview": {
+    "name": "Gartner, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Gartner, Inc. provides business and technology insights for decisions and performance on an organization's mission-critical priorities in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Insights, Conferences, and Consulting. The Research segment delivers insights through subscription services, such as access to published content, data and benchmarks, and direct access to a network of business and technology experts. The Conferences segment offers executives and teams in an organization the opportunity to learn, share, and network through its Symposium/Xpo series and peer-driven sessions, as well as conferences focused on specific business roles and topics. The Consulting segment provides technology-driven strategic initiatives, including custom analysis and on-the-ground support to senior executives. This segment also offers actionable solutions for IT-related priorities, including IT cost optimization, digital transformation, and IT sourcing optimization. Gartner, Inc. was founded in 1979 and is headquartered in Stamford, Connecticut.",
+    "market_cap": 10710293504,
+    "enterprise_value": 12259262464,
+    "shares_outstanding": 66951889,
+    "float_shares": 60959025,
+    "short_ratio": 7.86,
+    "short_percent_of_float": 0.2042,
+    "held_by_insiders": 0.03533,
+    "held_by_institutions": 1.16425,
+    "revenue_ttm": 6474137088,
+    "revenue_growth": -0.015,
+    "gross_margins": 0.68987,
+    "operating_margins": 0.20499,
+    "profit_margins": 0.1144,
+    "free_cashflow": 1064192896,
+    "operating_cashflow": 1367891968,
+    "total_cash": 1666946048,
+    "total_debt": 3355174912,
+    "debt_to_equity": 5293.41,
+    "current_ratio": 0.939,
+    "trailing_pe": 15.807313,
+    "forward_pe": 10.430563,
+    "price_to_book": 171.2741,
+    "ev_to_ebitda": 9.169,
+    "ev_to_revenue": 1.894,
+    "fifty_two_week_high": 445.5,
+    "fifty_two_week_low": 139.18,
+    "current_price": 159.97,
+    "analyst_target_mean": 167.0,
+    "analyst_target_high": 203.0,
+    "analyst_target_low": 140.0,
+    "recommendation": "hold",
+    "num_analysts": 13,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-04 08:00:00-04:00",
+        "EPS Estimate": 3.74,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 2.92,
+        "Reported EPS": 3.32,
+        "Surprise(%)": 13.64
+      },
+      {
+        "Earnings Date": "2026-02-03 06:00:00-05:00",
+        "EPS Estimate": 3.2,
+        "Reported EPS": 3.36,
+        "Surprise(%)": 4.9
+      },
+      {
+        "Earnings Date": "2025-11-04 06:00:00-05:00",
+        "EPS Estimate": 2.43,
+        "Reported EPS": 2.76,
+        "Surprise(%)": 13.73
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 53.448951843261725,
+    "total_call_oi": 2664,
+    "total_put_oi": 755
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 115804.0,
+        "Trans": 29
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 587.0,
+        "Trans": 2
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 115217.0,
+        "Trans": 31
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 2365410.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.051,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.051,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.0,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1130,
+        "URL": "",
+        "Text": "",
+        "Insider": "KIM THOMAS SANG",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-04 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 1880,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "GRABE WILLIAM O",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-11 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 16729,
+        "URL": "",
+        "Text": "",
+        "Insider": "HALL EUGENE A.",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 797,
+        "URL": "",
+        "Text": "",
+        "Insider": "WARTINBEE WILLIAM JAMES III",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 447,
+        "URL": "",
+        "Text": "",
+        "Insider": "RINELLO JOHN J",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 337,
+        "URL": "",
+        "Text": "",
+        "Insider": "VAN HAM DICK",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 1868,
+        "URL": "",
+        "Text": "",
+        "Insider": "HERKES CLAIRE L",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 1868,
+        "URL": "",
+        "Text": "",
+        "Insider": "GENOVESE YVONNE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 1868,
+        "URL": "",
+        "Text": "",
+        "Insider": "JAIN AKHIL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 4824,
+        "URL": "",
+        "Text": "",
+        "Insider": "SAFIAN CRAIG W",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-09 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 44.16634969937456,
+    "pct_above_200d_ma": -22.874301328454038,
+    "pct_of_100d_ma": 93.19061991035348,
+    "pct_change_1d": 1.3363738162696537,
+    "pct_change_5d": 3.8017390901489145,
+    "pct_change_30d": 7.310525452907646
+  }
+}

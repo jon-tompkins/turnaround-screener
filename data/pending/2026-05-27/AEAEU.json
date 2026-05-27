@@ -1,0 +1,101 @@
+{
+  "ticker": "AEAEU",
+  "fetched_at": "2026-05-27T13:33:14.313163",
+  "overview": {
+    "name": "AltEnergy Acquisition Corp.",
+    "sector": "Financial Services",
+    "industry": "Shell Companies",
+    "description": "AltEnergy Acquisition Corp. does not have significant operations. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar transaction with one or more businesses. AltEnergy Acquisition Corp. was incorporated in 2021 and is based in New York, New York.",
+    "market_cap": null,
+    "enterprise_value": 30994746,
+    "shares_outstanding": null,
+    "float_shares": 495390,
+    "short_ratio": 0.0,
+    "short_percent_of_float": null,
+    "held_by_insiders": 0.0,
+    "held_by_institutions": 0.0,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": 0.0,
+    "operating_margins": 0.0,
+    "profit_margins": 0.0,
+    "free_cashflow": -620847,
+    "operating_cashflow": -1740886,
+    "total_cash": 240905,
+    "total_debt": 4175000,
+    "debt_to_equity": null,
+    "current_ratio": 0.039,
+    "trailing_pe": 2.476489,
+    "forward_pe": null,
+    "price_to_book": -0.03936861,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 10.82,
+    "fifty_two_week_low": 3.16,
+    "current_price": 3.16,
+    "analyst_target_mean": null,
+    "analyst_target_high": null,
+    "analyst_target_low": null,
+    "recommendation": "none",
+    "num_analysts": null,
+    "earnings_dates": [],
+    "news": []
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": []
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.10260405274057,
+    "pct_above_200d_ma": -29.64352619741596,
+    "pct_of_100d_ma": 100.0,
+    "pct_change_1d": 0.0,
+    "pct_change_5d": 0.0,
+    "pct_change_30d": 0.0
+  }
+}

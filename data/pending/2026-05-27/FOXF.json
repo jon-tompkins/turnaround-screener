@@ -1,0 +1,305 @@
+{
+  "ticker": "FOXF",
+  "fetched_at": "2026-05-27T13:31:52.066883",
+  "overview": {
+    "name": "Fox Factory Holding Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "description": "Fox Factory Holding Corp. designs, engineers, manufactures, and markets performance-defining products and systems in North America, Europe, Asia, and internationally. It operates through Powered Vehicles Group (PVG), Aftermarket Applications Group (AAG), and Specialty Sports Group (SSG) segments. The company offers powered vehicle products for off-road vehicles and trucks, side-by-sides, on-road vehicles with and without off-road capabilities, all-terrain vehicles, snowmobiles, specialty vehicles and applications, and motorcycles; aftermarket truck suspension components, including two-inch bolt-on shocks and position sensitive internal bypass shocks; and suspension systems, as well as motorcycle shocks, forks, cushioning, and hydraulic components. It also provides lift kits and components with shock products; aftermarket accessory packages for trucks; suspension tuning services; wheels, off-road tires, and accessories; superchargers, interior accessories, tires, lighting, and body enhancements; and mid-end and high-end front fork and rear suspension products. In addition, the company offers mountain and gravel bike wheels; cranks, chainrings, pedals, bars, stems, and seat posts; and baseball and softball products comprising metal and wood bats, apparel and accessories, batting and fielding gloves, and bags and protective equipment. Further, it provides aftermarket applications products; upfitting products; and mountain bikes, e-bikes, and gravel bikes. The company sells its products to OEMs through dealers, distributors, and direct-to-consumer channels under the FOX, Marzocchi, Race Face, Easton Cycling, Marucci, BDS Suspension, Zone Offroad, JKS Manufacturing, RT Pro UTV, 4x4 Posi-Lok, Ridetech, Fox Factory Vehicles, Black Widow, Rocky Ridge, Outside Van, Custom Wheel House, Method Race Wheels, Badlander, Black Ops, Harley-Davidson, and Shelby American brands. Fox Factory Holding Corp. was incorporated in 2007 and is based in Duluth, Georgia.",
+    "market_cap": 761560128,
+    "enterprise_value": 1434033792,
+    "shares_outstanding": 41936133,
+    "float_shares": 41585547,
+    "short_ratio": 8.81,
+    "short_percent_of_float": 0.13,
+    "held_by_insiders": 0.00986,
+    "held_by_institutions": 1.0355899,
+    "revenue_ttm": 1480947968,
+    "revenue_growth": 0.038,
+    "gross_margins": 0.29708,
+    "operating_margins": 0.016139999,
+    "profit_margins": -0.20249,
+    "free_cashflow": 47469376,
+    "operating_cashflow": 44177000,
+    "total_cash": 53911000,
+    "total_debt": 787393024,
+    "debt_to_equity": 119.564,
+    "current_ratio": 2.987,
+    "trailing_pe": null,
+    "forward_pe": 10.347578,
+    "price_to_book": 1.1560252,
+    "ev_to_ebitda": 9.737,
+    "ev_to_revenue": 0.968,
+    "fifty_two_week_high": 31.18,
+    "fifty_two_week_low": 13.08,
+    "current_price": 18.16,
+    "analyst_target_mean": 22.33333,
+    "analyst_target_high": 26.0,
+    "analyst_target_low": 20.0,
+    "recommendation": "buy",
+    "num_analysts": 6,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 16:00:00-04:00",
+        "EPS Estimate": 0.19,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-07 16:00:00-04:00",
+        "EPS Estimate": 0.08,
+        "Reported EPS": 0.18,
+        "Surprise(%)": 119.51
+      },
+      {
+        "Earnings Date": "2026-02-26 16:00:00-05:00",
+        "EPS Estimate": 0.15,
+        "Reported EPS": 0.2,
+        "Surprise(%)": 33.33
+      },
+      {
+        "Earnings Date": "2025-11-06 16:00:00-05:00",
+        "EPS Estimate": 0.55,
+        "Reported EPS": 0.23,
+        "Surprise(%)": -57.85
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 62.06092626953126,
+    "total_call_oi": 34,
+    "total_put_oi": 60
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 413490,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 8989,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DUNCAN THOMAS ELLIS",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9832,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HLAY JEAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8989,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "JOHNSON SIDNEY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8989,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRIMM DOUGLAS J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8989,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FETTER ELIZABETH A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8989,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BAZAAR ALAN LEE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1136,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRIMM DOUGLAS J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 36012,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SCHEMM DENNIS CHARLES",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 149585,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DENNISON MICHAEL C",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 23546,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MERCHANT TOBY D",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 32.374558151947525,
+    "pct_above_200d_ma": -9.287958557363607,
+    "pct_of_100d_ma": 102.40655605839224,
+    "pct_change_1d": 8.318380449755347,
+    "pct_change_5d": 12.70237225009545,
+    "pct_change_30d": 2.840909029334049
+  }
+}

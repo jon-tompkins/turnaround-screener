@@ -1,0 +1,305 @@
+{
+  "ticker": "NSP",
+  "fetched_at": "2026-05-27T13:32:37.010308",
+  "overview": {
+    "name": "Insperity, Inc.",
+    "sector": "Industrials",
+    "industry": "Staffing & Employment Services",
+    "description": "Insperity, Inc. engages in the provision of human resources (HR) and business solutions to improve business performance for small and medium-sized businesses primarily in the United States. It offers Insperity HR360 solution, a full-service PEO solution delivering HR technology, compliance, and strategic support for small and midsize businesses; Insperity HRCore, a streamlined HR platform for payroll, compliance, and workforce management; and Insperity HRScale, a scalable HR solution combining Insperity expertise with Workday technology for businesses. The company also provides performance solutions, including talent acquisition, retirement, and insurance services; contractor management; and Perks+ services. In addition, it offers human capital management and payroll services solution; integrated payroll; benefits administration; HR administration and employee onboarding; time and attendance; and performance management services. The company was formerly known as Administaff, Inc. and changed its name to Insperity, Inc. in March 2011. Insperity, Inc. was founded in 1986 and is headquartered in Kingwood, Texas.",
+    "market_cap": 1257674624,
+    "enterprise_value": 1084199680,
+    "shares_outstanding": 38169182,
+    "float_shares": 35956896,
+    "short_ratio": 5.05,
+    "short_percent_of_float": 0.1449,
+    "held_by_insiders": 0.06249,
+    "held_by_institutions": 1.1049,
+    "revenue_ttm": 6844000256,
+    "revenue_growth": 0.017,
+    "gross_margins": 0.13033,
+    "operating_margins": 0.03272,
+    "profit_margins": -0.00365,
+    "free_cashflow": 85000000,
+    "operating_cashflow": 98000000,
+    "total_cash": 555000000,
+    "total_debt": 430000000,
+    "debt_to_equity": 641.791,
+    "current_ratio": 1.089,
+    "trailing_pe": null,
+    "forward_pe": 11.786041,
+    "price_to_book": 18.77493,
+    "ev_to_ebitda": 72.28,
+    "ev_to_revenue": 0.158,
+    "fifty_two_week_high": 65.74,
+    "fifty_two_week_low": 18.57,
+    "current_price": 32.95,
+    "analyst_target_mean": 39.5,
+    "analyst_target_high": 54.0,
+    "analyst_target_low": 33.0,
+    "recommendation": "none",
+    "num_analysts": 4,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-30 16:00:00-04:00",
+        "EPS Estimate": 0.37,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-30 16:00:00-04:00",
+        "EPS Estimate": 1.23,
+        "Reported EPS": 1.31,
+        "Surprise(%)": 6.17
+      },
+      {
+        "Earnings Date": "2026-02-10 16:00:00-05:00",
+        "EPS Estimate": -0.47,
+        "Reported EPS": -0.6,
+        "Surprise(%)": -28.89
+      },
+      {
+        "Earnings Date": "2025-11-03 16:00:00-05:00",
+        "EPS Estimate": 0.22,
+        "Reported EPS": -0.2,
+        "Surprise(%)": -190.09
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-07-17",
+    "sampled_atm_iv_pct": 52.93015820312501,
+    "total_call_oi": 625,
+    "total_put_oi": 177
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 2385192,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WILMINGTON PHILIP WRAY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "JONES ELI",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MEHL RANDALL A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LUMELLEAU JOHN L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAMCHAND LATHA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAWSON RICHARD GLEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KAUFMAN CAROL R",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CLIFFORD TIMOTHY T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORPHY JOHN M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6201,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MASTERSON ELLEN H.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 42.14972648187098,
+    "pct_above_200d_ma": -10.561166156500024,
+    "pct_of_100d_ma": 105.94344249408888,
+    "pct_change_1d": 3.9141346332845384,
+    "pct_change_5d": 4.640810956645103,
+    "pct_change_30d": 19.31858639680899
+  }
+}

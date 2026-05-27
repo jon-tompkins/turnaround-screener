@@ -100,12 +100,11 @@ def main():
     analyses = load_analyses(args.date)
     print(f"  Loaded {len(analyses)} analyses")
 
-    if not analyses:
-        print("  Nothing to merge.")
-        return
-
-    updated = merge_into_watchlist(analyses)
-    print(f"  Updated {updated} watchlist rows")
+    if analyses:
+        updated = merge_into_watchlist(analyses)
+        print(f"  Updated {updated} watchlist rows")
+    else:
+        print("  No analyses to merge — will rebuild report with placeholders.")
 
     print("Rebuilding report...")
     rebuild_report_for_date(args.date, analyses)

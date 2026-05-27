@@ -89,12 +89,12 @@ def build_markdown_report(new_tickers: list[dict], dropped_tickers: list[str],
             perf = tracker.performance_since_added(c["ticker"])
             table_data.append([
                 c["ticker"],
-                c.get("sector", "-")[:15] if c.get("sector") else "-",
+                (c.get("sector") or "-")[:15],
                 c.get("conviction_score") or "-",
-                f"${perf.get('current_price', c.get('first_seen_price', 0)):.2f}",
+                f"${perf.get('current_price') or c.get('first_seen_price') or 0:.2f}",
                 _format_pct(perf.get("pct_change")),
                 perf.get("days_held", 0),
-                c.get("suggested_trade", "")[:40],
+                (c.get("suggested_trade") or "")[:40],
             ])
         lines += [tabulate(
             table_data,

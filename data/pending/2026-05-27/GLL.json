@@ -1,0 +1,79 @@
+{
+  "ticker": "GLL",
+  "fetched_at": "2026-05-27T13:31:47.399397",
+  "overview": {
+    "name": "ProShares UltraShort Gold",
+    "sector": null,
+    "industry": null,
+    "description": "The fund seeks to meet its investment objective by investing under normal market conditions in any one of, or combinations of, Financial Instruments (including swap agreements, futures contracts and forward contracts) based on the fund\u2019s benchmark.",
+    "market_cap": null,
+    "enterprise_value": null,
+    "shares_outstanding": null,
+    "float_shares": null,
+    "short_ratio": null,
+    "short_percent_of_float": null,
+    "held_by_insiders": null,
+    "held_by_institutions": null,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": null,
+    "operating_margins": null,
+    "profit_margins": null,
+    "free_cashflow": null,
+    "operating_cashflow": null,
+    "total_cash": null,
+    "total_debt": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 45.98,
+    "fifty_two_week_low": 15.6,
+    "current_price": 22.29,
+    "analyst_target_mean": null,
+    "analyst_target_high": null,
+    "analyst_target_low": null,
+    "recommendation": null,
+    "num_analysts": null,
+    "earnings_dates": [],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-07-17",
+    "sampled_atm_iv_pct": 58.10588769531251,
+    "total_call_oi": 29841,
+    "total_put_oi": 3759
+  },
+  "insider": {
+    "insider_purchases_summary": [],
+    "recent_transactions": []
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 27.812282632427742,
+    "pct_above_200d_ma": -14.829875836688267,
+    "pct_of_100d_ma": 111.59787184297107,
+    "pct_change_1d": 2.5770887486792127,
+    "pct_change_5d": 1.6879600271240358,
+    "pct_change_30d": 18.500805679903888
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "ticker": "WPP",
+  "fetched_at": "2026-05-27T13:33:18.899620",
+  "overview": {
+    "name": "WPP plc",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies",
+    "description": "WPP plc, a creative transformation company, provides communications, experience, commerce, and technology services in North America, the United Kingdom, Western Continental Europe, the Asia Pacific, Latin America, Africa, the Middle East, and Central and Eastern Europe. The company operates through three segments: Global Integrated Agencies, Public Relations, and Specialist Agencies. It offers marketing strategy, creative ideation, production, commerce, influencer marketing, social media management, and technology implementation services; media strategy, planning, buying and activation, commerce media, data analytics, and consulting services; and media management, public affairs, reputation, risk and crisis management, social media management, and strategic advisory services. The company also provides brand consulting, brand identity, product and service design, and corporate and brand publication services. WPP plc was founded in 1985 and is based in London, the United Kingdom.",
+    "market_cap": 4025053696,
+    "enterprise_value": 24365844480,
+    "shares_outstanding": 215704907,
+    "float_shares": 1077985271,
+    "short_ratio": 5.64,
+    "short_percent_of_float": 0.0164,
+    "held_by_insiders": 0.0,
+    "held_by_institutions": 0.16032,
+    "revenue_ttm": 13550000128,
+    "revenue_growth": -0.083,
+    "gross_margins": 0.15838,
+    "operating_margins": 0.02207,
+    "profit_margins": -0.01587,
+    "free_cashflow": -63250000,
+    "operating_cashflow": 724000000,
+    "total_cash": 2694000128,
+    "total_debt": 6832000000,
+    "debt_to_equity": 246.465,
+    "current_ratio": 0.888,
+    "trailing_pe": null,
+    "forward_pe": 5.618519,
+    "price_to_book": 5.983257,
+    "ev_to_ebitda": 43.666,
+    "ev_to_revenue": 1.798,
+    "fifty_two_week_high": 40.66,
+    "fifty_two_week_low": 14.81,
+    "current_price": 18.66,
+    "analyst_target_mean": 18.53,
+    "analyst_target_high": 20.79,
+    "analyst_target_low": 16.5,
+    "recommendation": "none",
+    "num_analysts": 3,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-07 08:00:00-04:00",
+        "EPS Estimate": NaN,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2009-05-11 20:00:00-04:00",
+        "EPS Estimate": 2.24,
+        "Reported EPS": 0.15,
+        "Surprise(%)": -93.19
+      },
+      {
+        "Earnings Date": "2006-02-24 07:00:00-05:00",
+        "EPS Estimate": 1.76,
+        "Reported EPS": 1.89,
+        "Surprise(%)": 7.39
+      },
+      {
+        "Earnings Date": "2005-08-26 06:00:00-04:00",
+        "EPS Estimate": 1.26,
+        "Reported EPS": 1.29,
+        "Surprise(%)": 2.38
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 53.076641113281255,
+    "total_call_oi": 2330,
+    "total_put_oi": 172
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": []
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.95132752407068,
+    "pct_above_200d_ma": -9.457260267714386,
+    "pct_of_100d_ma": 101.4863997671949,
+    "pct_change_1d": 0.6472433978375047,
+    "pct_change_5d": 1.6339827183415423,
+    "pct_change_30d": 7.3647914180281715
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "ticker": "PALI",
+  "fetched_at": "2026-05-27T13:31:32.614258",
+  "overview": {
+    "name": "Palisade Bio, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Palisade Bio, Inc., a clinical-stage biopharmaceutical company, engages in developing oral phosphodiesterase-4 inhibitor prodrugs designed for targeted delivery to the terminal ileum and colon in the United States. Its lead clinical product candidate includes PALI-2108, which is in phase 1b clinical trial to treat patients with inflammatory bowel disease, including ulcerative colitis and Fibrostenotic Crohn's disease. The company has a research collaboration and license agreement with Giiant Pharma, Inc. for the development, manufacture, and commercialization of its compounds; license agreement with the Regents of the University of California for sole purpose of maintaining the Newsoara Co-Development; and a co-development and distribution agreement with Newsoara Biopharma Co., Ltd. The company was founded in 2001 and is headquartered in Denver, Colorado.",
+    "market_cap": 359723904,
+    "enterprise_value": 212797536,
+    "shares_outstanding": 173579670,
+    "float_shares": 128362166,
+    "short_ratio": 5.17,
+    "short_percent_of_float": 0.15619999,
+    "held_by_insiders": 0.00032000002,
+    "held_by_institutions": 0.88069,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": 0.0,
+    "operating_margins": 0.0,
+    "profit_margins": 0.0,
+    "free_cashflow": -9602000,
+    "operating_cashflow": -12404000,
+    "total_cash": 132628000,
+    "total_debt": 0,
+    "debt_to_equity": null,
+    "current_ratio": 23.709,
+    "trailing_pe": 17.25,
+    "forward_pe": -8.808511,
+    "price_to_book": 2.7201052,
+    "ev_to_ebitda": -8.033,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 2.86,
+    "fifty_two_week_low": 0.53,
+    "current_price": 2.07,
+    "analyst_target_mean": 9.71429,
+    "analyst_target_high": 25.0,
+    "analyst_target_low": 5.0,
+    "recommendation": "strong_buy",
+    "num_analysts": 7,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2025-11-10 16:00:00-05:00",
+        "EPS Estimate": -0.27,
+        "Reported EPS": -0.38,
+        "Surprise(%)": -39.03
+      },
+      {
+        "Earnings Date": "2025-08-11 16:00:00-04:00",
+        "EPS Estimate": -0.56,
+        "Reported EPS": -0.58,
+        "Surprise(%)": -3.57
+      },
+      {
+        "Earnings Date": "2025-05-12 16:00:00-04:00",
+        "EPS Estimate": -0.81,
+        "Reported EPS": -0.47,
+        "Surprise(%)": 41.98
+      },
+      {
+        "Earnings Date": "2025-03-24 16:00:00-04:00",
+        "EPS Estimate": -1.99,
+        "Reported EPS": -0.69,
+        "Surprise(%)": 65.27
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 31333.0,
+        "Trans": 4
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 5885.0,
+        "Trans": 2
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 25448.0,
+        "Trans": 6
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 55545.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.85400003,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 1.051,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.19700001,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 3896,
+        "Value": 6818.0,
+        "URL": "",
+        "Text": "Sale at price 1.75 per share.",
+        "Insider": "FINLEY JOHN DAVID",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1989,
+        "Value": 3481.0,
+        "URL": "",
+        "Text": "Sale at price 1.75 per share.",
+        "Insider": "JONES MITCHELL LAWRENCE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 13333,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "FINLEY JOHN DAVID",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8000,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "JONES MITCHELL LAWRENCE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 8356.0,
+        "URL": "",
+        "Text": "Purchase at price 1.67 per share.",
+        "Insider": "WILLIAMS DONALD ALLEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 9400.0,
+        "URL": "",
+        "Text": "Purchase at price 1.88 per share.",
+        "Insider": "WILLIAMS DONALD ALLEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 388,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "WILLIAMS DONALD ALLEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-11-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 388,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "WEI BINXIAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-11-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 340,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "WILLIAMS DONALD ALLEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-06-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 465,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "WEI BINXIAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2024-06-11 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 11.655470648501948,
+    "pct_above_200d_ma": 22.586754643659134,
+    "pct_of_100d_ma": 109.04493167436628,
+    "pct_change_1d": 4.0200966493803225,
+    "pct_change_5d": 14.364640811202767,
+    "pct_change_30d": 0.48543644373910677
+  }
+}

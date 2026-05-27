@@ -1,0 +1,305 @@
+{
+  "ticker": "DNA",
+  "fetched_at": "2026-05-27T13:31:37.165527",
+  "overview": {
+    "name": "Ginkgo Bioworks Holdings, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Ginkgo Bioworks Holdings, Inc., together with its subsidiaries, develops a platform for cell engineering in the United States. It operates through the Cell Engineering and Biosecurity segments. The company offers cell engineering research and development solutions, as well as cell engineering tools comprising functional genomics, antibody developability, and small molecule developability, artificial intelligence models, and reconfigurable automation cart systems on its platform for use in the research, development, and commercialization of engineered organisms and derived products. It also provides biomonitoring and bioinformatics support services through Canopy, which generates genomic data from strategically positioned nodes through biomonitoring programs; and Horizon, a digital surveillance, analytics, and insights platform that detects and monitors biothreats. In addition, the company offers genetic medicine R&D, protein engineering, bioprocess development, crop nutrition and protection solutions, and plant trait optimization. The company serves pharmaceutical and biotechnology, agriculture, industrial and environment, food and nutrition, consumer and technology, and government and defense industries. Ginkgo Bioworks Holdings, Inc. was founded in 2008 and is headquartered in Boston, Massachusetts.",
+    "market_cap": 568976320,
+    "enterprise_value": 604913856,
+    "shares_outstanding": 53361141,
+    "float_shares": 47851496,
+    "short_ratio": 4.73,
+    "short_percent_of_float": 0.1014,
+    "held_by_insiders": 0.04598,
+    "held_by_institutions": 0.68662,
+    "revenue_ttm": 151399008,
+    "revenue_growth": -0.491,
+    "gross_margins": 0.69629997,
+    "operating_margins": -3.66509,
+    "profit_margins": -2.01054,
+    "free_cashflow": -77930000,
+    "operating_cashflow": -166224000,
+    "total_cash": 373456000,
+    "total_debt": 410700000,
+    "debt_to_equity": 92.677,
+    "current_ratio": 5.151,
+    "trailing_pe": null,
+    "forward_pe": -2.7133956,
+    "price_to_book": 1.2119105,
+    "ev_to_ebitda": -2.304,
+    "ev_to_revenue": 3.995,
+    "fifty_two_week_high": 17.58,
+    "fifty_two_week_low": 5.37,
+    "current_price": 8.71,
+    "analyst_target_mean": 8.5,
+    "analyst_target_high": 12.0,
+    "analyst_target_low": 5.0,
+    "recommendation": "none",
+    "num_analysts": 2,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 16:00:00-04:00",
+        "EPS Estimate": -1.32,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-07 16:00:00-04:00",
+        "EPS Estimate": -1.34,
+        "Reported EPS": -1.39,
+        "Surprise(%)": -3.73
+      },
+      {
+        "Earnings Date": "2026-02-26 16:00:00-05:00",
+        "EPS Estimate": -1.11,
+        "Reported EPS": -0.77,
+        "Surprise(%)": 30.5
+      },
+      {
+        "Earnings Date": "2025-11-06 16:00:00-05:00",
+        "EPS Estimate": -1.24,
+        "Reported EPS": -1.45,
+        "Surprise(%)": -16.94
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 104.29735351562503,
+    "total_call_oi": 1063,
+    "total_put_oi": 582
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 1120606.0,
+        "Trans": 11
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 544996.0,
+        "Trans": 11
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 575610.0,
+        "Trans": 22
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3003620.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.237,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.461,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.22399999,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 307,
+        "Value": 2559.0,
+        "URL": "",
+        "Text": "Sale at price 8.33 per share.",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-22 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 743,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 324,
+        "Value": 2576.0,
+        "URL": "",
+        "Text": "Sale at price 7.95 per share.",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-17 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 743,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 33171,
+        "Value": 212759.0,
+        "URL": "",
+        "Text": "Sale at price 6.41 per share.",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 73921,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "COEN STEVEN P.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 124727,
+        "Value": 802494.0,
+        "URL": "",
+        "Text": "Sale at price 6.43 per share.",
+        "Insider": "CANTON BARTHOLOMEW",
+        "Position": "Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-04-10 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 124727,
+        "Value": 802494.0,
+        "URL": "",
+        "Text": "Sale at price 6.43 per share.",
+        "Insider": "SHETTY RESHMA PADMINI",
+        "Position": "President",
+        "Transaction": "",
+        "Start Date": "2026-04-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 251786,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SHETTY RESHMA PADMINI",
+        "Position": "President",
+        "Transaction": "",
+        "Start Date": "2026-04-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 251786,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CANTON BARTHOLOMEW",
+        "Position": "Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-04-09 00:00:00",
+        "Ownership": "I"
+      }
+    ]
+  },
+  "fmp_fundamentals": {
+    "income_statement_quarters": [],
+    "cash_flow_quarters": [],
+    "key_metrics_ttm": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 23.06536547507249,
+    "pct_above_200d_ma": -8.861704266051774,
+    "pct_of_100d_ma": 107.45613692000724,
+    "pct_change_1d": 1.4959737712114451,
+    "pct_change_5d": 19.836950201421576,
+    "pct_change_30d": 14.248703815123553
+  }
+}
