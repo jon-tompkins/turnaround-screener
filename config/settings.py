@@ -66,8 +66,9 @@ MIN_HISTORY_DAYS = 1000         # need ~4 years for 200w MA
 LOOKBACK_YEARS = 5
 
 # Universe / yfinance batching
-BATCH_SIZE = 100                # tickers per yfinance call
+BATCH_SIZE = 50                 # tickers per yfinance call (smaller = less memory pressure)
 BATCH_SLEEP_SECONDS = 1.5       # rate limit cushion
+YFINANCE_THREADS = False        # threads=True can cause SIGBUS crashes on macOS at scale
 
 # ============================================================================
 # PIPELINE BEHAVIOR

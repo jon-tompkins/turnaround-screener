@@ -54,7 +54,7 @@ def update_watchlist_prices() -> int:
             period="5y",
             interval="1d",
             group_by="ticker",
-            threads=True,
+            threads=settings.YFINANCE_THREADS,
             progress=False,
             auto_adjust=True,
         )
