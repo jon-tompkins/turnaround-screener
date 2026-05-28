@@ -220,6 +220,8 @@ def fetch_metadata(ticker: str) -> dict:
             "market_cap": info.get("marketCap"),
             "sector": info.get("sector"),
             "industry": info.get("industry"),
+            "quote_type": info.get("quoteType"),  # EQUITY, ETF, MUTUALFUND, INDEX, CURRENCY...
+            "long_name": info.get("longName") or info.get("shortName"),
             "avg_volume": info.get("averageVolume"),
             "shares_outstanding": info.get("sharesOutstanding"),
             # Check options availability — fastest signal is whether options chain has entries
@@ -230,10 +232,62 @@ def fetch_metadata(ticker: str) -> dict:
             "market_cap": None,
             "sector": None,
             "industry": None,
+            "quote_type": None,
+            "long_name": None,
             "avg_volume": None,
             "shares_outstanding": None,
             "has_options": False,
         }
+
+
+# Substrings that indicate a non-operating-equity instrument we should skip.
+# These appear in `longName` / `shortName` for SPACs, units, warrants, etc.
+NAME_BLACKLIST_SUBSTRINGS = (
+    "acquisition corp",
+    "acquisition holdings",
+    "spac",
+    "blank check",
+    " trust ",
+    "fund, lp",
+    "fund lp",
+    " etf",
+    "proshares",
+    "ultrashort",
+    "ultrapro",
+    "ultra short",
+    "leveraged",
+)
+
+
+def is_non_operating_instrument(c: dict) -> tuple[bool, str]:
+    """Detect ETFs, SPACs, funds, shell companies — things that shouldn't be
+    treated as turnaround equity candidates even if their price action looks
+    like one. Returns (skip, reason).
+    """
+    ticker = c.get("ticker", "")
+    qt = c.get("quote_type")
+    if qt and qt != "EQUITY":
+        return True, f"quote_type={qt}"
+
+    industry = (c.get("industry") or "").lower()
+    sector = (c.get("sector") or "").lower()
+    if "shell companies" in industry:
+        return True, "industry=Shell Companies"
+    if sector == "financial services" and industry in ("asset management", "asset management - bonds", "asset management - global"):
+        return True, "fund/ETF (sector/industry)"
+
+    name = (c.get("long_name") or "").lower()
+    for needle in NAME_BLACKLIST_SUBSTRINGS:
+        if needle in name:
+            return True, f"name contains '{needle.strip()}'"
+
+    # 5-character tickers ending U/W/R are almost always units/warrants/rights
+    # on a base 4-letter symbol. Real common stocks are 1-4 chars, with a few
+    # 5-char Class shares (BRK-B etc., already dot-replaced in load_universe).
+    if len(ticker) == 5 and ticker[-1] in ("U", "W", "R") and ticker[:4].isalpha():
+        return True, f"ticker suffix '{ticker[-1]}' (unit/warrant/right)"
+
+    return False, ""
 
 
 def run_screener(universe: Optional[list[str]] = None,
@@ -283,9 +337,18 @@ def run_screener(universe: Optional[list[str]] = None,
 
     # Phase 3: enrich with metadata (slower per-ticker calls) + apply liquidity/cap filters
     final = []
+    n_skip_nonequity = 0
     for c in candidates:
         meta = fetch_metadata(c["ticker"])
         c.update(meta)
+
+        # Non-operating-equity filter (ETFs, SPACs, funds, units/warrants/rights)
+        skip, reason = is_non_operating_instrument(c)
+        if skip:
+            if verbose:
+                print(f"    skip {c['ticker']}: {reason}")
+            n_skip_nonequity += 1
+            continue
 
         # Market cap filter
         if meta["market_cap"] and meta["market_cap"] < settings.MIN_MARKET_CAP:
@@ -300,7 +363,8 @@ def run_screener(universe: Optional[list[str]] = None,
         final.append(c)
 
     if verbose:
-        print(f"  {len(final)} candidates passed all filters.")
+        print(f"  {len(final)} candidates passed all filters "
+              f"({n_skip_nonequity} skipped as non-operating).")
 
     # Sort by most beat-down first (lowest % of 200w MA)
     final.sort(key=lambda x: x["pct_of_200w_ma"])

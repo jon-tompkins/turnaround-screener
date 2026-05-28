@@ -22,7 +22,7 @@
         <string>America/Los_Angeles</string>
         <!-- Add PATH so git/gh resolve; adjust if your install is elsewhere -->
         <key>PATH</key>
-        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <string>/Users/jonathantompkins/.npm-global/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
     </dict>
 
     <key>WorkingDirectory</key>
