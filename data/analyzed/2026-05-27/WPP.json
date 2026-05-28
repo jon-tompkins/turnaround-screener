@@ -1,0 +1,30 @@
+{
+  "ticker": "WPP",
+  "company_name": "WPP plc",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "turnaround_reason": "World's-largest advertising holding company (NYSE ADR) down 54% from $40.66 to $18.66 on a brutal Q1 2026: top 25 clients revenue -9.4%, lost Mars and Coca-Cola North America media accounts to Publicis (the worst possible competitive outcome). Management responded with 'Elevate28' — targeting £500M annual cost savings by 2028 at £400M restructuring cost — plus £250M/year invested in WPP Open AI platform. Guidance: return to organic growth in 2027, rebuild margins, reduce leverage. This is a multi-year fix.",
+  "bullish_points": [
+    "Forward P/E 5.6 — pricing in significant further deterioration; if Elevate28 hits even half its target, multiple expands sharply",
+    "Trades at >10% FCF yield by some analyst measures (though TTM FCF was negative, that was restructuring-charge-driven)",
+    "AI platform spend (£250M/yr) is real and competitive — not just talk; if WPP Open works it positions for the AI-marketing transition",
+    "Analyst target mean $18.53 ≈ at current price; high $20.79 = 11% upside; sell-side has capitulated which often marks a bottom",
+    "Largest holdco scale advantage in agency consolidation; if industry pricing inflects, WPP captures most"
+  ],
+  "bearish_points": [
+    "Mars + Coca-Cola NA losses are catastrophic — Publicis is winning the AI-creative narrative and pricing advantage",
+    "Revenue -8.3% TTM and accelerating; top-25-client revenue -9.4% in Q1 means hemorrhaging the highest-margin work",
+    "Net loss in 2025; 2026 guidance was already pulled to organic-growth-2027 — that's 18 months of negative-growth runway",
+    "Debt $6.8B vs $2.7B cash; D/E 246% — restructuring while levered is a tight maneuver",
+    "AI displacement of agency work is the secular bear thesis (same as Gartner); Elevate28 may save costs but doesn't address client migration to in-house AI marketing"
+  ],
+  "catalyst": "H1 2026 results August 7 (UK companies report H1 not Q2) — confirmation Elevate28 cost savings are tracking; client retention metrics on remaining top-25 accounts",
+  "catalyst_timing": "August 7, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass or very small spot position. The valuation is right but the competitive picture is worsening — Publicis is winning the relevant battles. Better entries likely later if more bad news hits. The 'Elevate28' target year is 2028 — that's a 2-year wait for proof points.",
+  "key_risk": "Another top-10 account loss to Publicis or Omnicom in H2 2026; or AI marketing platforms (Meta, Google, OpenAI) compress agency value-add further.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "H1 results show further top-25-client revenue declines; new account loss announced; Elevate28 cost target reduced; WPP Open platform shows no measurable client adoption"
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "AVTR",
+  "company_name": "Avantor, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "turnaround_reason": "Life-sciences-tools name down ~50% from highs on biopharma capex slowdown and academic-research customer destocking (same cycle that hit Thermo Fisher and Sartorius). Management launched 'Revival' program — restructure go-to-market, relaunch VWR brand, new Chief Transformation Officer (Brellier) joined May 2026. Q1 2026 showed EBITDA stabilization ($219M on $1.58B revenue) with management calling 'positive impact' from Revival.",
+  "bullish_points": [
+    "Largest cap in this batch ($5.7B) and most operationally stable — real underlying business with $489M FCF",
+    "Director Lucier (Greg) bought $83K at $8.32 in May 2026 — small but meaningful as an insider sentiment indicator",
+    "Operational turnaround playbook is clear and underway (Revival program); CTO appointed specifically to drive it",
+    "Analyst median target $12 vs $8.40 price = 43% upside; sell-side coverage of 14 analysts means it's well-followed if narrative turns",
+    "Biopharma capex cycle should turn from headwind to tailwind in late 2026/2027 — Avantor is a high-beta way to play that"
+  ],
+  "bearish_points": [
+    "Revenue 0% growth TTM — the cycle hasn't turned yet, and we're at peak-pessimism but not peak-evidence",
+    "Debt $3.8B (68% D/E) constrains how aggressive management can be on restructuring without straining the balance sheet",
+    "9.6x EV/EBITDA is not deep value — name is reasonably valued, not screaming cheap; you're paying for the recovery",
+    "Forward P/E 9.9 looks cheap but assumes margin recovery to historical norm that hasn't been demonstrated",
+    "Profit margin -8.4% (impairment charges) — operating reality is uglier than EBITDA"
+  ],
+  "catalyst": "Q2 2026 earnings July 31 — Revival program traction; biopharma customer commentary; potential FY26 guidance update",
+  "catalyst_timing": "July 31, 2026 (~2 months)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot position or Jan 2027 $9/$12 call spread (defined risk into the biopharma cycle inflection). Options chain is liquid enough (2053 call OI, 7 expiries). This is the highest-quality name in today's batch — boring but defensible.",
+  "key_risk": "Biopharma capex cycle stays muted into 2027; Revival program is a slow-burn 18-month effort, not a sharp inflection; without growth acceleration the leverage limits valuation expansion.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 EBITDA misses; revenue declines sequentially; biopharma customers signal another year of destocking; CTO departs prematurely"
+}

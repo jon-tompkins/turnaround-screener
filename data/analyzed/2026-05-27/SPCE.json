@@ -1,0 +1,30 @@
+{
+  "ticker": "SPCE",
+  "company_name": "Virgin Galactic Holdings, Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "turnaround_reason": "Space tourism name down 95%+ from $50 SPAC peak to $3.79. Operations effectively paused since mid-2024 to develop next-gen 'Delta-class' spacecraft, which is now in test-and-launch hangar with aerial testing planned Q3 2026 and commercial Q4 2026. Ticket sales reopened at $750K each (50 flight backlog). Q1 2026: narrowed loss vs prior periods, EPS beat by 14%, opex cut 26%. Jefferies reaffirmed Buy with $5 target.",
+  "bullish_points": [
+    "Hard near-term catalyst: Q3 2026 Delta aerial testing → Q4 2026 commercial launch — defined binary event",
+    "Ticket sales at $750K/seat reopened with 50-flight backlog = real revenue visibility into 2027+",
+    "Operating expense cut 26% in Q1 = management is responding to burn appropriately",
+    "23% short interest creates squeeze setup if Q3 test flights succeed",
+    "Cash $220M, FCF burn -$93M/qtr means ~6 quarters of runway = enough to reach commercial flight"
+  ],
+  "bearish_points": [
+    "Revenue $1.3M TTM (-51% YoY) — there is effectively no business right now, this is a pre-revenue bet",
+    "FCF -$304M TTM — burn rate is severe; if Delta launch slips to 2027, dilutive capital raise is required",
+    "Analyst target mean $3.55 is BELOW current price ($3.79); only Jefferies sees upside at $5",
+    "Track record of program slippage — original commercial target was 2021, then 2022, then 2024 — Delta could slip again",
+    "Even at commercial flight, the unit economics on 4-6 seats per flight at $750K = $4.5M/flight, and they need many flights to cover $200M+ annual opex"
+  ],
+  "catalyst": "Q3 2026 Delta-class aerial test flight (binary go/no-go for commercial Q4 2026)",
+  "catalyst_timing": "Q3 2026 (~3-4 months for the test event)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "If you want this exposure, use the options market: Oct or Dec 2026 $4 or $5 calls. Defined risk into the binary event is appropriate; spot exposure is too punishing if Delta slips. Position size as a lottery ticket (0.25x-0.5x normal).",
+  "key_risk": "Delta aerial test flight fails or slips into 2027 — forces additional capital raise at depressed prices, potentially dilutive 30-50%; could trigger going-concern questions.",
+  "estimated_upside_pct": 150,
+  "estimated_downside_pct": 60,
+  "would_skip_if": "Delta test flight slips to 2027; cash falls below $150M without new commercial milestones; any insider selling at current prices"
+}

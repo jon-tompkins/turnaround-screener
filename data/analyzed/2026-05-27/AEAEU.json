@@ -1,0 +1,25 @@
+{
+  "ticker": "AEAEU",
+  "company_name": "AltEnergy Acquisition Corp.",
+  "sector": "Financial Services",
+  "industry": "Shell Companies",
+  "turnaround_reason": "This is a SPAC unit (combined share + warrant), not a turnaround stock. The screen surfaced it because the unit price action mimicked a turnaround pattern (deep drawdown + close to MA crossover), but SPACs trade based on trust value and de-SPAC merger probability, not operating fundamentals. Should not be analyzed as a turnaround.",
+  "bullish_points": [
+    "N/A — SPAC unit, not an operating business"
+  ],
+  "bearish_points": [
+    "SPACs without an announced merger trade on trust value (~$10/share); any 'rally' from below $10 is typically a redemption/warrant artifact",
+    "AltEnergy Acquisition has not announced a definitive de-SPAC business combination",
+    "The 'U' suffix means it's a unit (share + warrant fraction) — illiquid and confusing for screen purposes",
+    "Could be subject to extension votes or liquidation — both outcomes don't fit 'turnaround' framing"
+  ],
+  "catalyst": "Any de-SPAC merger announcement or trust extension vote",
+  "catalyst_timing": "Unknown — depends on SPAC management",
+  "options_liquid": false,
+  "conviction_score": 1,
+  "suggested_trade": "Skip. The screener has a bug: SPACs/units shouldn't pass this screen. Action item — add a filter in src/screener.py to exclude tickers ending in 'U', 'W', 'R' suffixes (units, warrants, rights) AND tickers with 'Acquisition Corp' / 'Holdings' in the name when sector is 'Shell Companies' or has no revenue.",
+  "key_risk": "N/A — not an operating company",
+  "estimated_upside_pct": 0,
+  "estimated_downside_pct": 0,
+  "would_skip_if": "Always — this should never have passed the screen"
+}

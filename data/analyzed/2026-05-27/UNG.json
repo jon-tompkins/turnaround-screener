@@ -1,0 +1,25 @@
+{
+  "ticker": "UNG",
+  "company_name": "United States Natural Gas Fund, LP",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "turnaround_reason": "Not a stock — this is a natural gas commodity-tracking ETF (LP structure). Surfaces in the screen because natural gas spot prices have been in multi-year decline, making UNG look like a deeply-beat-down recovery candidate. But UNG also suffers from futures-curve contango decay independent of spot direction, making it a poor long-term hold even if natural gas does recover.",
+  "bullish_points": [
+    "N/A — commodity ETF, not an operating business"
+  ],
+  "bearish_points": [
+    "Natural gas futures curve has been in chronic contango — UNG decays from rolling losses even when spot prices are flat",
+    "UNG is well-known among commodity ETF investors as one of the worst long-term holds due to roll yield",
+    "Macro natural gas thesis (LNG export growth, AI data-center power demand) is real but the right instrument is producer equities (EQT, AR, RRC) — not UNG itself",
+    "Even if natural gas spot doubles, UNG might only return 30-50% due to decay"
+  ],
+  "catalyst": "Sustained natural gas spot price recovery + curve backwardation (a multi-factor macro setup)",
+  "catalyst_timing": "Macro-dependent",
+  "options_liquid": true,
+  "conviction_score": 1,
+  "suggested_trade": "Skip. If you want bullish natural gas exposure, use producer equities (EQT, AR, RRC, CTRA) or futures directly. UNG is the wrong instrument. Action item — same filter recommendation as GLL: exclude ETFs.",
+  "key_risk": "N/A — not an operating company; structural decay regardless of natural gas direction",
+  "estimated_upside_pct": 0,
+  "estimated_downside_pct": 0,
+  "would_skip_if": "Always — ETFs should never pass an equity-turnaround screen"
+}

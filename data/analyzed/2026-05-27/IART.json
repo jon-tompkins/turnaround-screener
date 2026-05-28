@@ -1,0 +1,30 @@
+{
+  "ticker": "IART",
+  "company_name": "Integra LifeSciences Holdings Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Neurosurgery + wound care medical devices name down ~50% from $33 high to $15 on stacked quality/manufacturing issues: FDA Warning Letter Dec 2024 covering THREE manufacturing facilities, ongoing Class II recalls of Cytal burn/wound matrix (elevated endotoxin), and a fresh March 2026 voluntary recall of Gentrix Surgical Matrix. Despite this, Q1 2026 EPS beat by 33% and management reaffirmed 3-5% organic growth guidance for 2026.",
+  "bullish_points": [
+    "Stock has been beating earnings consistently — Q1 +33%, Q4 +4%, Q3 +24% — operationally the business is intact",
+    "Reaffirming 3-5% organic guidance through the recall noise shows management confidence in underlying demand",
+    "Forward P/E 5.8 — very cheap for a medical-device franchise with 57% gross margins",
+    "Codman Specialty Surgical (neurosurgery) is a structural moat business; recall issues are in the wound-care segment",
+    "FDA warning letter remediation cycles have historically taken 12-18 months — IART is past the worst of the timeline if 2024 was the start"
+  ],
+  "bearish_points": [
+    "Recall overhang is real and recurring — Gentrix is the SECOND major recall, suggesting QA isn't fixed",
+    "Profit margin -30% on the GAAP line (recall-related charges + impairments) — accounting cleanup not done",
+    "Debt $2.04B vs $266M cash is meaningful; D/E 196% restricts capacity for QA remediation capex",
+    "16.5% short interest; sell-side rating 'Hold' from 7 analysts — institutional money has moved on",
+    "Each new recall is a fresh leg down — read-through to other product lines remains an open question"
+  ],
+  "catalyst": "Q2 2026 earnings July 30 — first quarter without Gentrix recall noise; FDA Warning Letter status update; tissue-tech segment commentary",
+  "catalyst_timing": "July 30, 2026 (~2 months)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position. The valuation reflects most of the bad news; positive surprise potential exists if Q2 doesn't bring a new recall and FDA remediation progresses. But the multi-recall pattern lowers conviction — consider Jan 2027 $17 calls as defined-risk alternative to spot.",
+  "key_risk": "A new recall in Q2 OR escalation of the FDA Warning Letter to consent decree — either would trigger another leg down and force capital structure questions.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "New recall announced before Q2 earnings; FDA escalation to consent decree; another quarter of -30% profit margin"
+}

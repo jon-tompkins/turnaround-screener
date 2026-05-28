@@ -1,0 +1,30 @@
+{
+  "ticker": "DNUT",
+  "company_name": "Krispy Kreme, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Restaurants",
+  "turnaround_reason": "Stock collapsed from $20s post-IPO through 2024-2025 on the McDonald's partnership failure (exited July 2025) plus debt overhang. Q1 2026 (reported May 7) showed first real evidence of operational turnaround: adjusted EBITDA +38% YoY to $33.1M, FCF +$11.4M, net leverage cut to 5.5x from 6.7x, and credit facility interest rate stepped down. Stock has tripled off $2.50 lows to ~$3.40.",
+  "bullish_points": [
+    "Q1 2026 turnaround proof points: EBITDA +38%, FCF positive, leverage stepping down",
+    "Liquidity now >$300M; bank leverage <4x triggered 25bp rate reduction on revolver",
+    "Underperforming-door closures (incl. McDonald's locations) intentionally lowering revenue but improving margins — management is willing to shrink to grow",
+    "Insider ownership 50%+ aligns management with shareholders",
+    "18% short interest sets up squeeze potential if turnaround continues"
+  ],
+  "bearish_points": [
+    "Debt-to-equity of 202 is alarming — $1.28B debt vs $74M cash leaves zero margin for error",
+    "Most recent earnings missed analyst EPS expectations by 136% despite EBITDA growth (GAAP loss widened on non-cash items)",
+    "Revenue still declining (-2.2%), so the EBITDA improvement is purely from cost actions and door closures, not demand recovery",
+    "No insider open-market buying in last 6 months — only grants. If management believed in the rerating, you'd expect at least one buy.",
+    "Doughnut category is mature/declining secular; competitive pressure from premium QSR coffee chains (Starbucks, Dutch Bros) remains"
+  ],
+  "catalyst": "Q2 2026 earnings August 6 — confirmation that the leverage paydown and FCF inflection are sustainable, not a one-quarter beat",
+  "catalyst_timing": "August 6, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position. Options unattractive: 73% IV is rich and put OI is low (988 vs 4770 call OI) suggesting the easy bullish bets are already crowded. If using options, consider a Jan 2027 $4 call as a long-duration cheap optionality lottery ticket.",
+  "key_risk": "Q2 earnings shows EBITDA growth was a one-quarter optical event from closures + accounting. If leverage doesn't continue compressing, the debt overhang reasserts and refinancing risk becomes the story.",
+  "estimated_upside_pct": 75,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "Q2 same-store sales decline accelerates; leverage ratio stops dropping; any covenant amendment announced"
+}

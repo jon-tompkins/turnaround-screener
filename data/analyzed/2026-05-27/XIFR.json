@@ -1,0 +1,30 @@
+{
+  "ticker": "XIFR",
+  "company_name": "XPLR Infrastructure, LP",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "turnaround_reason": "Former NextEra Energy Partners yieldco — distribution ELIMINATED on January 28, 2025 after management had reaffirmed 6% distribution growth target 'through at least 2026' just months prior. Stock collapsed from $20+ to $8. Now pivoting from yieldco to renewable infrastructure operator. Q1 2026 EPS beat by 148% but that's against a low bar — the entire prior thesis (distribution-paying MLP) is broken. Securities class action lawsuit pending. Recent rebrand from NextEra Energy Partners to XPLR Infrastructure (Jan 2025) underscores the strategic reset.",
+  "bullish_points": [
+    "Recent earnings beats (+148%, +154%) suggest the underlying renewable energy assets are performing well — it's a capital allocation crisis, not an asset crisis",
+    "Trades at 0.34x price-to-book — cratered below net asset value, even before assigning option value to the asset portfolio",
+    "Forward P/E 9.8 is reasonable; 11 analysts cover; mean target $12.09 = 3% upside, high $17 = 45% — even sell-side hasn't given up",
+    "$943M cash provides runway to restructure debt and capex without further distribution-cut events",
+    "NextEra (NEE) parent retains 56% LP interest — strategic optionality if they decide to acquire/recombine"
+  ],
+  "bearish_points": [
+    "Distribution elimination broke the explicit promise to investors — credibility hit is permanent for the existing holder base",
+    "Securities class action lawsuit is unresolved overhang; settlement could be material relative to $1.1B mkt cap",
+    "Debt $6.3B vs $1.1B mkt cap — equity is option-like, levered to renewable energy + interest rate cycle",
+    "Yieldco structure unwinding means existing income-fund holders will continue to be forced sellers for months",
+    "FCF negative $241M TTM — capex requirements outstrip operating cash flow"
+  ],
+  "catalyst": "Q2 2026 earnings August 6 — strategic plan update; potential debt refinancing or sale of assets; commentary on NEE relationship",
+  "catalyst_timing": "August 6, 2026 (~2.5 months); class action resolution any time",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Pass for most setups. The yieldco-to-operator transition is one of the hardest pivots; the credibility damage from the distribution cut takes years to rebuild. If you want renewable energy infrastructure exposure, NEE itself or BEP/BEPC are higher-quality. Only consider XIFR if you have specific catalyst conviction on a NEE buyout/recombination.",
+  "key_risk": "Class action settlement is material; debt refinancing window in 2027 requires equity raise at depressed prices; renewable energy tax credit changes under current administration.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Q2 prepared remarks don't articulate the post-yieldco strategy; class action settlement >$200M; NEE signals divestiture of LP stake"
+}

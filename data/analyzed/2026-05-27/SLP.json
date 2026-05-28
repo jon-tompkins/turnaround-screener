@@ -1,0 +1,30 @@
+{
+  "ticker": "SLP",
+  "company_name": "Simulations Plus, Inc.",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "turnaround_reason": "Niche pharma biosimulation software name down 52% from $32.65 high to $15.55 — collapsed on Q1 2026 software-revenue decline (-17%) and EPS miss (-32%). Mixed quarter, mixed year-to-date (stock -53% YTD). Services segment is growing strongly and is now 52% of revenue, but software (the higher-margin core franchise) is shrinking. Recent Nvidia collaboration to accelerate simulation runtimes by 75% is the AI-tailwind story.",
+  "bullish_points": [
+    "Debt-free balance sheet ($41.8M cash, $508K debt) — zero refinancing risk, all-equity capital structure",
+    "Revenue +8% TTM driven by services growth offsetting software decline; services gross margin expanded to 36%",
+    "Nvidia partnership genuinely positions SLP at the AI/biology intersection — sell-side narrative tailwind available",
+    "Analyst target mean $23.67 vs $15.55 = 52% upside; high target $31 = 99%",
+    "Forward P/E 16.9 isn't deep value but is reasonable for a software business with 62% gross margins"
+  ],
+  "bearish_points": [
+    "Software revenue declining 17% YoY in Q1 — this is the HIGH-MARGIN segment; mix shift to lower-margin services is structurally bearish",
+    "Q1 EPS missed by 32% — Q4 2025 also missed by 50% — execution has been weak two quarters running",
+    "Profit margin -78% TTM (impairments + acquisition charges) — accounting is messy",
+    "Small float (16.7M shares) means high volatility; 3 analysts cover the name so any downgrade has outsized impact",
+    "Customer base (pharma R&D budgets) is itself under pressure from AI substitution + Trump pharma policy uncertainty"
+  ],
+  "catalyst": "Q3 2026 earnings July 15 — must show software revenue stabilizing; Nvidia collaboration product detail; FY26 guidance refresh",
+  "catalyst_timing": "July 15, 2026 (~1.5 months)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — options chain is too thin for spreads, IV history is variable. Take a starter position; add only if software revenue stabilizes in Q3. Position-size for the small-cap volatility: 0.5-0.75x normal.",
+  "key_risk": "Software revenue decline accelerates beyond -17% — the AI tailwind doesn't show up in revenue for 2+ years; pharma customers reduce simulation budgets if they redeploy to in-house AI tools.",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q3 software revenue declines worse than Q1; pharma R&D budget commentary turns bearish; Nvidia partnership doesn't show product evidence"
+}

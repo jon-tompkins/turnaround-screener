@@ -1,0 +1,30 @@
+{
+  "ticker": "GPK",
+  "company_name": "Graphic Packaging Holding Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "turnaround_reason": "Consumer paperboard packaging name down 54% from $24 highs to $10.82 on the consumer-staples destocking cycle plus tariff/cost inflation hitting margins. Q1 2026 operating margin collapsed to 0.9% from 10.4% prior year. Management responding with $60M annualized cost cuts via workforce reduction, network optimization, and contractual price recovery mechanisms. Q1 EPS beat by 48% and stock had +8% pre-market reaction.",
+  "bullish_points": [
+    "Q1 2026 EPS beat consensus by 48% ($0.09 vs $0.06) despite the margin compression — cost actions are working",
+    "Adjusted EBITDA margin held at 10.8% on $232M EBITDA — underlying franchise still works",
+    "Volume turned positive (+1% YoY), improving as Q1 progressed — destocking cycle appears to be ending",
+    "$60M cost reduction program clearly defined: workforce, network, capex discipline",
+    "Trading at 0.99x EV/Revenue, 7x EV/EBITDA — typical industrial-cyclical bottom valuation"
+  ],
+  "bearish_points": [
+    "Debt $5.8B vs $190M cash; debt-to-equity 178% — leverage limits margin-recovery beta to equity",
+    "Operating margin compression (10.4 → 0.9%) is severe; recovery to even half of prior margins requires real pricing action",
+    "Tariffs on steel/aluminum/imports are an unmitigated headwind — not all under management control",
+    "Free cash flow $187M — barely covers $300M+ in annual interest expense",
+    "9 analysts, 'Hold' rating, target mean $11.79 = effectively at current price; no sell-side conviction"
+  ],
+  "catalyst": "Q2 2026 earnings July 28 — first full quarter under the $60M cost program; commentary on bleached cupstock pricing and tariff pass-through",
+  "catalyst_timing": "July 28, 2026 (~2 months)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position or Jan 2027 $12 calls. The recovery is real but slow; the leverage means equity multiple expansion is capped until debt comes down. This is a cycle play, not a story stock — keep position modest.",
+  "key_risk": "Tariffs persist or escalate; CPG customers continue destocking through 2026; debt refinancing in 2027-2028 at higher rates.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 operating margin doesn't expand sequentially; volumes turn negative again; CPG customers like Procter & Gamble guide weaker for 2H"
+}

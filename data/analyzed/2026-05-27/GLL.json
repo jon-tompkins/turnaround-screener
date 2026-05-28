@@ -1,0 +1,25 @@
+{
+  "ticker": "GLL",
+  "company_name": "ProShares UltraShort Gold",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "turnaround_reason": "Not a stock — this is a 2x daily inverse gold ETF. It is in a long-term decline because gold has trended up over 4 years (200w MA), making the inverse ETF look like a 'deeply beat-down recovery candidate.' This is the opposite of a turnaround: it's a leveraged inverse instrument doing exactly what it was designed to do.",
+  "bullish_points": [
+    "N/A — leveraged inverse ETF, not an operating business"
+  ],
+  "bearish_points": [
+    "GLL is structurally designed to decay due to daily reset volatility drag",
+    "Owning GLL long-term has been a loss for the entire 4-year window of the screen",
+    "Inverse leveraged ETFs are tactical-trading tools, not turnaround equities",
+    "Any 'rally' in GLL just means gold pulled back recently — it's a gold-bearish bet, not a quality call"
+  ],
+  "catalyst": "Sustained decline in gold prices (a macro-driven view, not a turnaround thesis)",
+  "catalyst_timing": "Macro-dependent",
+  "options_liquid": true,
+  "conviction_score": 1,
+  "suggested_trade": "Skip. Action item — add a filter in src/screener.py to exclude ETFs. yfinance reports a 'quoteType' field that includes 'ETF' vs 'EQUITY'; filter to EQUITY only.",
+  "key_risk": "N/A — not an operating company; would only be appropriate as a tactical macro hedge",
+  "estimated_upside_pct": 0,
+  "estimated_downside_pct": 0,
+  "would_skip_if": "Always — ETFs should never pass an equity-turnaround screen"
+}

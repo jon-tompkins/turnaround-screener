@@ -1,0 +1,30 @@
+{
+  "ticker": "GO",
+  "company_name": "Grocery Outlet Holding Corp.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "turnaround_reason": "Stock crashed -28% on March 5, 2026 after announcing underperforming-store closures and asset impairments. The thesis: closeout-grocery format (the Aldi/Dollar General mash-up) remains structurally advantaged in inflation-fatigued consumer environment; the issue was operational execution not unit economics. CEO Jason Potter and multiple directors bought ~$3M+ of stock in March/April 2026 between $5.75-$7.06 — the most credible insider-buying signal in the entire watchlist.",
+  "bullish_points": [
+    "Insider buying is the cleanest signal in this dossier: CEO Potter bought 398K shares total in last year; Director Ragatz bought ~$2M; multiple board buys at $5.75-$7.06",
+    "Revenue still growing (+3.6%) — top line is healthy; turnaround is operational/margin, not demand",
+    "39% short interest creates squeeze setup if Q2 comps stabilize",
+    "$5.7B in TTM revenue at $812M mkt cap = 0.14x EV/Revenue — deep value if margins normalize even partially",
+    "Closeout-grocery format benefits from continued macro consumer downtrade"
+  ],
+  "bearish_points": [
+    "Debt-to-equity 228, $1.84B total debt vs $59M cash — leverage similar to DNUT, refinancing risk if turnaround stalls",
+    "Most recent reported EPS -$1.83 vs $0.04 estimate (-4890% surprise) — impairment charges suggest more pain coming",
+    "Independent-operator model is hard to scale margin improvement quickly — most cost levers are at HQ, not the stores",
+    "ATM IV of 311% on sampled call chain is absurd — options market pricing extreme scenarios; spreads will be wide",
+    "Hold recommendation from 13 analysts; target mean $8.46 = effectively at current price"
+  ],
+  "catalyst": "Q2 2026 earnings August 4 — clean look at comps post-impairment; analyst day potential",
+  "catalyst_timing": "August 4, 2026 (~2.5 months)",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot only. Insider buying at $5.75-$7.06 establishes a fundamental price anchor; current $8.21 is above their entries. Take a small position; add aggressively only if stock retests $6 zone. Options unusable given 311% IV.",
+  "key_risk": "The Q1 -$1.83 EPS suggests asset writedowns may keep coming for 2-3 more quarters; if Q2 also takes impairments, the leverage ratio could trip a covenant.",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q2 same-store sales turn negative; another impairment charge announced; insider buying stops; debt covenant amendment"
+}

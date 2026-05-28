@@ -1,0 +1,30 @@
+{
+  "ticker": "PALI",
+  "company_name": "Palisade Bio, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Micro-cap clinical-stage biotech (PALI is Palisade Bio — not to be confused with PTN/Palatin). Stock has quadrupled from $0.53 to $2.07 over the past year. Lead candidate PALI-2108 is an oral PDE-4 inhibitor prodrug in Phase 1b for inflammatory bowel disease (ulcerative colitis, fibrostenotic Crohn's). Cash $133M, zero debt, current ratio 23.7 — exceptional balance sheet for a clinical-stage name. Sell-side consensus 'Strong Buy' with $9.71 mean target (369% upside).",
+  "bullish_points": [
+    "Strong Buy sell-side consensus from 7 analysts with $9.71 mean / $25 high target — 369-1100% upside if pipeline plays out",
+    "Cash $133M vs $360M mkt cap = 37% of market cap is cash; enterprise value $213M for the entire pipeline",
+    "Zero debt + current ratio 23.7 = no refinancing risk; clean capital structure for clinical-stage biotech",
+    "PDE-4 inhibitor class is well-validated (Otezla, Sotyktu); targeted ileum/colon delivery differentiates from systemic absorption",
+    "Newsoara Co-Development agreement provides non-dilutive validation + ex-US optionality (China)"
+  ],
+  "bearish_points": [
+    "Phase 1b is still early-stage — typical biotech failure rate at this stage is 60-70% to NDA approval",
+    "All earnings results show GAAP losses; no revenue yet — pure pipeline bet",
+    "Insider ownership only 0.03% — founders/management have essentially no skin in the game at current size",
+    "Float 128M shares + 173M outstanding = significant warrant/option overhang likely",
+    "IBD market is competitive: AbbVie (Skyrizi/Rinvoq), Lilly (Omvoh), Eli Lilly's PDE-4 candidates — Palisade needs to differentiate or partner"
+  ],
+  "catalyst": "PALI-2108 Phase 1b interim data readout (timing not yet announced — likely H2 2026); potential partnership announcement",
+  "catalyst_timing": "H2 2026 (estimate, unconfirmed)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position — the cash backstop limits downside, and the analyst consensus provides cover if you're wrong. Don't size like a high-conviction bet — Phase 1b is too early for that. Consider averaging in 1/3 now, 1/3 after next earnings, 1/3 into data readout.",
+  "key_risk": "Phase 1b shows weak efficacy or safety signal — name retraces toward cash value ($0.77/share fully diluted), implying ~60% downside.",
+  "estimated_upside_pct": 250,
+  "estimated_downside_pct": 60,
+  "would_skip_if": "PALI-2108 Phase 1b interim is negative; CEO/CMO departure; major dilutive financing announced"
+}

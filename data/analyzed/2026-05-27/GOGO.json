@@ -1,0 +1,30 @@
+{
+  "ticker": "GOGO",
+  "company_name": "Gogo Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "In-flight connectivity provider for business aviation down 72% from $16.82 high to $4.70 on competitive pressure (Starlink Aviation), integration drag from $375M Satcom Direct acquisition (Dec 2024), and weak 2025 results. New product portfolio launched: Gogo Galileo LEO service early 2025, Gogo 5G ATG network late 2025. Q1 2026: revenue $226.3M (-2%), Adj EBITDA $53.3M — operational stabilization in progress.",
+  "bullish_points": [
+    "Two new networks rolling out in tandem (5G ATG + Galileo LEO) — multi-year refresh cycle should drive equipment + service revenue",
+    "Equipment revenue +22% YoY in Q1 2026 = early signal that aircraft are upgrading",
+    "Cross-sell opportunity into Satcom Direct customer base just beginning to materialize",
+    "Analyst target mean $9.50 (sell-side only 2 analysts but both Buy) = 102% upside; high target $12",
+    "21% short interest creates squeeze setup if Q2/Q3 shows revenue inflection"
+  ],
+  "bearish_points": [
+    "Starlink Aviation competitive threat is severe — Elon's network is genuinely better for many use cases at lower price",
+    "Debt-to-equity 765% — capital structure is extreme; $903M debt vs $107M cash limits flexibility",
+    "Revenue declining (-1.7% TTM) — the new networks haven't yet offset the legacy ATG decline",
+    "Q4 2025 EPS missed by 113% — execution risk during the integration is real",
+    "Insider activity is mixed; no clear conviction signal from management buying"
+  ],
+  "catalyst": "Q2 2026 earnings August 6 — equipment revenue trajectory, Galileo subscriber adds, Satcom Direct cross-sell metrics, commentary on Starlink competitive impact",
+  "catalyst_timing": "August 6, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position with tight stop. The valuation is right but Starlink risk is asymmetric — competitive moats in commodity connectivity erode fast. Consider it a 12-month thesis with 6-month confirmation needed (Q3 2026 earnings would be the moment of truth on Galileo traction).",
+  "key_risk": "Starlink Aviation wins a major business jet OEM as default provider for new builds; legacy ATG attrition accelerates while Galileo adoption disappoints; debt refinancing in 2027 forces dilution.",
+  "estimated_upside_pct": 100,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Q2 equipment revenue growth decelerates from +22%; Starlink announces major bizjet OEM win; Galileo subscriber count is not disclosed (signals weakness)"
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Blue-chip IT research/advisory name down 64% from $445 high to $160 on a fundamental thesis change: AI is structurally disrupting Gartner's subscription-research moat. Contract value growth decelerated from 7% → 5% → 1% over the past three quarters. Generation Investment Management (Al Gore's fund) exited on this exact thesis. Trades at 10.4x forward P/E with $1B+ FCF — cheap if the thesis is wrong, value trap if it's right.",
+  "bullish_points": [
+    "Cash generation remains massive: $1.06B FCF on $10.7B mkt cap = 10% FCF yield",
+    "Q1 2026 EPS beat by 14% — execution still works at the operational level",
+    "Gartner's own conferences + 1:1 advisor business are not easily AI-disrupted (the events franchise alone is multi-hundred-million revenue)",
+    "Buy-side fund repositioning has likely overshot — at 10x forward, expectations are already low",
+    "Trading near 52-week low ($139); risk/reward more favorable than it was at $300+"
+  ],
+  "bearish_points": [
+    "Contract value growth fell from 7% to 1% in two quarters — the deceleration is real, not just optics",
+    "Small-tech-vendor client retention in low-70s; this segment is where AI substitution is most severe",
+    "Generation Investment exit is a credible signal — they're disciplined long-term holders who explicitly cited AI disruption",
+    "Securities-class-action allegations on concealed AI/Federal IT risks — legal overhang",
+    "20% short interest — sentiment is firmly bearish; takes longer to inflect"
+  ],
+  "catalyst": "Q2 2026 earnings August 4 — first chance to show contract value growth stabilizing or re-accelerating; analyst day signals on AI integration of Gartner's product",
+  "catalyst_timing": "August 4, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass or use a small put-spread to capture asymmetric downside if Q2 contract value goes negative. The valuation is reasonable but the thesis violation (AI disruption) is structural, not cyclical, and turnaround stories take 4-8 quarters to confirm. Better to wait for evidence the contract value bottoms.",
+  "key_risk": "Q2 contract value goes negative (vs +1% in Q1) — confirms AI is hollowing out the small-vendor cohort; another 30-40% leg down on multiple compression to single-digit FCF yield.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 contract value declines sequentially; Generation Investment or another quality holder exits publicly; consulting revenue growth stays negative"
+}

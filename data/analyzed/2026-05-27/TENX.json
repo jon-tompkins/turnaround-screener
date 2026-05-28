@@ -1,0 +1,30 @@
+{
+  "ticker": "TENX",
+  "company_name": "Tenax Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Phase 3 clinical-stage biotech with a defined near-term catalyst: oral levosimendan (TNX-103) for pulmonary hypertension in heart failure with preserved ejection fraction (PH-HFpEF). LEVEL Phase 3 trial hit its 230-patient randomization target in March 2026 — screening closed — TOPLINE DATA EXPECTED Q3 2026. Stock has gained 173% over 12 months in anticipation. Cash $118M, zero debt, $235M mkt cap, ~17M shares outstanding. Sell-side Strong Buy with $22.50 mean target (89% upside) / $30 high.",
+  "bullish_points": [
+    "Hard near-term binary catalyst: Q3 2026 LEVEL topline data — 2-4 months away — this is the cleanest defined event in today's batch",
+    "Levosimendan is already approved IV in 60 countries for acute decompensated heart failure — drug works, the question is the oral formulation in HFpEF",
+    "PH-HFpEF is a $5B+ addressable market with virtually no approved therapies — true unmet need",
+    "Cash $118M vs $235M mkt cap = capitalized through the data readout without dilution",
+    "Strong Buy from 7 analysts; $30 high target = 152% upside; sell-side has high conviction"
+  ],
+  "bearish_points": [
+    "Binary risk is severe — Phase 3 readouts in HFpEF have historically been brutal (sacubitril/valsartan failed PARAGON-HF; entresto barely worked)",
+    "Tight float (~10M public) means extreme volatility on the readout — could gap 60-80% in either direction",
+    "TNX-103 LEVEL-2 is a parallel Phase 3 (presumably needed for approval) — even positive LEVEL only de-risks halfway",
+    "Insider ownership only 0.12% — management compensation is largely option-driven, not common-share aligned",
+    "Pricing/reimbursement for an oral formulation of a generic IV drug (levosimendan is decades old) is uncertain"
+  ],
+  "catalyst": "LEVEL Phase 3 topline data Q3 2026 — primary endpoint (6-minute walk distance change at week 24)",
+  "catalyst_timing": "Q3 2026 (~2-4 months)",
+  "options_liquid": false,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position — this is the highest-conviction biotech bet in today's batch given the defined timeline and capitalization. Sizing: take a position now ahead of the readout; consider trimming half before topline data and letting the rest ride. If you have access to a clinical advisor, confirm the PH-HFpEF endpoint power calc and screening criteria.",
+  "key_risk": "LEVEL Phase 3 misses primary endpoint — stock would likely halve immediately and remain depressed pending LEVEL-2; given the parallel-trial structure, even a 'mixed' readout has downside.",
+  "estimated_upside_pct": 150,
+  "estimated_downside_pct": 55,
+  "would_skip_if": "Tenax announces a delay to topline data timeline; LEVEL-2 enrollment slows; any unexpected dilutive financing; FDA correspondence indicating endpoint concerns"
+}

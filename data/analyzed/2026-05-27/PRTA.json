@@ -1,0 +1,30 @@
+{
+  "ticker": "PRTA",
+  "company_name": "Prothena Corporation plc",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Stock collapsed from $50+ in 2023 to $4.32 low after a Phase 3 trial failure that broke the prior thesis. But the underlying franchise — partnered Phase 3 programs with Roche (prasinezumab, Parkinson's), Novo Nordisk (coramitug, ATTR cardiomyopathy), and BMS (PRX019) — remains intact and now ignored. Up to $105M in milestone payments expected by end of 2026 alone. Cash position ($329M vs ~$525M mkt cap) means market is paying very little for the pipeline.",
+  "bullish_points": [
+    "Multiple Phase 3 programs with top-tier pharma partners — risk is shared and validated (Roche, Novo Nordisk, BMS)",
+    "$329M cash vs minimal debt vs $525M mkt cap — enterprise value is only ~$200M for late-stage pipeline + milestone stream",
+    "Q1 2026 earnings beat by 324% (driven by milestone recognition) — proves the partnership economics flow through",
+    "Analyst target mean $21.4 vs $10 price = 114% upside; even low-end target $8 brackets current price",
+    "$105M in remaining 2026 milestones provides cash injection without dilution"
+  ],
+  "bearish_points": [
+    "Prior Phase 3 failure created institutional aversion to the name — sentiment is wrecked",
+    "Phase 3 primary completions are 2029 — too far out to be near-term catalysts",
+    "Operating cash burn -$81M annually — runway is ~3-4 years without milestones",
+    "16% short interest plus 0.20 insider ownership means thin float and high volatility on any setback",
+    "Heavy ECOR1 (10%+ holder) sold 6.3M shares at $7.64-$8.36 in May 2025 — major holder reduced position into the recovery"
+  ],
+  "catalyst": "Q2 earnings (August 3) — confirmation of remaining 2026 milestone payments + interim safety/operations data from prasinezumab PARAISO and coramitug CLEOPATTRA enrollment",
+  "catalyst_timing": "August 3, 2026 (~2.5 months); milestones throughout 2026",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position. Options chain is thin (only 6 expiries, IV reading looks bad). Consider sizing such that the $329M cash backstop limits downside to ~30% if pipeline value goes to zero.",
+  "key_risk": "Phase 3 partnership programs are halted by Roche or Novo for futility/safety; without milestones the cash burn turns into dilutive financing risk inside 24 months.",
+  "estimated_upside_pct": 100,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Roche signals slower-than-expected enrollment in PARAISO; coramitug interim shows safety signal; cash position drops below $250M without milestone offset"
+}

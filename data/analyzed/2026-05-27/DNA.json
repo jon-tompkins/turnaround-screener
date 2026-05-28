@@ -1,0 +1,30 @@
+{
+  "ticker": "DNA",
+  "company_name": "Ginkgo Bioworks Holdings, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SPAC casualty (peaked at $15+ in 2021) trying to reinvent itself. In April 2026 divested Biosecurity unit to Perimeter Systems for ~20% equity stake. Pivoting fully to 'Autonomous Labs' platform for cell engineering, betting on AI/bio convergence. Insider net buying of 575K shares in last 6 months (46% buy ratio) suggests management thinks the bottom is in.",
+  "bullish_points": [
+    "Insider activity meaningfully positive: 22 transactions, 46% buy ratio, net +575K shares",
+    "Cash position $373M vs guided -$125M to -$150M burn = 2-3 year runway to prove the pivot",
+    "Autonomous Labs pivot aligns with AI/bio capital flow (Recursion, Insitro etc.) — narrative tailwind available",
+    "Trades at ~1x cash — limited downside if execution at least slows the bleed",
+    "20% equity stake in Perimeter Systems (biosecurity) provides asymmetric upside if that business succeeds independently"
+  ],
+  "bearish_points": [
+    "Q1 2026 revenue from continuing ops collapsed to $19.5M (-50% YoY) — core business is dying faster than the new business is scaling",
+    "Net loss from continuing ops $76M on $19.5M revenue — operating ratio is nightmarish",
+    "Management refused to provide 2026 revenue guidance — major red flag for execution clarity",
+    "Forward EV/Sales ~5.5x on a business with no proven growth — pricing assumes inflection that hasn't started",
+    "Seeking Alpha consensus is bearish ('Another Lost Year', 'Maintain Sell') — sentiment is correctly skeptical"
+  ],
+  "catalyst": "Q2 2026 earnings August 6 — first full quarter under Autonomous Labs focus; cell-engineering revenue trajectory + customer count",
+  "catalyst_timing": "August 6, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass for now. The setup screens like a turnaround but the operating reality is too ugly without a near-term proof point. If you must own, take a small spot position sized as a lottery ticket. The 104% IV makes call spreads expensive vs payoff.",
+  "key_risk": "Autonomous Labs is a 3-year build-out that may not gain traction before cash runs to ~$100M, at which point Ginkgo dilutes massively. The 2021-2022 SPAC cohort has many names with this same pattern.",
+  "estimated_upside_pct": 120,
+  "estimated_downside_pct": 60,
+  "would_skip_if": "Q2 revenue from continuing ops doesn't show sequential improvement; cash burn exceeds guided -$150M; major customer loss announced"
+}

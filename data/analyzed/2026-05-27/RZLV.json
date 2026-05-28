@@ -1,0 +1,30 @@
+{
+  "ticker": "RZLV",
+  "company_name": "Rezolve AI PLC",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "turnaround_reason": "UK-based generative AI / 'Agentic Commerce' platform for retail. SPAC-deal listing (was Armada Acquisition merger) that traded from $8+ down to $1.90 then recovered to $2.55. Company has aggressive growth claims: $232M of $360M FY26 revenue target already contracted (64%), 7.5x YoY growth narrative. Just announced $230M cash acquisition of Reward Loyalty UK Limited (adds ~$90M EBITDA-accretive revenue). 50% insider ownership. This is a high-narrative AI commerce play, not a value setup.",
+  "bullish_points": [
+    "$232M of $360M FY26 revenue contracted — 64% pre-booked; if the rest fills in, revenue grows 7.5x YoY",
+    "Reward Loyalty acquisition adds scale (large retailer relationships, Visa partnership) and is touted as EBITDA-accretive",
+    "50% insider ownership = founders haven't sold out; aligned with shareholders",
+    "Analyst target mean $10.75 vs $2.55 = 322% upside; 6 sell-side firms cover (decent for a sub-$1B name)",
+    "Revenue growing +49% TTM with 66% gross margins — actual scaling fundamentals if you trust the books"
+  ],
+  "bearish_points": [
+    "$1B+ market cap on $46.8M TTM revenue = 21x EV/Revenue for an unprofitable name — extreme valuation requires the 7.5x growth to fully deliver",
+    "Operating margin -135%, profit margin -217% — burning capital fast; cash $111M vs $63M annual operating burn",
+    "SPAC-merger heritage and small reverse-merger background is a yellow flag for accounting/disclosure quality",
+    "$230M Reward Loyalty deal financed 'entirely in cash from existing resources' — but they only have $111M cash; either the deal needs financing or revenue contracts are being recognized aggressively as 'cash equivalents'",
+    "Reverse stock split or dilution warning: 398M shares outstanding at $2.55 — share count is unwieldy and recent equity raises likely"
+  ],
+  "catalyst": "Q4 FY26 (Oct 2026) earnings — first hard data on whether the $360M FY26 revenue target is being hit; Reward Loyalty integration metrics",
+  "catalyst_timing": "October 2026 (~5 months)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Pass for most setups. If you want speculative AI/commerce exposure, the risk profile here is far worse than a basket of public AI-aware retail names. Only consider RZLV as a small-position lottery ticket (0.25x normal) sized for total loss. Options chain inadequate for hedging.",
+  "key_risk": "The $360M FY26 target is missed (contract recognition vs cash); $230M Reward deal requires dilutive financing; SPAC-style accounting concerns surface in audit; share count balloons via warrant exercise or PIPE.",
+  "estimated_upside_pct": 200,
+  "estimated_downside_pct": 70,
+  "would_skip_if": "Contracted-revenue narrative not backed by deferred revenue on the balance sheet; Reward acquisition financing terms get worse; share count exceeds 450M before year-end"
+}

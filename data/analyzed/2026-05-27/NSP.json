@@ -1,0 +1,30 @@
+{
+  "ticker": "NSP",
+  "company_name": "Insperity, Inc.",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "turnaround_reason": "PEO (Professional Employer Organization) for SMBs down 50% from $65.74 high to $32.95 on SMB hiring weakness (worksite employee growth turned negative) plus heavy spending on the Workday partnership (~$48M opex in 2025). Q1 2026 showed signs of stabilization: revenue +2%, net income $33M, Adj EBITDA $103M. The HR Scale solution co-developed with Workday launched early 2026 — first quarter of revenue contribution.",
+  "bullish_points": [
+    "PEO penetration only 17% of target SMB market = huge structural runway if Insperity holds share",
+    "Workday partnership and HR Scale launch position Insperity to move upmarket to middle-market clients where Workday is dominant",
+    "$555M cash > $430M debt = net cash position, rare in this watchlist; strong balance sheet through any cycle",
+    "Q1 2026 EPS beat by 6%; Q1 2025 missed by 190% — the year-over-year delta is exactly the stabilization narrative",
+    "Analyst target mean $39.50 vs $32.95 = 20% upside on consensus"
+  ],
+  "bearish_points": [
+    "Workday partnership ~$48M opex drag in 2025; HR Scale revenue contribution will take 2-3 years to offset",
+    "SMB hiring environment uncertain — if small businesses pull back further on headcount, worksite employee count could shrink",
+    "Q4 2025 missed badly (-190% EPS surprise) — execution wasn't smooth coming into the turnaround attempt",
+    "Forward P/E 11.8 isn't deep value; this is a quality compounder at a fair price, not a special situation",
+    "EV/EBITDA 72x looks ugly (Q4 EBITDA was weak); cleaner multiples will require 2-3 quarters of EBITDA growth"
+  ],
+  "catalyst": "Q2 2026 earnings July 30 — HR Scale early customer adoption metrics; worksite employee growth trajectory; Workday partnership unit economics commentary",
+  "catalyst_timing": "July 30, 2026 (~2 months)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position. Highest quality balance sheet in today's batch + concrete partnership catalyst + reasonable valuation. Less torque than CLVT but lower downside. Consider it the 'sleep at night' name of the day's watchlist. 1x normal sizing.",
+  "key_risk": "HR Scale uptake disappoints — Workday's middle-market clients don't see enough value in the bundled PEO offering; worksite employee growth stays negative through 2026; recession deepens.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Worksite employee growth stays negative in Q2; HR Scale customer count is not disclosed in Q2 prepared remarks; SMB benefit cost inflation accelerates"
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Bike + truck/SUV suspension specialist down 70% from $50+ peaks to $18 on the COVID-pull-forward unwind in bikes plus Ford F-150 supply chain issues for the upfit business. Management executing aggressive cost program: Phase 1 ($25M savings, 2025) complete; Phase 2 targeting $40M incremental in 2026 via facility consolidation, in-sourcing, supply chain. Q1 2026 EPS beat consensus by 120% ($0.18 vs $0.08 estimate) — most outsized beat in today's batch.",
+  "bullish_points": [
+    "Q1 2026 EPS beat of 120% is the loudest 'turnaround is real' signal in today's lineup",
+    "Two-phase, $65M cumulative cost program with clear visibility into 2026 savings",
+    "New Ford program announced Feb 2026 — capital-light, higher-margin component business model shift",
+    "Premium positioning with Trek, Specialized, Yeti, Santa Cruz in bikes and Ford, Toyota, Polaris, Jeep in PV — irreplaceable brand IP",
+    "'Buy' analyst rec from 6 analysts; target mean $22.33 vs $18.16 = 23% upside on consensus, $26 high target = 43%"
+  ],
+  "bearish_points": [
+    "Ford F-150 chassis constraint is not expected to recover in 2026 — direct demand headwind that's outside management control",
+    "Tariff/cost inflation on steel/aluminum continues hurting gross margin — same issue as GPK",
+    "Profit margin -20% TTM — still loss-making at GAAP level despite operating cash flow",
+    "Debt $787M vs $54M cash (120% D/E) is high but manageable; refi cycle in next 24 months",
+    "Free cash flow $47M is thin given the cost actions; if Phase 2 savings slip, FCF could turn negative"
+  ],
+  "catalyst": "Q2 2026 earnings August 6 — confirmation of Phase 2 cost savings traction; Ford chassis commentary; bike OEM order book detail",
+  "catalyst_timing": "August 6, 2026 (~2.5 months)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position. The Q1 120% beat + analyst Buy rating + concrete cost program is a real package. Options chain liquid; consider Jan 2027 $20 calls for leveraged play if you want optionality (IV ~ 60-70% typical range based on the stock's history). Sizing: 1x normal.",
+  "key_risk": "Bike OEMs (Trek, Specialized) continue destocking through 2026; Ford supply issue extends into 2027; tariff escalation erases Phase 2 savings before they hit the P&L.",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 EPS misses; Phase 2 cost savings get reduced; Ford F-150 visibility worsens; bike segment revenue declines accelerate"
+}

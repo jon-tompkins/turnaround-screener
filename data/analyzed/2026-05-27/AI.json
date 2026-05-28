@@ -1,0 +1,30 @@
+{
+  "ticker": "AI",
+  "company_name": "C3.ai, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "turnaround_reason": "Enterprise AI software name has seen revenue collapse 35% in FY26 (Q4 -53% YoY) on customer pipeline weakness and execution issues; founder Tom Siebel just resumed CEO role May 8, 2026 and announced a 26% workforce reduction targeting $135M in annualized cost savings — a classic founder-led restructuring after the prior CEO's tenure failed to deliver. Stock has round-tripped from $30+ high to ~$9.",
+  "bullish_points": [
+    "Strong balance sheet: $622M cash vs $60M debt provides multi-year runway through restructuring",
+    "Founder-CEO returning brings credibility and willingness to make hard cuts (26% workforce reduction announced)",
+    "Trades below cash on per-share basis (EV $832M vs $1.4B mkt cap implies negative-enterprise-value pricing — restructuring success could rerate sharply)",
+    "Strategic partnerships intact with Microsoft, AWS, Google Cloud, Baker Hughes",
+    "Near-term Q1 FY27 earnings June 3 will be first guide under Siebel — sets the bar"
+  ],
+  "bearish_points": [
+    "Revenue declining at accelerating rate (-46% TTM growth, -53% in Q4) — top-line collapse is unresolved",
+    "FY26 net loss of $498M, ~70% wider than FY25 — cash burn is severe relative to operations",
+    "Lawsuits referenced in recent press (securities-class-action territory after revenue miss)",
+    "Operating margin -263% — there is no operating leverage at current scale",
+    "Insider activity is net selling by CEO Siebel even ahead of his return"
+  ],
+  "catalyst": "Q1 FY27 earnings June 3, 2026 — first guide under returning founder-CEO; cost savings traction + Federal Defense pipeline commentary will set the tone",
+  "catalyst_timing": "June 3, 2026 (one week)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass or speculative small spot position ahead of earnings. If buying, consider June 19 $10/$12 call spread — defined risk into the binary event. Skip larger size until restructuring shows topline stabilization.",
+  "key_risk": "Restructuring doesn't fix revenue — the issue is product/market fit at enterprise scale against horizontal AI platforms (OpenAI, Anthropic) eating their use cases. Cost-cutting only buys time.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "June 3 earnings shows another sequential revenue decline; Siebel guides FY27 below $230M; net new customer count negative"
+}

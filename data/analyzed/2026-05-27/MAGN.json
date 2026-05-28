@@ -1,0 +1,30 @@
+{
+  "ticker": "MAGN",
+  "company_name": "Magnera Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "New entity formed November 2024 via Reverse Morris Trust merger of Berry Global's Health/Hygiene Nonwovens business with Glatfelter — created the world's largest nonwovens company. Stock has been a classic spin-off orphan: bouncing between $7.82 and $15.52 in 18 months of trading, no sell-side coverage, no obvious catalyst. Q1 2026 EPS beat by 201% ($0.11 vs -$0.11 estimate) — first real evidence the combination is generating synergies, though Q4 2025 missed by 209% (showing volatility).",
+  "bullish_points": [
+    "Spin-off setup with #1 global position in nonwovens — classic underowned situation that historically outperforms",
+    "Price-to-book 0.38 — trades at significant discount to net assets; if margin recovery hits, multiple expansion alone drives 100%+",
+    "FCF $201M on $397M mkt cap = 50% FCF yield (likely depressed-Q margin distortion but still indicative)",
+    "Q1 2026 beat by 201% — first clean quarter showing post-merger synergies starting to flow through",
+    "Only 2 analysts cover the name; target mean $14.50 = 30% upside, target high $16 = 43%"
+  ],
+  "bearish_points": [
+    "Revenue declining -3.4% TTM — end markets (diapers, wipes, hygiene) are mature with low single-digit underlying growth",
+    "Earnings extremely volatile (+201%, -209%, -38% in last 3 quarters) — accounting noise from the merger isn't done washing through",
+    "Debt $1.96B vs $303M cash; D/E 189% — leverage limits multiple expansion until proven debt-paydown trajectory",
+    "Gross margin only 11.3% — commodity-like packaging business with limited pricing power",
+    "Less than 2 years as public company — institutional ownership thin (~$1B mkt cap typically gets ignored by larger funds)"
+  ],
+  "catalyst": "Q3 2026 earnings August 6 — synergy realization detail; updated FY26 guidance; potential capital allocation framework announcement",
+  "catalyst_timing": "August 6, 2026 (~2.5 months)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Small spot position. The setup is interesting (spin-off + cheap + global #1 share) but the volatile earnings + new entity + thin coverage make it more speculative than the IT/CLVT/NSP names. Consider this a 1/2x position or a buy-on-dip below $10.",
+  "key_risk": "Nonwovens overcapacity in China + commodity raw material spike + low organic growth = a structural value trap. Spin-off post-merger orphans frequently re-rate downward when the synergy hype fades.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q3 revenue declines worse than Q1; debt-paydown commentary disappoints; another earnings miss > 50% disconnect"
+}
