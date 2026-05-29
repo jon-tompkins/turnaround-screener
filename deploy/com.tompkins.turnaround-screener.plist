@@ -5,16 +5,37 @@
     <key>Label</key>
     <string>com.tompkins.turnaround-screener</string>
 
-    <!-- Run scripts/morning.sh at 9am local time, every day.
-         macOS launchd uses the Mac's TZ. If you want strict Pacific
-         regardless of where the Mac is, set TZ in EnvironmentVariables. -->
+    <!-- Run scripts/morning.sh at 7am Pacific, Mon-Fri only.
+         launchd uses TZ from EnvironmentVariables below (America/Los_Angeles).
+         Weekday convention: 1=Mon ... 5=Fri (0/7=Sun, 6=Sat). -->
     <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>9</integer>
-        <key>Minute</key>
-        <integer>0</integer>
-    </dict>
+    <array>
+        <dict>
+            <key>Hour</key><integer>7</integer>
+            <key>Minute</key><integer>0</integer>
+            <key>Weekday</key><integer>1</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>7</integer>
+            <key>Minute</key><integer>0</integer>
+            <key>Weekday</key><integer>2</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>7</integer>
+            <key>Minute</key><integer>0</integer>
+            <key>Weekday</key><integer>3</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>7</integer>
+            <key>Minute</key><integer>0</integer>
+            <key>Weekday</key><integer>4</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>7</integer>
+            <key>Minute</key><integer>0</integer>
+            <key>Weekday</key><integer>5</integer>
+        </dict>
+    </array>
 
     <key>EnvironmentVariables</key>
     <dict>

@@ -23,7 +23,7 @@ launchctl unload "$PLIST_DST" 2>/dev/null || true
 launchctl load "$PLIST_DST"
 
 echo "Installed launchd agent: $PLIST_DST"
-echo "Will fire daily at 9am Pacific."
+echo "Will fire Mon-Fri at 7am Pacific."
 echo ""
 echo "To uninstall:    launchctl unload \"$PLIST_DST\" && rm \"$PLIST_DST\""
 echo "To trigger now:  launchctl start com.tompkins.turnaround-screener"
