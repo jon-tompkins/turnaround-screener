@@ -1,0 +1,300 @@
+{
+  "ticker": "BBBY",
+  "fetched_at": "2026-06-01T09:22:07.531313",
+  "overview": {
+    "name": "Bed Bath & Beyond, Inc.",
+    "sector": null,
+    "industry": null,
+    "description": null,
+    "market_cap": 453612704,
+    "enterprise_value": null,
+    "shares_outstanding": 73938495,
+    "float_shares": null,
+    "short_ratio": null,
+    "short_percent_of_float": null,
+    "held_by_insiders": null,
+    "held_by_institutions": null,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": null,
+    "operating_margins": null,
+    "profit_margins": null,
+    "free_cashflow": null,
+    "operating_cashflow": null,
+    "total_cash": null,
+    "total_debt": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "trailing_pe": null,
+    "forward_pe": -13.745435,
+    "price_to_book": 2.1053536,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 12.65,
+    "fifty_two_week_low": 4.26,
+    "current_price": 6.135,
+    "analyst_target_mean": 9.75,
+    "analyst_target_high": 17.0,
+    "analyst_target_low": 6.0,
+    "recommendation": "buy",
+    "num_analysts": 4,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-27 16:00:00-04:00",
+        "EPS Estimate": -0.37,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-27 16:00:00-04:00",
+        "EPS Estimate": -0.25,
+        "Reported EPS": -0.25,
+        "Surprise(%)": 0.6
+      },
+      {
+        "Earnings Date": "2026-02-23 16:00:00-05:00",
+        "EPS Estimate": -0.21,
+        "Reported EPS": -0.16,
+        "Surprise(%)": 25.58
+      },
+      {
+        "Earnings Date": "2025-10-27 16:00:00-04:00",
+        "EPS Estimate": -0.31,
+        "Reported EPS": -0.19,
+        "Surprise(%)": 38.87
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 7,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 93.55475195312499,
+    "total_call_oi": 7940,
+    "total_put_oi": 1822
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last ": "Purchases",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Sales",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Total Insider Shares Held",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "CORBUS BARCLAY FLEMING",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "TABACCO JOSEPH J JR",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "PERELMAN DEBRA GOLDING",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "SHAPIRO ROBERT JACOB",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "NETTLES WILLIAM BENJAMIN JR",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 26873,
+        "URL": "",
+        "Text": "",
+        "Insider": "BURKEY JOANNA CATHERINE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 75013,
+        "URL": "",
+        "Text": "",
+        "Insider": "PUTNAM LEAH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 1500,
+        "URL": "",
+        "Text": "",
+        "Insider": "PUTNAM LEAH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-10 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 95255,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SULLIVAN AMY ERVIN",
+        "Position": "President",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 14160,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DUBOIS LISA FOLEY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.776205466280366,
+    "pct_above_200d_ma": -8.600254747673485,
+    "pct_of_100d_ma": 112.90628681978805,
+    "pct_change_1d": -0.14682383675460597,
+    "pct_change_5d": 9.303569952140034,
+    "pct_change_30d": 6.6376316577352545
+  }
+}

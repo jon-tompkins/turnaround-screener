@@ -1,0 +1,300 @@
+{
+  "ticker": "ACHC",
+  "fetched_at": "2026-06-01T09:22:15.887180",
+  "overview": {
+    "name": "Acadia Healthcare Company, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "description": "Acadia Healthcare Company, Inc. provides behavioral healthcare services in the United States and Puerto Rico. The company owns and operates acute inpatient psychiatric facilities; specialty treatment facilities comprising residential recovery facilities and eating disorder facilities; comprehensive treatment centers; and residential treatment centers, as well as facilities providing outpatient behavioral healthcare services for the behavioral healthcare and recovery needs of communities. Acadia Healthcare Company, Inc. was founded in 2005 and is headquartered in Franklin, Tennessee.",
+    "market_cap": 2163524096,
+    "enterprise_value": 4877763072,
+    "shares_outstanding": 91967027,
+    "float_shares": 85137556,
+    "short_ratio": 7.28,
+    "short_percent_of_float": 0.3806,
+    "held_by_insiders": 0.01546,
+    "held_by_institutions": 1.45973,
+    "revenue_ttm": 3371066112,
+    "revenue_growth": 0.076,
+    "gross_margins": 0.41809,
+    "operating_margins": 0.10115,
+    "profit_margins": -0.32839,
+    "free_cashflow": -216916256,
+    "operating_cashflow": 181952000,
+    "total_cash": 158472000,
+    "total_debt": 2692616960,
+    "debt_to_equity": 124.183,
+    "current_ratio": 1.711,
+    "trailing_pe": null,
+    "forward_pe": 13.563065,
+    "price_to_book": 1.0903318,
+    "ev_to_ebitda": 8.296,
+    "ev_to_revenue": 1.447,
+    "fifty_two_week_high": 30.2,
+    "fifty_two_week_low": 11.43,
+    "current_price": 23.525,
+    "analyst_target_mean": 28.46429,
+    "analyst_target_high": 39.0,
+    "analyst_target_low": 13.0,
+    "recommendation": "buy",
+    "num_analysts": 14,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-29 16:00:00-04:00",
+        "EPS Estimate": 0.37,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-29 17:00:00-04:00",
+        "EPS Estimate": 0.26,
+        "Reported EPS": 0.37,
+        "Surprise(%)": 39.68
+      },
+      {
+        "Earnings Date": "2026-02-25 07:00:00-05:00",
+        "EPS Estimate": 0.01,
+        "Reported EPS": 0.07,
+        "Surprise(%)": 593.07
+      },
+      {
+        "Earnings Date": "2025-11-05 16:00:00-05:00",
+        "EPS Estimate": 0.66,
+        "Reported EPS": 0.72,
+        "Surprise(%)": 9.15
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 7,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 67.28548339843752,
+    "total_call_oi": 608,
+    "total_put_oi": 2797
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1421810,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KELLY RALPH DAVID",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRIECO WILLIAM F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 15907,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WAUD REEVE B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CANCELMI DANIEL J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GREGG VICKY B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 11831,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BISSELL E PEROT",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 11455,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BERNHARD JASON R.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HARRIS PATRICE A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6331,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FUCCI MICHAEL J.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 37510,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FARLEY BRIAN P",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 42.93772513681935,
+    "pct_above_200d_ma": 13.142221415460508,
+    "pct_of_100d_ma": 109.24401255792992,
+    "pct_change_1d": 0.9913773046237973,
+    "pct_change_5d": 1.0785159478370554,
+    "pct_change_30d": -13.222221091941556
+  }
+}

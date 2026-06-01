@@ -1,0 +1,300 @@
+{
+  "ticker": "HELE",
+  "fetched_at": "2026-06-01T09:22:04.001191",
+  "overview": {
+    "name": "Helen of Troy Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "description": "Helen of Troy Limited operates as a consumer products company in the United States, Canada, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The Home & Outdoor segment offers food storage containers, kitchen utensils for cooking and preparing salads, fruits, vegetables and meats, graters, slicers and choppers, baking essentials, kitchen organization, bath, cleaning, infant and toddler products, and coffee preparation tools and electronics. This segment also provides insulated beverageware, including bottles, travel tumblers, drinkware and mugs, food and lunch containers, insulated totes, soft coolers, outdoor kitchenware and accessories; technical and outdoor sports packs, bike packs and bags, hydration and travel packs, duffel bags and luggage, lifestyle and everyday packs, and kid carrier packs and accessories. The Beauty & Wellness segment offers brushes, grooming tools and accessories, as well as mass, professional, and prestige hair appliances; prestige shampoos, liquid hair styling products, treatments and conditioners; nail polish, press-on nails, manicure and pedicure systems, grooming tools and nail care essentials; and thermometers, blood pressure monitors, pulse oximeters, nasal aspirators, humidifiers, faucet mount and pitcher water filtration systems, air purifiers, heaters, fans and humidification, thermometry, water filtration and air purification consumables. It sells its products through mass merchandisers, sporting goods retailers, department stores, drugstore chains, home improvement stores, grocery stores, specialty stores, prestige beauty chains, beauty supply retailers, e-commerce retailers, wholesalers, warehouse clubs and distributors, and directly to consumers under the OXO, Hydro Flask, Osprey, Vicks, Braun, Honeywell, PUR, Hot Tools, Drybar, Curlsmith, Revlon, and Olive & June brands. Helen of Troy Limited was incorporated in 1968 and is headquartered in El Paso, Texas.",
+    "market_cap": 599816192,
+    "enterprise_value": 1450147072,
+    "shares_outstanding": 23257705,
+    "float_shares": 22676728,
+    "short_ratio": 3.03,
+    "short_percent_of_float": 0.17549999,
+    "held_by_insiders": 0.02037,
+    "held_by_institutions": 0.95414,
+    "revenue_ttm": 1786290048,
+    "revenue_growth": -0.033,
+    "gross_margins": 0.45664,
+    "operating_margins": 0.067600004,
+    "profit_margins": -0.50327,
+    "free_cashflow": 155500368,
+    "operating_cashflow": 171136000,
+    "total_cash": 21867000,
+    "total_debt": 840800000,
+    "debt_to_equity": 105.337,
+    "current_ratio": 1.714,
+    "trailing_pe": null,
+    "forward_pe": 6.347792,
+    "price_to_book": 0.7456343,
+    "ev_to_ebitda": 8.735,
+    "ev_to_revenue": 0.812,
+    "fifty_two_week_high": 33.73,
+    "fifty_two_week_low": 13.85,
+    "current_price": 25.79,
+    "analyst_target_mean": 29.33333,
+    "analyst_target_high": 40.0,
+    "analyst_target_low": 23.0,
+    "recommendation": "none",
+    "num_analysts": 3,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-09 08:00:00-04:00",
+        "EPS Estimate": 0.01,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-23 06:00:00-04:00",
+        "EPS Estimate": 0.7,
+        "Reported EPS": 0.83,
+        "Surprise(%)": 17.76
+      },
+      {
+        "Earnings Date": "2026-01-08 06:00:00-05:00",
+        "EPS Estimate": 1.68,
+        "Reported EPS": 1.71,
+        "Surprise(%)": 1.9
+      },
+      {
+        "Earnings Date": "2025-10-09 06:00:00-04:00",
+        "EPS Estimate": 0.53,
+        "Reported EPS": 0.59,
+        "Surprise(%)": 12.14
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 106.25046875000001,
+    "total_call_oi": 1281,
+    "total_put_oi": 2957
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 473759,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 60716,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRASS BRIAN",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 109289,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "UZZELL GEORGE SCOTT",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CARSON VINCENT D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CASE THURMAN K",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAFF BERYL BETH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MEEKER TIMOTHY F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WOODY DARREN G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BERRY KRISTA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "OTERO ELENA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1429,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GOMEZ SADES TABATA LORENA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-02 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 35.96112741486972,
+    "pct_above_200d_ma": 28.15966530569338,
+    "pct_of_100d_ma": 136.12299254029017,
+    "pct_change_1d": -3.4635174939153135,
+    "pct_change_5d": 2.1442540061943793,
+    "pct_change_30d": 38.91834525476756
+  }
+}
