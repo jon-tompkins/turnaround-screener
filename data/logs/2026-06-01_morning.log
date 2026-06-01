@@ -1311,3 +1311,22 @@ Screening 9905 tickers...
 
 
 === Mon Jun  1 09:22:22 PDT 2026 STAGE 2: Commit + push screener output ===
+[main 92e1fef] Screener output 2026-06-01
+ 11 files changed, 4495 insertions(+)
+ create mode 100644 data/logs/2026-06-01_morning.log
+ create mode 100644 data/logs/launchd.err
+ create mode 100644 data/logs/launchd.out
+ create mode 100644 data/pending/2026-06-01/ACHC.json
+ create mode 100644 data/pending/2026-06-01/BBBY.json
+ create mode 100644 data/pending/2026-06-01/BKKT.json
+ create mode 100644 data/pending/2026-06-01/CNXC.json
+ create mode 100644 data/pending/2026-06-01/HELE.json
+ create mode 100644 data/pending/2026-06-01/SPSC.json
+ create mode 100644 data/reports/2026-06-01.md
+To https://github.com/jon-tompkins/turnaround-screener.git
+   8865f6b..92e1fef  main -> main
+
+=== Mon Jun  1 09:22:24 PDT 2026 STAGE 3: Claude analysis (headless) ===
+Invoking /Users/jonathantompkins/.npm-global/bin/claude -p '/morning' ...
+Invalid API key · Please run /login
+  Claude analysis exited non-zero. Pending dossiers remain in data/pending/ — re-run interactively with /morning later.
