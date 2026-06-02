@@ -1,0 +1,30 @@
+{
+  "ticker": "BBBY",
+  "company_name": "Bed Bath & Beyond, Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "turnaround_reason": "BBBY is the post-bankruptcy reincarnation of the legacy retailer (likely Beyond, Inc./Overstock rebrand). The dossier is extremely thin on fundamentals (no revenue, margins, or debt data populated), and the equity has been a meme-and-narrative vehicle, not a real recovery story yet.",
+  "bullish_points": [
+    "Holding above the 100-day MA with positive 5d/30d momentum (+9%/+7%)",
+    "Negative-EPS surprises have been moderating (smaller losses than expected)",
+    "Options market is active (7,940 call OI vs 1,822 put OI) — bullish positioning",
+    "Analyst mean target $9.75 implies ~59% upside from $6.14"
+  ],
+  "bearish_points": [
+    "Dossier is missing critical financials — sector, industry, revenue, debt, cash all null",
+    "Negative forward P/E (-13.7) confirms continued expected losses",
+    "Only 4 analysts cover; high meme-stock retail dependence",
+    "Insider activity is grants only — no open-market buying conviction",
+    "Burns cash and competing in a brutal home-goods category with Wayfair, Amazon, Target",
+    "Brand is damaged goods; previous BBBY equity was wiped out"
+  ],
+  "catalyst": "Q2 2026 earnings or a strategic announcement (acquisition, partnership, capital raise)",
+  "catalyst_timing": "Q2 2026 earnings on 2026-07-27",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Skip. If forced, tiny lottery-ticket Jan 2027 $10 calls only",
+  "key_risk": "Continued cash burn forcing dilutive equity raise, or revenue trajectory failing to support brand revival narrative",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "Default — skip. Only revisit if fundamentals populate and show real revenue traction"
+}

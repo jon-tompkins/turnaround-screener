@@ -1,0 +1,32 @@
+{
+  "ticker": "HELE",
+  "company_name": "Helen of Troy Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Helen of Troy was hit by retailer destocking, OXO/Hydro Flask brand softness, tariff exposure, and a big goodwill write-down driving GAAP losses. The stock has already ripped +39% in 30 days post-earnings beat, suggesting the turnaround leg is underway but late-entry risk is high.",
+  "bullish_points": [
+    "Two consecutive EPS beats with Q4 surprise +17.8%",
+    "Trading 28% above the 200-day MA with strong 30-day momentum (+39%)",
+    "$155M positive free cash flow at $600M market cap — FCF yield 26%",
+    "Forward P/E 6.3x reflects deep value if revenue stabilizes",
+    "Strong brand portfolio (OXO, Hydro Flask, Osprey, Vicks) with category leadership",
+    "Price-to-book 0.75x — trading below tangible asset value"
+  ],
+  "bearish_points": [
+    "Revenue declining -3.3% YoY; profit margin -50% TTM (impairment-driven)",
+    "$841M debt vs $22M cash; debt-to-equity 105x",
+    "Zero insider open-market buying despite the prolonged drawdown",
+    "Already up ~85% off the 52-week low — momentum chase risk",
+    "Tariff/China supply exposure remains structural risk",
+    "Implied vol of 106% suggests options market expects continued volatility — premium expensive"
+  ],
+  "catalyst": "Q1 FY27 earnings (July 9) — the next test of the recovery thesis",
+  "catalyst_timing": "Earnings on 2026-07-09",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, sized small — options too expensive given IV. Better setup is to wait for pullback to $20-22 area",
+  "key_risk": "Q1 print misses or guides down on tariff hit, triggering 25%+ retrace given the recent run-up",
+  "estimated_upside_pct": 25,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Earnings disappoint; tariff news worsens; price gets within 10% of 52w high before reset"
+}

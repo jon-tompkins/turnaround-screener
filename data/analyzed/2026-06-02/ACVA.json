@@ -1,0 +1,32 @@
+{
+  "ticker": "ACVA",
+  "company_name": "ACV Auctions Inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto & Truck Dealerships",
+  "turnaround_reason": "ACV Auctions was crushed alongside the used-car cycle bust and broader unprofitable-growth SaaS sell-off. Revenue is reaccelerating (+11.8% YoY), insiders have been net buyers (2.45M shares net), and the operating cash flow has turned positive.",
+  "bullish_points": [
+    "Net insider purchases of 2.45M shares (19 buys vs 3 sells) — strong cluster buying",
+    "CEO Chamoun made open-market buy at $5.05 in March — bought near the lows",
+    "Revenue growing 11.8% YoY with positive operating cash flow ($88M)",
+    "$341M cash vs $246M debt — net cash position",
+    "30-day momentum +23%, suggesting basing is resolving up",
+    "12 analysts cover with mean target $9.34 (+47% upside)"
+  ],
+  "bearish_points": [
+    "Still losing money: profit margin -8% TTM, operating margin -4.5%",
+    "Forward P/E 19x not screamingly cheap given growth profile",
+    "Used-car wholesale cycle remains pressured by elevated rates and OEM glut",
+    "Still 16% below the 200-day MA — basing thesis dependent on cycle turn",
+    "Most recent insider 'grants' are stock awards, not open-market buys",
+    "Competitive pressure from Manheim/ADESA/incumbent players"
+  ],
+  "catalyst": "Q2 earnings showing continued GMV growth and progression toward sustained profitability",
+  "catalyst_timing": "Q2 earnings on 2026-08-10",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position; or Jan 2027 $7 calls for leveraged exposure if used-car cycle turns",
+  "key_risk": "Used-car wholesale volumes decline further or take rate compresses on competitive pricing",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 revenue growth decelerates below 8%; cash flow turns negative again; insider buying stops"
+}

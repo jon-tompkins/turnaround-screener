@@ -1,0 +1,31 @@
+{
+  "ticker": "ACHC",
+  "company_name": "Acadia Healthcare Company, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "turnaround_reason": "Acadia was crushed by short-seller reports, DOJ/SEC investigations into patient-holding practices at psychiatric facilities, and concerns about admissions integrity. With litigation overhangs partially digested and earnings beating handily for two straight quarters, the operating story may be inflecting.",
+  "bullish_points": [
+    "Two consecutive massive EPS beats (Q4 593% surprise, Q1 40% surprise) suggest operations stabilizing",
+    "Price has reclaimed the 200-day MA (+13%) with 38% short interest providing squeeze fuel",
+    "Forward P/E of 13.5 is reasonable; analyst mean target $28.46 implies ~21% upside",
+    "Real cash-flow generating business ($182M operating cash flow) with secular tailwind in behavioral health demand",
+    "EV/EBITDA of 8.3x is depressed vs historical mid-teens multiple"
+  ],
+  "bearish_points": [
+    "Net loss TTM (-32.8% profit margin) reflects ongoing litigation/settlement costs",
+    "$2.69B debt vs $158M cash — debt-to-equity of 124 is heavy",
+    "Free cash flow remains negative ($-217M)",
+    "Zero insider open-market buying despite the drawdown — only stock grants",
+    "Regulatory/legal overhang on admissions practices not fully resolved; risk of new probes",
+    "30-day price change is -13%, suggesting recent momentum stalled"
+  ],
+  "catalyst": "Q2 2026 earnings — a third consecutive beat would confirm the operational turnaround and force shorts (38% of float) to cover",
+  "catalyst_timing": "Q2 2026 earnings on 2026-07-29",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Jan 2027 $25 calls or call spread $25/$35 sized small to capture earnings squeeze",
+  "key_risk": "New regulatory action or whistleblower revelation reigniting the DOJ overhang; admissions volume guidance disappointment on Q2 print",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 print misses or guidance is cut; any fresh DOJ/SEC headline; if 30-day momentum stays negative into earnings"
+}

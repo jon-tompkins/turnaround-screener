@@ -1,0 +1,32 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix was crushed by the AI-replaces-BPO narrative and a debt-heavy Webhelp merger digestion. The basing setup reflects that fundamentals are still solid ($517M FCF, growing revenue) but the market remains skeptical of structural AI displacement of customer-experience outsourcing.",
+  "bullish_points": [
+    "Massive free cash flow generation ($517M FCF) at a $1.78B market cap — FCF yield ~29%",
+    "Forward P/E of 2.3x is one of the cheapest in S&P 1500",
+    "CEO Caldwell and CFO Valentine both made open-market purchases in Q1 2026 (small but signal)",
+    "Revenue growing 5.4% YoY despite AI overhang",
+    "Analyst target mean $41.25 implies ~41% upside",
+    "Company is pivoting into agentic AI/GenAI services as a hedge against displacement"
+  ],
+  "bearish_points": [
+    "GBL (>10% holder) sold 6M shares at $22.25 in April — large institutional exit",
+    "Net insider activity is -5.76M shares (sellers dominate)",
+    "$5.69B debt and 204% debt-to-equity is heavy for a services business",
+    "Profit margins are -13.3% TTM (likely Webhelp amortization), masking real economics",
+    "20% short interest reflects structural AI bear thesis",
+    "Negative 200d MA gap of -21% — still firmly in downtrend on longer timeframe"
+  ],
+  "catalyst": "Q2 2026 earnings (June 25) to demonstrate AI products are taking share, not losing it",
+  "catalyst_timing": "Q2 earnings on 2026-06-25",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position with Jan 2027 $30 calls for upside leverage; consider call spread $30/$45",
+  "key_risk": "Q2 print shows AI displacement accelerating (revenue declines, margin compression) — this is the bear case landing",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 revenue decelerates below 0% or operating margins compress further; if GBL continues exiting"
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "NSP",
+  "company_name": "Insperity, Inc.",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "turnaround_reason": "Insperity was crushed by SMB employment softness, healthcare cost inflation pressuring PEO margins, and a competitive Workday partnership investment dragging earnings. The Q1 beat and price recovery to the 200-day MA suggest the operating reset is taking hold.",
+  "bullish_points": [
+    "Just reclaimed 200-day MA (+0.6%) with strong 16% 30-day and 5-day momentum — recovering setup",
+    "Q1 EPS beat +6.2% after two prior misses — inflection point",
+    "$555M cash vs $430M debt — net cash position",
+    "Forward P/E 13.1x reasonable for a profitable services franchise",
+    "EV/Revenue 0.19x is extremely cheap",
+    "4 analysts with mean target $39.50 (+8% upside) — modest but supportive"
+  ],
+  "bearish_points": [
+    "Zero insider open-market buying despite -43% drawdown — director grants only",
+    "Two consecutive earnings missed badly before Q1 (Q4 -28.9%, Q3 -190%)",
+    "Revenue growth only 1.7% YoY — SMB market remains soft",
+    "EV/EBITDA 85x reflects compressed earnings (margins not yet recovered)",
+    "Operating margin only 3.3%, profit margin -0.4% (TTM loss)",
+    "Held by institutions 110% (>100% means heavily owned including short borrows) — crowded",
+    "Workday partnership investment may continue to drag near-term results"
+  ],
+  "catalyst": "Q2 earnings demonstrating continued margin recovery and SMB hiring stabilization",
+  "catalyst_timing": "Q2 earnings on 2026-07-30",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — options have low OI (185 calls, 655 puts) and thin pricing. Wait for pullback to $32-33 area for better entry",
+  "key_risk": "SMB employment weakens further; healthcare cost trend reaccelerates compressing PEO margins; Q2 reverts to a miss",
+  "estimated_upside_pct": 25,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 misses or guides down; SMB employment data weakens; rally continues without insider buys to confirm"
+}

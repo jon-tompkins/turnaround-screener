@@ -1,0 +1,32 @@
+{
+  "ticker": "SPSC",
+  "company_name": "SPS Commerce, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "turnaround_reason": "SPS Commerce, a steady supply-chain SaaS compounder, lost over 60% from its high on growth deceleration concerns and the broader SaaS de-rating. With 6 consecutive EPS beats and net insider buying of ~446K shares, the basing setup looks like a healthy reset of a quality business.",
+  "bullish_points": [
+    "Six consecutive EPS beats including +24% and +13% recent surprises",
+    "Net insider purchases of 446K shares in last 6m (15 buys vs 8 sells) — real conviction",
+    "Profitable (12% net margin), FCF positive ($152M FCF on $762M revenue = 20% FCF margin)",
+    "Clean balance sheet: $154M cash vs $6.6M debt; current ratio 2.1x",
+    "Forward P/E 11.3x is exceptionally cheap for a profitable SaaS with 5.8% revenue growth",
+    "11 analysts with mean target $68 (+15% upside) and high $103"
+  ],
+  "bearish_points": [
+    "Revenue growth has decelerated to 5.8% from historical low-double-digits",
+    "P/B of 2.3x and EV/Revenue of 2.5x not screamingly cheap on those metrics",
+    "Still -27% below the 200-day MA — long downtrend not yet broken",
+    "Insider 'purchases' include conversions/exercises — not all open-market conviction",
+    "SaaS multiples remain compressed sector-wide",
+    "Sponsored by retail-EDI demand which faces secular shifts"
+  ],
+  "catalyst": "Q2 2026 earnings demonstrating revenue re-acceleration or stable growth — would re-rate the multiple",
+  "catalyst_timing": "Q2 earnings on 2026-08-06",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position; or Jan 2027 $60 calls for leveraged upside on multiple re-rating",
+  "key_risk": "Revenue growth decelerates below 5% next print, killing the 'quality compounder at a discount' thesis",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 revenue growth comes in below 5% or guidance is reduced; insider buying turns to selling"
+}

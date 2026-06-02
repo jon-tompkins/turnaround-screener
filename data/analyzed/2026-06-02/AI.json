@@ -1,0 +1,32 @@
+{
+  "ticker": "AI",
+  "company_name": "C3.ai, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "turnaround_reason": "C3.ai collapsed -63% from the AI-hype highs as revenue plunged -46% YoY and the company suffered a CEO transition (Siebel out, Ehikian in). Despite the AI tailwind narrative, fundamentals are deteriorating, not improving. The price bounce off lows is more reflexive than fundamental.",
+  "bullish_points": [
+    "Massive cash cushion: $622M cash vs $60M debt; current ratio 6.6x",
+    "Earnings tomorrow (June 3) — binary catalyst with high IV opportunity",
+    "30-day momentum +20%; basing above 100-day MA",
+    "35% short interest — squeeze fuel if guidance impresses",
+    "AI/agentic AI narrative remains highly fundable; brand recognition"
+  ],
+  "bearish_points": [
+    "Revenue collapsed -46% YoY — this is not a 'turnaround,' it's an acceleration of decline",
+    "Operating margin -264% and burning $125M of operating cash annually",
+    "Founder/CEO Siebel sold heavily ($4.2M+) in May after exercising options at $2",
+    "Analyst mean target $8.82 implies -22% DOWNSIDE from current price",
+    "Forward P/E -13.4 (still loss-making for the foreseeable future)",
+    "Net insider activity is roughly neutral but skewed to large insider sales by Siebel",
+    "Three of last four earnings missed; -75% and -24% misses"
+  ],
+  "catalyst": "Q4 FY26 earnings June 3 (tomorrow) — binary event",
+  "catalyst_timing": "Earnings on 2026-06-03 (immediate)",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Skip. If anything, bear put spread $11/$8 for the earnings print given analyst targets imply downside",
+  "key_risk": "Earnings beat and bookings surprise to upside drive a squeeze — the bear thesis can get run over short-term",
+  "estimated_upside_pct": 30,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Default skip. CEO is selling, analysts see downside, revenue is collapsing — too many red flags"
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "GPK",
+  "company_name": "Graphic Packaging Holding Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "turnaround_reason": "Graphic Packaging was sold off on weak paperboard pricing, volume softness in CPG end markets, and concerns over high leverage. Multiple insider directors recently bought shares at $9.84-$11.36, signaling confidence the cycle is bottoming.",
+  "bullish_points": [
+    "Cluster insider buying: 4 directors bought ~$700K combined in March-May at $9.84-$11.36",
+    "Net insider purchases 301K shares (32 buys vs 1 sell) — strong directional signal",
+    "Profitable with $187M FCF, 3.2% profit margin — solid free cash generator at 5.8% FCF yield",
+    "Forward P/E 9.2x, P/B 0.99x — trading at tangible book value",
+    "Recent EPS beat +48% suggests volume/price stabilizing",
+    "Stable end-market (food, beverage CPG packaging) with secular tailwind from plastic-to-paper conversion"
+  ],
+  "bearish_points": [
+    "$5.79B debt vs $190M cash — 178% debt-to-equity is heavy in a rising-rate environment",
+    "Revenue growth only 1.7% YoY — mature, low-growth business",
+    "Hold-rated by analysts; mean target $11.79 only +9% upside",
+    "Two prior earnings missed (-16.9%, -7.1%)",
+    "Still -24% below 200-day MA — basing, not breaking out",
+    "Operating margin only 4.1% — limited room for cost pressure"
+  ],
+  "catalyst": "Q2 earnings showing volume stabilization and confirmation of paperboard pricing turn",
+  "catalyst_timing": "Q2 earnings on 2026-07-28",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position — the trade is income/value with optionality on cycle turn. Options unattractive given low IV won't pay enough",
+  "key_risk": "Paperboard pricing weakens further or volumes deteriorate; high leverage forces dividend cut or equity raise",
+  "estimated_upside_pct": 30,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Insider buying reverses; Q2 volumes/pricing miss; debt-refinancing risk emerges"
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "MAGN",
+  "company_name": "Magnera Corporation",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Magnera is a recently-spun-off non-wovens manufacturer (medical garments, wipes, diapers) trading at a deep discount to peers. The post-spin orphan dynamic compressed the multiple, but the company is FCF positive and just put up a massive Q1 beat (+201% surprise).",
+  "bullish_points": [
+    "Q1 2026 EPS beat +201% (reported $0.11 vs -$0.11 estimate) — major positive surprise",
+    "Strong free cash flow ($201M FCF on $417M market cap — 48% FCF yield)",
+    "Forward P/E 7.0x and P/B 0.40x — multi-bagger valuation if margins normalize",
+    "Trading right at the 200-day MA with positive 30d momentum (+5.9%)",
+    "EV/EBITDA 6.4x is cheap for a defensive consumer-products manufacturer",
+    "Strong cash position ($303M) provides flexibility for debt paydown"
+  ],
+  "bearish_points": [
+    "Newer ticker (post-spin) means limited operating history as standalone — Q4 missed by -209%",
+    "Revenue declining -3.4% YoY",
+    "$1.96B debt vs $303M cash; debt-to-equity 189% is heavy",
+    "Only 2 analysts cover — limited sell-side validation",
+    "Zero recent insider open-market buying (only option conversions)",
+    "Gross margin only 11.3% — thin-margin manufacturing business with limited pricing power",
+    "Earnings highly volatile (alternating beats/misses post-spin)"
+  ],
+  "catalyst": "Q2 earnings confirming Q1 was sustainable, not a one-off; debt paydown progress",
+  "catalyst_timing": "Q2 earnings on 2026-08-06",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position — options have very thin OI (576 calls, 48 puts), avoid",
+  "key_risk": "Q2 earnings revert to a miss (proving Q1 was lumpy); non-wovens pricing pressure resumes; debt overhang",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 reverts to a miss; insider activity remains absent; revenue declines accelerate"
+}
