@@ -1,0 +1,300 @@
+{
+  "ticker": "AVTX",
+  "fetched_at": "2026-06-02T08:42:05.939385",
+  "overview": {
+    "name": "Avalo Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Avalo Therapeutics, Inc., a clinical stage biotechnology company, develops IL-1\u00df-based treatments for immune-mediated inflammatory diseases in the Unites States. Its lead product includes AVTX-009, a humanized monoclonal antibody that binds to interleukin-1\u00df, which is in phase 2 clinical trial to treat inflammatory diseases. The company was formerly known as Cerecor Inc. and changed its name to Avalo Therapeutics, Inc. in August 2021. Avalo Therapeutics, Inc. was incorporated in 2011 and is headquartered in Wayne, Pennsylvania.",
+    "market_cap": 766406016,
+    "enterprise_value": 746242752,
+    "shares_outstanding": 52565572,
+    "float_shares": 40251561,
+    "short_ratio": 2.69,
+    "short_percent_of_float": 0.1192,
+    "held_by_insiders": 0.01735,
+    "held_by_institutions": 0.74862,
+    "revenue_ttm": 59000,
+    "revenue_growth": null,
+    "gross_margins": 0.0,
+    "operating_margins": -1341.644,
+    "profit_margins": 0.0,
+    "free_cashflow": -23247124,
+    "operating_cashflow": -59692000,
+    "total_cash": 81993000,
+    "total_debt": 328000,
+    "debt_to_equity": 0.48,
+    "current_ratio": 7.658,
+    "trailing_pe": null,
+    "forward_pe": -5.0801396,
+    "price_to_book": 5.2578435,
+    "ev_to_ebitda": -9.454,
+    "ev_to_revenue": 12648.182,
+    "fifty_two_week_high": 24.27,
+    "fifty_two_week_low": 4.06,
+    "current_price": 14.58,
+    "analyst_target_mean": 46.18182,
+    "analyst_target_high": 60.0,
+    "analyst_target_low": 34.0,
+    "recommendation": "none",
+    "num_analysts": 11,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-12 08:00:00-04:00",
+        "EPS Estimate": -0.63,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-13 07:00:00-04:00",
+        "EPS Estimate": -1.03,
+        "Reported EPS": -0.98,
+        "Surprise(%)": 4.44
+      },
+      {
+        "Earnings Date": "2026-03-23 07:00:00-04:00",
+        "EPS Estimate": -1.49,
+        "Reported EPS": -0.37,
+        "Surprise(%)": 75.25
+      },
+      {
+        "Earnings Date": "2025-11-06 07:00:00-05:00",
+        "EPS Estimate": -1.64,
+        "Reported EPS": -2.19,
+        "Surprise(%)": -33.7
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-11-20",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 102.83251708984378,
+    "total_call_oi": 2397,
+    "total_put_oi": 466
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 629040.0,
+        "Trans": 20
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 318085.0,
+        "Trans": 11
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 310955.0,
+        "Trans": 31
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 912012.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.517,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 1.0469999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.52900004,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 100200,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "NEIL GARRY A. M.D.",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 24300,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VARKI PAUL C. J.D.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 39900,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SULLIVAN CHRISTOPHER RYAN",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 43500,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DOYLE MITTIE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 34200,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RILEY JENNIFER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3000,
+        "Value": 37950.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 12.65 per share.",
+        "Insider": "DOYLE MITTIE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3000,
+        "Value": 56280.0,
+        "URL": "",
+        "Text": "Sale at price 18.76 per share.",
+        "Insider": "DOYLE MITTIE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18606,
+        "Value": 183827.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 9.88 per share.",
+        "Insider": "SULLIVAN CHRISTOPHER RYAN",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18606,
+        "Value": 448818.0,
+        "URL": "",
+        "Text": "Sale at price 24.12 per share.",
+        "Insider": "SULLIVAN CHRISTOPHER RYAN",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 75063,
+        "Value": 940382.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.04 - 13.43 per share.",
+        "Insider": "VARKI PAUL C. J.D.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-06 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 6.24887423917422,
+    "pct_above_200d_ma": -4.125671285856269,
+    "pct_of_100d_ma": 93.07995482611673,
+    "pct_change_1d": -6.920635889446924,
+    "pct_change_5d": -8.489391832023784,
+    "pct_change_30d": 0.0
+  }
+}

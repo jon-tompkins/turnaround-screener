@@ -1,0 +1,300 @@
+{
+  "ticker": "MAGN",
+  "fetched_at": "2026-06-02T08:42:10.433849",
+  "overview": {
+    "name": "Magnera Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "description": "Magnera Corporation manufactures and sells non-woven and related products worldwide. It sells its products primarily into consumer-oriented end markets, such as healthcare, and personal care. The company offers personal care and consumer solution products and components of products including medical garments, wipes, dryer sheets, filtration, baby diapers and adult incontinence. The company also offers tea bags, coffee filters, wipes, cable wrap, filtration, baby diapers and adult incontinence. The company is headquartered in Charlotte, North Carolina.",
+    "market_cap": 416876000,
+    "enterprise_value": 2069848064,
+    "shares_outstanding": 35600000,
+    "float_shares": 27125302,
+    "short_ratio": 7.58,
+    "short_percent_of_float": 0.089899994,
+    "held_by_insiders": 0.011519999,
+    "held_by_institutions": 1.04642,
+    "revenue_ttm": 3265999872,
+    "revenue_growth": -0.034,
+    "gross_margins": 0.113290004,
+    "operating_margins": 0.04146,
+    "profit_margins": -0.03368,
+    "free_cashflow": 201000000,
+    "operating_cashflow": 185000000,
+    "total_cash": 303000000,
+    "total_debt": 1959000064,
+    "debt_to_equity": 188.547,
+    "current_ratio": 2.326,
+    "trailing_pe": null,
+    "forward_pe": 6.9589715,
+    "price_to_book": 0.40348703,
+    "ev_to_ebitda": 6.448,
+    "ev_to_revenue": 0.634,
+    "fifty_two_week_high": 15.52,
+    "fifty_two_week_low": 7.82,
+    "current_price": 11.71,
+    "analyst_target_mean": 14.5,
+    "analyst_target_high": 16.0,
+    "analyst_target_low": 13.0,
+    "recommendation": "none",
+    "num_analysts": 2,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 08:00:00-04:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 17:00:00-04:00",
+        "EPS Estimate": -0.11,
+        "Reported EPS": 0.11,
+        "Surprise(%)": 201.27
+      },
+      {
+        "Earnings Date": "2026-02-05 16:00:00-05:00",
+        "EPS Estimate": 0.1,
+        "Reported EPS": -0.11,
+        "Surprise(%)": -209.17
+      },
+      {
+        "Earnings Date": "2025-11-25 16:00:00-05:00",
+        "EPS Estimate": 0.13,
+        "Reported EPS": 0.08,
+        "Surprise(%)": -37.63
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 70.312796875,
+    "total_call_oi": 576,
+    "total_put_oi": 48
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 412415,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1571,
+        "Value": 20344.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 12.95 per share.",
+        "Insider": "UREY JILL L",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-02-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 205,
+        "Value": 2671.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 13.03 per share.",
+        "Insider": "UREY JILL L",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-02-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": 81044.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "BROWN BRUCE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": 81044.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "FOGARTY KEVIN MICHAEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": 81044.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "MARNICK SAMANTHA J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18208,
+        "Value": 155314.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "BEGLE CURTIS L",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": 81044.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "CURLESS MICHAEL S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4749,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "TILL JAMES M.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "HALL MARY DEAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9501,
+        "Value": 81044.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 8.53 per share.",
+        "Insider": "SALMON TOM",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-04 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.66409234809959,
+    "pct_above_200d_ma": -0.24831994947440705,
+    "pct_of_100d_ma": 99.98209648617832,
+    "pct_change_1d": 1.4705805921178872,
+    "pct_change_5d": 9.116274811500723,
+    "pct_change_30d": 5.866422590306852
+  }
+}

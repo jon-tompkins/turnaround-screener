@@ -1,0 +1,300 @@
+{
+  "ticker": "ACVA",
+  "fetched_at": "2026-06-02T08:42:08.228489",
+  "overview": {
+    "name": "ACV Auctions Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships",
+    "description": "ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to see real-time transportation quotes; ACV capital, a short-term inventory financing services for buyers to purchase vehicles; and Go Green customer assurance services for claims against defects in the vehicle. It also provides remarketing centers, which offers value-added services, such as vehicle reconditioning and storage to facilitate auction business with commercial partners, such as fleet, rental car, and financial sector consignors. In addition, the company offers data services, including True360 report, which provides cosmetic and structural vehicle assessments integrated into vehicle history reports for dealer to make wholesale and retail transaction decisions on and off the marketplace; ACV market report provides transaction data and condition reports for comparable used vehicles, including pricing data from third-party sources and allows dealers to determine pricing and valuation strategies for used vehicles; and ACV MAX inventory management software that enables dealers to manage their inventory and set pricing while turning vehicles. Further, it provides data and technology through inspection, such as condition reports, virtual lift solutions, Apex device, and vehicle intelligence platform; and marketplace enablement, comprising MyACV application, private marketplaces, operations automation, live appraisals, and programmatic buying service. ACV Auctions Inc. was incorporated in 2014 and is headquartered in Buffalo, New York.",
+    "market_cap": 1110359936,
+    "enterprise_value": 1046815232,
+    "shares_outstanding": 174584894,
+    "float_shares": 159120164,
+    "short_ratio": 4.9,
+    "short_percent_of_float": 0.1092,
+    "held_by_insiders": 0.04434,
+    "held_by_institutions": 0.95322,
+    "revenue_ttm": 781100992,
+    "revenue_growth": 0.118,
+    "gross_margins": 0.27105,
+    "operating_margins": -0.045229997,
+    "profit_margins": -0.07965,
+    "free_cashflow": 3581625,
+    "operating_cashflow": 88118000,
+    "total_cash": 340969984,
+    "total_debt": 246000000,
+    "debt_to_equity": 57.087,
+    "current_ratio": 1.471,
+    "trailing_pe": null,
+    "forward_pe": 19.099674,
+    "price_to_book": 2.5696971,
+    "ev_to_ebitda": -33.802,
+    "ev_to_revenue": 1.34,
+    "fifty_two_week_high": 17.16,
+    "fifty_two_week_low": 4.065,
+    "current_price": 6.36,
+    "analyst_target_mean": 9.34167,
+    "analyst_target_high": 16.0,
+    "analyst_target_low": 5.6,
+    "recommendation": "buy",
+    "num_analysts": 12,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-10 16:00:00-04:00",
+        "EPS Estimate": 0.05,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 16:00:00-04:00",
+        "EPS Estimate": 0.03,
+        "Reported EPS": 0.04,
+        "Surprise(%)": 32.44
+      },
+      {
+        "Earnings Date": "2026-02-23 16:00:00-05:00",
+        "EPS Estimate": -0.01,
+        "Reported EPS": -0.01,
+        "Surprise(%)": 49.11
+      },
+      {
+        "Earnings Date": "2025-11-05 16:00:00-05:00",
+        "EPS Estimate": 0.06,
+        "Reported EPS": 0.07,
+        "Surprise(%)": 8.58
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-11-20",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 96.48441015625,
+    "total_call_oi": 3367,
+    "total_put_oi": 1513
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 2457631.0,
+        "Trans": 19
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 5250.0,
+        "Trans": 3
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 2452381.0,
+        "Trans": 22
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 7741094.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.46400002,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.465,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.0,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 27500,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CASTILLO KIRSTEN M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 27500,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HIRSCH BRIAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 500221,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CHAMOUN GEORGE G",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 276276,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ZERELLA WILLIAM",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 194348,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FITZGERALD LEANNE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 269069,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WATERMAN MICHAEL G",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 194348,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ANDERSON CRAIG ERIC",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 300300,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MEHTA VIKAS",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 28736,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PEER ANDREW",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 24272,
+        "Value": 122574.0,
+        "URL": "",
+        "Text": "Purchase at price 5.05 per share.",
+        "Insider": "CHAMOUN GEORGE G",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-09 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.29118525251103,
+    "pct_above_200d_ma": -15.977050998692954,
+    "pct_of_100d_ma": 105.32308520446148,
+    "pct_change_1d": -3.8226299917158646,
+    "pct_change_5d": 5.360137067125503,
+    "pct_change_30d": 23.333334891624723
+  }
+}
