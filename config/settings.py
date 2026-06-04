@@ -56,10 +56,11 @@ BASING_MIN_PCT_OF_100D_MA = 0.85    # above 85% of 100d MA (not still falling)
 REQUIRE_POSITIVE_5D_CHANGE = True   # 5-day price change > 0
 MAX_DAILY_DROP_PCT = -10.0          # exclude if down >10% today
 
-# Sanity filters (avoid penny stocks, micro caps, illiquid names)
-MIN_PRICE = 2.00                # avoid sub-$2 stocks (no usable options)
-MIN_MARKET_CAP = 250_000_000    # $250M minimum for option liquidity
-MIN_AVG_DOLLAR_VOLUME = 5_000_000  # $5M/day liquidity
+# Sanity filters (avoid micro caps, illiquid names)
+# Loosened 2026-06-04: going spot rather than options, no min price needed
+MIN_PRICE = 0.0
+MIN_MARKET_CAP = 100_000_000    # $100M minimum
+MIN_AVG_DOLLAR_VOLUME = 2_000_000  # $2M/day liquidity
 
 # Data requirements
 MIN_HISTORY_DAYS = 1000         # need ~4 years for 200w MA
