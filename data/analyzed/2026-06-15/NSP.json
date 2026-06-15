@@ -1,0 +1,30 @@
+{
+  "ticker": "NSP",
+  "company_name": "Insperity, Inc.",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "turnaround_reason": "NSP crashed from $63 to the $18s (72% decline) as the PEO model faced margin compression and earnings misses (Q3/Q4 2025 showed negative EPS surprises of -28.9% and -190%). Q1 2026 beat by 6.2%, CEO Paul Sarvadi bought $7.9M of stock at $34.05 in June 2026, and the stock is recovering +28% in 30 days — suggesting the worst may be priced in.",
+  "bullish_points": [
+    "CEO Sarvadi bought 233,000 shares at $34.05 ($7.9M) on June 3, 2026 — massive insider conviction signal at current levels",
+    "Q1 2026 beat ($1.31 vs $1.23 est, +6.2%) after two disastrous quarters suggests earnings inflection",
+    "Stock is 47% of its 200-week MA and just 2% above 200-day MA — still deeply oversold on long-term basis",
+    "Forward PE of 12.6x with $6.8B revenue TTM is reasonable for a PEO with operating leverage",
+    "Short interest at 13.6% of float could fuel covering rally if momentum continues"
+  ],
+  "bearish_points": [
+    "Profit margins at -0.37% TTM — the company is currently unprofitable on a trailing basis",
+    "Debt-to-equity of 642x is extreme; $430M debt vs $555M cash leaves thin net cash",
+    "Q3 and Q4 2025 were disastrous (-28.9% and -190% EPS misses) — one good quarter doesn't make a trend",
+    "Operating margins only 3.3% — limited cushion for further macro headwinds",
+    "Current ratio of 1.09 is tight for a company with significant obligations"
+  ],
+  "catalyst": "Q2 2026 earnings (July 30, 2026) — second consecutive beat would confirm earnings inflection and likely drive short covering",
+  "catalyst_timing": "Q2 2026 earnings July 30, 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — options have low OI (186 calls, 652 puts) and 81% ATM IV is too rich. Consider small position with stop below $30.",
+  "key_risk": "Q2 earnings miss reverts the inflection narrative and sends the stock back toward $25 support failure",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 2026 earnings miss; CEO selling shares; PEO industry macro deterioration"
+}

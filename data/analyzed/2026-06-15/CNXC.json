@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "CNXC dropped from $62 to $22 (-64%) after the Webhelp acquisition inflated the balance sheet with $5.7B debt, causing margin compression and goodwill concerns. Q1 2026 showed a strong beat (EPS $2.61 vs $2.65 est, near consensus after Q4 2025 freefall) with management pivoting to AI-driven CX and GenAI services. Stock is basing near $27 with insider buying from CEO and CFO.",
+  "bullish_points": [
+    "Forward PE of only 2.1x (likely GAAP-distorted by goodwill/amortization) and EV/Revenue of 0.71x — deeply cheap on revenue basis for a $10B revenue company",
+    "EV/EBITDA of 5.7x is value-territory for a tech services company with AI tailwinds",
+    "Q1 2026 earnings stabilized after Q4 2025 disaster — revenue holding at $2.5B/quarter with AI/CX wins highlighted on call",
+    "CEO Caldwell bought $37K and CFO Valentine bought $70K in open-market purchases at $27-28 range",
+    "Price/book of 0.59x — trading well below book value suggests deep undervaluation or balance sheet concerns priced in"
+  ],
+  "bearish_points": [
+    "Massive debt: $5.7B total debt, D/E of 204x — Webhelp acquisition levered the company to the hilt",
+    "GBL (Groupe Bruxelles Lambert) sold 6M shares at $22.25 in April 2026 — major sponsor exit is a negative signal",
+    "Net insider selling: -5.755M shares net in last 6 months driven by GBL exit",
+    "Profit margins TTM at -13.3% — currently unprofitable; turnaround requires operating leverage improvement",
+    "Basing pattern means direction uncertain — could break down below $22 if next earnings disappoint"
+  ],
+  "catalyst": "Q2 2026 earnings (June 29, 2026) — this is imminent. Guidance on debt paydown, margin recovery, and AI revenue traction will set direction",
+  "catalyst_timing": "Q2 2026 earnings June 29, 2026 (imminent — within 2 weeks)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position with Jan 2027 $30 calls for upside leverage. Options have decent OI (1,112 calls, 2,371 puts). The June 29 earnings is a binary catalyst — size accordingly.",
+  "key_risk": "GBL continues to exit and June 29 earnings miss or weak guidance on debt/margins sends stock below $22 support to new lows",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "June 29 earnings miss badly; GBL announces further large block sales; management guides margins lower"
+}

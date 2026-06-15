@@ -1,0 +1,300 @@
+{
+  "ticker": "GDYN",
+  "fetched_at": "2026-06-10T13:37:27.451050",
+  "overview": {
+    "name": "Grid Dynamics Holdings, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Grid Dynamics Holdings, Inc., together with its subsidiaries, provides enterprise artificial intelligence and digital transformation services in North America, Europe, and internationally. The company offers artificial intelligence services, such as AI-Readiness through strategy consulting, data modernization, rapid and deployment-ready prototyping, and software development lifecycle transformation; identify AI use cases service, which deploys AI in customer-facing, operational, and knowledge management scenarios; AI infrastructure agentic systems; and enterprise AI scale, which helps enterprises gain enterprise-wide efficiency with deployment. It also provides cloud platform and product engineering services, including digital engagement, which delivers modular composable commerce platforms; IoT and edge computing, which assists manufacturers and logistics providers in implementing physical AI; and AI and data platforms. The company serves retail, technology, media and telecom, finance, consumer packaged goods and manufacturing, healthcare and pharma, and other verticals. Grid Dynamics Holdings, Inc. was founded in 2006 and is headquartered in San Ramon, California.",
+    "market_cap": 502592608,
+    "enterprise_value": 199230672,
+    "shares_outstanding": 83626054,
+    "float_shares": 59246550,
+    "short_ratio": 3.0,
+    "short_percent_of_float": 0.1432,
+    "held_by_insiders": 0.22799,
+    "held_by_institutions": 0.82819,
+    "revenue_ttm": 415512000,
+    "revenue_growth": 0.037,
+    "gross_margins": 0.34074003,
+    "operating_margins": -0.01946,
+    "profit_margins": 0.01271,
+    "free_cashflow": 26805750,
+    "operating_cashflow": 39640000,
+    "total_cash": 327468000,
+    "total_debt": 17416000,
+    "debt_to_equity": 3.285,
+    "current_ratio": 7.878,
+    "trailing_pe": 100.16667,
+    "forward_pe": 11.213315,
+    "price_to_book": 0.9473519,
+    "ev_to_ebitda": 8.89,
+    "ev_to_revenue": 0.479,
+    "fifty_two_week_high": 12.86,
+    "fifty_two_week_low": 5.13,
+    "current_price": 6.01,
+    "analyst_target_mean": 9.0,
+    "analyst_target_high": 12.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "buy",
+    "num_analysts": 5,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-30 16:00:00-04:00",
+        "EPS Estimate": 0.11,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-30 16:00:00-04:00",
+        "EPS Estimate": 0.01,
+        "Reported EPS": -0.02,
+        "Surprise(%)": -248.92
+      },
+      {
+        "Earnings Date": "2026-03-05 16:00:00-05:00",
+        "EPS Estimate": 0.09,
+        "Reported EPS": 0.1,
+        "Surprise(%)": 9.45
+      },
+      {
+        "Earnings Date": "2025-10-30 16:00:00-04:00",
+        "EPS Estimate": 0.09,
+        "Reported EPS": 0.09,
+        "Surprise(%)": -3.7
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 21550,
+    "total_put_oi": 1811
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 1406950.0,
+        "Trans": 15
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 76781.0,
+        "Trans": 11
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 1330169.0,
+        "Trans": 26
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 19065904.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.075,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.079,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.004,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 4435,
+        "Value": 35480,
+        "URL": "",
+        "Text": "Sale at price 8.00 per share.",
+        "Insider": "GRYZLOV YURY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 467,
+        "Value": 3012,
+        "URL": "",
+        "Text": "Sale at price 6.45 per share.",
+        "Insider": "GRYZLOV YURY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1245,
+        "Value": 6897,
+        "URL": "",
+        "Text": "Sale at price 5.54 per share.",
+        "Insider": "GRYZLOV YURY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 21266,
+        "Value": 132275,
+        "URL": "",
+        "Text": "Sale at price 6.22 per share.",
+        "Insider": "GRYZLOV YURY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 49368,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DORADLA ANIL KUMAR",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 98736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GRYZLOV YURY",
+        "Position": "Chief Operating Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 658240,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LIVSCHITZ LEONARD",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 90000,
+        "URL": "",
+        "Text": "Sale at price 9.00 per share.",
+        "Insider": "LIVSCHITZ LEONARD",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2000,
+        "Value": 20000,
+        "URL": "",
+        "Text": "Sale at price 10.00 per share.",
+        "Insider": "DORADLA ANIL KUMAR",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 97000,
+        "URL": "",
+        "Text": "Sale at price 9.70 per share.",
+        "Insider": "LIVSCHITZ LEONARD",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-06 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.79303717719296,
+    "pct_above_200d_ma": -22.422833513452378,
+    "pct_of_100d_ma": 88.82980521859739,
+    "pct_change_1d": -3.448276402057804,
+    "pct_change_5d": -16.477270649114907,
+    "pct_change_30d": 5.000003831727229
+  }
+}

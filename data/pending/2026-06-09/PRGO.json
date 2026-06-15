@@ -1,0 +1,189 @@
+{
+  "ticker": "PRGO",
+  "fetched_at": "2026-06-09T13:36:48.678455",
+  "overview": {
+    "name": "Perrigo Company plc",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "description": "Perrigo Company plc provides over-the-counter health and wellness solutions in the United States, Europe, and internationally. The company operates through Consumer Self-Care Americas and Consumer Self-Care International segments. It offers upper respiratory products, including cough suppressants, expectorants, and sinus and allergy relief; nutrition products consisting of infant formulas and oral electrolyte beverages; digestive health products, including antacids, anti-diarrheal, and anti-heartburn; pain and sleep-aids products comprising pain relievers and fever reducers; and oral care products, which include toothbrushes, toothbrush replacement heads, floss, flossers, whitening products, and toothbrush covers. The company also offers healthy lifestyle products, such as smoking cessation and well-being products; skin care products consisting of dermatological care, scar management, lice treatment, and other products for various skin conditions; women's health products comprising feminine hygiene and contraceptives; vitamins, minerals, and supplements; and other miscellaneous self-care products. It sells its products under the Compeed, Dr. Fresh, Firefly, Good Sense, Good Start, Mederma, Nasonex, Plackers, Prevacid24HR, REACH, Rembrandt, Steripod, Opill, Solpadeine, Coldrex, Physiomer, NiQuitin, ACO, ellaOne, and Compeed brands. The company also offers contract manufacturing services. It sells its products through retail drug, supermarket, and mass merchandise chains; e-commerce stores; wholesalers; pharmacies; drug and grocery retailers; and para-pharmacies. The company was formerly known as Perrigo Company and changed its name to Perrigo Company plc in December 2013. Perrigo Company plc was founded in 1887 and is headquartered in Dublin, Ireland.",
+    "market_cap": 1519969920,
+    "enterprise_value": 5077949952,
+    "shares_outstanding": 138367770,
+    "float_shares": 137687001,
+    "short_ratio": 6.26,
+    "short_percent_of_float": 0.1603,
+    "held_by_insiders": 0.00365,
+    "held_by_institutions": 1.1653199,
+    "revenue_ttm": 4178400000,
+    "revenue_growth": -0.072,
+    "gross_margins": 0.34168997,
+    "operating_margins": 0.03467,
+    "profit_margins": -0.435,
+    "free_cashflow": 108425000,
+    "operating_cashflow": 189400000,
+    "total_cash": 357200000,
+    "total_debt": 3828699904,
+    "debt_to_equity": 153.222,
+    "current_ratio": 2.719,
+    "trailing_pe": null,
+    "forward_pe": 4.6507196,
+    "price_to_book": 0.60710734,
+    "ev_to_ebitda": 7.968,
+    "ev_to_revenue": 1.215,
+    "fifty_two_week_high": 28.44,
+    "fifty_two_week_low": 9.23,
+    "current_price": 10.985,
+    "analyst_target_mean": 16.5,
+    "analyst_target_high": 20.0,
+    "analyst_target_low": 14.0,
+    "recommendation": "none",
+    "num_analysts": 4,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-31 08:00:00-04:00",
+        "EPS Estimate": 0.36,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 06:00:00-04:00",
+        "EPS Estimate": 0.31,
+        "Reported EPS": 0.43,
+        "Surprise(%)": 40.17
+      },
+      {
+        "Earnings Date": "2026-02-26 06:00:00-05:00",
+        "EPS Estimate": 0.78,
+        "Reported EPS": 0.77,
+        "Surprise(%)": -1.28
+      },
+      {
+        "Earnings Date": "2025-11-05 06:00:00-05:00",
+        "EPS Estimate": 0.77,
+        "Reported EPS": 0.8,
+        "Surprise(%)": 3.91
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 17410,
+    "total_put_oi": 7046
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 505042,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": []
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 44.98404574776252,
+    "pct_above_200d_ma": -22.958099052232107,
+    "pct_of_100d_ma": 95.6072490677593,
+    "pct_change_1d": -4.565027981429559,
+    "pct_change_5d": 5.927341140516074,
+    "pct_change_30d": -1.0602311797894948
+  }
+}

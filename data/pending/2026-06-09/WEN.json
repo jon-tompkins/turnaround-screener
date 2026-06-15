@@ -1,0 +1,300 @@
+{
+  "ticker": "WEN",
+  "fetched_at": "2026-06-09T13:36:50.902348",
+  "overview": {
+    "name": "The Wendy's Company",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "description": "The Wendy's Company, together with its subsidiaries, engages in the operation, development, and franchising of a system of quick-service restaurants in the United States and internationally. The company operates through the Wendy's U.S., Wendy's International, and Global Real Estate & Development segments. Its restaurants offer a menu that includes hamburger sandwiches and chicken sandwiches; chicken tenders and nuggets, chili, french fries, baked potatoes, salads, soft drinks, Frosty desserts, and kids' meals; breakfast menu, including the Breakfast Baconator sandwich and seasoned products; and a variety of promotional products on a limited time basis. The company also owns and leases real estate properties. As of December 28, 2025, there were 5,969 Wendy's restaurants in operation in the United States and 1,428 Wendy's restaurants in operation in 38 foreign countries and U.S. territories. The company was formerly known as Wendy's/Arby's Group, Inc. and changed its name to The Wendy's Company in July 2011. The Wendy's Company was founded in 1969 and is headquartered in Dublin, Ohio.",
+    "market_cap": 1292411136,
+    "enterprise_value": 5101692416,
+    "shares_outstanding": 190480640,
+    "float_shares": 156900808,
+    "short_ratio": 4.24,
+    "short_percent_of_float": 0.3734,
+    "held_by_insiders": 0.09097999,
+    "held_by_institutions": 0.94387,
+    "revenue_ttm": 2194055936,
+    "revenue_growth": 0.033,
+    "gross_margins": 0.34101,
+    "operating_margins": 0.113649994,
+    "profit_margins": 0.06771,
+    "free_cashflow": 131266376,
+    "operating_cashflow": 318516992,
+    "total_cash": 298740000,
+    "total_debt": 4116592896,
+    "debt_to_equity": 3562.577,
+    "current_ratio": 1.831,
+    "trailing_pe": 8.811688,
+    "forward_pe": 10.541115,
+    "price_to_book": 10.996758,
+    "ev_to_ebitda": 10.647,
+    "ev_to_revenue": 2.325,
+    "fifty_two_week_high": 12.51,
+    "fifty_two_week_low": 6.37,
+    "current_price": 6.785,
+    "analyst_target_mean": 7.8375,
+    "analyst_target_high": 13.0,
+    "analyst_target_low": 5.0,
+    "recommendation": "hold",
+    "num_analysts": 20,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-07 08:00:00-04:00",
+        "EPS Estimate": 0.17,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-08 07:00:00-04:00",
+        "EPS Estimate": 0.1,
+        "Reported EPS": 0.12,
+        "Surprise(%)": 25.05
+      },
+      {
+        "Earnings Date": "2026-02-13 07:00:00-05:00",
+        "EPS Estimate": 0.14,
+        "Reported EPS": 0.16,
+        "Surprise(%)": 10.41
+      },
+      {
+        "Earnings Date": "2025-11-07 07:00:00-05:00",
+        "EPS Estimate": 0.2,
+        "Reported EPS": 0.24,
+        "Surprise(%)": 22.94
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 13,
+    "nearest_expiry": "2026-06-12",
+    "farthest_expiry": "2028-12-15",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 54927,
+    "total_put_oi": 9642
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 17329928,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 32580,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WINKLEBLACK ARTHUR B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAY PETER W",
+        "Position": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ROTHSCHILD PETER H",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MATHEWS-SPRADLIN MICH J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GOMEZ RICHARD H",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CARUSO-CABRERA MICHELLE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20967,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PELTZ BRADLEY G.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4166,
+        "Value": 29745.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 7.14 per share.",
+        "Insider": "MAY PETER W",
+        "Position": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1047,
+        "Value": 7476.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 7.14 per share.",
+        "Insider": "DOLAN KRISTIN A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3448,
+        "Value": 24619.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 7.14 per share.",
+        "Insider": "PELTZ BRADLEY G.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.129522094462075,
+    "pct_above_200d_ma": -13.63646408132505,
+    "pct_of_100d_ma": 94.05521540503734,
+    "pct_change_1d": 0.6157283822258774,
+    "pct_change_5d": -5.94313693771078,
+    "pct_change_30d": 0.10265180064379376
+  }
+}

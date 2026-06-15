@@ -1,0 +1,300 @@
+{
+  "ticker": "DV",
+  "fetched_at": "2026-06-03T13:36:39.320785",
+  "overview": {
+    "name": "DoubleVerify Holdings, Inc.",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies",
+    "description": "DoubleVerify Holdings, Inc. provides media effectiveness platforms in the United States. The company offers DV Authentic Ad, a metric of digital media quality, which evaluates the existence of fraud, brand suitability, viewability and geography for each digital ad; DV Authentic Attention that provides data to drive campaign performance; Custom Contextual solution, which allows advertisers to match ads to relevant content to maximize user engagement and drive campaign performance; and Scibids AI, an AI-powered digital campaign optimization solution. It also provides Rockerbox, enables advertisers to unify cross-channel conversion and spend data and apply multi-touch attribution, marketing mix modeling, and incrementality testing to measure and optimize the impact of advertising; DV Authentic AdVantage, an AI-powered performance optimization solution for advertisers to improve campaign outcomes across proprietary video platforms; DV Publisher Suite, a unified solution for digital publishers to manage revenue and increase inventory yield, identifying lost or unfilled sales, and aggregate data across inventory sources; and DV Pinnacle which provides detailed insights into customers' media performance on both direct and programmatic media buying platforms and across all key digital media channels, formats, and devices. Its solutions are integrated across digital advertising ecosystem, including programmatic platforms, social media channels, and digital publishers. The company serves consumer packaged goods, financial services, telecommunications, technology, automotive, and healthcare industry verticals. The company was founded in 2008 and is headquartered in New York, New York.",
+    "market_cap": 1591423616,
+    "enterprise_value": 1556130560,
+    "shares_outstanding": 153464189,
+    "float_shares": 122025515,
+    "short_ratio": 4.8,
+    "short_percent_of_float": 0.0988,
+    "held_by_insiders": 0.01131,
+    "held_by_institutions": 1.07835,
+    "revenue_ttm": 764054976,
+    "revenue_growth": 0.096,
+    "gross_margins": 0.82241,
+    "operating_margins": 0.08647,
+    "profit_margins": 0.07159,
+    "free_cashflow": 131412624,
+    "operating_cashflow": 177691008,
+    "total_cash": 173802000,
+    "total_debt": 95539000,
+    "debt_to_equity": 8.836,
+    "current_ratio": 4.771,
+    "trailing_pe": 31.42424,
+    "forward_pe": 8.206387,
+    "price_to_book": 1.4955293,
+    "ev_to_ebitda": 11.639,
+    "ev_to_revenue": 2.037,
+    "fifty_two_week_high": 16.82,
+    "fifty_two_week_low": 7.64,
+    "current_price": 10.37,
+    "analyst_target_mean": 13.0,
+    "analyst_target_high": 16.0,
+    "analyst_target_low": 8.0,
+    "recommendation": "buy",
+    "num_analysts": 18,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-05 16:00:00-04:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 16:00:00-04:00",
+        "EPS Estimate": 0.19,
+        "Reported EPS": 0.17,
+        "Surprise(%)": -12.26
+      },
+      {
+        "Earnings Date": "2026-02-26 16:00:00-05:00",
+        "EPS Estimate": 0.33,
+        "Reported EPS": 0.31,
+        "Surprise(%)": -4.88
+      },
+      {
+        "Earnings Date": "2025-11-07 07:00:00-05:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": 0.22,
+        "Surprise(%)": -17.43
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-11-20",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 3317,
+    "total_put_oi": 99
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 473624.0,
+        "Trans": 18
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 6096.0,
+        "Trans": 4
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 467528.0,
+        "Trans": 22
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1735680.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.36900002,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.373,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.005,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "",
+        "Insider": "WAGNER SCOTT W.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "I",
+        "Value": NaN
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "",
+        "Insider": "TURNER KELLI",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 9.52 per share.",
+        "Insider": "DESMOND LAURA B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "I",
+        "Value": 139078.0
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "",
+        "Insider": "SWIDLER GARY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 9.52 per share.",
+        "Insider": "DOBRIN LUCY STAMELL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D",
+        "Value": 139078.0
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "",
+        "Insider": "PEREZ ROSARIO C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 14609,
+        "URL": "",
+        "Text": "",
+        "Insider": "JAIN SUNDEEP",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "I",
+        "Value": NaN
+      },
+      {
+        "Shares": 13476,
+        "URL": "",
+        "Text": "",
+        "Insider": "ZAGORSKI MARK S.",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-31 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 109306,
+        "URL": "",
+        "Text": "",
+        "Insider": "ZAGORSKI MARK S.",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-13 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 43192,
+        "URL": "",
+        "Text": "",
+        "Insider": "GRIMMIG ANDREW E",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-13 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 47.388608363099976,
+    "pct_above_200d_ma": -5.460647757997473,
+    "pct_of_100d_ma": 103.06749756917309,
+    "pct_change_1d": -1.3614977397470196,
+    "pct_change_5d": 8.52272503363476,
+    "pct_change_30d": -1.4540312869593564
+  }
+}
