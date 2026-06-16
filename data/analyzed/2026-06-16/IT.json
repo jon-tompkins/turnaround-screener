@@ -1,0 +1,30 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Stock plunged ~65% from its 52-week high of $410 after disappointing FY2026 guidance ($6.5B revenue vs $6.7B consensus; EPS $12.30 vs $13.53 consensus) despite beating Q4 EPS estimates. The sell-off appears overdone for a high-margin subscription business with 69% gross margins and $1B+ FCF, but revenue growth is decelerating (-1.5% TTM) and debt/equity is extreme at 5,293%.",
+  "bullish_points": [
+    "Forward PE of 9.4x is historically cheap for Gartner — market is pricing permanent decline",
+    "4 consecutive quarters of EPS beats averaging ~12% surprise — execution is intact",
+    "EV/EBITDA of 8.4x is well below 5-year average ~15x for this quality of franchise",
+    "Strong FCF of $1.06B (FCF yield ~11% at current price) supports debt paydown",
+    "Analyst mean target of $166.50 implies 16% upside from current ~$144"
+  ],
+  "bearish_points": [
+    "Revenue growth turned negative (-1.5% TTM) — Gartner's subscription model is losing volume",
+    "Extreme leverage: debt/equity 5,293%, current ratio 0.94 — balance sheet is fragile",
+    "25% short interest signals significant smart money betting against recovery",
+    "Management guided well below consensus, suggesting they see continued headwinds",
+    "Price/book of 154x means any further earnings disappointment devastates the stock"
+  ],
+  "catalyst": "Q2 2026 earnings (Aug 4, 2026) — if management raises guidance or shows revenue re-acceleration, the stock could snap back sharply given the compressed multiple",
+  "catalyst_timing": "Q2 2026 earnings on August 4, 2026",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass or use a small put-spread to capture asymmetric recovery — the debt load and negative growth make this speculative despite cheap multiples",
+  "key_risk": "Revenue decline proves structural (enterprises cutting research spend permanently), and leverage forces dividend cuts or dilution",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 earnings show further revenue deceleration or if leverage metrics deteriorate further"
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "ACHC",
+  "company_name": "Acadia Healthcare Company, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "turnaround_reason": "Largest standalone behavioral health provider in the US, stock down ~60% from highs after a $1B goodwill impairment, DOJ criminal investigation, class-action lawsuits, and complete executive turnover. However, recent Q1 2026 earnings crushed estimates (EPS $0.37 vs $0.26 est, +39.7% surprise), revenue growth is 7.6%, and the behavioral health demand tailwind is structural with utilization up 60%+ since 2018.",
+  "bullish_points": [
+    "Massive EPS beat Q1 2026 ($0.37 vs $0.26 est, +39.7%) and Q4 2025 ($0.07 vs $0.01 est, +593%) — operational recovery underway",
+    "Structural demand tailwind: behavioral health utilization up 60%+ from 2018-2024, accelerating post-COVID",
+    "9% bed capacity expansion provides organic growth runway",
+    "EV/Revenue of 1.5x and P/B of 1.18x are dirt cheap for a healthcare services company",
+    "14 analysts with Buy consensus and mean target $28.86 (+13% upside)"
+  ],
+  "bearish_points": [
+    "DOJ criminal investigation and class-action lawsuits create existential legal risk",
+    "Negative profit margins (-32.8%) driven by $1B goodwill impairment — underlying profitability unclear",
+    "Negative FCF (-$217M) — burning cash despite positive operating cash flow",
+    "38.6% short float — massive short interest signals serious bear case",
+    "$2.7B debt load with only $158M cash and current ratio 1.7 — leverage constrains flexibility"
+  ],
+  "catalyst": "Q2 2026 earnings (Jul 29, 2026) — continued EPS beats + progress on DOJ settlement would validate the turnaround thesis and force short covering",
+  "catalyst_timing": "Q2 2026 earnings on July 29, 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Jan 2027 $25 calls or call spread $25/$35 sized small — binary catalyst with DOJ overhang but strong operational momentum",
+  "key_risk": "DOJ investigation escalates to criminal charges or massive settlement ($550M+), wiping out equity value or forcing asset sales",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "DOJ announces expanded charges or settlement exceeds $700M, or Q2 earnings show margin deterioration"
+}
