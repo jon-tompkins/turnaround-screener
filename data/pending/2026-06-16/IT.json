@@ -1,0 +1,300 @@
+{
+  "ticker": "IT",
+  "fetched_at": "2026-06-16T13:41:43.985843",
+  "overview": {
+    "name": "Gartner, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Gartner, Inc. provides business and technology insights for decisions and performance on an organization's mission-critical priorities in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Insights, Conferences, and Consulting. The Research segment delivers insights through subscription services, such as access to published content, data and benchmarks, and direct access to a network of business and technology experts. The Conferences segment offers executives and teams in an organization the opportunity to learn, share, and network through its Symposium/Xpo series and peer-driven sessions, as well as conferences focused on specific business roles and topics. The Consulting segment provides technology-driven strategic initiatives, including custom analysis and on-the-ground support to senior executives. This segment also offers actionable solutions for IT-related priorities, including IT cost optimization, digital transformation, and IT sourcing optimization. Gartner, Inc. was founded in 1979 and is headquartered in Stamford, Connecticut.",
+    "market_cap": 9628015616,
+    "enterprise_value": 11246950400,
+    "shares_outstanding": 66951889,
+    "float_shares": 60952330,
+    "short_ratio": 6.26,
+    "short_percent_of_float": 0.2525,
+    "held_by_insiders": 0.0354,
+    "held_by_institutions": 1.18821,
+    "revenue_ttm": 6474137088,
+    "revenue_growth": -0.015,
+    "gross_margins": 0.68987,
+    "operating_margins": 0.20499,
+    "profit_margins": 0.1144,
+    "free_cashflow": 1064192896,
+    "operating_cashflow": 1367891968,
+    "total_cash": 1666946048,
+    "total_debt": 3355174912,
+    "debt_to_equity": 5293.41,
+    "current_ratio": 0.939,
+    "trailing_pe": 14.20998,
+    "forward_pe": 9.394746,
+    "price_to_book": 153.9668,
+    "ev_to_ebitda": 8.412,
+    "ev_to_revenue": 1.737,
+    "fifty_two_week_high": 409.95,
+    "fifty_two_week_low": 139.18,
+    "current_price": 143.805,
+    "analyst_target_mean": 166.53847,
+    "analyst_target_high": 203.0,
+    "analyst_target_low": 140.0,
+    "recommendation": "hold",
+    "num_analysts": 13,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-04 08:00:00-04:00",
+        "EPS Estimate": 3.76,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 2.92,
+        "Reported EPS": 3.32,
+        "Surprise(%)": 13.64
+      },
+      {
+        "Earnings Date": "2026-02-03 06:00:00-05:00",
+        "EPS Estimate": 3.51,
+        "Reported EPS": 3.94,
+        "Surprise(%)": 12.21
+      },
+      {
+        "Earnings Date": "2025-11-04 06:00:00-05:00",
+        "EPS Estimate": 2.43,
+        "Reported EPS": 2.76,
+        "Surprise(%)": 13.73
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-06-18",
+    "farthest_expiry": "2026-12-18",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 2701,
+    "total_put_oi": 1053
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 2370096,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1744,
+        "URL": "",
+        "Text": "",
+        "Insider": "SERRA EILEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-08 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 705,
+        "URL": "",
+        "Text": "",
+        "Insider": "SERRA EILEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "GRABE WILLIAM O",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "CESAN RAUL E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "PAGLIUCA STEPHEN G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "FUCHS ANNE SUTHERLAND",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 507,
+        "URL": "",
+        "Text": "",
+        "Insider": "BOUSA EDWARD PETER",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "DYKSTRA KAREN E",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 551,
+        "URL": "",
+        "Text": "",
+        "Insider": "GUTIERREZ JOSE M.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 507,
+        "URL": "",
+        "Text": "",
+        "Insider": "RUS DANIELA LUCIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.06912157947295,
+    "pct_above_200d_ma": -28.660571949017523,
+    "pct_of_100d_ma": 89.28471982492587,
+    "pct_change_1d": -2.6456085694728015,
+    "pct_change_5d": -10.040539750975807,
+    "pct_change_30d": -1.4685751271305225
+  }
+}
