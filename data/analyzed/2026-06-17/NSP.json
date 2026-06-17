@@ -1,0 +1,30 @@
+{
+  "ticker": "NSP",
+  "company_name": "Insperity, Inc.",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "turnaround_reason": "Stock fell 60%+ from $63 highs after Q4 2025 showed a net loss driven by elevated benefits costs crushing gross margins. Thesis: CEO Sarvadi's cumulative $15.5M insider buying (March + June 2026) signals conviction margin recovery is coming via pricing actions, UnitedHealthcare plan redesigns, and HRScale (Workday-powered) rollout. PEO industry remains structurally growing.",
+  "bullish_points": [
+    "CEO Sarvadi bought $4.7M in March at ~$23 and another $7.9M in June at $34.05 — his largest-ever purchases, after having sold at $52 in Sept 2025. That's not window dressing; that's a dramatic re-entry",
+    "Cluster insider buying: CFO, general counsel, and 8+ directors also bought in March 2026",
+    "Forward P/E ~13.6x on a business with $6.8B in revenue and structural PEO demand is reasonable if margins normalize",
+    "HR360 (full-service PEO) + new HRScale (Workday-powered) product for mid-market provides growth lever beyond cost recovery",
+    "Management guided for significant profit recovery in 2026, citing improved pricing, plan design changes with UHC, and client selection discipline"
+  ],
+  "bearish_points": [
+    "Debt-to-equity 641x (driven by $430M debt on thin equity after net losses) — balance sheet is fragile",
+    "Benefits costs may remain elevated longer than expected; healthcare cost trend is structural, not one-time",
+    "Q4 2025: net loss $33M, adj EBITDA -$13M, gross profit down 21% — the damage was severe",
+    "Only 4 analysts cover the stock; consensus target $39.50 is barely above current price — limited institutional conviction",
+    "Gross margin ~13% TTM is razor-thin for a PEO; even a small miss on benefits cost normalization keeps margins compressed"
+  ],
+  "catalyst": "Q2 2026 earnings (Jul 30) — first clean quarter with pricing actions + UHC plan redesigns fully in effect; need to see gross margin step-up toward 15%+",
+  "catalyst_timing": "Q2 2026 earnings, Jul 30, 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Oct 2026 $35/$45 call spread — leverages margin recovery catalyst with capped risk. Alternatively, spot position with stop at $30.",
+  "key_risk": "Benefits costs don't normalize in Q2, gross margins stay compressed, and the CEO's massive buy becomes a sunk-cost anchor rather than a signal",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "If Q2 earnings show gross margin still below 14% with no clear trajectory to 15%+, the recovery timeline extends and the setup loses urgency"
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "CERT",
+  "company_name": "Certara, Inc.",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "turnaround_reason": "Stock crushed from $14+ highs to ~$6 on a growth deceleration — 2026 guided at 0-4% revenue growth and net loss in Q4 2025. Thesis: biosimulation/model-informed drug development (MIDD) is a structural winner with FDA tailwinds; AI-enabled product launches and cost discipline could stabilize margins in H2 2026. EQT Partners owns ~26% as PE anchor.",
+  "bullish_points": [
+    "P/B 0.92x and forward P/E ~14.8x — cheap on an asset basis with real revenue ($420M TTM)",
+    "Software bookings grew 20% Y/Y in Q1 2026; company divesting lower-margin regulatory writing to shift mix toward higher-margin software",
+    "FDA MIDD (model-informed drug development) guidance is a structural tailwind — regulators increasingly requiring biosimulation",
+    "EQT Partners (26% owner) provides PE governance discipline; strategic review of regulatory writing unit could unlock value",
+    "Free cash flow of $117M TTM vs ~$950M market cap implies ~8% FCF yield"
+  ],
+  "bearish_points": [
+    "2026 is explicitly a 'transition year' with 0-4% revenue growth guidance — execution risk is high",
+    "Net loss in Q4 ($5.9M) and Q1 ($8.8M); operating margins only 3.8% TTM",
+    "Services bookings down 14% Y/Y, and large pharma spending remains cautious",
+    "Short interest 28.6% of float — bears have a real thesis on growth stagnation",
+    "Options liquidity thin (344 call OI, 72 put OI) — limited for structured trades"
+  ],
+  "catalyst": "Q2 2026 earnings (Aug 6) — confirmation that software bookings acceleration continues and cost discipline is converting to margin expansion",
+  "catalyst_timing": "Q2 2026 earnings, Aug 6, 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — options too illiquid. Scale in below $6, target $9-10 (1.5-1.7x P/B reversion) on margin recovery proof",
+  "key_risk": "Large pharma clients continue deferring MIDD spending, software growth stalls, and FCF deteriorates rather than recovers",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "If Q2 earnings show declining software bookings or further margin compression, the transition-year thesis is broken"
+}
