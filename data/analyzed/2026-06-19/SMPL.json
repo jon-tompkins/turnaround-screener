@@ -1,0 +1,30 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Stock cratered ~63% from $34 highs after a Q2 2026 revenue miss (-9% YoY), $249M impairment charge, and guidance cut; CEO transition and GLP-1 headwinds crushed sentiment. Insiders (director Kilts, ex-CEO of ConAgra, bought $991K at $12.39) are stepping in at distressed valuations.",
+  "bullish_points": [
+    "Insider buying by seasoned CPG veteran director James Kilts ($991K at $12.39) signals conviction from someone who knows turnarounds",
+    "Trading at 0.77x P/B and ~7.1x forward PE — deeply cheap if revenue stabilizes",
+    "EV/EBITDA of 6.3x on an operating-margin business still generating $173M OCF and $125M FCF",
+    "Current ratio of 5.1x provides ample liquidity; debt/eq of 30 is manageable",
+    "Two consecutive earnings beats (8.2% and 13.6% surprise) show cost control is working even as top line shrinks"
+  ],
+  "bearish_points": [
+    "Revenue declining 9% YoY — structural headwind from GLP-1 weight loss drugs cannibalizing diet/snack categories",
+    "Large $249M impairment charge signals management admits prior growth assumptions were wrong",
+    "FY26 guidance: net sales -2% to +2%, adjusted EBITDA -4% to +1% — no real growth expected",
+    "Gross margins declining 100-150bps due to commodity inflation and tariffs",
+    "No analyst consensus buy rating; low institutional conviction (recommendation: 'none')"
+  ],
+  "catalyst": "Q3 2026 earnings on July 9 — if revenue decline stabilizes and margins bottom, the stock could re-rate from distressed multiples",
+  "catalyst_timing": "July 9, 2026 earnings report",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small size. Avoid options — only 3 expiries and thin OI. Wait for Q3 earnings to confirm revenue stabilization before adding.",
+  "key_risk": "GLP-1 adoption is a structural headwind that could permanently shrink the addressable market for diet/snack products, making SMPL a value trap rather than a turnaround",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q3 earnings shows further revenue acceleration to the downside OR gross margins deteriorate beyond guidance"
+}
