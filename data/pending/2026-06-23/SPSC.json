@@ -1,0 +1,300 @@
+{
+  "ticker": "SPSC",
+  "fetched_at": "2026-06-23T13:37:59.316670",
+  "overview": {
+    "name": "SPS Commerce, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "description": "SPS Commerce, Inc. provides cloud-based supply chain management solutions in the United States. It offers solutions through SPS Commerce, a cloud-based platform that connects retailers, brands, distributors, manufacturers, and logistics providers, handling the complexity of modern commerce operations. The company also provides Fulfillment, a comprehensive solution designed to streamline supply chain operation that sends and receives order data, ensuring accurate execution of required processes from order to invoicing and revenue recovery through fully automated operations; and Analytics product that simplifies managing sell-through data from customers business partners that handle data acquisition, cleansing, normalization, and delivery. In addition, it offers various complimentary products, such as assortment product, which simplifies the communication of robust, accurate item data by automatically translating item attributes, and hierarchies through single connection across all sales channels; and relationship management product that allows organizations to accelerate digitization of their supply chain and improve collaboration with suppliers through change management, onboarding programs, and supplier score carding. The company was formerly known as St. Paul Software, Inc. and changed its name to SPS Commerce, Inc. in May 2001. SPS Commerce, Inc. was incorporated in 1987 and is headquartered in Minneapolis, Minnesota.",
+    "market_cap": 2094643328,
+    "enterprise_value": 1866405888,
+    "shares_outstanding": 36712702,
+    "float_shares": 36269213,
+    "short_ratio": 5.39,
+    "short_percent_of_float": 0.09770001,
+    "held_by_insiders": 0.010089999,
+    "held_by_institutions": 1.10767,
+    "revenue_ttm": 762076992,
+    "revenue_growth": 0.058,
+    "gross_margins": 0.69303,
+    "operating_margins": 0.12783,
+    "profit_margins": 0.11924,
+    "free_cashflow": 151568256,
+    "operating_cashflow": 194436000,
+    "total_cash": 154271008,
+    "total_debt": 6618000,
+    "debt_to_equity": 0.688,
+    "current_ratio": 2.122,
+    "trailing_pe": 23.674273,
+    "forward_pe": 10.920077,
+    "price_to_book": 2.190968,
+    "ev_to_ebitda": 10.558,
+    "ev_to_revenue": 2.449,
+    "fifty_two_week_high": 143.55,
+    "fifty_two_week_low": 49.04,
+    "current_price": 57.055,
+    "analyst_target_mean": 68.09091,
+    "analyst_target_high": 103.0,
+    "analyst_target_low": 55.0,
+    "recommendation": "none",
+    "num_analysts": 11,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 16:00:00-04:00",
+        "EPS Estimate": 1.08,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-30 16:00:00-04:00",
+        "EPS Estimate": 0.98,
+        "Reported EPS": 1.1,
+        "Surprise(%)": 12.52
+      },
+      {
+        "Earnings Date": "2026-02-12 16:00:00-05:00",
+        "EPS Estimate": 1.01,
+        "Reported EPS": 1.14,
+        "Surprise(%)": 13.06
+      },
+      {
+        "Earnings Date": "2025-10-30 16:00:00-04:00",
+        "EPS Estimate": 1.0,
+        "Reported EPS": 1.13,
+        "Surprise(%)": 13.28
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 3,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 6.250937500000001,
+    "total_call_oi": 62,
+    "total_put_oi": 17
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 423645.0,
+        "Trans": 22
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 27834.0,
+        "Trans": 8
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 395811.0,
+        "Trans": 30
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 370431.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": -15.693001,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.0,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RELLER TAMI L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PARTIN MARK W.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SORAN PHILIP E",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCCONNELL MICHAEL J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "REAUME MARTY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WARD ANNE SEMPOWSKI",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CHIMA FUMBI F.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3736,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GAURAV RAZAT",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 39433,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "THINGELSTAD JAMIE J",
+        "Position": "Chief Technology Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 141707,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DEL PRETO JOSEPH M II",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.02233020060576,
+    "pct_above_200d_ma": -25.113025803956834,
+    "pct_of_100d_ma": 98.01956501703454,
+    "pct_change_1d": 5.195039085696496,
+    "pct_change_5d": 4.547098345727529,
+    "pct_change_30d": 2.1958523764205706
+  }
+}
