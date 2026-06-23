@@ -1,0 +1,35 @@
+{
+  "ticker": "SPSC",
+  "company_name": "SPS Commerce, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "turnaround_reason": "Stock collapsed from $143 to ~$57 (-60%) as Amazon revenue recovery headwinds crushed the growth narrative. The core SaaS platform business is still growing high single digits ex-Amazon, the company is structurally profitable with 69% gross margins and 13% operating margins, and is deploying nearly 100% of FCF into share buybacks. AI product (MAX) is entering beta with 400 customers, offering a re-rating catalyst as the Amazon overhang clears.",
+  "bullish_points": [
+    "Ex-Amazon revenue recovery, the core platform business is growing high single digits with Fulfillment segment +8% — the franchise is intact",
+    "Four consecutive earnings beats (Q2 2025 +13.3%, Q3 2025 +13.1%, Q4 2025 +13.1%, Q1 2026 +12.5%) showing consistent execution",
+    "69% gross margins, 13% operating margins, $152M FCF on $762M revenue — a real SaaS business, not a speculative bet",
+    "Nearly 100% of FCF deployed to share buybacks ($47M in Q1 alone), reducing share count at distressed valuations",
+    "Minimal debt ($6.6M total) vs $154M cash — fortress balance sheet, debt/equity of 0.69",
+    "AI product MAX in beta with 400 customers; Siete Foods case study showing 8% revenue protection from stockout prevention — if AI monetizes, it re-rates the multiple",
+    "New $19.99/month platform fee for Amazon 3P suppliers creates a new revenue stream with minimal expected churn impact",
+    "EV/Revenue of 2.4x and EV/EBITDA of 10.6x are dirt cheap for SaaS with these margins — trading at distressed multiples despite a healthy core business"
+  ],
+  "bearish_points": [
+    "Amazon revenue recovery headwinds are ongoing and management says they won't trough until mid-to-late 2026 — the overhang persists",
+    "Up to 4,000 low-revenue 3P supplier customers expected to churn from new platform fee — could mask underlying customer count growth",
+    "Q2 2026 revenue guidance midpoint implies only ~4% growth — well below the high single-digit ex-Amazon rate, meaning the Amazon drag is still accelerating",
+    "Forward PE of 10.9x reflects a market that expects growth to slow materially — if Amazon headwinds deepen, even this multiple compresses further",
+    "Short interest at 9.8% of float with 5.4x short ratio — meaningful bearish positioning",
+    "Insider transactions are all stock grants (compensation), not open-market purchases — no insider conviction buying at these levels",
+    "Tariff and macro uncertainty could delay enterprise contract signings in H1 2026"
+  ],
+  "catalyst": "Q2 2026 earnings (Aug 6, 2026) — if Amazon revenue recovery headwinds show signs of troughing and core platform growth accelerates with AI product traction, the stock re-rates from distressed SaaS multiples",
+  "catalyst_timing": "August 6, 2026 earnings report",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position or Jan 2027 $60 calls for leveraged upside. The stock is at $57 vs $49 52-week low — wait for a flush toward $50-52 to size in. Avoid near-term July expiry options (thin OI).",
+  "key_risk": "Amazon continues to squeeze the revenue recovery business (policy changes reducing amounts recoverable for customers), permanently impairing that revenue stream and delaying the growth re-acceleration thesis",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 earnings shows core platform growth slowing below high single digits, OR AI product (MAX) fails to convert beta users to paid subscribers by year-end, OR Amazon headwinds worsen rather than trough"
+}
