@@ -1,0 +1,300 @@
+{
+  "ticker": "SMPL",
+  "fetched_at": "2026-06-24T13:37:58.639293",
+  "overview": {
+    "name": "The Simply Good Foods Company",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "description": "The Simply Good Foods Company, a consumer-packaged food and beverage company, engages in the development, marketing, and sale of snacks and meal replacements, and other products in North America and internationally. The company offers protein bars, ready-to-drink beverages and shakes, sweet and salty snacks, cookies, muffins, protein chips and crackers, protein powders, and recipes under the Quest, Atkins, and OWYN brand names. It also provides confectionery products, such as peanut butter cups, brownies, caramel candy bites, chocolatey coated peanut candies, and caramel candy bars. In addition, the company licenses certain products that contain its brands and logos; and distributes its products to various retail channels, such as mass merchandise, grocery and drug stores, club and convenience stores, gas stations, and other channels. It also sells its products through e-commerce channels, including questnutrition.com, atkins.com, liveowyn.com, amazon.com and others. The company was incorporated in 2017 and is headquartered in Denver, Colorado.",
+    "market_cap": 1157190656,
+    "enterprise_value": 1442748544,
+    "shares_outstanding": 90489024,
+    "float_shares": 82183941,
+    "short_ratio": 2.9,
+    "short_percent_of_float": 0.1165,
+    "held_by_insiders": 0.08844,
+    "held_by_institutions": 1.01818,
+    "revenue_ttm": 1416208000,
+    "revenue_growth": -0.094,
+    "gross_margins": 0.33856,
+    "operating_margins": 0.13775,
+    "profit_margins": -0.07462,
+    "free_cashflow": 125482128,
+    "operating_cashflow": 173384000,
+    "total_cash": 107444000,
+    "total_debt": 449846016,
+    "debt_to_equity": 30.195,
+    "current_ratio": 5.057,
+    "trailing_pe": null,
+    "forward_pe": 7.0509133,
+    "price_to_book": 0.75918615,
+    "ev_to_ebitda": 6.123,
+    "ev_to_revenue": 1.019,
+    "fifty_two_week_high": 34.19,
+    "fifty_two_week_low": 10.21,
+    "current_price": 12.5,
+    "analyst_target_mean": 17.33333,
+    "analyst_target_high": 39.0,
+    "analyst_target_low": 12.0,
+    "recommendation": "none",
+    "num_analysts": 9,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-09 08:00:00-04:00",
+        "EPS Estimate": 0.36,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-09 07:00:00-04:00",
+        "EPS Estimate": 0.4,
+        "Reported EPS": 0.45,
+        "Surprise(%)": 13.61
+      },
+      {
+        "Earnings Date": "2026-01-08 07:00:00-05:00",
+        "EPS Estimate": 0.36,
+        "Reported EPS": 0.39,
+        "Surprise(%)": 8.16
+      },
+      {
+        "Earnings Date": "2025-10-23 07:00:00-04:00",
+        "EPS Estimate": 0.47,
+        "Reported EPS": 0.46,
+        "Surprise(%)": -2.88
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-02-19",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 2737,
+    "total_put_oi": 484
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 8002849,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 10000,
+        "Value": 117782,
+        "URL": "",
+        "Text": "Purchase at price 11.78 per share.",
+        "Insider": "DALEY CLAYTON C JR.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-14 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 348000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "WEST DAVID JOHN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 80000,
+        "Value": 991480,
+        "URL": "",
+        "Text": "Purchase at price 12.39 per share.",
+        "Insider": "KILTS JAMES M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KILTS JAMES M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WEST DAVID JOHN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GOOLSBY MICHELLE P",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DALEY CLAYTON C JR.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WHITE JAMES D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SCHENA JOSEPH J.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RATZAN BRIAN K.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-01-28 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 39.0150319885501,
+    "pct_above_200d_ma": -29.894544368075728,
+    "pct_of_100d_ma": 90.00231944326387,
+    "pct_change_1d": 2.1792791665137257,
+    "pct_change_5d": -0.9960159211175323,
+    "pct_change_30d": 9.27880664726941
+  }
+}
