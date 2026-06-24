@@ -1,0 +1,32 @@
+{
+  "ticker": "GPK",
+  "company_name": "Graphic Packaging Holding Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "turnaround_reason": "Graphic Packaging is a paperboard packaging company trading at $10.53, down 56% from its 52-week high of $23.76. The company has $5.8B in debt against a $3.1B market cap, and Q1 2026 showed a $43M net loss despite 2% revenue growth. The thesis is a debt-led recovery story: management has cut capex from $922M to $450M, is executing $60M in cost cuts, reaffirmed $700-800M adjusted cash flow guidance, and directors are buying stock aggressively (30+ insider purchase transactions in 6 months).",
+  "bullish_points": [
+    "Massive insider buying: 348K shares purchased by 32 transactions in 6 months, including directors buying $200K each at $9.84-$11.36 in May 2026",
+    "Trading below book value (P/B = 0.96) and at 9x forward earnings — cheap if the restructuring works",
+    "Capital expenditure cut from $922M (2025) to $450M (2026) — frees up significant cash flow for debt paydown",
+    "$60M cost reduction initiatives underway, reaffirmed full-year 2026 guidance for $700-800M adjusted cash flow",
+    "EV/EBITDA of ~7x — reasonable for a packaging business if margins recover",
+    "Options are relatively liquid: 5 expiries, 6,515 call OI — enough for structured trades"
+  ],
+  "bearish_points": [
+    "Q1 2026 net loss of $43M — the company is currently unprofitable on a GAAP basis",
+    "Debt-to-equity of 178% and $5.8B total debt — high leverage creates significant risk if cash flow disappoints",
+    "Interest expense burden is massive at current rate environment; refinancing risk is real",
+    "EBITDA margin fell in Q1 2026 — margin recovery is not yet confirmed despite cost cuts",
+    "Paperboard packaging is a commodity business — limited pricing power in a demand slowdown",
+    "Short interest at 16% of float — bears are positioned for further downside"
+  ],
+  "catalyst": "Q2 2026 earnings on July 28, 2026 — if the cost cuts translate to EBITDA margin recovery and cash flow is tracking toward the $700-800M guide, the re-rating could be substantial given the low multiple and insider confidence",
+  "catalyst_timing": "July 28, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position — the value+insider setup is compelling. Jan 2027 $10 calls if available for leveraged exposure; the insider cluster buying at $9.84-$11.00 suggests directors see value above current prices.",
+  "key_risk": "Cash flow falls short of the $700-800M guidance and the debt load becomes unsustainable, forcing equity dilution or asset sales at distressed valuations",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q2 2026 cash flow trajectory is below the pace needed to hit the $700M low end of guidance, or EBITDA margins decline further"
+}

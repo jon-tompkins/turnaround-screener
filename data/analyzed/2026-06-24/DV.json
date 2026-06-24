@@ -1,0 +1,31 @@
+{
+  "ticker": "DV",
+  "company_name": "DoubleVerify Holdings, Inc.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "turnaround_reason": "Stock has fallen from $16.82 52-week high to $10.64 (-37%) after three consecutive EPS misses. However, the ad-tech verification category is structurally growing as digital ad spend increases and brand safety requirements intensify. Company guided 8-10% revenue growth for 2026, gross margins of 82% are best-in-class, and the CEO + senior officers bought ~579K shares in June 2026 — one of the strongest insider signals among new screener names.",
+  "bullish_points": [
+    "Insider buying is exceptional: CEO Zagorski + 3 senior officers purchased ~579K shares on June 15, 2026 — ~$5.8M worth. 19 purchase transactions vs 3 small sales in 6 months",
+    "82% gross margins and $131M FCF — high-quality SaaS-like economics",
+    "Forward P/E of ~8.5x (trailing 32x reflects the recent EPS misses, but forward multiple compresses sharply)",
+    "8-10% revenue growth guidance for 2026 backed by AI product innovation (Scibids AI, DV Authentic AdVantage) and social/CTV momentum",
+    "Analyst consensus is 'buy' with 17 analysts, mean target $13.06 implying ~23% upside",
+    "Net debt negligible: $174M cash vs $96M debt — fortress balance sheet"
+  ],
+  "bearish_points": [
+    "Three consecutive EPS misses (Q3 2025 -17.4%, Q4 2025 -4.9%, Q1 2026 -12.3%) — execution concerns are real",
+    "Late-quarter retail campaign pullbacks hurt Q4 2025 revenue — ad spend is cyclical and sensitive to macro",
+    "Options liquidity is moderate: 3 expiries, total call OI only 3,663 — limited for larger strategies",
+    "Low IV at ~12.5% — options are cheap, which means the market isn't pricing much upside catalyst potential",
+    "Competition from Integral Ad Science (IAS) is intensifying in the verification space"
+  ],
+  "catalyst": "Q2 2026 earnings on August 5, 2026 — if DV returns to beating estimates and reaffirms 8-10% revenue growth, the combination of insider confidence + low forward multiple could drive significant re-rating",
+  "catalyst_timing": "August 5, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position + Jan 2027 $12 calls if available. The insider cluster buying at these levels is the strongest signal on the screen. CEO buying ~600K shares is a rare event.",
+  "key_risk": "Ad tech spend pulls back in a broader macro slowdown, and DV's EPS misses continue — insider buying is bullish but insiders can be early or wrong",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 2026 earnings miss again AND management cuts revenue guidance below 8% growth"
+}

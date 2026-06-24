@@ -1,0 +1,32 @@
+{
+  "ticker": "NSP",
+  "company_name": "Insperity, Inc.",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "turnaround_reason": "Insperity is a PEO serving SMBs that got crushed in 2025 — healthcare claims cost spikes, weak client hiring, and an adjusted EPS loss in Q4 2025. The stock was already on the watchlist at conv 6/10. It has since recovered ~15% off lows as Q1 2026 showed margin recovery progress ($1.31 EPS beat vs $1.23 est) and the HRScale product (Workday partnership) is rolling out. CEO Paul Sarvadi personally bought 233K shares at $34.05 in June 2026 — a $7.9M purchase.",
+  "bullish_points": [
+    "CEO Paul Sarvadi bought 233,000 shares at $34.05 ($7.9M) on June 3, 2026 — extraordinary insider conviction",
+    "Q1 2026 beat: $1.31 EPS vs $1.23 est (+6.2%), adjusted EBITDA $103M beat by 11.4%",
+    "Margin recovery is the thesis — repricing of HR plans, better client selection, and cost containment starting to show",
+    "HRScale (Workday-powered) positions Insperity for mid-market expansion beyond traditional PEO",
+    "EV/Revenue of 0.19x — extremely cheap on a revenue basis despite thin margins",
+    "Recovering screen mode with price above 200d MA, +5.2% above 200d MA, +14.9% over 30 days"
+  ],
+  "bearish_points": [
+    "Q4 2025 was a disaster: -$0.60 EPS, missed by -28.9%, operating margin -2.8%",
+    "Full-year 2026 EPS guidance lowered to $2.10 from $2.21 — still cutting",
+    "Debt-to-equity of 642% — very high leverage for a thin-margin business",
+    "New client sales declining: worksite employees from new clients down 7% YoY in Q1",
+    "SMB sentiment is cautious and macro-sensitive — a recession could accelerate the decline",
+    "Only 4 analysts cover it — limited Wall Street attention for a potential re-rate"
+  ],
+  "catalyst": "Q2 2026 earnings on July 30, 2026 — if margin recovery continues (reimbursement ratio improving, HRScale gaining traction), the thesis is reinforced. The CEO's $7.9M purchase 7 weeks before earnings is a strong tell.",
+  "catalyst_timing": "July 30, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position. CEO's $7.9M buy is the strongest insider signal on the screen. Oct 2026 $35/$45 call spread for leveraged exposure if HRScale traction is confirmed at Q2 earnings.",
+  "key_risk": "Healthcare claims costs spike again in Q2, reversing the margin recovery narrative and proving the Q1 beat was a one-off",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 earnings show EBITDA margin contraction vs Q1 and CEO's margin recovery thesis is not supported by reimbursement ratio improvement"
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Stock has cratered from $34 to $12.5 (63% below 52-week high) after a Q1 2026 revenue decline of 9% and a $249M impairment charge on the Atkins/Quest brands. Management lowered FY26 EBITDA guidance by up to 22% citing commodity inflation and tariffs. The thesis is that the impairment is a kitchen-sink reset, forward P/E is ~7x, and the company still generates $125M FCF with a viable snack portfolio.",
+  "bullish_points": [
+    "Forward P/E of ~7x and EV/EBITDA of ~6x — very cheap if earnings stabilize",
+    "$125M FCF on $1.16B market cap = ~11% FCF yield, strong cash generation",
+    "Price-to-book of 0.76 — trading below liquidation value of net assets",
+    "Director insider purchases: Kilts bought $991K at $12.39 in April, Daley bought $118K at $11.78 in May — directors putting real money in at these levels",
+    "Q2 2026 earnings beat estimates ($0.45 vs $0.40 est, +13.6%) suggesting the worst may be behind them",
+    "Current ratio of 5.06 — pristine balance sheet, no liquidity risk"
+  ],
+  "bearish_points": [
+    "Revenue declining 9.4% YoY — the Atkins/Quest brands are losing shelf relevance",
+    "$249M impairment signals permanent value destruction in brand intangibles",
+    "Tariff and commodity inflation pressure may persist through 2026",
+    "Profit margins negative at -7.5% — a consumer staples company losing money is a red flag",
+    "No clear catalyst for revenue re-acceleration; diet/snack category is crowded and competitive",
+    "Screener news data was all null — yfinance may have pulled incomplete data, confidence limited"
+  ],
+  "catalyst": "Q3 FY2026 earnings on July 9, 2026 — if revenue decline narrows and management reaffirms or raises the lowered EBITDA guidance, the re-rating could be sharp given the low multiple",
+  "catalyst_timing": "July 9, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only — small position. The value trap risk is high with declining revenue. Wait for July 9 earnings before considering larger size.",
+  "key_risk": "Revenue continues to decline and brand impairment proves the business is structurally impaired, not cyclical — a value trap at any price",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Revenue decline accelerates beyond -10% or management cuts guidance again at Q3 earnings"
+}
