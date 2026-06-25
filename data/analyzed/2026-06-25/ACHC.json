@@ -1,0 +1,33 @@
+{
+  "ticker": "ACHC",
+  "company_name": "Acadia Healthcare Company, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "turnaround_reason": "Acadia is the largest standalone behavioral health provider in the US, beaten down from $30+ highs by debt concerns, negative FCF, and operationalExecution issues. The stock screened as 'recovering' — above its 200d MA and 108% of 100d MA, up 7.5% in 5 days. Q1 2026 earnings beat (EPS $0.37 vs $0.26 estimate, +39.7% surprise) and the company raised full-year 2026 Adjusted EBITDA and EPS guidance, signaling the turnaround is gaining traction.",
+  "bullish_points": [
+    "Largest standalone behavioral health provider in the US — secular tailwind from rising mental health demand and policy support",
+    "Q1 2026 EPS beat by 39.7% ($0.37 vs $0.26), raised full-year guidance",
+    "Previously beat by 593% in Q4 2025 ($0.07 vs $0.01 estimate) — earnings inflection underway",
+    "14 analysts covering with mean target $28.86 vs current $25.17 — ~15% upside to mean",
+    "Revenue growth 7.6% TTM, gross margins 41.8%, operating margins 10.1% — operational business is profitable at the EBITDA line",
+    "Forward PE of 14.4x with EV/EBITDA of 8.6x — reasonable valuation for a turnaround with momentum",
+    "Analyst recommendation 'buy' with high target $39"
+  ],
+  "bearish_points": [
+    "Negative profit margins (-32.8%) — company is net-loss at the bottom line due to high interest expense and possibly impairment charges",
+    "Negative free cash flow (-$217M) — cash burn is a real concern",
+    "High leverage: debt-to-equity 124%, total debt $2.69B vs total cash $158M",
+    "Short interest 38.6% of float — significant bearish positioning despite recent beat",
+    "No insider buying in past 6 months — only stock award grants to directors, no open-market purchases",
+    "yfinance news fields all null — limited recent news visibility from the data pull"
+  ],
+  "catalyst": "Q2 2026 earnings report on July 29, 2026 — continued EPS beat + guidance maintenance/raise would validate the turnaround trajectory and likely force short covering given 38.6% short interest",
+  "catalyst_timing": "July 29, 2026 (Q2 earnings)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Jan 2027 $25 calls or call spread $25/$35 — leveraged exposure to the July earnings catalyst with runway through Q3 reporting; the 38.6% short interest creates squeeze potential on a beat",
+  "key_risk": "Negative free cash flow and $2.69B debt load — if earnings momentum stalls or guidance is cut, the high leverage creates a vicious downside cycle and shorts get vindicated",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 earnings miss or guidance cut; FCF deterioration accelerates; debt covenant concerns emerge"
+}

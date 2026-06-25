@@ -1,0 +1,35 @@
+{
+  "ticker": "CNMD",
+  "company_name": "CONMED Corporation",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "CONMED is a mid-cap medical device company focused on orthopedic surgery and general surgery products, whose stock has fallen from $56+ highs to ~$36 — below its 200d MA but 94% of its 100d MA with a sharp 10.9% pop in 5 days, indicating possible bottoming. The company has beaten EPS estimates in 3 of 4 recent quarters, positive operating margins of 10.6%, and generates positive free cash flow of $127M. However, revenue slightly declined (-1.3% TTM) and the company lacks a clear catalyst beyond gradual orthopedic recovery.",
+  "bullish_points": [
+    "Positive and improving earnings: beat estimates in 3 of 4 recent quarters (Q1 2026 +8.79%, Q4 2025 +8.04%, Q3 2025 +2.65%)",
+    "Positive operating margins (10.6%) and positive net profit margins (4.0%) — profitable company unlike ACHC/XRAY",
+    "Positive free cash flow ($127M) and operating cash flow ($143M) — generates real cash",
+    "Forward PE 7.4x, EV/EBITDA 8.9x — inexpensive on forward basis",
+    "Gross margins 54.2% — good unit economics in the surgical device business",
+    "Current ratio 2.29x — solid liquidity",
+    "10.9% price pop in 5 days suggests possible bottoming with accumulation"
+  ],
+  "bearish_points": [
+    "Revenue declining (-1.3% TTM) — no top-line growth, pure cost story at best",
+    "No recent insider buying — only stock grants and some insider selling (CTO sold at $41.21, CFO sold at $43.00)",
+    "Small analyst coverage (5 analysts) with mean target $39.60 vs current $35.66 — only ~11% upside to mean",
+    "Analyst recommendation 'hold' — no strong conviction from the Street",
+    "High debt: $861M vs $35M cash, debt-to-equity 85%",
+    "Options are illiquid: only 66 call OI, 409 put OI with very high IV (89.5%) — options are expensive and hard to trade",
+    "Screen mode 'basing' below 200d MA — bottom unconfirmed, higher risk of re-breakdown",
+    "AI fundamental analysis rates it SELL with 74% confidence (from marketshost aggregation)"
+  ],
+  "catalyst": "Q2 2026 earnings on August 5, 2026 — need to see revenue stabilization or modest growth to confirm margin improvement is sustainable",
+  "catalyst_timing": "August 5, 2026 (Q2 earnings)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Skip or small spot position only — the stock is cheap and profitable but lacks a compelling catalyst, insider buying, or clear turnaround narrative. Options are too illiquid for leveraged plays.",
+  "key_risk": "Revenue continues to decline while debt remains high — without top-line growth, the margin story runs out of room and the stock drifts lower",
+  "estimated_upside_pct": 15,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Revenue declines continue in Q2 2026, or operating margins compress. Already borderline — only the sharp 5-day pop keeps this from being a pass."
+}

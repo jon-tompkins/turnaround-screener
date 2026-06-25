@@ -1,0 +1,35 @@
+{
+  "ticker": "XRAY",
+  "company_name": "DENTSPLY SIRONA Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "turnaround_reason": "DENTSPLY SIRONA is a post-merger turnaround story (2016 DENTSPLY/Sirona merger that destroyed value for a decade). A new CEO is executing a $120M cost-cutting restructuring, redirecting capital from dividends to debt reduction and share repurchases. The stock screened as 'basing' — below its 200d MA but 94% of 100d MA with a sharp 8.5% pop in 5 days, suggesting the bottom may be forming. Multiple directors just bought shares at $9.88-$10.14 in June 2026 — the strongest insider signal in years.",
+  "bullish_points": [
+    "Massive insider buying: 5 directors purchased shares at $9.88-$10.14 in June 2026 — Gladden, Hosein, McKeon, Mazelsky, Barber, Holden all bought openly",
+    "$120M annual cost savings restructuring plan announced Feb 2026 — significant for a $2.2B market cap company",
+    "Dividend eliminated and capital redirected to debt reduction + buybacks — rational capital allocation shift",
+    "Forward PE of 7.0x, EV/EBITDA 7.7x, EV/Revenue 1.16x — very cheap on forward multiples if turnaround executes",
+    "New CEO driving innovation agenda: DS Core platform, R&D investment, US operations restructuring, targeting sequential growth by late 2026",
+    "Founded in 1877 — #1 global dental products manufacturer with entrenched distribution and switching costs",
+    "15 analysts covering, mean target $13.40 vs current $10.92 — ~23% upside to mean, high target $17 (~56% upside)",
+    "Gross margins 48.9% — the underlying business has good unit economics even if operating margins are compressed at 3.4%"
+  ],
+  "bearish_points": [
+    "A decade of underperformance since the 2016 merger — this is the 'third turnaround attempt' and trust is low",
+    "Negative profit margins (-17.1%) and operating margins only 3.4% — compression from integration costs and revenue declines",
+    "Revenue growth essentially flat at 0.1% — no top-line improvement yet, only cost cuts",
+    "3 of last 4 earnings missed estimates (Q4 2025 -17.68%, Q1 2026 -6.01%, Q2 2025 -1.63%) — execution track record is poor",
+    "High debt: $2.34B total debt vs $190M cash, debt-to-equity 178%",
+    "Analyst recommendation 'hold' — Street is skeptical",
+    "Dental market is procedure-volume dependent and sensitive to economic cycles / insurance reimbursement trends"
+  ],
+  "catalyst": "Q2 2026 earnings on August 6, 2026 — first full quarter showing restructuring progress; any sequential revenue improvement + margin expansion would validate the turnaround plan and the heavy insider buying",
+  "catalyst_timing": "August 6, 2026 (Q2 earnings)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Jan 2027 $10 calls or $10/$15 call spread — the heavy insider buying at $10 is a strong signal, and the asymmetry of a cheap stock with a real cost-cutting plan makes this the highest-conviction name today. Size moderate given the decade of disappointment.",
+  "key_risk": "Restructuring is cost-side only with no revenue growth — if the dental market weakens further or the cost cuts don't flow to the bottom line, the stock re-rates lower and the insider buying is dead money",
+  "estimated_upside_pct": 56,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 2026 shows restructuring progress stalled, revenue declines accelerate, or operating margins don't expand despite cost cuts"
+}
