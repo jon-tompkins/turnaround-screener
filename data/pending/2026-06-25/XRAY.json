@@ -1,0 +1,300 @@
+{
+  "ticker": "XRAY",
+  "fetched_at": "2026-06-25T13:37:56.244956",
+  "overview": {
+    "name": "DENTSPLY SIRONA Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "description": "DENTSPLY SIRONA Inc. develops, manufactures, and markets dental equipment supported by cloud-enabled solutions, dental products, and healthcare consumable products in urology and enterology worldwide. It operates through four segments: Connected Technology Solutions, Essential Dental Solutions, Orthodontic and Implant Solutions, and Wellspect Healthcare. The Connected Technology Solutions segment offers imaging equipment, motorized dental handpieces, treatment centers, and other instruments; and intraoral scanners, 3-D printers, and mills, as well as CEREC, a full-chairside economical restoration of esthetic ceramic dentistry offering. The Essential Dental Solutions segment provides motorized endodontic handpieces, files, sealers, irrigation needles, and other tools for root canal procedures; restorative products; curing light and dental diagnostic systems; ultrasonic scalers and polishers; and dental anesthetics, prophylaxis paste, dental sealants, and impression materials. The Orthodontic and Implant Solutions segment offers SureSmile, a clear aligner solution that includes whitening kits and retainers; VPro, a high frequency vibration technology device; SureSmile Simulator; DS Core platform, which creates 3D visualization of patient outcomes; dental implant products; digital dentures; crown and bridge porcelain products; bone regenerative and restorative solutions; treatment planning software; educational programs; custom abutments; tapered immediate load screws; regenerative bone growth factor; artificial teeth; and precious metal dental alloys. The Wellspect Healthcare segment offers medical devices, including catheters for urinary retention and advanced irrigation systems to help people suffering from chronic or severe constipation. The company was formerly known as DENTSPLY International Inc. and changed its name to DENTSPLY SIRONA Inc. in February 2016. DENTSPLY SIRONA Inc. was founded in 1877 and is headquartered in Charlotte, North Carolina.",
+    "market_cap": 2183560704,
+    "enterprise_value": 4263436800,
+    "shares_outstanding": 200326683,
+    "float_shares": 199220880,
+    "short_ratio": 3.39,
+    "short_percent_of_float": 0.121800005,
+    "held_by_insiders": 0.00611,
+    "held_by_institutions": 1.10041,
+    "revenue_ttm": 3680999936,
+    "revenue_growth": 0.001,
+    "gross_margins": 0.48926997,
+    "operating_margins": 0.034089997,
+    "profit_margins": -0.17061001,
+    "free_cashflow": 129625000,
+    "operating_cashflow": 268000000,
+    "total_cash": 190000000,
+    "total_debt": 2344999936,
+    "debt_to_equity": 177.786,
+    "current_ratio": 1.529,
+    "trailing_pe": null,
+    "forward_pe": 7.0495405,
+    "price_to_book": 1.6249254,
+    "ev_to_ebitda": 7.668,
+    "ev_to_revenue": 1.158,
+    "fifty_two_week_high": 17.09,
+    "fifty_two_week_low": 9.41,
+    "current_price": 10.915,
+    "analyst_target_mean": 13.4,
+    "analyst_target_high": 17.0,
+    "analyst_target_low": 9.0,
+    "recommendation": "hold",
+    "num_analysts": 15,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 16:00:00-04:00",
+        "EPS Estimate": 0.35,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 16:00:00-04:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": 0.27,
+        "Surprise(%)": -1.63
+      },
+      {
+        "Earnings Date": "2026-02-26 16:00:00-05:00",
+        "EPS Estimate": 0.29,
+        "Reported EPS": 0.27,
+        "Surprise(%)": -6.01
+      },
+      {
+        "Earnings Date": "2025-11-06 08:00:00-05:00",
+        "EPS Estimate": 0.45,
+        "Reported EPS": 0.37,
+        "Surprise(%)": -17.68
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 6.250937500000001,
+    "total_call_oi": 2843,
+    "total_put_oi": 1506
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1223996,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 9985,
+        "Value": 100000,
+        "URL": "",
+        "Text": "Purchase at price 10.02 per share.",
+        "Insider": "GLADDEN BRIAN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6500,
+        "Value": 64902,
+        "URL": "",
+        "Text": "Purchase at price 9.98 per share.",
+        "Insider": "HOSEIN CLYDE R",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 101200,
+        "URL": "",
+        "Text": "Purchase at price 10.12 per share.",
+        "Insider": "MCKEON BRIAN P",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 10000,
+        "Value": 101400,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 10.14 per share.",
+        "Insider": "MAZELSKY JONATHAN JAY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 101400,
+        "URL": "",
+        "Text": "Purchase at price 10.14 per share.",
+        "Insider": "MAZELSKY JONATHAN JAY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 15175,
+        "Value": 150005,
+        "URL": "",
+        "Text": "Purchase at price 9.88 per share.",
+        "Insider": "BARBER MICHAEL J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10086,
+        "Value": 99692,
+        "URL": "",
+        "Text": "Purchase at price 9.88 per share.",
+        "Insider": "HOLDEN BETSY D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22822,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ZURBAY DONALD J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22822,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GLADDEN BRIAN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22822,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BARBER MICHAEL J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 47.062911008712646,
+    "pct_above_200d_ma": -7.5155095923039035,
+    "pct_of_100d_ma": 93.981066233518,
+    "pct_change_1d": 3.4220498195089766,
+    "pct_change_5d": 8.474580300092693,
+    "pct_change_30d": -1.0909080505371094
+  }
+}
