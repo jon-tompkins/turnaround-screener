@@ -27,6 +27,10 @@ FMP_API_KEY = os.getenv("FMP_API_KEY")
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
+# Trading system webhook — push structured JSON after each daily run
+TRADING_WEBHOOK_URL = os.getenv("TRADING_WEBHOOK_URL")
+TRADING_WEBHOOK_TOKEN = os.getenv("TRADING_WEBHOOK_TOKEN")
+
 # Models
 ANALYST_MODEL = os.getenv("CLAUDE_ANALYST_MODEL", "claude-sonnet-4-6")
 RETROSPECTIVE_MODEL = os.getenv("CLAUDE_RETROSPECTIVE_MODEL", "claude-opus-4-7")

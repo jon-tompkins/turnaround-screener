@@ -1,0 +1,15 @@
+[Unit]
+Description=Turnaround Screener REST API
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/projects/turnaround-screener
+ExecStart=/home/ubuntu/projects/turnaround-screener/.venv/bin/python api/server.py
+Restart=always
+RestartSec=5
+Environment=PYTHONPATH=/home/ubuntu/projects/turnaround-screener/config
+
+[Install]
+WantedBy=multi-user.target

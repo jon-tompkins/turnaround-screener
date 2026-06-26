@@ -169,6 +169,150 @@ def send_slack(content: str, max_chars: int = 4000):
         print(f"  Slack post failed: {e}")
 
 
+def _conviction_10_to_5(score) -> int:
+    """Map our 1-10 conviction scale to the trading system's 1-5 scale."""
+    if score is None:
+        return 3
+    s = int(score)
+    if s >= 9: return 5
+    if s >= 7: return 4
+    if s >= 5: return 3
+    if s >= 3: return 2
+    return 1
+
+
+def _build_idea(ticker: str, direction: str, conviction_raw, thesis: str,
+                metadata: dict) -> dict:
+    """Build one idea in the trading system's webhook format."""
+    return {
+        "ticker": ticker,
+        "direction": direction,
+        "conviction": _conviction_10_to_5(conviction_raw),
+        "thesis": thesis[:500] if thesis else "",
+        "external_id": f"{date.today().isoformat()}:{ticker}",
+        "metadata": metadata,
+    }
+
+
+def send_webhook(new_tickers: list[dict], dropped_tickers: list[str],
+                  top_candidates: list[dict]):
+    """Push structured JSON to the trading system webhook.
+
+    Format: POST {ideas: [...]} with Bearer auth.
+    Sends:
+      - 'long' ideas for new high-conviction names (conv >= 4)
+      - 'long' ideas for existing top candidates (conv >= 6)
+      - 'exit' ideas for names dropped from the screen
+    """
+    webhook_url = settings.TRADING_WEBHOOK_URL
+    if not webhook_url:
+        return
+
+    webhook_token = settings.TRADING_WEBHOOK_TOKEN
+    ideas = []
+
+    # New names with conviction >= 4 → long signals
+    for entry in new_tickers:
+        a = entry.get("analysis") or {}
+        conv = a.get("conviction_score")
+        if conv is None or conv < 4:
+            continue
+
+        thesis_parts = []
+        if a.get("turnaround_reason"):
+            thesis_parts.append(a["turnaround_reason"])
+        if a.get("catalyst"):
+            thesis_parts.append(f"Catalyst: {a['catalyst']} ({a.get('catalyst_timing', 'TBD')})")
+        if a.get("suggested_trade"):
+            thesis_parts.append(f"Trade: {a['suggested_trade']}")
+        if a.get("key_risk"):
+            thesis_parts.append(f"Risk: {a['key_risk']}")
+
+        metadata = {
+            "sector": a.get("sector"),
+            "screen_mode": entry.get("screen_mode"),
+            "price": entry.get("price"),
+            "conviction_10": conv,
+            "upside_pct": a.get("estimated_upside_pct"),
+            "downside_pct": a.get("estimated_downside_pct"),
+            "has_options": entry.get("has_options"),
+            "source": "turnaround-screener",
+            "api": f"http://3.19.242.142:8780/watchlist/{entry['ticker']}",
+        }
+
+        ideas.append(_build_idea(
+            ticker=entry["ticker"],
+            direction="long",
+            conviction_raw=conv,
+            thesis=" | ".join(thesis_parts),
+            metadata=metadata,
+        ))
+
+    # Existing top candidates with conviction >= 6 → long signals (reaffirm)
+    for c in top_candidates:
+        conv = c.get("conviction_score")
+        if conv is None or conv < 6:
+            continue
+        perf = tracker.performance_since_added(c["ticker"])
+
+        metadata = {
+            "sector": c.get("sector"),
+            "screen_mode": c.get("screen_mode"),
+            "first_seen_date": c.get("first_seen_date"),
+            "price": perf.get("current_price"),
+            "pct_change": perf.get("pct_change"),
+            "days_held": perf.get("days_held"),
+            "conviction_10": conv,
+            "source": "turnaround-screener",
+            "api": f"http://3.19.242.142:8780/watchlist/{c['ticker']}",
+        }
+
+        thesis = (c.get("suggested_trade") or "")[:500]
+        # Skip if this ticker is already in new_names (avoid dup same day)
+        if any(i["ticker"] == c["ticker"] for i in ideas):
+            continue
+
+        ideas.append(_build_idea(
+            ticker=c["ticker"],
+            direction="long",
+            conviction_raw=conv,
+            thesis=thesis,
+            metadata=metadata,
+        ))
+
+    # Dropped names → exit signals
+    for ticker in dropped_tickers:
+        metadata = {
+            "source": "turnaround-screener",
+            "reason": "dropped_from_screen",
+            "api": f"http://3.19.242.142:8780/watchlist/{ticker}",
+        }
+        ideas.append(_build_idea(
+            ticker=ticker,
+            direction="exit",
+            conviction_raw=3,
+            thesis="Dropped from turnaround screen — no longer meets criteria.",
+            metadata=metadata,
+        ))
+
+    if not ideas:
+        print("  Webhook: no qualifying ideas to push (need conv >= 4 new or >= 6 existing)")
+        return
+
+    headers = {"Content-Type": "application/json"}
+    if webhook_token:
+        headers["Authorization"] = f"Bearer {webhook_token}"
+
+    try:
+        resp = requests.post(webhook_url, json={"ideas": ideas},
+                             headers=headers, timeout=30)
+        print(f"  Webhook push: {len(ideas)} ideas → {resp.status_code}")
+        if resp.status_code >= 400:
+            print(f"  Response: {resp.text[:200]}")
+    except Exception as e:
+        print(f"  Webhook push failed: {e}")
+
+
 def report_daily(new_tickers: list[dict], dropped_tickers: list[str],
                  top_candidates: list[dict]) -> Path:
     """Generate all outputs. Returns path to markdown report."""
@@ -177,4 +321,5 @@ def report_daily(new_tickers: list[dict], dropped_tickers: list[str],
     path = write_markdown_report(md)
     print(f"  Report saved: {path}")
     send_slack(md)
+    send_webhook(new_tickers, dropped_tickers, top_candidates)
     return path
