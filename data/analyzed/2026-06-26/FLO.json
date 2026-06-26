@@ -1,0 +1,32 @@
+{
+  "ticker": "FLO",
+  "company_name": "Flowers Foods, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Flowers Foods stock has fallen ~55% from its 52-week high ($16.85 → $7.62) as the traditional loaf bread category faces structural decline — consumers bifurcate between value and better-for-you, squeezing the mid-tier 20oz white bread segment where FLO has the #1 SKU. The Simple Mills acquisition ($795M) added leverage and near-term margin pressure but strategically diversifies into premium better-for-you snacking. The thesis is that 2026 is a transition year: category stabilization, Simple Mills integration synergies, and margin recovery as the co-manufacturing model scales.",
+  "bullish_points": [
+    "Forward P/E of ~9x and EV/EBITDA of 5.5x are historically cheap for a packaged food company with brand equity (Nature's Own, DKB, Wonder, Tastykake)",
+    "Insider buying: CFO bought 5,000 shares at $7.51 on June 8; directors bought ~50,000 shares in late May; net insider purchases of 626,535 shares over 6 months",
+    "Q1 2026 EPS beat ($0.29 vs $0.27 est, 8.16% surprise) and Q4 2025 EPS beat ($0.22 vs $0.15 est, 45.6% surprise) — earnings inflecting despite revenue softness",
+    "Simple Mills gives exposure to the $1.2T better-for-you snacking market with premium margins once integrated; DKB +10% unit growth and Canyon Bakehouse +6% show portfolio strengths",
+    "6.5% dividend yield ($0.50 annualized) provides downside support at current price; price-to-book of 1.22x is near historical floor",
+    "Nature's Own relaunch and ERP upgrade in 2026 could drive margin expansion and category share recovery"
+  ],
+  "bearish_points": [
+    "Debt-to-equity of 111% and $400M in 2026 maturities create refinancing risk; total debt $1.47B against $253M cash",
+    "Current ratio of 0.77 is below 1.0 — working capital stress; dividend was already cut to preserve liquidity",
+    "Traditional bread category decline is structural, not cyclical — volume down 4.2% in Q1; this may not reverse",
+    "Simple Mills 100% co-manufacturing model means higher cost structure pressuring gross margins (down 190bps in Q3 2025)",
+    "CEO sold 209,000 shares at $8.03 in April 2026 — largest insider transaction was a sale, not a buy",
+    "Revenue growth of 6.8% TTM is entirely acquisition-driven; organic volumes declining"
+  ],
+  "catalyst": "Q2 2026 earnings (August 14) showing Simple Mills margin integration progress and organic volume stabilization",
+  "catalyst_timing": "Q2 2026 earnings on August 14, 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — accumulate on dips below $7.50. The 6.5% yield provides a floor but leverage and structural headwinds argue against aggressive positioning. Jan 2027 $10 calls are speculative but interesting if Q2 shows margin recovery.",
+  "key_risk": "Traditional bread volume decline accelerates further and Simple Mills integration fails to deliver margin synergies, trapping FLO in a slow-growth high-leverage spiral where the dividend gets cut again",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 2026 shows gross margin compression continuing without a clear path to Simple Mills synergy realization, or if leverage ratio deteriorates beyond 4x net debt/EBITDA"
+}
