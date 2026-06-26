@@ -1,0 +1,300 @@
+{
+  "ticker": "FLO",
+  "fetched_at": "2026-06-26T13:38:10.689423",
+  "overview": {
+    "name": "Flowers Foods, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "description": "Flowers Foods, Inc. produces and markets packaged bakery food products in the United States. The company's principal products include fresh breads, buns, rolls, snack items, bagels, English muffins, tortillas, baking mixes, and frozen breads and rolls as well as snack items including bars, cakes, cookies, and crackers. The company offers its products under the Nature's Own, DKB, Canyon Bakehouse, Simple Mills, Wonder, and Tastykake brand names. It distributes its products through a direct-store-delivery distribution and a warehouse delivery system, as well as operates bakeries. The company's customers include national and regional restaurants, institutions and foodservice distributors, and retail in-store bakeries; wholesale distributors; mass merchandisers, supermarkets, vending outlets, and convenience stores; quick-serve chains, food wholesalers, institutions, dollar stores, and vending companies; and public health care, military commissaries, and prisons, and other governmental institutions. The company was formerly known as Flowers Industries and changed its name to Flowers Foods, Inc. in 2001. Flowers Foods, Inc. was founded in 1919 and is headquartered in Thomasville, Georgia.",
+    "market_cap": 1615388416,
+    "enterprise_value": 2821243648,
+    "shares_outstanding": 211993230,
+    "float_shares": 195479349,
+    "short_ratio": 4.04,
+    "short_percent_of_float": 0.2143,
+    "held_by_insiders": 0.08031999,
+    "held_by_institutions": 0.87288004,
+    "revenue_ttm": 5273825792,
+    "revenue_growth": 0.068,
+    "gross_margins": 0.48716,
+    "operating_margins": 0.0828,
+    "profit_margins": 0.01382,
+    "free_cashflow": 239973744,
+    "operating_cashflow": 418425984,
+    "total_cash": 252683008,
+    "total_debt": 1465965952,
+    "debt_to_equity": 111.007,
+    "current_ratio": 0.771,
+    "trailing_pe": 21.77143,
+    "forward_pe": 9.198677,
+    "price_to_book": 1.2207625,
+    "ev_to_ebitda": 5.515,
+    "ev_to_revenue": 0.535,
+    "fifty_two_week_high": 16.85,
+    "fifty_two_week_low": 6.8,
+    "current_price": 7.62,
+    "analyst_target_mean": 9.0,
+    "analyst_target_high": 14.0,
+    "analyst_target_low": 7.0,
+    "recommendation": "none",
+    "num_analysts": 5,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-14 16:00:00-04:00",
+        "EPS Estimate": 0.23,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-21 16:00:00-04:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": 0.29,
+        "Surprise(%)": 8.16
+      },
+      {
+        "Earnings Date": "2026-02-12 16:00:00-05:00",
+        "EPS Estimate": 0.15,
+        "Reported EPS": 0.22,
+        "Surprise(%)": 45.62
+      },
+      {
+        "Earnings Date": "2025-11-06 16:00:00-05:00",
+        "EPS Estimate": 0.23,
+        "Reported EPS": 0.23,
+        "Surprise(%)": -1.43
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 4833,
+    "total_put_oi": 3087
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 1044535.0,
+        "Trans": 32
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 418000.0,
+        "Trans": 2
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 626535.0,
+        "Trans": 34
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 16993602.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.038,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.064,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.025999999,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 25980,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "COURTNEY H MARK",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 37542.0,
+        "URL": "",
+        "Text": "Purchase at price 7.51 per share.",
+        "Insider": "SCAGLIONE DIEGO ANTHONY",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3710,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CHUBB THOMAS CALDECOT III",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9350,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CHUBB THOMAS CALDECOT III",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9350,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "DEESE GEORGE E",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9350,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "LEWIS MARGARET G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9350,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CASEY EDWARD J JR",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9350,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "MCFADDEN WILLIAM JAMESON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7900,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SPAINHOUR STERLING A. JR.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 209000,
+        "Value": 1679294.0,
+        "URL": "",
+        "Text": "Sale at price 8.03 per share.",
+        "Insider": "MCMULLIAN AMOS RYALS",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "I"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 43.27611113467567,
+    "pct_above_200d_ma": -22.20026366465361,
+    "pct_of_100d_ma": 89.85869983279599,
+    "pct_change_1d": -0.13157568644944773,
+    "pct_change_5d": -2.442160052655573,
+    "pct_change_30d": -0.21195279876558004
+  }
+}
