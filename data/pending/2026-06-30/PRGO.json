@@ -1,0 +1,300 @@
+{
+  "ticker": "PRGO",
+  "fetched_at": "2026-06-30T13:36:44.282119",
+  "overview": {
+    "name": "Perrigo Company plc",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "description": "Perrigo Company plc provides over-the-counter health and wellness solutions in the United States, Europe, and internationally. The company operates through Consumer Self-Care Americas and Consumer Self-Care International segments. It offers upper respiratory products, including cough suppressants, expectorants, and sinus and allergy relief; nutrition products consisting of infant formulas and oral electrolyte beverages; digestive health products, including antacids, anti-diarrheal, and anti-heartburn; pain and sleep-aids products comprising pain relievers and fever reducers; and oral care products, which include toothbrushes, toothbrush replacement heads, floss, flossers, whitening products, and toothbrush covers. The company also offers healthy lifestyle products, such as smoking cessation and well-being products; skin care products consisting of dermatological care, scar management, lice treatment, and other products for various skin conditions; women's health products comprising feminine hygiene and contraceptives; vitamins, minerals, and supplements; and other miscellaneous self-care products. It sells its products under the Compeed, Dr. Fresh, Firefly, Good Sense, Good Start, Mederma, Nasonex, Plackers, Prevacid24HR, REACH, Rembrandt, Steripod, Opill, Solpadeine, Coldrex, Physiomer, NiQuitin, ACO, ellaOne, and Compeed brands. The company also offers contract manufacturing services. It sells its products through retail drug, supermarket, and mass merchandise chains; e-commerce stores; wholesalers; pharmacies; drug and grocery retailers; and para-pharmacies. The company was formerly known as Perrigo Company and changed its name to Perrigo Company plc in December 2013. Perrigo Company plc was founded in 1887 and is headquartered in Dublin, Ireland.",
+    "market_cap": 1398898176,
+    "enterprise_value": 4862095872,
+    "shares_outstanding": 138367770,
+    "float_shares": 137648258,
+    "short_ratio": 5.7,
+    "short_percent_of_float": 0.19510001,
+    "held_by_insiders": 0.00392,
+    "held_by_institutions": 1.16493,
+    "revenue_ttm": 4178400000,
+    "revenue_growth": -0.072,
+    "gross_margins": 0.34168997,
+    "operating_margins": 0.03467,
+    "profit_margins": -0.435,
+    "free_cashflow": 108425000,
+    "operating_cashflow": 189400000,
+    "total_cash": 357200000,
+    "total_debt": 3828699904,
+    "debt_to_equity": 153.222,
+    "current_ratio": 2.719,
+    "trailing_pe": null,
+    "forward_pe": 4.280271,
+    "price_to_book": 0.5587487,
+    "ev_to_ebitda": 7.629,
+    "ev_to_revenue": 1.164,
+    "fifty_two_week_high": 28.44,
+    "fifty_two_week_low": 9.23,
+    "current_price": 10.11,
+    "analyst_target_mean": 16.5,
+    "analyst_target_high": 20.0,
+    "analyst_target_low": 14.0,
+    "recommendation": "none",
+    "num_analysts": 4,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-31 08:00:00-04:00",
+        "EPS Estimate": 0.36,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 06:00:00-04:00",
+        "EPS Estimate": 0.31,
+        "Reported EPS": 0.43,
+        "Surprise(%)": 40.17
+      },
+      {
+        "Earnings Date": "2026-02-26 06:00:00-05:00",
+        "EPS Estimate": 0.78,
+        "Reported EPS": 0.77,
+        "Surprise(%)": -1.28
+      },
+      {
+        "Earnings Date": "2025-11-05 06:00:00-05:00",
+        "EPS Estimate": 0.77,
+        "Reported EPS": 0.8,
+        "Surprise(%)": 3.91
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-02-19",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 17966,
+    "total_put_oi": 7206
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 542401,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 976,
+        "URL": "",
+        "Text": "",
+        "Insider": "ALFORD BRADLEY A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 976,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.99 per share.",
+        "Insider": "PARKER GEOFFREY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "D",
+        "Value": 10726.0
+      },
+      {
+        "Shares": 9175,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.83 per share.",
+        "Insider": "BEZERRA EDUARDO GUARITA",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 99365.0
+      },
+      {
+        "Shares": 3441,
+        "URL": "",
+        "Text": "",
+        "Insider": "WILLIS ROBERT",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25230,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.83 per share.",
+        "Insider": "LOCKWOOD-TAYLOR PATRICK",
+        "Position": "Former",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 273241.0
+      },
+      {
+        "Shares": 17902,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.83 per share.",
+        "Insider": "KHOURY ROBERTO",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 193879.0
+      },
+      {
+        "Shares": 2867,
+        "URL": "",
+        "Text": "",
+        "Insider": "BALL DAVID",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 6690,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 10.83 per share.",
+        "Insider": "ATKINSON CHARLES",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 72453.0
+      },
+      {
+        "Shares": 3823,
+        "URL": "",
+        "Text": "",
+        "Insider": "LENNOX ABIGAIL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 7305,
+        "URL": "",
+        "Text": "",
+        "Insider": "MANZONE ALBERT",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 41.7891456007755,
+    "pct_above_200d_ma": -25.123926129261996,
+    "pct_of_100d_ma": 91.55971515717648,
+    "pct_change_1d": 0.9950191631598271,
+    "pct_change_5d": 6.95468770632377,
+    "pct_change_30d": -1.8473968323120316
+  }
+}

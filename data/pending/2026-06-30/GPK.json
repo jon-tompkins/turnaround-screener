@@ -1,0 +1,300 @@
+{
+  "ticker": "GPK",
+  "fetched_at": "2026-06-30T13:36:46.449149",
+  "overview": {
+    "name": "Graphic Packaging Holding Company",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "description": "Graphic Packaging Holding Company, together with its subsidiaries, engages in the design, production, and sale of consumer packaging products to brands in food, beverage, foodservice, household, and other consumer products in the Americas, Europe, and the Asia Pacific. It operates through two segments, Americas Paperboard Packaging and International Paperboard Packaging. The Americas Paperboard Packaging segment includes paperboard packaging sold primarily to consumer packaged goods (CPG) companies serving the food, beverage and consumer product markets and cups, lids and food containers sold primarily to foodservice companies and quick-service restaurants in the Americas. The International Paperboard Packaging includes paperboard packaging sold primarily to CPG companies serving the food, foodservice, beverage and consumer product markets, including healthcare and beauty, outside of the Americas. It also designs, manufactures, and installs specialized packaging machines. The company sells its products through sales offices, as well as through broker arrangements with third parties. Graphic Packaging Holding Company was incorporated in 2007 and is headquartered in Atlanta, Georgia.",
+    "market_cap": 3127529728,
+    "enterprise_value": 8750200832,
+    "shares_outstanding": 295887387,
+    "float_shares": 290824754,
+    "short_ratio": 4.07,
+    "short_percent_of_float": 0.1092,
+    "held_by_insiders": 0.01548,
+    "held_by_institutions": 1.17754,
+    "revenue_ttm": 8652999680,
+    "revenue_growth": 0.017,
+    "gross_margins": 0.16988,
+    "operating_margins": 0.041279998,
+    "profit_margins": 0.03167,
+    "free_cashflow": 187375008,
+    "operating_cashflow": 902000000,
+    "total_cash": 190000000,
+    "total_debt": 5788000256,
+    "debt_to_equity": 178.202,
+    "current_ratio": 1.408,
+    "trailing_pe": 11.48913,
+    "forward_pe": 9.021312,
+    "price_to_book": 0.96318567,
+    "ev_to_ebitda": 7.051,
+    "ev_to_revenue": 1.011,
+    "fifty_two_week_high": 23.76,
+    "fifty_two_week_low": 8.79,
+    "current_price": 10.57,
+    "analyst_target_mean": 11.78,
+    "analyst_target_high": 18.0,
+    "analyst_target_low": 8.0,
+    "recommendation": "hold",
+    "num_analysts": 10,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-28 08:00:00-04:00",
+        "EPS Estimate": 0.14,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 0.06,
+        "Reported EPS": 0.09,
+        "Surprise(%)": 48.08
+      },
+      {
+        "Earnings Date": "2026-02-03 06:00:00-05:00",
+        "EPS Estimate": 0.35,
+        "Reported EPS": 0.29,
+        "Surprise(%)": -16.85
+      },
+      {
+        "Earnings Date": "2025-11-04 08:00:00-05:00",
+        "EPS Estimate": 0.57,
+        "Reported EPS": 0.58,
+        "Surprise(%)": 1.94
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 6527,
+    "total_put_oi": 898
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 348464.0,
+        "Trans": 32
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 46898.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 301566.0,
+        "Trans": 33
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 4580336.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.07,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.081,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.011,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 16261,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRLAS MARY LAURIE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16261,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MARTENS PHILIP R",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16261,
+        "Value": 160008.0,
+        "URL": "",
+        "Text": "Purchase at price 9.84 per share.",
+        "Insider": "STAFEIL JEFFREY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16261,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VENTURELLI LARRY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16261,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CALLAHAN ANDREW P",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16261,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MASELLI ALESSANDRO",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 14000,
+        "Value": 153992.0,
+        "URL": "",
+        "Text": "Purchase at price 11.00 per share.",
+        "Insider": "HAGEMANN ROBERT A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 17878,
+        "Value": 200001.0,
+        "URL": "",
+        "Text": "Purchase at price 11.19 per share.",
+        "Insider": "STAFEIL JEFFREY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1258,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "FALLAN SCOTT",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 44278,
+        "Value": 501099.0,
+        "URL": "",
+        "Text": "Purchase at price 11.32 per share.",
+        "Insider": "RIETBROEK ROBBERT",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-04 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 49.584377963734624,
+    "pct_above_200d_ma": -20.186666352372885,
+    "pct_of_100d_ma": 101.61220275841968,
+    "pct_change_1d": -0.5868544811142962,
+    "pct_change_5d": 3.4946245580749435,
+    "pct_change_30d": 10.96964162410854
+  }
+}
