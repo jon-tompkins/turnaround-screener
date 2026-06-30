@@ -1,0 +1,34 @@
+{
+  "ticker": "PRGO",
+  "company_name": "Perrigo Company plc",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "turnaround_reason": "Perrigo took a $1.3B goodwill impairment in Q4 2025 and announced a 7% workforce cut under its 'Three-S' restructuring strategy, targeting $80-100M in annual cost savings. The stock collapsed from ~$28 to ~$10 as the market punished weak 2026 guidance and the impairment, but the underlying OTC consumer self-care franchise (Nasonex, Prevacid24HR, Opill) generates $4.2B in revenue with positive free cash flow. The basing pattern near $10 with a Q1 2026 earnings beat (+40% surprise) suggests the worst may be priced in.",
+  "bullish_points": [
+    "Q1 2026 EPS of $0.43 vs $0.31 estimate — 40% beat, showing cost actions are already flowing through",
+    "Forward P/E of 4.3x and P/B of 0.56x — deeply discounted on both metrics, pricing in near-insolvency",
+    "$108M FCF and $357M cash on balance sheet provide a cushion despite $3.8B debt load",
+    "Three-S restructuring targeting $80-100M annual savings with 7% headcount reduction; new 'CORE' reporting metrics exclude underperforming segments, suggesting portfolio rationalization ahead",
+    "Analyst mean target $16.50 (63% upside from $10.11), with even the low target of $14 implying 38% upside",
+    "Short interest at 19.5% of float is elevated — a positive surprise on Q2 2026 earnings (July 31) could trigger a squeeze",
+    "Current ratio of 2.7x indicates short-term liquidity is adequate"
+  ],
+  "bearish_points": [
+    "$3.8B total debt against a $1.4B market cap — debt-to-equity of 153% is dangerously high; refinancing risk if rates stay elevated",
+    "Revenue declined 7.2% YoY — the top line is still shrinking, not stabilizing",
+    "Profit margins at -43.5% (net) due to the goodwill impairment; even operating margins are only 3.5%",
+    "Yfinance news fields returned all nulls — limited real-time news visibility, increasing information risk",
+    "No insider open-market purchases in the last 6 months (0 shares bought); recent transactions are derivative conversions/exercises, not new buying",
+    "Infant formula strategic review could result in a fire-sale divestiture at unfavorable terms",
+    "Healthcare sector OTC generics face persistent pricing pressure from retailers and PBMs"
+  ],
+  "catalyst": "Q2 2026 earnings on July 31, 2026 — if Perrigo shows revenue stabilization and demonstrates that Three-S cost savings are hitting the bottom line, the stock could re-rate sharply given the 4.3x forward P/E and 19.5% short interest",
+  "catalyst_timing": "July 31, 2026 (Q2 earnings) and any infant formula divestiture announcement",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot position with earnings catalyst approaching — size small given debt risk. Alternatively, Jan 2027 $10 calls for leveraged exposure if the turnaround thesis plays out over 12-18 months.",
+  "key_risk": "Debt load of $3.8B with rising refinancing costs could force a dilutive equity raise or asset fire-sales before the cost savings fully materialize",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 2026 shows continued revenue decline >5% with no margin improvement from cost actions, or if the company announces a dilutive equity raise"
+}

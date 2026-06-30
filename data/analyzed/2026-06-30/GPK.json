@@ -1,0 +1,37 @@
+{
+  "ticker": "GPK",
+  "company_name": "Graphic Packaging Holding Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "turnaround_reason": "Graphic Packaging has been crushed from $24 to ~$10.5 as margin compression from input costs and elevated leverage ($5.8B debt) hit earnings. The company is executing $60M in cost and production optimization initiatives for 2026, with capex slashed from $922M to $450M. Q1 2026 showed revenue growth of 2% with a 48% EPS beat, though margins remain under pressure. The stock is basing near 52-week lows with strong insider buying — the CEO and multiple directors purchased aggressively at $9.84-$11.32 in recent months.",
+  "bullish_points": [
+    "Massive insider buying: 348,464 shares purchased vs 46,898 sold in last 6 months (net +301,566), including CEO Rietbroek buying 44,278 shares at $11.32 ($501K) and Director Stafeil buying twice at $9.84 and $11.19",
+    "Q1 2026 EPS beat of 48% ($0.09 vs $0.06 estimate) — early signs that cost cuts are working",
+    "$60M in staffing and cost reductions expected in 2026, with capex dramatically cut from $922M to $450M — frees cash for debt paydown",
+    "Revenue growing at 1.7% with $8.65B TTM — this is a real business with scale, not a speculative bet",
+    "Forward P/E of 9.0x and EV/EBITDA of 7.1x are attractive for a packaging company with stable end-markets (food, beverage, consumer products)",
+    "P/B of 0.96x — trading near book value, limiting downside",
+    "Analyst consensus is Hold with mean target $11.78 (12% upside), but the high target of $18 implies 70% upside if margins recover",
+    "10 analysts cover the stock — institutional attention and liquidity are adequate",
+    "30-day price change of +11% suggests the stock may be starting to recover from the base"
+  ],
+  "bearish_points": [
+    "$5.8B total debt against $3.1B market cap — debt-to-equity of 178% is very high; interest costs consume significant FCF",
+    "Q1 2026 swung to a $43M net loss despite revenue growth — margin recovery is not yet confirmed",
+    "Gross margins of only 17% are thin for packaging; operating margins at 4.1% leave little room for error",
+    "Only $190M cash vs $5.8B debt — balance sheet flexibility is limited",
+    "Current ratio of 1.4x is adequate but not comfortable given debt maturities",
+    "Consumer cyclicality — any demand slowdown in food/beverage packaging pressures volumes",
+    "Options liquidity is thin: total call OI of 6,527 and put OI of 898 — large options positions would be difficult to build",
+    "Short interest at 10.9% of float is moderate but adds overhang risk"
+  ],
+  "catalyst": "Q2 2026 earnings on July 28, 2026 — evidence that $60M cost savings are flowing through to margins and that the Q1 EPS beat was not a one-off would validate the turnaround",
+  "catalyst_timing": "July 28, 2026 (Q2 earnings); debt refinancing announcements or deleveraging progress",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position — the value+insider setup is compelling. Accumulate on any pullback below $10. Jan 2027 $10 calls are an alternative but options liquidity is thin (low OI), so spot is preferred.",
+  "key_risk": "Margin recovery fails to materialize — if Q2 2026 shows margins still compressing despite cost cuts, the debt burden becomes the dominant narrative and the stock could re-test $8.79 lows",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 2026 shows gross margins declining further below 16% or if the company announces new debt issuance rather than paydown"
+}
