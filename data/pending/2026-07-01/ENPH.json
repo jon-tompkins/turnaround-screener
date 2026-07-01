@@ -1,0 +1,300 @@
+{
+  "ticker": "ENPH",
+  "fetched_at": "2026-07-01T13:36:32.995257",
+  "overview": {
+    "name": "Enphase Energy, Inc.",
+    "sector": "Technology",
+    "industry": "Solar",
+    "description": "Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter that converts energy at the individual solar module level and combines with its proprietary networking and software technologies to provide energy monitoring and control. It also provides microinverter units and related accessories; IQ Battery and related accessories; IQ PowerPack 1500 and related accessories; IQ Combiner, IQ Gateway, and IQ Energy Router; cloud-based monitoring service; and electric vehicle charging solutions, as well as design, proposal, permitting, installation and solar appointment generation services, and Enphase Care services. The company sells its solutions to solar distributors; and directly to large installers, original equipment manufacturers, strategic partners, and homeowners, as well as through its legacy product upgrade program or online store. Enphase Energy, Inc. was incorporated in 2006 and is headquartered in Fremont, California.",
+    "market_cap": 6610998784,
+    "enterprise_value": 6171230208,
+    "shares_outstanding": 131798220,
+    "float_shares": 127798144,
+    "short_ratio": 2.57,
+    "short_percent_of_float": 0.2212,
+    "held_by_insiders": 0.030480001,
+    "held_by_institutions": 1.00819,
+    "revenue_ttm": 1399800960,
+    "revenue_growth": -0.206,
+    "gross_margins": 0.27179,
+    "operating_margins": -0.09125,
+    "profit_margins": 0.09644,
+    "free_cashflow": 91614248,
+    "operating_cashflow": 190996992,
+    "total_cash": 930641024,
+    "total_debt": 612126976,
+    "debt_to_equity": 55.529,
+    "current_ratio": 3.799,
+    "trailing_pe": 49.66337,
+    "forward_pe": 20.795502,
+    "price_to_book": 5.9964137,
+    "ev_to_ebitda": 34.445,
+    "ev_to_revenue": 4.409,
+    "fifty_two_week_high": 73.74,
+    "fifty_two_week_low": 25.78,
+    "current_price": 49.84,
+    "analyst_target_mean": 48.51154,
+    "analyst_target_high": 85.0,
+    "analyst_target_low": 27.0,
+    "recommendation": "hold",
+    "num_analysts": 26,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-07-28 16:00:00-04:00",
+        "EPS Estimate": 0.46,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-04-28 16:00:00-04:00",
+        "EPS Estimate": 0.45,
+        "Reported EPS": 0.47,
+        "Surprise(%)": 5.46
+      },
+      {
+        "Earnings Date": "2026-02-03 16:00:00-05:00",
+        "EPS Estimate": 0.58,
+        "Reported EPS": 0.71,
+        "Surprise(%)": 21.42
+      },
+      {
+        "Earnings Date": "2025-10-28 16:00:00-04:00",
+        "EPS Estimate": 0.66,
+        "Reported EPS": 0.9,
+        "Surprise(%)": 37.21
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 15,
+    "nearest_expiry": "2026-07-02",
+    "farthest_expiry": "2028-12-15",
+    "sampled_expiry": "2026-09-18",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 25266,
+    "total_put_oi": 26474
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 187699.0,
+        "Trans": 16
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 139750.0,
+        "Trans": 4
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 47949.0,
+        "Trans": 20
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 4017210.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.012,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.047,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.035,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1000,
+        "Value": 53910,
+        "URL": "",
+        "Text": "Purchase at price 53.91 per share.",
+        "Insider": "TRIVEDI SHANKER S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-12 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 4551,
+        "Value": 249986,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 54.93 per share.",
+        "Insider": "TRIVEDI SHANKER S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 700,
+        "Value": 44940,
+        "URL": "",
+        "Text": "Sale at price 64.20 per share.",
+        "Insider": "MORA RICHARD",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 337482,
+        "URL": "",
+        "Text": "Purchase at price 67.37 - 68.39 per share.",
+        "Insider": "KOTHANDARAMAN BADRINARAYANAN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-26 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 700,
+        "Value": 32473,
+        "URL": "",
+        "Text": "Sale at price 46.39 per share.",
+        "Insider": "MORA RICHARD",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5952,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RODGERS THURMAN JOHN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6428,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GOMO STEVEN J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5952,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORA RICHARD",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5952,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MALCHOW JOSEPH IAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5952,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HAENGGI JAMIE ELIZABETH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 45.24811497840952,
+    "pct_above_200d_ma": 26.67864950050238,
+    "pct_of_100d_ma": 111.62995273227152,
+    "pct_change_1d": 2.051174425477087,
+    "pct_change_5d": 5.08155650498423,
+    "pct_change_30d": 1.126990116256521
+  }
+}

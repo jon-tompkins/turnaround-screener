@@ -1,0 +1,300 @@
+{
+  "ticker": "SRPT",
+  "fetched_at": "2026-07-01T13:36:29.291974",
+  "overview": {
+    "name": "Sarepta Therapeutics, Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "description": "Sarepta Therapeutics, Inc., a commercial-stage biopharmaceutical company, focuses on the discovery and development of RNA-targeted therapeutics, siRNA platform, gene therapy, and other genetic therapeutic modalities for the treatment of rare diseases. It offers EXONDYS 51 for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 51 skipping; VYONDYS 53 for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 53 skipping; AMONDYS 45 for the treatment of Duchenne in patients who have a confirmed mutation of the dystrophin gene that is amenable to exon 45 skipping; and ELEVIDYS, an AAV-based gene therapy, which is contraindicated in patients with any deletion in exon 8 and/or exon 9 in the Duchenne gene. The company also develops SRP-9003, a gene therapy program for the treatment of LGMD2E; SRP-1001 to selectively target and knockdown DUX4 using RNAi in Phase 1/2a clinical trials; and SRP-1003 for reduction of expression of the DMPK gene in Phase 1/2a clinical trials. It has collaboration and license agreements with F. Hoffman-La Roche Ltd; Arrowhead Pharmaceuticals, Inc.; University of Western Australia; Nationwide Children's Hospital; Hansa Biopharma; and Duke University. The company was incorporated in 1980 and is headquartered in Cambridge, Massachusetts.",
+    "market_cap": 1887702784,
+    "enterprise_value": 2291061760,
+    "shares_outstanding": 105576222,
+    "float_shares": 94606853,
+    "short_ratio": 8.99,
+    "short_percent_of_float": 0.2857,
+    "held_by_insiders": 0.042150002,
+    "held_by_institutions": 0.99042,
+    "revenue_ttm": 2184184064,
+    "revenue_growth": -0.019,
+    "gross_margins": 0.21555,
+    "operating_margins": 0.49046,
+    "profit_margins": 0.029790001,
+    "free_cashflow": 204779632,
+    "operating_cashflow": 175275008,
+    "total_cash": 653188992,
+    "total_debt": 1047046016,
+    "debt_to_equity": 69.566,
+    "current_ratio": 4.627,
+    "trailing_pe": 51.085712,
+    "forward_pe": 6.558627,
+    "price_to_book": 1.2541207,
+    "ev_to_ebitda": 49.607,
+    "ev_to_revenue": 1.049,
+    "fifty_two_week_high": 25.32,
+    "fifty_two_week_low": 10.42,
+    "current_price": 17.88,
+    "analyst_target_mean": 22.0,
+    "analyst_target_high": 38.0,
+    "analyst_target_low": 5.0,
+    "recommendation": "hold",
+    "num_analysts": 23,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-05 16:00:00-04:00",
+        "EPS Estimate": 0.69,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 16:00:00-04:00",
+        "EPS Estimate": 1.05,
+        "Reported EPS": 3.16,
+        "Surprise(%)": 202.07
+      },
+      {
+        "Earnings Date": "2026-02-25 16:00:00-05:00",
+        "EPS Estimate": -0.77,
+        "Reported EPS": -3.58,
+        "Surprise(%)": -365.29
+      },
+      {
+        "Earnings Date": "2025-11-03 16:00:00-05:00",
+        "EPS Estimate": -0.37,
+        "Reported EPS": -0.13,
+        "Surprise(%)": 65.03
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 12,
+    "nearest_expiry": "2026-07-02",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-08-21",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 4203,
+    "total_put_oi": 2534
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 179700.0,
+        "Trans": 13
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 7239.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 172461.0,
+        "Trans": 14
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 4450038.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.04,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.042,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.002,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BEHRENS M KATHLEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WIGZELL HANS LENNART RUDOLF",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "NICAISE CLAUDE M.D.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BOOR KATHRYN JEAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAYO STEPHEN L.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CHAMBERS MICHAEL ANDREW",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CONNELLY DEIRDRE P",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16875,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BARRY RICHARD J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7239,
+        "Value": 123208.0,
+        "URL": "",
+        "Text": "Sale at price 17.02 per share.",
+        "Insider": "MAYO STEPHEN L.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8125,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "RODINO-KLAPAC LOUISE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-27 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 20.34165879702799,
+    "pct_above_200d_ma": -8.878733034521824,
+    "pct_of_100d_ma": 96.59391051315319,
+    "pct_change_1d": -0.16693812155341714,
+    "pct_change_5d": 7.425147990831027,
+    "pct_change_30d": 5.4673738545676365
+  }
+}
