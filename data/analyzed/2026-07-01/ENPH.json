@@ -1,0 +1,36 @@
+{
+  "ticker": "ENPH",
+  "company_name": "Enphase Energy, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "turnaround_reason": "Enphase stock fell from $73.74 to $25.78 during the solar reset (high rates, inventory destocking, European weakness). Now recovering: Q1 2026 beat estimates, Q2 guidance of $280-310M signals revenue stabilization, and a draft FCC proposal to restrict Chinese energy inverters is a direct market-share tailwind for the US microinverter leader. CEO Badri Kothandaraman personally bought 5,000 shares at $67-68, signaling confidence.",
+  "bullish_points": [
+    "FCC draft proposal to restrict Chinese inverters — direct regulatory tailwind displacing competitors from the US market",
+    "Q1 2026 beat: EPS $0.47 vs $0.45 estimate (5.5% surprise); Q2 guidance $280-310M signals stabilization after -20.6% revenue decline",
+    "CEO bought 5,000 shares at $67-68 in May 2026 — strong insider signal at higher prices than current $49.84",
+    "Three consecutive EPS beats (Q3 2025 +37%, Q4 2025 +21%, Q1 2026 +5.5%) — trajectory improving",
+    "Insider net buying: 48K shares net over 6 months across 16 purchase transactions",
+    "Cash $931M vs debt $612M — net cash position, strong balance sheet",
+    "15 option expiries with liquid OI (25K calls, 26K puts) — flexible positioning",
+    "Current ratio 3.8, gross margins 27.2% — financially healthy",
+    "AI data center power demand emerging as new TAM for GaN microinverters",
+    "Recovering screen mode: 26.7% above 200d MA, 111.6% of 100d MA — momentum confirmed"
+  ],
+  "bearish_points": [
+    "Revenue still declining at -20.6% YoY — stabilization ≠ growth yet",
+    "Trailing PE of 49.7x and P/B of 6.0x — rich valuation for a declining-revenue company",
+    "Solar sector sensitive to interest rates — any Fed hawkishness pressures the stock",
+    "European market remains soft",
+    "Short interest 22.1% of float — though this can fuel squeeze on positive news",
+    "Q2 earnings July 28 is near-term risk — miss could break the recovery pattern"
+  ],
+  "catalyst": "Q2 2026 earnings (July 28) confirming revenue stabilization + FCC Chinese inverter restriction finalized + potential AI data center microinverter application",
+  "catalyst_timing": "Q2 2026 earnings July 28, 2026; FCC rule finalization timeline TBD (likely H2 2026)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position ahead of July 28 earnings, or Jan 2027 $45 calls to capture Q2 results and FCC tailwind with leveraged upside",
+  "key_risk": "Q2 2026 earnings miss on July 28 — if revenue guidance disappoints, the recovery pattern breaks and stock retests $30s",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 revenue comes in below $280M (low end of guidance); FCC proposal is watered down or withdrawn; interest rates spike"
+}

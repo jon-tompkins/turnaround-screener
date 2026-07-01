@@ -1,0 +1,36 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty stock collapsed from $5.33 to $1.82 on disappointing performance and CEO Sue Nabi's departure. New interim CEO Markus Strobel launched 'Coty. Curated' turnaround strategy, debt reduced to lowest level in a decade via Wella divestiture ($750M used to pay down debt), and Marc Jacobs Beauty relaunch driving optimism. Stock at $2.18 with P/B 0.62 and EV/EBITDA 6.7x looks deeply discounted if execution improves.",
+  "bullish_points": [
+    "Debt reduced to lowest leverage in close to a decade — Wella stake sale brought in $750M",
+    "P/B of 0.62 and EV/EBITDA of 6.7x — trading below book value with real brands (Gucci, Burberry, Calvin Klein, Marc Jacobs fragrances)",
+    "Interim CEO Markus Strobel has a clear 'Coty. Curated' framework: sharper priorities, focused investments, portfolio review",
+    "Prestige fragrance is a resilient category — Burberry and Kylie Cosmetics showing mid-single-digit growth",
+    "Skin care brands Lancaster and Philosophy posting double-digit growth",
+    "Insider buying: CFO Laurent Mercier bought at $2.65, Director Gordon von Bretten bought 83K shares at $2.41",
+    "60% insider/institutional ownership by JAB — sponsor has incentive to fix or sell",
+    "Forward PE of 6.2x — market pricing near-distress"
+  ],
+  "bearish_points": [
+    "Revenue declining (-1.3% TTM), operating margins negative (-0.6%)",
+    "Massive debt load: $3.4B against $257M cash — interest costs consume cash flow",
+    "Current ratio 0.82 — liquidity concern",
+    "Consumer Beauty division weak (-6% LFL), CoverGirl future uncertain under portfolio review",
+    "Interim CEO — no permanent leadership yet, execution risk high",
+    "JAB controlling stake limits upside optionality (no takeover premium possible without sponsor)",
+    "Analyst target mean $3.13 — only ~43% upside to consensus target",
+    "Q2 FY2026 EPS missed badly (-$0.03 vs expected profitable)"
+  ],
+  "catalyst": "Permanent CEO appointment + 'Coty. Curated' strategy execution showing LFL revenue stabilization + potential Consumer Beauty divestiture unlocking value",
+  "catalyst_timing": "Q3 FY2026 earnings (May 2026 already reported as Q2); next earnings Aug 2026; CEO search timeline unknown",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only — too leveraged and uncertain for options; small position as a deep-value speculation on brand portfolio + debt reduction",
+  "key_risk": "Debt service consumes cash flow before turnaround can gain traction; consumer beauty divestiture may be forced at low prices",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Liquidity deteriorates further (current ratio drops below 0.7); no permanent CEO by Q4; revenue acceleration to the downside"
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Elevidys gene therapy for Duchenne MD faced severe safety events in 2025 that cratered the stock from $25 to $10, but Q1 2026 showed stabilization with a massive EPS beat ($3.16 vs $1.05 est) and RBC notes that the franchise is stabilizing with cost control giving visibility to near-term cash flow positivity. Emerging siRNA pipeline (SRP-1001, SRP-1003) gaining analyst attention as a second growth pillar.",
+  "bullish_points": [
+    "Q1 2026 EPS beat of 202% ($3.16 vs $1.05 estimate) — operating margins of 49% show the exon-skipping franchise is highly profitable",
+    "Insider net buying of 172K shares over 6 months — directors accumulating at these levels",
+    "RBC noting Elevidys stabilization + cost control visibility toward cash flow positivity",
+    "siRNA pipeline (SRP-1001 for FSHD, SRP-1003 for DM1) showing early biomarker activity in Phase 1/2 — potential second pillar beyond gene therapy",
+    "Forward PE of 6.6x suggests market is pricing near-collapse; any positive surprise is asymmetric",
+    "Short interest at 28.6% of float — high short interest + positive catalyst = potential squeeze",
+    "Cash position $653M vs debt $1.05B; current ratio 4.6 — adequate runway"
+  ],
+  "bearish_points": [
+    "Revenue declining (-1.9% TTM) — Elevidys safety concerns reduced patient adoption",
+    "Trailing PE of 51x on minimal net income ($65M on $2.18B revenue)",
+    "FDA regulatory overhang remains — any new safety event could derail the franchise",
+    "Gene therapy perception damaged by 2025 safety events; management calls 2026 a 'reset year'",
+    "High debt-to-equity at 69.6%",
+    "yfinance news feed returned nulls — limited real-time news visibility in dossier",
+    "Operating margins of 49% appear inflated by one-time items; sustainable margins likely lower"
+  ],
+  "catalyst": "FDA regulatory tone on Elevidys (more gene-therapy-friendly under current administration) + siRNA Phase 1/2 data maturation + Q2 2026 earnings (Aug 5) showing whether stabilization is continuing",
+  "catalyst_timing": "Q2 2026 earnings August 5, 2026; FDA Elevidys label/expansion decisions ongoing through 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position or Jan 2027 $15/$20 call spread — the binary regulatory nature makes naked calls risky, but a spread caps downside",
+  "key_risk": "FDA safety action on Elevidys (boxed warning, REMS expansion, or withdrawal) would destroy the core revenue base",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "FDA announces new safety investigation or Elevidys patient death reports; revenue trajectory turns sharply negative in Q2"
+}
