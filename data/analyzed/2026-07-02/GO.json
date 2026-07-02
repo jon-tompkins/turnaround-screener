@@ -1,0 +1,32 @@
+{
+  "ticker": "GO",
+  "company_name": "Grocery Outlet Holding Corp.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "turnaround_reason": "Extreme over-valuation collapse from $19.41 to $5.65 (71% drawdown) driven by the post-IPO operational reset: mismanaged inventory, broken merchandising processes, and margin compression under prior leadership. New CEO Jason Potter (appointed Q2 2025) launched a store refresh program with pilot stores showing mid-single-digit comp lifts and double-digit fresh category growth. Q1 2026 (May 13) delivered a 120% EPS surprise beat, and heavy insider buying (2M net shares, 46% of insider holdings) signals confidence.",
+  "bullish_points": [
+    "Store refresh pilots delivering mid-single-digit comp sales increases with double-digit growth in meat and produce — 150 stores targeted for refresh in 2026",
+    "Q1 2026 EPS beat by 120% ($0.05 vs $0.02 estimate) — inflection from prior misses",
+    "Massive insider buying: 2.02M net shares purchased in last 6 months (46% net buy ratio), including officer Paul Miller buying 15,000 shares at $9.37-9.50 in June 2026",
+    "Forward P/E of 15.9x with Zacks consensus sales growth of 7.8% for FY2026 — reasonable entry for a turnaround story",
+    "Stock has rallied 24% in 30 days from $5.65 lows — momentum turning positive",
+    "6 options expiries through Jan 2028 provide hedging flexibility"
+  ],
+  "bearish_points": [
+    "41% short interest — extremely crowded short, but also means high borrow cost and squeeze risk cuts both ways",
+    "Analyst consensus is Hold with mean target $8.46 — below current $10.03 price",
+    "Operating margin barely breakeven (-0.1%), negative net margins (-8%), negative free cash flow (-$61M TTM)",
+    "Debt-to-equity of 228%, $1.84B total debt vs $59M cash — leveraged balance sheet",
+    "Revenue growth only 3.6% TTM — thin margin for error in a low-margin grocery business",
+    "Store refresh is capital-intensive with 3.5-year payback period per store — returns are backended"
+  ],
+  "catalyst": "Q2 2026 earnings on August 4, 2026 — whether comp store sales acceleration continues and store refresh rollout shows progress",
+  "catalyst_timing": "August 4, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot position only — small size given high short interest volatility and negative FCF. Entry near $10, stop below $8.50 if Q2 disappoints on comp sales",
+  "key_risk": "Q2 2026 comp sales disappoint and the store refresh program fails to scale beyond pilot results — crowded short could push stock back toward $5-6 range",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 comp sales growth falls below 1.5%, or if debt service becomes a concern given negative FCF and $1.84B debt load"
+}

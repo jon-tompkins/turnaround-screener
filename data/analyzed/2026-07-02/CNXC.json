@@ -1,0 +1,31 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Post-Webhelp acquisition debt overhang ($4.6B net debt) and accelerated offshoring headwind (~300bps revenue drag) have crushed margins and sentiment, sending the stock down 60% from $62 highs. The turnaround thesis hinges on AI/iX Suite revenue scaling (400% YoY deal growth, $100M ARR target), $630-650M FCF guided for FY26 to de-lever, and cost actions delivering sequential margin improvement in H2 FY2026.",
+  "bullish_points": [
+    "Record Q2 FCF of $242M, restoring credibility after Q1's -$145M; full-year $630-650M FCF guide reaffirmed",
+    "iX Suite deal count up 400% YoY with management claiming ~350bps higher margins on AI-influenced revenue (now 11% of mix)",
+    "CEO and CFO both bought shares in Q1/Q2 2026 at $27-28, above current $25 price",
+    "Deeply cheap: 0.58x EV/Revenue, 5.0x EV/EBITDA, 0.55x price/book, forward P/E of 2.1x",
+    "4 analysts rate buy with mean target $35.25 vs current $25"
+  ],
+  "bearish_points": [
+    "FY26 guidance cut on June 29: revenue growth lowered to 0.25-1.25% CC (from 1.5-3.0%), NGOI cut to $1,200-1,230M (from $1,240-1,290M)",
+    "Offshoring headwind increased to ~300bps from 200bps — structural, not cyclical",
+    "Margin recovery pushed to H2 again — repeatedly delayed",
+    "Groupe Bruxelles Lambert sold 6M shares at $22.25 in April 2026 — major holder exit",
+    "20% short interest, high debt-to-equity of 170%, negative GAAP profit margins (-13%)",
+    "GAAP operating margin fell to 3.9% from 6.1% as restructuring charges quadrupled to $66M"
+  ],
+  "catalyst": "Q3 FY2026 earnings (late September 2026) — whether sequential margin improvement materializes on cost actions and AI revenue mix shift drives operating leverage",
+  "catalyst_timing": "September 24, 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position with Jan 2027 $30 calls for upside leverage — entry near $25, stock already has deep research note from June 15 with detailed entry/exit plan",
+  "key_risk": "Offshoring continues to accelerate, further compressing margins and delaying the profit recovery story — the guide cut pattern repeats at Q3",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 shows further guide cuts or FCF misses $550M full-year trajectory, or if debt covenant concerns emerge"
+}
