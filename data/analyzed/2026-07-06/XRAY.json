@@ -1,0 +1,30 @@
+{
+  "ticker": "XRAY",
+  "company_name": "DENTSPLY SIRONA Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "turnaround_reason": "Stock is down from a $17 high to the $9-11 range on multiple quarters of EPS misses, margin compression, and a dividend cut; management installed a new CFO with a divestiture/capital-structure background and launched a 'Return-to-Growth' restructuring plan aimed at portfolio simplification (likely including the non-core Wellspect urology/continence unit) and debt paydown.",
+  "bullish_points": [
+    "Unusually tight cluster of insider buys: 7 different directors purchased shares between June 11-15, 2026 at $9.88-$10.14, just below the current $11.53 price",
+    "New CFO's stated background is exactly the divestiture/capital-structure playbook this company needs (non-core asset sales, debt retirement, buybacks)",
+    "Cheap on forward multiples: forward P/E 7.45x, EV/EBITDA 8.1x, EV/Revenue 1.22x for a company with 49% gross margins",
+    "Dividend elimination frees cash flow for debt reduction and buybacks rather than being a pure negative signal",
+    "Stock already up 16% over the past 30 days and holding above its 100-day MA, suggesting the bottom-forming thesis has some price confirmation"
+  ],
+  "bearish_points": [
+    "Adjusted EBITDA margin compressed to 14.7% in Q1 2026 from 19.0% a year earlier — the turnaround has not shown up in the numbers yet, this is a story stock for now",
+    "Adjusted EPS fell to $0.27 from $0.44 y/y; last three quarters have all missed consensus (-17.68%, -6.01%, -1.63%)",
+    "Debt/equity of 178% and total debt of $2.34B against only $190M cash is a heavy load if the restructuring stalls",
+    "Profit margin is negative (-17%) on a trailing basis; this is a company that is currently losing money on a GAAP basis, not a stable earner riding out a soft patch",
+    "Analyst consensus is only 'hold' with a $13.40 mean target — no strong sell-side conviction behind the turnaround yet"
+  ],
+  "catalyst": "Q2 2026 earnings report — first real read on whether the Return-to-Growth restructuring is translating into margin stabilization, plus any update on non-core divestiture (Wellspect) progress from the new CFO",
+  "catalyst_timing": "Q2 2026 earnings, 2026-08-06",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot position or Jan 2027 $12.50 calls — defined-risk way to play the insider-buying/restructuring thesis into the Aug 6 print without over-committing given the still-deteriorating fundamentals",
+  "key_risk": "Q2 earnings show margins continuing to compress rather than stabilize, which would invalidate the 'insiders know the bottom is in' thesis and likely retest the $9.41 52-week low given the leverage",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 print shows another EBITDA margin decline sequentially, or if debt/equity climbs further without a divestiture announcement"
+}
