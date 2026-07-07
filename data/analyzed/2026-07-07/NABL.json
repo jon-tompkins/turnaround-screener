@@ -1,0 +1,31 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Stock is down ~51% from its 52-week high despite Q1 2026 beating on both revenue ($133.7M vs $131.6M est.) and EPS ($0.09 vs $0.08 est.) and management reaffirming FY26 guidance — the sell-off looks driven by broader growth-deceleration and margin-normalization worries in the MSP-software space rather than company-specific deterioration.",
+  "bullish_points": [
+    "Revenue growth of 13.1% ttm is real and reaccelerating, unlike the other two names screened today",
+    "Reaffirmed FY26 guidance (ARR $581-586M, adjusted EBITDA $167-171M, 8-9% constant-currency ARR growth, 30-31% EBITDA margin) with no guide-down",
+    "Forward PE of only 9.2x and price-to-book of ~1.0x is cheap for a software company with 80% gross margins",
+    "Actively buying back stock — 1.29M shares repurchased for ~$10M in the latest tranche, ~$29.9M total under the March 2025 program",
+    "Launched new AI-powered detection in its Adlumin-based Security Operations Center, adding a real product-driven growth angle",
+    "Analyst recommendation is \"buy\" with 5 analysts covering; Scotiabank raised its target post-earnings"
+  ],
+  "bearish_points": [
+    "Debt/equity of 54.5% and total debt of $436M against a modest $828M market cap leaves less room for error than the balance sheet-light peers",
+    "Needham cut its price target to $6.50 (from $8) even while maintaining Buy — some estimate trimming is happening despite the beat-and-raise quarter",
+    "Extremely high implied vol on the options (108% ATM IV at the Nov sampled expiry) signals the market is pricing real uncertainty, not a sleepy value name",
+    "No activist stake or M&A catalyst found in research — the re-rating thesis depends purely on execution, not a corporate action shortcut",
+    "Trailing PE not meaningful (net loss on a trailing basis) — profitability improvement is still a story, not yet fully proven out"
+  ],
+  "catalyst": "Q2 earnings — confirmation that ARR growth and EBITDA margin trends from Q1 are continuing, which would validate the reaffirmed FY26 guide",
+  "catalyst_timing": "2026-08-06 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position, or Jan 2027 $5/$7.50 call spread given liquid options (8,668 call OI) and cheap forward multiple",
+  "key_risk": "MSP-software peer group re-rates lower on macro SMB-spending worries, dragging NABL down regardless of its own execution, or leverage becomes a concern if growth stalls",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 shows ARR growth decelerating below the 8% guided floor or any sign of the buyback pausing due to leverage concerns"
+}

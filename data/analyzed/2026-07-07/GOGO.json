@@ -1,0 +1,30 @@
+{
+  "ticker": "GOGO",
+  "company_name": "Gogo Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Stock is down ~70% from its 2022 peak as Starlink's vertically-integrated, lower-cost aviation Wi-Fi push structurally erodes Gogo's legacy business aviation connectivity moat, with revenue basically flat-to-down and a heavy debt load left over from the pre-LEO-competition era.",
+  "bullish_points": [
+    "Won a 5-year sole-source federal government satcom contract and got FAA/EASA certification for its own LEO-based Galileo system (300+ antennas shipped, 99 activations, 31 STCs done with 20 more expected in H1 2026)",
+    "Acquired Satcom Direct (~$375M cash + 5M shares) to bulk up scale and product breadth against Starlink rather than cede the market passively",
+    "Forward PE of only 4.9x if FY2026 guidance ($922M revenue, $0.67 EPS) holds — priced for continued decline, not for stabilization",
+    "EV/EBITDA of 7.2x is not demanding for a business still generating positive FCF ($24.5M) and operating cash flow ($84.8M)",
+    "Director bought 250k shares in the open market in March 2026 around $4.54-4.57 — a real insider bet near current levels"
+  ],
+  "bearish_points": [
+    "Total debt of ~$903M against a $531M market cap is a genuinely dangerous leverage profile for a company facing a structural competitive threat, not a cyclical one",
+    "Starlink is vertically integrated (owns the satellites) and undercutting on price — Gogo can certify more STCs but can't out-cost SpaceX's economics",
+    "Revenue growth is negative (-1.7% ttm) even before accounting for the dilutive Satcom Direct deal financing",
+    "Only 2 analysts cover the name and neither issued a strong buy — thin coverage means limited independent validation of the bull case",
+    "Q1 2026 revenue missed estimates ($226.3M vs $233.3M) even as EPS beat, suggesting the top-line erosion is already showing up"
+  ],
+  "catalyst": "Q2 earnings — first look at whether Galileo/LEO STC ramp and the Satcom Direct integration are offsetting legacy revenue erosion",
+  "catalyst_timing": "2026-08-06 earnings",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Skip, or at most a small spot position sized for the leverage risk — not an options trade given the binary structural threat from Starlink",
+  "key_risk": "Starlink continues taking business aviation share faster than Gogo's LEO buildout can offset, and the debt load leaves no room for a slow bleed",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Q2 shows legacy revenue erosion accelerating rather than being offset by Galileo/Satcom Direct contribution, or any sign of covenant/refinancing stress"
+}

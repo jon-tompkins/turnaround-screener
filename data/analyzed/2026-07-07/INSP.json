@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Stock is down ~66% from its 52-week high after management cut FY2026 revenue guidance to ~$850M (from ~$975M) on coding/reimbursement uncertainty tied to the WISeR program, with Q1 growth decelerating to just 1.6% y/y from a historical 20%+ pace.",
+  "bullish_points": [
+    "Still profitable with 85.8% gross margins and 14.3% net margin; $284M cash vs only $30M debt",
+    "Q1 2026 beat on EPS (0.10 vs 0.06 est.) despite the guidance cut, showing underlying demand isn't collapsing",
+    "Net insider buying over trailing 6 months (210k shares net purchased vs only ~4k sold)",
+    "Freedom Capital initiated a Buy, arguing LivaNova/Nyxoah competition is undifferentiated and Inspire keeps category leadership",
+    "Trailing PE of 11.3x is cheap for a company with 85%+ gross margins if growth reaccelerates"
+  ],
+  "bearish_points": [
+    "Guidance implies growth collapsing to ~8% for the year — a severe deceleration from historical norms, and management flagged headwinds persisting through 2026",
+    "LivaNova just won FDA approval for a direct competing hypoglossal nerve stimulation device (Aura6000); Nyxoah also advancing toward market",
+    "GLP-1 weight-loss drugs are a real long-term overhang on OSA device demand that isn't going away",
+    "Forward PE (38.9x) is far above trailing PE, meaning the Street expects a near-term earnings air pocket",
+    "Recent officer/director sales, even if small, add no conviction signal on top of an already-cut guide"
+  ],
+  "catalyst": "Q2 earnings print — the market's first real read on whether the promised H2 sequential recovery from the coding/reimbursement issue is materializing",
+  "catalyst_timing": "2026-08-03 earnings",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot position only; skip options given thin OI (88 calls / 100 puts total) and wait for the Aug 3 print to size up or cut",
+  "key_risk": "Guidance gets cut again and reimbursement/coding uncertainty extends past 2026, compounding with real competitive share loss to LivaNova",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 print shows growth still decelerating sequentially rather than stabilizing, or LivaNova reports early commercial traction"
+}
