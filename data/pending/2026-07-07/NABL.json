@@ -1,0 +1,300 @@
+{
+  "ticker": "NABL",
+  "fetched_at": "2026-07-07T13:35:33.925580",
+  "overview": {
+    "name": "N-able, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "N-able, Inc. provides unified endpoint management, security operations, and data protection solutions worldwide. The company's solutions enable IT service providers and organizations to drive digital transformation and keep their businesses secure. It also offers a software platform designed to be an integrated enterprise-grade solution that serves as an operating system. In addition, the company offers remote monitoring and management solutions that provide visibility and insights into the availability and performance of their customers' networks, infrastructure, devices, and applications through a centralized dashboard; and data protection as-a-service solutions, such as backup and disaster recovery for servers, virtual machines, workstations, files, data, and key cloud-based applications, as well as multi-tenant platform and secure remote delivery architecture. Further, it offers security services through endpoint security, managed detection and response, extended detection and response, web protection, e-mail security, and archiving solutions. Additionally, the company engages in the professional services automation, automation and scripting management, password management policies, and reporting and analytics activities. The company was incorporated in 2020 and is headquartered in Burlington, Massachusetts.",
+    "market_cap": 827922560,
+    "enterprise_value": 1112805376,
+    "shares_outstanding": 188378290,
+    "float_shares": 73162360,
+    "short_ratio": 1.68,
+    "short_percent_of_float": 0.0514,
+    "held_by_insiders": 0.020650001,
+    "held_by_institutions": 1.00182,
+    "revenue_ttm": 526908000,
+    "revenue_growth": 0.131,
+    "gross_margins": 0.80227995,
+    "operating_margins": 0.09837,
+    "profit_margins": -0.0199,
+    "free_cashflow": 81068000,
+    "operating_cashflow": 90996000,
+    "total_cash": 117812000,
+    "total_debt": 435660992,
+    "debt_to_equity": 54.537,
+    "current_ratio": 1.26,
+    "trailing_pe": null,
+    "forward_pe": 9.15625,
+    "price_to_book": 1.0363121,
+    "ev_to_ebitda": 17.043,
+    "ev_to_revenue": 2.112,
+    "fifty_two_week_high": 9.04,
+    "fifty_two_week_low": 2.92,
+    "current_price": 4.395,
+    "analyst_target_mean": 6.85,
+    "analyst_target_high": 10.0,
+    "analyst_target_low": 5.75,
+    "recommendation": "buy",
+    "num_analysts": 5,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 08:00:00-04:00",
+        "EPS Estimate": 0.1,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-07 07:00:00-04:00",
+        "EPS Estimate": 0.09,
+        "Reported EPS": 0.09,
+        "Surprise(%)": 2.27
+      },
+      {
+        "Earnings Date": "2026-02-19 07:00:00-05:00",
+        "EPS Estimate": 0.1,
+        "Reported EPS": 0.06,
+        "Surprise(%)": -40.0
+      },
+      {
+        "Earnings Date": "2025-11-06 07:00:00-05:00",
+        "EPS Estimate": 0.09,
+        "Reported EPS": 0.13,
+        "Surprise(%)": 44.44
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 108.00827246093752,
+    "total_call_oi": 8668,
+    "total_put_oi": 194
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3890012,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 52173,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCMARTIN JAMES CAMERON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 52173,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BOCK WILLIAM G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 52173,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WIDMANN MICHAEL A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 52173,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LEWIS DARRYL M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 104346,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SLTA IV GP, L.L.C.",
+        "Position": "Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 52173,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PULVERMUELLER PATRICK MICHAEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 72500,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ANASTOS PETER C",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-02-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 30000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "STAGNO CHRISTOPHER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 300000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PAGLIUCA JOHN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 80000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PAI KATHLEEN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-25 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 42.50200704207824,
+    "pct_above_200d_ma": -26.006158839867744,
+    "pct_of_100d_ma": 99.22872761818532,
+    "pct_change_1d": 3.199057715491138,
+    "pct_change_5d": 18.021678903548512,
+    "pct_change_30d": 22.331463176182886
+  }
+}
