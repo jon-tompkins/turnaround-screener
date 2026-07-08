@@ -1,0 +1,30 @@
+{
+  "ticker": "GPK",
+  "company_name": "Graphic Packaging Holding Company",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "turnaround_reason": "Stock down ~58% from 52wk high on debt-load concerns (D/E 178%, $5.9B debt) and an S&P downgrade to 'BB' in March 2026, compounded by a Q1 2026 swing to a $43M net loss and an EBITDA guide cut of ~20% for the year. A new CEO (started Jan 2026) is resetting the base with cost discipline and lower capex.",
+  "bullish_points": [
+    "Heavy, broad insider buying over the last 6 months: directors purchased at $9.84-$11.36, well above the current $10.04 price, net +301k shares bought vs sold",
+    "Cheap on forward multiples: fwd P/E 8.6x, EV/EBITDA 7.0x, P/B 0.91x",
+    "Company reaffirmed full-year adjusted cash flow guidance of $700-800M despite the downgrade",
+    "Reduced inventory $48M in Q1, showing early balance-sheet discipline under new CEO",
+    "Net sales still grew +2% in Q1 despite the earnings miss"
+  ],
+  "bearish_points": [
+    "S&P downgraded issuer rating to 'BB' from 'BB+' in March 2026 citing debt burden and market weakness",
+    "2026 EBITDA guidance was cut ~20% - the deleveraging story is not yet confirmed",
+    "Q1 2026 swung to a $43M net loss vs $127M net income in Q1 2025",
+    "FCF improvement is coming mostly from lower capex, not operational improvement - lower quality",
+    "Very thin margins (net margin 3.2%, operating margin 4.1%) leave little room for error on a highly levered balance sheet"
+  ],
+  "catalyst": "Q2 2026 earnings (Aug 4) - watch for EBITDA trajectory vs the cut guidance and any further debt/rating commentary from the new CEO",
+  "catalyst_timing": "Q2 2026 earnings, 2026-08-04",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot position, small size - the insider buying and cheap multiple are real signals but the debt/EBITDA trajectory is still unconfirmed",
+  "key_risk": "EBITDA continues to deteriorate faster than guided, forcing another rating downgrade and squeezing an already-levered balance sheet",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 earnings show EBITDA guidance cut again or free cash flow guidance is walked back"
+}

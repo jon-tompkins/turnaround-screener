@@ -1,0 +1,30 @@
+{
+  "ticker": "FLO",
+  "company_name": "Flowers Foods, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Stock down ~39% over 12 months, driven mainly by the Simple Mills acquisition (closed Feb 2025) turning out dilutive - it contributed $213.9M net sales in Q4 2025 but a $14.4M net loss, dragging gross margin down ~190bps. Management has explicitly called 2026 a 'transition year' centered on a nationwide Nature's Own relaunch aimed at reversing core-brand volume declines.",
+  "bullish_points": [
+    "Cheap on forward multiples: fwd P/E 10.3x, EV/EBITDA 5.9x, well below trailing P/E of 24.3x - market is pricing in continued margin pain",
+    "Revenue growth is real and accelerating (+6.8% TTM, +1.1% in the most recent quarter) even as margins compress",
+    "Nature's Own relaunch (cleaner ingredients, Non-GMO Project Verified) is a concrete, dated catalyst for the flagship brand rather than vague turnaround language",
+    "CFO bought 5,000 shares in June 2026 at $7.51, showing some management confidence",
+    "High gross margin business (48.7%) with strong FCF generation ($240M TTM) even during the rough patch"
+  ],
+  "bearish_points": [
+    "CEO sold 209,000 shares in April 2026 at $8.03 - a large insider sale that reads as a bearish signal from the person with the most information",
+    "Adjusted EBITDA actually decreased 1.8% in the most recent quarter (10.1% of sales, down 30bps) - margin compression is ongoing, not yet stabilized",
+    "Simple Mills integration remains a drag with no confirmed timeline to profitability",
+    "Very thin net margin (1.4%) leaves little room for further cost pressure",
+    "High leverage for a food company: D/E 111%, current ratio below 1.0 (0.77)"
+  ],
+  "catalyst": "Q2 2026 earnings plus visible traction on the Nature's Own relaunch and Simple Mills margin trajectory",
+  "catalyst_timing": "Q2 2026 earnings, 2026-08-14",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Watchlist only / very small spot position - CEO's large insider sale is a real yellow flag that outweighs the cheap valuation until margin trend turns",
+  "key_risk": "Simple Mills integration and Nature's Own relaunch both underdeliver, keeping EBITDA margin compressed through 2026 while debt stays elevated",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 earnings show adjusted EBITDA margin declining further or Simple Mills losses widening"
+}
