@@ -1,0 +1,33 @@
+{
+  "ticker": "DXC",
+  "company_name": "DXC Technology Company",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Legacy IT-services outsourcer in a multi-year restructuring (cost cuts, real estate sales, debt paydown) trying to pivot toward AI-enabled service delivery, but organic revenue is still shrinking and margins are guided lower even as the stock sits near an all-time low.",
+  "bullish_points": [
+    "Extremely cheap on cash-flow and asset basis: EV/EBITDA 2.95x, EV/Revenue 0.34x, price-to-book 0.53x",
+    "Forward P/E of just 3.1x implies the market expects a sharp earnings step-down or is deeply skeptical of guidance -- if EPS lands anywhere near estimates the stock is absurdly cheap",
+    "DXC OASIS (AI service-delivery platform built with Anthropic/Claude) already deployed to 50+ customers across 17 countries; internal AI use (customer zero) reportedly cutting incident resolution time ~95% and eliminating Tier-1 SOC roles -- real opex leverage if it scales",
+    "CEO bought ~28k shares in the open market at $8.90-9.00 in May 2026, a real cash purchase (not a grant) just below current price",
+    "Positive FCF ($809M TTM) and a beaten-up 5.6% EBIT margin that still generated a 22.6% YoY EBIT increase last quarter",
+    "Q2 FY26 and Q4 FY26 earnings both beat EPS estimates by 9.5-16%, a modest positive-surprise pattern"
+  ],
+  "bearish_points": [
+    "Organic revenue decline is accelerating, not stabilizing -- guided to -7% next quarter vs -1.2% TTM, and FY2027 guidance confirms -3% to -5% organic decline",
+    "Margin guidance is moving the wrong way: EBIT margin guided down to 5.0% from 5.6%",
+    "Stock hit an all-time low in April 2026 despite a broad AI-stock rally -- the market is explicitly not rewarding the AI narrative here",
+    "Heavily levered: debt/equity 132%, total debt $4.25B vs total cash $1.74B",
+    "Currently -23.8% below its 200-day MA -- a genuine downtrend, not yet confirmed basing",
+    "yfinance news feed returned nothing (all null), so no fresh headline color beyond search results -- some information gap",
+    "Legacy outsourcing business model faces structural pressure from cloud-native competitors and now AI disintermediation of the same services DXC sells"
+  ],
+  "catalyst": "Q1 FY2027 earnings (next report) -- market wants to see organic revenue decline actually bottoming and margin guidance stabilizing, not just AI press releases",
+  "catalyst_timing": "2026-07-30 earnings",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small starter size -- too much fundamental deterioration (accelerating revenue decline, margin guide-down) to size up on cheapness alone; watch the July 30 print for confirmation before adding",
+  "key_risk": "Organic revenue decline continues to accelerate and the 'cheap on paper' multiples turn out to be cheap for a reason -- a value trap where AI upside never offsets legacy erosion",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q1 FY27 earnings show organic decline still worsening or another margin guide-down -- that would confirm value-trap thesis and this drops off the list"
+}

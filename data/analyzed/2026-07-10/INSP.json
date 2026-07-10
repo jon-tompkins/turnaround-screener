@@ -1,0 +1,33 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Sleep-apnea implant maker fell from $147 to $51 over the past year on fears GLP-1 drugs (Zepbound, Wegovy) would erode its addressable market plus a 2026 guidance reset; now basing after a strong recent bounce (+22% in 30 days) with insiders net buying and new product (Inspire V / SleepSync) launching.",
+  "bullish_points": [
+    "Profitable and cash-generative despite the selloff: profit margin 14.3%, FCF $85.6M TTM, current ratio 6.3x, debt/equity only 3.7 -- fortress balance sheet, no financing risk",
+    "Trailing P/E of 11x is unusually cheap for a device company with 86% gross margins -- the market is pricing this as a structurally impaired business, not a temporary setback",
+    "Last three quarterly EPS prints beat estimates by 138%, 142%, and 324% -- consistent, large positive surprises suggest guidance has been reset conservatively",
+    "Net insider buying over the last 6 months (210,670 shares net purchased across 26 transactions) -- people close to the business are accumulating, not selling ahead of GLP-1 fears playing out",
+    "SLEEP 2026 data showed hypoglossal nerve stimulation may improve cardiovascular risk markers vs. CPAP/untreated -- differentiates INSP beyond just apnea symptom relief, which could support reimbursement and clinician preference even as GLP-1 use grows",
+    "The bear case (GLP-1s kill demand) is well known and heavily discounted already -- stock is down 65% from its 52-week high; further downside requires the thesis to get *worse* from here, not just persist",
+    "Emerging view that GLP-1s and INSP are more complementary than competitive: many OSA patients remain third-line-treatment eligible regardless of weight-loss drug use"
+  ],
+  "bearish_points": [
+    "Revenue growth has stalled to +1.6% TTM -- this is a name whose 20%+ growth narrative broke, and it hasn't shown it can re-accelerate yet",
+    "BofA downgraded to Underperform with a $39 price target (below current $51) in 2026, and flagged issues 'lasting into 2028' -- at least one credible bear thinks this drags on for years",
+    "Forward P/E of 40x vs trailing 11x implies the Street expects a sharp near-term earnings dip (consistent with the -$0.25 EPS estimate for the upcoming quarter) -- next print could disappoint even if beats have been the pattern",
+    "Options market is thin: only 109 calls / 98 puts total open interest -- poor liquidity for anyone wanting to trade this with options",
+    "GLP-1 adoption is still in its early innings; even a modest structural share shift over multiple years could cap the multiple regardless of near-term beats",
+    "-27% below the 200-day MA -- still technically in a downtrend, the 30-day bounce is not yet a confirmed trend reversal"
+  ],
+  "catalyst": "Q2 2026 earnings + continued execution on Inspire V / SleepSync rollout -- market wants proof revenue growth is re-accelerating, not just EPS beats against a lowered bar",
+  "catalyst_timing": "2026-08-03 earnings",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot position only; skip options given thin open interest and wide bid/ask risk",
+  "key_risk": "GLP-1 drug adoption continues eating into OSA device demand and revenue growth stays stuck near zero, validating the BofA bear case and keeping the multiple compressed for years",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 revenue growth decelerates further from the current +1.6% TTM pace, or management cuts guidance again -- that would confirm the structural GLP-1 impairment thesis"
+}

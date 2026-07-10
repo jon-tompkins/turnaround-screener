@@ -1,0 +1,32 @@
+{
+  "ticker": "ENPH",
+  "company_name": "Enphase Energy, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "turnaround_reason": "Residential solar microinverter/battery leader crushed by high rates and weak US solar demand (revenue -20.6% YoY), now showing early stabilization signs -- Q2 guidance implies sequential improvement and Europe battery demand is picking up as a US offset.",
+  "bullish_points": [
+    "Q1 2026 beat EPS estimates and Q2 guidance ($280-310M revenue) signals stabilization rather than continued freefall after a brutal 2025-2026 downturn",
+    "Battery shipment guide of 100-110 MWh for Q2 plus a 12-14% US list-price cut should drive volume; Europe battery demand growing on self-consumption policy tailwinds, providing geographic diversification away from the weak US market",
+    "Real insider buying: CEO bought 5,000 shares at $67-68 in late May, a director bought at $53.91 in June -- both meaningfully above today's $46.26",
+    "Strong balance sheet: current ratio 3.8x, $930M cash vs $612M debt, still FCF positive ($92M TTM) despite the revenue collapse",
+    "26 analysts cover it with a consensus 'buy' and mean target $48.43 (modest upside), high target $85 (nearly 2x) -- wide dispersion reflects genuine optionality if the cycle turns",
+    "Down 35.9% in the last 30 days alone -- a sharp, news-driven drawdown (screen_mode 'recovering') rather than a slow bleed, which is more consistent with an overreaction than deteriorating fundamentals",
+    "July 28 earnings is a near-term, well-defined catalyst"
+  ],
+  "bearish_points": [
+    "Revenue still shrinking 20.6% YoY and operating margin is negative (-9.1%) -- this is a business still contracting, not yet growing again",
+    "Trading at premium multiples for a company in decline: EV/EBITDA 31x, EV/Revenue 4x, P/B 5.5x -- expensive relative to the fundamental picture, unlike DXC/INSP",
+    "US residential solar demand remains structurally challenged by high financing rates and policy uncertainty; European strength has to do a lot of lifting",
+    "52-week range of $25.78-$73.74 with stock at $46.26 shows this is a highly volatile, sentiment-driven name -- big whipsaws in both directions are normal here",
+    "yfinance news feed returned nothing usable, so today's read leans on last quarter's data and secondary sources"
+  ],
+  "catalyst": "Q2 2026 earnings -- confirmation that revenue guidance was met/beaten and that battery volume growth (Europe + US price cuts) is showing up in the numbers",
+  "catalyst_timing": "2026-07-28 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position ahead of July 28 earnings, or a Jan 2027 call for leveraged upside if the demand-stabilization thesis is right",
+  "key_risk": "US solar demand fails to stabilize and Q2 print disappoints -- at 4x EV/Revenue on a still-shrinking business there's little valuation cushion if growth doesn't show up",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 revenue comes in below the $280-310M guide, or battery shipments miss the 100-110 MWh target -- that would break the stabilization thesis"
+}
