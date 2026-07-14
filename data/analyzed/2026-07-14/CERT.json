@@ -1,0 +1,30 @@
+{
+  "ticker": "CERT",
+  "company_name": "Certara, Inc.",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "turnaround_reason": "Stock is down from $13.88 to $6.79 as revenue growth stalled to near-flat (0-4% FY2026 guide) after years of double-digit growth, but the company holds a dominant moat in biosimulation software (38 of top 40 pharma R&D spenders as customers, 90%+ of FDA approvals since 2014 used its tools) and is now layering in AI via a new NVIDIA BioNeMo partnership.",
+  "bullish_points": [
+    "Deep, durable moat: 38 of the top 40 biopharma companies by R&D spend are customers, and its tools have touched 90%+ of FDA new drug approvals since 2014",
+    "New NVIDIA BioNeMo partnership (announced late June 2026) targets AI-driven dose optimization and regulatory evidence prep — a credible growth vector, not vaporware, given the existing customer base",
+    "High gross margins (61.6%) and positive free cash flow ($116.6M) despite the revenue slowdown — the core business still throws off cash",
+    "Regulatory tailwinds: February 2026 ICH M15 adoption and EMA Simcyp qualification expand the addressable regulatory-mandated use cases for its software",
+    "Reasonable valuation for the moat: forward P/E 16.4x, EV/EBITDA 12.9x, analyst mean target $7.48 (10% above current) with a Buy recommendation"
+  ],
+  "bearish_points": [
+    "FY2026 guide of just 0-4% revenue growth is a sharp deceleration from FY2025's 9% — the core business is basically flat, and 'turnaround' is really a hoped-for reacceleration, not confirmed",
+    "New CEO (Jon Resnick) is unproven in the role — leadership transition risk during a growth slowdown is a common setup for further disappointment",
+    "Negative profit margin (-3.6%) despite positive operating margin suggests non-operating charges (likely stock comp or restructuring) are still weighing on GAAP results",
+    "AI narrative (BioNeMo partnership) is very early-stage — no disclosed revenue contribution or timeline, so it's a call option on execution, not a proven driver yet",
+    "No earnings date populated in the dossier and no visible insider buying to signal management conviction at these levels"
+  ],
+  "catalyst": "Q2 2026 earnings and any further detail on BioNeMo partnership monetization timeline",
+  "catalyst_timing": "Expected early-to-mid August 2026 (no confirmed date in dossier)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — thin put open interest (9 contracts) makes any options structure impractical",
+  "key_risk": "0-4% revenue guide proves optimistic and growth goes negative, confirming biosimulation software demand has genuinely matured rather than merely paused ahead of an AI-driven reacceleration",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 revenue growth comes in below the low end of FY guide or the new CEO signals a strategic reset that delays the AI monetization story"
+}

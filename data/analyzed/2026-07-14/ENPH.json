@@ -1,0 +1,30 @@
+{
+  "ticker": "ENPH",
+  "company_name": "Enphase Energy, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "turnaround_reason": "Down from $73.74 to ~$43 on falling US residential solar demand, tariff margin drag, and a post-tax-credit-expiration pull-forward hangover, but Q1 2026 revenue and battery shipments beat and management is guiding sequential improvement into Q2/Q3 helped by Europe recovery and commercial solar growth.",
+  "bullish_points": [
+    "Q1 2026 beat: $282.9M revenue, $83M FCF, non-GAAP gross margin ~44%",
+    "Insider buying from CEO Kothandaraman ($337K purchase in May) and a director purchase in June — real skin in the game, not just grants",
+    "Early signs of European demand recovery and growing US commercial solar mix offsetting weak residential",
+    "Tariff drag easing sequentially (4.3pp hit in Q1 vs 5.1pp in Q4) — margin headwind is decelerating",
+    "Cheap on forward earnings (17.9x forward P/E vs 42.6x trailing) if the guide holds"
+  ],
+  "bearish_points": [
+    "Revenue still down -20.6% YoY on a TTM basis — this is a company still shrinking, not yet growing",
+    "Operating margin is negative (-9.1%) despite positive net margin, meaning the core business isn't yet profitable on an operating basis",
+    "US residential solar demand remains structurally challenged post-tax-credit changes — the main growth engine is impaired",
+    "Q2 guide of $280-310M implies flat-to-down sequential revenue including $85M of one-time safe-harbor revenue, which masks underlying weakness",
+    "High debt-to-equity (55.5x) for a company with negative operating margins is a real risk if the recovery stalls"
+  ],
+  "catalyst": "Q2 2026 earnings report",
+  "catalyst_timing": "July 28, 2026 after market close",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position ahead of July 28 earnings, or a Jan 2027 $45/$55 call spread for defined-risk leverage on a beat-and-guide-up",
+  "key_risk": "US residential solar demand fails to stabilize and Q2 print shows the safe-harbor revenue was masking a deeper shrinkage in core business — stock likely revisits 52-week lows near $26",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 guide is missed or safe-harbor revenue continues to be the only source of sequential growth with core residential still declining double digits"
+}

@@ -1,0 +1,31 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Stock is down over 50% from its 52-week high of $9.04 to $4.42 on margin compression concerns despite steady double-digit ARR growth, and now trades at a steep discount to sector peers (forward EV/S 1.6x vs sector median 3.7x) as it pivots from MSP remote-monitoring tools toward an AI-powered cybersecurity platform.",
+  "bullish_points": [
+    "Q1 2026 revenue grew 13.1% YoY to $133.7M with ARR up 11.2% to $548M — consistent double-digit growth, not a broken business",
+    "FY2026 guide of 8-9% revenue growth with 30-31% adjusted EBITDA margins implies management sees margin expansion ahead despite Q1 softness",
+    "Deeply discounted valuation: forward EV/S of 1.6x and EV/EBITDA of 5.2x vs sector medians of 3.7x and 14.9x",
+    "High gross margins (80%) support the SaaS-like economics of the platform",
+    "$50B TAM estimate with security operations (largest segment) growing 15%/yr — greenfield opportunity since MSPs only control 25% of SMB/mid-market IT spend today",
+    "4-analyst consensus is Buy as of July 2026, with mean target $6.85 (55% upside from current)"
+  ],
+  "bearish_points": [
+    "Adjusted EBITDA margin fell to 27% in Q1 2026, down from prior periods, and gross margin slipped from 81% to 80% YoY — the margin story is currently moving the wrong way",
+    "High leverage: debt-to-equity of 54.5x against a company that's only marginally profitable (profit margin -2.0%)",
+    "No meaningful insider buying — all recent insider activity is stock grants, not open-market purchases, unlike ENPH or GO in this same batch",
+    "Small float (73M of 188M shares) and thin analyst coverage (5 analysts) can mean higher volatility on any guidance miss",
+    "Competing against much larger, better-capitalized cybersecurity platforms (CrowdStrike, SentinelOne) for the same MSP channel budget"
+  ],
+  "catalyst": "Q2 2026 earnings — first real test of whether EBITDA margin guidance (30-31% FY) is achievable after Q1's 27% miss",
+  "catalyst_timing": "August 6, 2026",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position, or Jan 2027 $5/$7.50 call spread given put open interest is negligible (195 vs 8,392 call OI) — options market here is thin and one-sided",
+  "key_risk": "Margin compression continues through Q2/Q3 and management walks back the 30-31% FY EBITDA guide, confirming the stock is cheap because the AI-platform pivot is more costly than advertised",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 EBITDA margin comes in below 27% again or management guides down FY margin targets"
+}

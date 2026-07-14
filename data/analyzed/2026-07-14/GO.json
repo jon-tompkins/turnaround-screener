@@ -1,0 +1,30 @@
+{
+  "ticker": "GO",
+  "company_name": "Grocery Outlet Holding Corp.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "turnaround_reason": "Stock collapsed from $19.41 to under $10 after a turnaround-plan reset (comps guided down, 36 underperforming stores being closed), but new CEO Jason Potter has shown early operational progress — accelerating weekly traffic growth through Q1 2026 — and heavy insider buying suggests management believes the worst is priced in.",
+  "bullish_points": [
+    "CEO Jason Potter reported weekly traffic growth accelerating through Q1 2026, with a notable uptick in March — first real green shoot in the turnaround",
+    "Significant insider buying: net 1.9M shares purchased in the last 6 months (43 transactions), including CFO-level open-market purchases at $9.37 and $9.50 — very close to current price",
+    "$20M incremental promotional spend in H1 2026 is a deliberate investment to rebuild the 'treasure hunt' value proposition that drove historical same-store sales",
+    "Cheap on EV/revenue (0.58x) for a $4.7B revenue grocery chain, and forward P/E of 15.7x is reasonable if margins stabilize",
+    "Amazon Fresh store closures in overlapping markets could be a structural tailwind for GO's footprint"
+  ],
+  "bearish_points": [
+    "Management itself is guiding same-store sales DOWN 1% and store count down 1% for 2026 — this is a name still shrinking, not yet growing",
+    "Operating margin is negative (-0.1%) and free cash flow is negative (-$60.7M), meaning cash is being burned to fund the turnaround",
+    "Very high leverage: debt-to-equity of 228% and total debt of $1.84B against a market cap under $1B — balance sheet risk is real if the turnaround takes longer than the $20M promo push suggests",
+    "36 store closures signal the prior growth strategy (aggressive unit expansion) was flawed, and unwinding it takes multiple years, not quarters",
+    "Analyst mean target ($8.46) is actually BELOW the current price ($9.91) — the sell side isn't yet buying the turnaround story despite the operational green shoots"
+  ],
+  "catalyst": "Q2 2026 earnings — first quarter that will show whether the $20M promotional investment is translating into positive same-store sales, not just traffic",
+  "catalyst_timing": "Expected mid-to-late August 2026 (no confirmed date in dossier)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small size — high leverage and negative FCF argue against options leverage on a name still burning cash",
+  "key_risk": "Traffic growth doesn't convert to same-store sales growth (customers browsing but not buying more), leaving the debt load exposed and forcing further store closures or a capital raise",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q2 same-store sales miss the -1% guide to the downside, or free cash flow burn accelerates"
+}
