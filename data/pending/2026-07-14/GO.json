@@ -1,0 +1,275 @@
+{
+  "ticker": "GO",
+  "fetched_at": "2026-07-14T13:35:44.977613",
+  "overview": {
+    "name": "Grocery Outlet Holding Corp.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "description": "Grocery Outlet Holding Corp. operates as a retailer of consumables and fresh products sold through independently operated stores in the United States. It offers perishable department products, including dairy and deli; produce and floral; and meat and seafood. The company also provides non-perishable department products, such as non-perishable grocery, general merchandise, health and beauty care, frozen foods, and beer and wine. It operates stores in California, Washington, Oregon, Pennsylvania, Tennessee, Idaho, Maryland, Nevada, North Carolina, New Jersey, Georgia, Ohio, Alabama, Delaware, Kentucky, and Virginia. The company was founded in 1946 and is headquartered in Emeryville, California.",
+    "market_cap": 980323648,
+    "enterprise_value": 2763095552,
+    "shares_outstanding": 98922672,
+    "float_shares": 93189114,
+    "short_ratio": 7.98,
+    "short_percent_of_float": 0.3493,
+    "held_by_insiders": 0.06131,
+    "held_by_institutions": 1.19651,
+    "revenue_ttm": 4729544192,
+    "revenue_growth": 0.036,
+    "gross_margins": 0.30067,
+    "operating_margins": -0.00105,
+    "profit_margins": -0.080749996,
+    "free_cashflow": -60709752,
+    "operating_cashflow": 215752992,
+    "total_cash": 58998000,
+    "total_debt": 1841769984,
+    "debt_to_equity": 228.197,
+    "current_ratio": 1.281,
+    "trailing_pe": null,
+    "forward_pe": 15.731407,
+    "price_to_book": 1.2146095,
+    "ev_to_ebitda": 13.362,
+    "ev_to_revenue": 0.584,
+    "fifty_two_week_high": 19.41,
+    "fifty_two_week_low": 5.655,
+    "current_price": 9.91,
+    "analyst_target_mean": 8.46154,
+    "analyst_target_high": 10.5,
+    "analyst_target_low": 6.0,
+    "recommendation": "none",
+    "num_analysts": 13,
+    "earnings_dates": [],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-07-17",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 79.9806689453125,
+    "total_call_oi": 25843,
+    "total_put_oi": 1507
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 2017332.0,
+        "Trans": 33
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 100732.0,
+        "Trans": 10
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 1916600.0,
+        "Trans": 43
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 6064949.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.462,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.48599997,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.024,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 5000,
+        "Value": 47500,
+        "URL": "",
+        "Text": "Purchase at price 9.50 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 93700,
+        "URL": "",
+        "Text": "Purchase at price 9.37 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4433,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LEARY SUSAN MICHELLE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 12893,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FERRY IAN DANIEL",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 27431,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "JAROS CAREY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22022,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "THORNTON FELICIA D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KOBAYASHI MICHAEL K",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MOLLOY LAWRENCE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22022,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ALLEN FRANCES L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.335558235190845,
+    "pct_above_200d_ma": -0.30276402363332844,
+    "pct_of_100d_ma": 121.62484917709048,
+    "pct_change_1d": 0.6155385594301732,
+    "pct_change_5d": -2.3408454411518953,
+    "pct_change_30d": 17.16803113438381
+  }
+}
