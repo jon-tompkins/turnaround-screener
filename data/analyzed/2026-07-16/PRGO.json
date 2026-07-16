@@ -1,0 +1,36 @@
+{
+  "ticker": "PRGO",
+  "company_name": "Perrigo Company plc",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "turnaround_reason": "Perrigo was obliterated over 2022-2026 as a failed $1.5B Opill OTC contraceptive launch combined with infant formula exit, goodwill impairments, and an $3.83B debt load sent the stock from $40+ to near $9. The company is now executing a 'Three-S' restructuring plan, divesting non-core assets (Dermacosmetics sold for ~€306M, proceeds to debt), and focusing on its U.S. Store Brand OTC and Specialty Care segments — which are both gaining share.",
+  "bullish_points": [
+    "Q1 2026 adj EPS of $0.43 beat $0.31 estimate by 40%; Q2 2026 estimate is only $0.36 — lowball bar heading into July 31 earnings",
+    "27.3% short float + 5.61 short ratio = enormous squeeze potential on any positive surprise",
+    "All analyst targets ($14-$20 range, mean $16.50) are 33-90% above current $10.54 price — significant re-rating implied by consensus",
+    "Forward PE of 4.46x is extraordinarily cheap if adj earnings power of ~$1.50-$1.80/year materializes",
+    "Dermacosmetics divestiture (~€306M) directly reduces the crushing debt load",
+    "Specialty Care (Compeed, Opill, ellaOne) showing organic growth and improving margins",
+    "Q2 2026 earnings July 31 — imminent catalyst with beaten Q1 bar building momentum",
+    "Price/book 0.58x — stock trading below book value",
+    "Operating cash flow $189M TTM despite GAAP losses — real cash-generating business"
+  ],
+  "bearish_points": [
+    "Debt ($3.83B) is 2.6x market cap — equity is effectively a subordinated call option on the business; any operational stumble could trigger covenant issues",
+    "Core organic revenue declining -11% in Q1 — the underlying business is shrinking, not growing",
+    "Adj gross margin down 340bps YoY (37.6% → adj basis) — volume declines not offset by cost cuts",
+    "Goodwill impairment ($~390M hit in Q1 implied by reported EPS of -$2.81) signals prior acquisition values are permanently impaired",
+    "Revenue guidance maintained but explicitly caveated for 'geopolitical developments in the Middle East and retailer inventory destocking' — known risk factors",
+    "Reported ATM IV of 6.25% on Nov expiry seems like a data anomaly — actual IV likely much higher near earnings; options pricing unclear",
+    "27% short interest reflects genuine institutional concern about the debt load and organic revenue trend"
+  ],
+  "catalyst": "Q2 2026 earnings on July 31 — beat + guidance raise (or any debt-reduction milestone announcement) could trigger violent short squeeze given 27.3% short float",
+  "catalyst_timing": "Q2 2026 earnings July 31, 2026 (pre-market, ~2 weeks)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot position ($10.50-$11.00 entry) sized at 50% of normal given debt risk. The earnings-short-squeeze setup is real but the debt load keeps this a spec play. Do NOT use options until IV is independently verified (6.25% ATM IV data appears unreliable).",
+  "key_risk": "Q2 organic revenue decline accelerates or management cuts FY2026 guidance — with 27% short interest the stock could gap to single digits on a miss; debt at 2.6x market cap creates asymmetric downside if the thesis breaks",
+  "estimated_upside_pct": 56,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 results show adj EPS miss, guidance cut, or any indication Dermacosmetics proceeds are delayed/smaller than expected; also skip if stock gaps up >15% before earnings"
+}

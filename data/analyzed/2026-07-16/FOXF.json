@@ -1,0 +1,34 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "FOXF was crushed from its 2022 peak (~$100+) as the post-COVID powersports demand boom reversed, leaving the company with an over-acquisitioned portfolio and compressed margins. Management is executing a two-phase Profit Optimization Plan (~$90M combined savings by end-2026) while divesting non-core assets (Phoenix AAG sold, proceeds to debt reduction), and Q1 2026 showed revenue resuming modest growth (+3.9%) with adj EPS beating by 119%.",
+  "bullish_points": [
+    "Q1 2026 adj EPS of $0.18 beat $0.08 estimate by 119% — two consecutive big beats (Q4 also beat 33%)",
+    "Phase 1 ($50M) + Phase 2 ($40M) cost savings plan on track; FY2026 adj EBITDA guidance $174M-$203M implies ~200bps margin expansion",
+    "Revenue returning to growth (+3.9% Q1) after deep contraction; FY2026 guide $1.33B-$1.42B",
+    "Forward PE of 10.3x is cheap for a branded premium-auto-parts business with $1.48B revenue",
+    "Stock at 34% of 200-week MA — deeply washed out; ~10% short interest could amplify any upside move",
+    "Q2 2026 earnings August 6 is a near-term catalyst (3 weeks) with a beatable consensus bar",
+    "Positive FCF ($47M TTM) despite massive restructuring charges; liquidity not an immediate crisis"
+  ],
+  "bearish_points": [
+    "Gross margin declining 200bps YoY to 28.9% — restructuring is cutting costs but not yet restoring unit economics",
+    "Debt load ($787M) nearly equals market cap ($752M); D/E of 119x is extremely high",
+    "BofA downgraded on margin concerns post-Q1 — even a beat drove the stock down 4% on release day",
+    "Reported $544.6M net loss (goodwill impairments from acquisition hangover) — balance sheet now impaired",
+    "Powersports/premium auto-parts end markets remain soft; consumer discretionary spending at risk",
+    "Options illiquid (only 4 expiries, 165 total call OI) — limited leveraged upside vehicles",
+    "Short ratio of 4.88 (4.9 days to cover) — not a squeeze setup, just moderate bearish positioning"
+  ],
+  "catalyst": "Q2 2026 earnings report — if margin trajectory inflects upward alongside continued revenue growth, re-rating from 10x to 13-15x forward is plausible",
+  "catalyst_timing": "Q2 2026 earnings August 6, 2026 (after market close, ~3 weeks)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot position only — options too illiquid. Size small given debt overhang. Entry at current $17.90-$18.50 range. Consider adding on Q2 beat confirmation.",
+  "key_risk": "Gross margin fails to recover as cost cuts are offset by volume/mix headwinds — Phase 2 savings take longer to materialize and debt refinancing becomes a distraction",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q2 earnings show gross margin declining further or management lowers FY2026 EBITDA guidance; or if broader powersports/auto-parts channel data deteriorates materially before August 6"
+}
