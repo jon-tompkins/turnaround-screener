@@ -1,0 +1,30 @@
+{
+  "ticker": "FLO",
+  "company_name": "Flowers Foods, Inc.",
+  "sector": "Consumer Staples",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Flowers Foods (Nature's Own, Wonder Bread, Dave's Killer Bread) collapsed from $16+ to $6.80 on persistent margin pressure from input cost inflation and volume softness in branded bread. At $8.49 the stock yields 5.89% annually — an unusually high yield for a staple that attracts income buyers even as core EPS ($0.35 TTM) has compressed badly, putting the dividend payout ratio above 100%.",
+  "bullish_points": [
+    "5.89% forward dividend yield creates a floor — income-oriented investors buy the dip when yield approaches 6% for a century-old staple business",
+    "CFO open-market purchase of 5,000 shares at $7.51 on June 8 (personal capital at risk) — meaningful signal from the person closest to the financials",
+    "Net insider acquisition positive: 492k shares bought vs 418k sold in 6 months; multiple directors accumulated shares",
+    "Scale: Q1 FY26 revenue $1.57B annualizes to ~$6.3B for a $1.8B market cap — cheap on revenue; historically margins recover as input cost tailwinds develop",
+    "Earnings August 14, 2026 — any sign of margin recovery or volume stabilization could catalyze re-rating; analyst consensus $9.00 offers ~6% upside plus dividend"
+  ],
+  "bearish_points": [
+    "Dividend payout ratio exceeds 100% (EPS $0.35 vs dividend $0.50) — the yield is only real if earnings recover; a dividend cut would be a catastrophic event for the income thesis",
+    "PE of 24.26 on depressed earnings looks expensive; multiple contracts sharply if dividend is cut",
+    "CEO sold 209,000 shares (indirect) at $8.03 in April — meaningful contra-signal even if estate/trust-related",
+    "Analyst avg target $9.00 implies minimal upside from $8.49; entire analyst range ($7-$14) is modest for the turnaround investment case",
+    "yfinance data unavailable — debt levels, free cash flow, and whether the dividend is actually cash-covered unknown from dossier alone"
+  ],
+  "catalyst": "Q2 FY26 earnings — margin recovery evidence or dividend guidance",
+  "catalyst_timing": "August 14, 2026 (25 days out)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Skip for now; monitor for dividend cut risk into Aug 14 earnings. If dividend is maintained and margins show any recovery, revisit at $7.50-8.00 for income-oriented position.",
+  "key_risk": "Dividend cut — would instantly reprice the stock back toward $6-7 and invalidate the yield-floor thesis",
+  "estimated_upside_pct": 20,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Dividend cut; if EPS doesn't recover toward $0.45+ in next 2 quarters; if CFO sell follows recent buy"
+}

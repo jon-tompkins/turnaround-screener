@@ -1,0 +1,170 @@
+{
+  "ticker": "QDEL",
+  "fetched_at": "2026-07-20T13:36:04.081438",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 612355,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 5797,
+        "URL": "",
+        "Text": "",
+        "Insider": "HANSON BRYAN MICHAEL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-07-01 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 963,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 14.33 per share.",
+        "Insider": "MICHAEL EDWARD L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 13800.0
+      },
+      {
+        "Shares": 910,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 14.33 per share.",
+        "Insider": "WIDDER KENNETH JON M.D.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 13040.0
+      },
+      {
+        "Shares": 749,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 14.33 per share.",
+        "Insider": "POLAN MARY LAKE PH.D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 10733.0
+      },
+      {
+        "Shares": 1659,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 14.33 per share.",
+        "Insider": "BUECHLER KENNETH F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 23773.0
+      },
+      {
+        "Shares": 973,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "POLAN MARY LAKE PH.D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 1183,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WIDDER KENNETH JON M.D.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 1252,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MICHAEL EDWARD L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 2156,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BUECHLER KENNETH F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-05 00:00:00",
+        "Ownership": "D",
+        "Value": 0.0
+      },
+      {
+        "Shares": 6829,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 13.02 per share.",
+        "Insider": "WILKINS JOSEPH D JR",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D",
+        "Value": 88914.0
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 34.77779578498832,
+    "pct_above_200d_ma": -19.596932948828837,
+    "pct_of_100d_ma": 113.6434910506474,
+    "pct_change_1d": -0.9493614277679474,
+    "pct_change_5d": -3.7730534381746117,
+    "pct_change_30d": 12.51633946392159
+  }
+}

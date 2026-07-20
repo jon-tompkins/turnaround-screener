@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire's implantable hypoglossal nerve stimulator for OSA was a high-growth MedTech darling that peaked near $250 in 2021-2022, then crashed 80%+ on reimbursement headwinds and adoption slowdown fears. Stock is now basing at 30% of its 200w MA (~$38-52 range vs $170 average) with heavy insider accumulation and a profitable business at 11.76x TTM earnings — valuation has mean-reverted far below where underlying fundamentals support.",
+  "bullish_points": [
+    "Massively cheap by historical standards — PE of 11.76x on profitable MedTech is rare; stock at 30% of 200-week MA suggests extreme dislocation from intrinsic value",
+    "Exceptional insider buying signal: 224,295 shares purchased in 20 transactions vs only 14,037 sold (16:1 ratio) over last 6 months — insiders with full information are aggressively accumulating",
+    "+44% YTD recovery already underway, +63% 1-year, suggesting market recognition has begun; stock bounced off 52w low of $38.91 and is consolidating around $51-52",
+    "Q1 FY26 revenue of $204.58M on annualized basis implies ~$800M+ revenue for a $1.5B market cap company — EV/Revenue likely below 2x",
+    "Near-term binary catalyst: Q2 earnings August 3, 2026 — if results beat the already-reset bar, could re-rate meaningfully"
+  ],
+  "bearish_points": [
+    "yfinance data entirely unavailable — overview fields all null, making traditional fundamental screening incomplete",
+    "Analyst consensus price target ($51.77) exactly equals current price ($51.76) — Wall Street sees no near-term upside beyond current levels; mean analyst already fully priced the recovery",
+    "Already moved +44% YTD and +63% 1-year — much of the easy money from the bottom may be captured; entering after this run requires conviction the recovery has further legs",
+    "No options liquidity (has_options: false) limits ability to construct asymmetric risk setups; spot only",
+    "Insider sales in May at $43-45 by officers could signal some opportunistic trimming after the rebound, though dwarfed by buying"
+  ],
+  "catalyst": "Q2 FY26 earnings report",
+  "catalyst_timing": "August 3, 2026 (13 days out)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position only (no options); entry $50-52 zone with tight risk; avoid sizing up ahead of Aug 3 earnings binary",
+  "key_risk": "Earnings miss on August 3 reverses the recovery narrative — stock has already rerated to analyst consensus, so there's no buffer for disappointment",
+  "estimated_upside_pct": 25,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Earnings miss on Aug 3; if analyst consensus moves below $45; if revenue growth decelerates below 10% YoY in the print"
+}

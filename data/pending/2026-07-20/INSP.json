@@ -1,0 +1,170 @@
+{
+  "ticker": "INSP",
+  "fetched_at": "2026-07-20T13:36:00.501954",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 224295.0,
+        "Trans": 20
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 14037.0,
+        "Trans": 4
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 210258.0,
+        "Trans": 24
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 328469.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 1.78,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 1.8989999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.118999995,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 344,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MELENIKIOTOU GEORGIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2641,
+        "Value": 114302,
+        "URL": "",
+        "Text": "Sale at price 43.28 per share.",
+        "Insider": "RONDONI JOHN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 700,
+        "Value": 30107,
+        "URL": "",
+        "Text": "Sale at price 43.01 per share.",
+        "Insider": "RONDONI JOHN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-14 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 696,
+        "Value": 31536,
+        "URL": "",
+        "Text": "Sale at price 45.31 per share.",
+        "Insider": "MCCORMICK SHAWN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ELLIS GARY LEE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCCORMICK SHAWN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CURET MYRIAM MCADAMS",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MELENIKIOTOU GEORGIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BURKS CYNTHIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "TANSEY CASEY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 30.156274506864516,
+    "pct_above_200d_ma": -27.374253430119687,
+    "pct_of_100d_ma": 100.8183639568448,
+    "pct_change_1d": 0.3458558439429993,
+    "pct_change_5d": -1.139016895484124,
+    "pct_change_30d": 20.348431331152163
+  }
+}

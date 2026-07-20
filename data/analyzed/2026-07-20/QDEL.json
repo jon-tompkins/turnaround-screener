@@ -1,0 +1,29 @@
+{
+  "ticker": "QDEL",
+  "company_name": "QuidelOrtho Corporation",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "turnaround_reason": "QuidelOrtho merged Quidel's rapid antigen tests with Ortho Clinical Diagnostics' blood typing/transfusion business in 2022, just as COVID test revenues collapsed from their pandemic peak. The combined entity carries significant merger debt and has been posting large losses (EPS -$17.85 TTM) while working to stabilize its core diagnostic portfolio (flu, RSV, blood banking). Stock fell from $35+ to below $10 before the current partial recovery to $17.",
+  "bullish_points": [
+    "Significant revenue base: Q1 FY26 revenue of $619.8M annualizes to ~$2.5B — for a $1.2B market cap company, EV/Revenue is below 1x if debt is manageable",
+    "Stock has already doubled off 52w low ($9.92 to $17.52), and +39% YTD/1-year suggests a recovery narrative is taking hold",
+    "Earnings catalyst imminent: Q2 report July 29, 2026 (9 days) — any sign of EPS trajectory turning positive or cost-cutting biting could re-rate sharply",
+    "52w high of $35.58 suggests consensus once believed in the combined company; if restructuring delivers, there is meaningful upside to retest that level"
+  ],
+  "bearish_points": [
+    "Zero open-market insider buying in 6 months (all transactions are derivative conversions and stock grants) — no insiders putting personal capital on the line",
+    "EPS deeply negative at -$17.85 TTM — company is losing money at scale; turnaround timeline unclear",
+    "Jefferies downgraded to Hold on May 7, 2026 — recent institutional skepticism from a credible sell-side house",
+    "yfinance fundamental data failed entirely — revenue mix, debt levels, and cash position unknown from dossier alone",
+    "Analyst consensus ($18.62) offers only ~6% upside from current; wide analyst range ($11-$38) signals high uncertainty"
+  ],
+  "catalyst": "Q2 FY26 earnings report and management guidance update",
+  "catalyst_timing": "July 29, 2026 (9 days out)",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Skip — no insider buying, negative EPS, recent institutional downgrade; watch through Q2 earnings on July 29 and reassess if print shows EPS trajectory turning",
+  "key_risk": "Earnings miss on July 29 with no credible path to profitability resets the turnaround narrative to zero",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Always at current conviction — no open-market insider buying and persistently negative earnings with recent downgrade are disqualifying for entry now"
+}
