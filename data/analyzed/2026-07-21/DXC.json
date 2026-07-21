@@ -1,0 +1,29 @@
+{
+  "ticker": "DXC",
+  "company_name": "DXC Technology Company",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "DXC is a legacy IT services roll-up (ex-CSC/HPE Enterprise Services) ground down by years of revenue decline, book-to-bill below 1.0, and margin erosion. New CEO Raul Fernandez is running a stabilization playbook — trimming the portfolio, fixing GBS/GIS delivery, and defending cash flow. The equity trades at a deep-value multiple; any evidence the top-line decline is bottoming could drive a sharp re-rate.",
+  "bullish_points": [
+    "CEO Raul Fernandez made an open-market purchase of 28,050 shares at $8.90-9.00 (~$250K) on 2026-05-11 — real skin-in-the-game insider buying near current levels, not just grants.",
+    "Trades at roughly 47% of its 200-week moving average — deeply washed-out, classic basing setup with a cheap entry if the decline stabilizes.",
+    "Hard binary near-term catalyst: Q1 FY2027 earnings after close on July 30, 2026. Bookings/book-to-bill and margin trajectory are the swing factors.",
+    "Low expectations bar — sentiment is bombed-out, so an in-line-to-better bookings print plus reaffirmed FCF guide could squeeze the name higher."
+  ],
+  "bearish_points": [
+    "yfinance overview fetch failed for this dossier (overview.error) — no live market cap, revenue, or valuation multiples in the data; thesis leans on prior research + insider file, so treat fundamentals as stale.",
+    "Structural secular decline: legacy IT outsourcing is in run-off; multiple prior 'turnarounds' have failed to arrest revenue erosion.",
+    "Book-to-bill has historically sat below 1.0, meaning the revenue base keeps shrinking even when execution improves.",
+    "No listed options (has_options=false) — spot only, no way to define risk or add leverage cheaply.",
+    "Still 25% below the 200-day MA; 'basing' is unconfirmed and re-breakdown risk on a soft print is real."
+  ],
+  "catalyst": "Q1 FY2027 earnings — bookings/book-to-bill trend, organic revenue decline rate, margin trajectory, and FCF guidance",
+  "catalyst_timing": "Thursday, July 30, 2026, after market close (call 5:00pm ET)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position only ($9.00-9.50 entry, size as a starter). Deep-value turnaround with a hard 9-day catalyst; wait for the print or take a half-size probe ahead of it.",
+  "key_risk": "Another sub-1.0 book-to-bill quarter with no margin improvement confirms the secular run-off and breaks the base to new lows.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Book-to-bill stays below 1.0 and management cuts FCF guidance on the July 30 call, or you can't tolerate a spot-only, no-hedge position in a secularly declining business."
+}
