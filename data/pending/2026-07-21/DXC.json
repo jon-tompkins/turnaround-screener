@@ -1,0 +1,170 @@
+{
+  "ticker": "DXC",
+  "fetched_at": "2026-07-21T13:35:47.714437",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 2450563,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 98023,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "AUGUST RAYMOND ALEXANDER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 181878,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DRUMGOOLE CHRISTOPHER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 82043,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAGONE JENNIFER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 158155,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VENKATARAMAN RAMANATHAN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 135667,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FAWCETT MATTHEW K",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 41516,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VOCI CHRISTOPHER ANTHONY",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 28050,
+        "Value": 249512,
+        "URL": "",
+        "Text": "Purchase at price 8.90 - 9.00 per share.",
+        "Insider": "FERNANDEZ RAUL J",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 43814,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "AUGUST RAYMOND ALEXANDER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 85194,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DRUMGOOLE CHRISTOPHER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7156,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAGONE JENNIFER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-29 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 47.36599318134612,
+    "pct_above_200d_ma": -25.51460171357791,
+    "pct_of_100d_ma": 85.7973348198183,
+    "pct_change_1d": -1.7684883515785343,
+    "pct_change_5d": 0.05458640310274099,
+    "pct_change_30d": 1.7203077584208692
+  }
+}
