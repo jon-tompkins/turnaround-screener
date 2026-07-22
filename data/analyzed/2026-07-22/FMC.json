@@ -1,0 +1,30 @@
+{
+  "ticker": "FMC",
+  "company_name": "FMC Corporation",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "turnaround_reason": "A two-year global crop-protection destocking cycle plus soft pricing in Latin America and Asia gutted FMC's earnings and took the stock from ~$44 to ~$11. It might recover as channel inventories normalize toward just-in-time buying, and the board has put the entire company up for strategic review — including a possible sale.",
+  "bullish_points": [
+    "Board authorized a formal strategic review in Feb 2026 (financial + legal advisers retained) that explicitly includes a sale of the whole company — a hard M&A optionality catalyst that could re-rate a name trading at 0.8x book.",
+    "Deep value: forward P/E ~5.7, P/B ~0.80, EV/revenue ~1.7 on a real ~$3.4B-revenue global ag-sciences franchise founded in 1883.",
+    "Active deleveraging: definitive agreement to sell the India commercial business to Crystal Crop for $252M (close by year-end) as part of a stated ~$1B debt-reduction plan via asset sales + licensing.",
+    "Industry destocking appears to be bottoming; 2026 sector outlook calls for modest volume recovery as inventories normalize, which would restore FMC operating leverage.",
+    "Q1 2026 already beat (reported -$0.23 vs -$0.38 est, +40% surprise); sentiment is washed out with a 'hold' rating and $15.84 mean target (~35% above spot)."
+  ],
+  "bearish_points": [
+    "Balance sheet is heavy: ~$4.66B total debt vs ~$391M cash, debt/equity ~252, operating cash flow negative TTM — leaves little margin for error if the recovery slips.",
+    "Q2 2026 was guided DOWN hard: EPS $0.16-0.26 vs ~$0.45 consensus and revenue $850-900M vs ~$976M expected — demand normalization is still incomplete.",
+    "Strategic review is explicitly 'preliminary' with 'no assurance' of any transaction; a sale could fall through or come in below the price the market is hoping for.",
+    "Pricing pressure in LatAm/APAC continues to offset volume gains; a full turnaround in profitability is not yet visible (profit margin deeply negative on impairments).",
+    "'Basing' screen mode — the bottom is unconfirmed and the stock sits ~24% below its 200-day MA; risk of re-breakdown if July 29 earnings disappoint."
+  ],
+  "catalyst": "Q2 2026 earnings on July 29 (guidance/2H commentary + any strategic-review update); ongoing board-run sale process is the larger asymmetric catalyst.",
+  "catalyst_timing": "Q2 2026 earnings July 29, 2026; India divestiture closes by end-2026; strategic-review outcome likely H2 2026 / early 2027",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium spot position at $11.50-12.00, or Jan 2027 $12/$15 call spread to play the sale-process optionality with defined risk. Size for the debt-driven downside.",
+  "key_risk": "Strategic review ends with no sale (or a lowball one) while the leveraged balance sheet and soft pricing drag earnings — the value trap outcome.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You need confirmed technical momentum (this is still basing below the 200-day) or you can't stomach ~$4.7B of debt on a name where the bull case leans on an uncertain M&A process."
+}
