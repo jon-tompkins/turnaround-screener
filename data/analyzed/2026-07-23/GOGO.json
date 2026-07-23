@@ -1,0 +1,32 @@
+{
+  "ticker": "GOGO",
+  "company_name": "Gogo Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Gogo fell ~78% from its $16.82 high to ~$3.65 (near 52-week lows) as legacy air-to-ground revenue stagnated and Starlink invaded business-aviation connectivity. The turnaround bet is the Galileo HDX LEO antenna (Eutelsat OneWeb) plus the completed Satcom Direct acquisition, which together make Gogo a multi-orbit/multi-band provider targeting the ~64% of business jets still lacking broadband, especially international and military/government.",
+  "bullish_points": [
+    "Hard product catalyst underway: 150+ Galileo HDX antennas shipped and multiple FAA STCs secured (G650, PC-12), giving direct LEO competition to Starlink",
+    "Satcom Direct acquisition adds international + MilGov exposure and higher-margin service/government revenue",
+    "Very cheap on forward earnings (~4.5x forward PE) with positive FCF (~$24M) and 15% operating margins",
+    "Meaningful insider conviction: Director Townsend bought 250k shares (~$1.1M) at $4.54-4.57 in March 2026; insiders hold ~25%",
+    "Large untapped TAM — only ~36% of global business jets are broadband-equipped",
+    "Analyst targets $7-12 (mean $9.5) imply large upside from $3.65, albeit thin coverage (2 analysts)"
+  ],
+  "bearish_points": [
+    "Heavy leverage: ~$903M debt vs ~$107M cash (debt/equity ~765), EV ~$1.3B — little margin for execution error",
+    "Revenue still declining (-1.7% YoY) and thin net margins (~1.5%); trailing PE ~36",
+    "Starlink is a formidable, well-capitalized competitor already entrenched in business aviation since 2023",
+    "Satcom Direct integration risk plus a leadership transition announced at deal close",
+    "Analyst price target already cut to $7 from $11 — sentiment deteriorating even among bulls",
+    "Options are effectively illiquid (double-digit OI), no leveraged expression"
+  ],
+  "catalyst": "Q2 2026 earnings — the market wants Galileo HDX shipment/backlog acceleration and Satcom Direct accretion to service revenue and margins",
+  "catalyst_timing": "August 6, 2026 (before open)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position only; starter around $3.50-3.80 near 52-week-low base, size for the high leverage/binary execution risk",
+  "key_risk": "Starlink continues taking share while the debt load forces defensive capital allocation, stalling the Galileo/SD ramp before it inflects revenue",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Q2 shows Galileo HDX shipments plateauing or service revenue not inflecting; or you cannot tolerate a highly levered small-cap with a declining top line"
+}

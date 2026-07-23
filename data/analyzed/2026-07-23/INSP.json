@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Once a 30%+ grower, Inspire's hypoglossal-nerve-stimulation OSA implant franchise decelerated to ~2% revenue growth and the stock fell ~66% from its $147 high on fears that FDA-approved GLP-1s (tirzepatide) will shrink the OSA implant market. Thesis is that the GLP-1 fear is overdone (implant serves CPAP-intolerant moderate/severe patients that weight-loss drugs don't fully address) and that a high-margin, net-cash, FCF-positive franchise trading at ~11x trailing earnings is oversold.",
+  "bullish_points": [
+    "Dominant share in hypoglossal nerve stimulation; competition (Nyxoah, LivaNova) still viewed as undifferentiated",
+    "High quality financials: 86% gross margins, ~$85M FCF, net cash (~$284M cash vs ~$30M debt), 6.3x current ratio",
+    "Cheap on trailing metrics (~11x trailing PE, 1.3x EV/revenue) after a 66% drawdown",
+    "Strong recent earnings-beat cadence (Q1 +0.10 vs -0.26 est; prior quarters beat by 100%+)",
+    "Net insider buying over last 6m (net ~211k shares) and price stabilizing above 100d MA (~99% of 100d)"
+  ],
+  "bearish_points": [
+    "Structural GLP-1 overhang: tirzepatide is FDA-approved for OSA and cuts AHI meaningfully, capping the addressable implant market",
+    "Growth has collapsed to ~2%; FY26 guide implies only 4-10% growth with a projected net loss and higher capex",
+    "Forward PE ~39 vs trailing ~11 signals the market expects near-term earnings to fall",
+    "Analyst mean target $52 is barely above the current $49.5 with a 'hold' consensus — limited institutional upside expectation",
+    "Options are effectively illiquid (double/triple-digit OI), so no leveraged expression available"
+  ],
+  "catalyst": "Q2 2026 earnings — investors want evidence that growth is stabilizing and that GLP-1 adoption is not cannibalizing the implant funnel",
+  "catalyst_timing": "August 3, 2026 (after close)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot position only (no options); scale entry $46-50, add on confirmation post-earnings if growth stabilizes",
+  "key_risk": "GLP-1s prove to be a genuine structural share-taker in OSA, permanently resetting Inspire's growth and multiple lower",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 print shows further deceleration or explicit GLP-1-driven procedure softness; or you require a liquid options market to size the position"
+}
