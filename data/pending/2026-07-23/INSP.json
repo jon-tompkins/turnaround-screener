@@ -1,0 +1,300 @@
+{
+  "ticker": "INSP",
+  "fetched_at": "2026-07-23T13:37:54.744086",
+  "overview": {
+    "name": "Inspire Medical Systems, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "description": "Inspire Medical Systems, Inc., a medical technology company, focuses on the development and commercialization of minimally invasive solutions for patients with obstructive sleep apnea (OSA) in the United States and internationally. The company offers Inspire system, a neurostimulation technology that provides a safe and effective treatment for patients with moderate to severe OSA. It also develops a novel, closed-loop solution that continuously monitors a patient's breathing and delivers mild hypoglossal nerve stimulation to maintain an open airway. The company was incorporated in 2007 and is headquartered in Golden Valley, Minnesota.",
+    "market_cap": 1428123776,
+    "enterprise_value": 1197900928,
+    "shares_outstanding": 28813153,
+    "float_shares": 25463912,
+    "short_ratio": 4.32,
+    "short_percent_of_float": 0.21350001,
+    "held_by_insiders": 0.01145,
+    "held_by_institutions": 1.2301,
+    "revenue_ttm": 915246976,
+    "revenue_growth": 0.016,
+    "gross_margins": 0.85776,
+    "operating_margins": -0.00546,
+    "profit_margins": 0.14328,
+    "free_cashflow": 85575000,
+    "operating_cashflow": 136528000,
+    "total_cash": 283833984,
+    "total_debt": 29552000,
+    "debt_to_equity": 3.73,
+    "current_ratio": 6.339,
+    "trailing_pe": 11.264772,
+    "forward_pe": 39.249454,
+    "price_to_book": 1.8017085,
+    "ev_to_ebitda": 17.788,
+    "ev_to_revenue": 1.309,
+    "fifty_two_week_high": 147.03,
+    "fifty_two_week_low": 38.91,
+    "current_price": 49.565,
+    "analyst_target_mean": 52.38462,
+    "analyst_target_high": 65.0,
+    "analyst_target_low": 39.0,
+    "recommendation": "hold",
+    "num_analysts": 13,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-03 16:00:00-04:00",
+        "EPS Estimate": -0.25,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-04 16:00:00-04:00",
+        "EPS Estimate": -0.26,
+        "Reported EPS": 0.1,
+        "Surprise(%)": 138.36
+      },
+      {
+        "Earnings Date": "2026-02-11 16:00:00-05:00",
+        "EPS Estimate": 0.68,
+        "Reported EPS": 1.65,
+        "Surprise(%)": 142.05
+      },
+      {
+        "Earnings Date": "2025-11-03 16:00:00-05:00",
+        "EPS Estimate": -0.17,
+        "Reported EPS": 0.38,
+        "Surprise(%)": 323.63
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 8,
+    "nearest_expiry": "2026-08-21",
+    "farthest_expiry": "2027-12-17",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 93,
+    "total_put_oi": 98
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 225605.0,
+        "Trans": 23
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 14037.0,
+        "Trans": 4
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 211568.0,
+        "Trans": 27
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 329910.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 1.786,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 1.9039999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.118,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 344,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MELENIKIOTOU GEORGIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 346,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "TANSEY CASEY M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 383,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BROADER SHELLEY G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 581,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ELLIS GARY LEE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2641,
+        "Value": 114302,
+        "URL": "",
+        "Text": "Sale at price 43.28 per share.",
+        "Insider": "RONDONI JOHN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 700,
+        "Value": 30107,
+        "URL": "",
+        "Text": "Sale at price 43.01 per share.",
+        "Insider": "RONDONI JOHN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-14 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 696,
+        "Value": 31536,
+        "URL": "",
+        "Text": "Sale at price 45.31 per share.",
+        "Insider": "MCCORMICK SHAWN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCCORMICK SHAWN T",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CURET MYRIAM MCADAMS",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3562,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MELENIKIOTOU GEORGIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 29.438687725803643,
+    "pct_above_200d_ma": -28.758002956496643,
+    "pct_of_100d_ma": 99.14139837808146,
+    "pct_change_1d": -1.6567517339085236,
+    "pct_change_5d": -3.8319795377096177,
+    "pct_change_30d": 17.42478015106599
+  }
+}
