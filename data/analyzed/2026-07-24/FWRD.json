@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air destroyed its balance sheet with the controversial 2024 Omni Logistics merger, leaving ~$1.68B net debt at ~5.5x EBITDA, right against its covenant. The stock cratered from $32 to sub-$8 and is now bouncing (+24% in 30d) on hopes that a strategic review and asset sales deleverage the equity stub back to value.",
+  "bullish_points": [
+    "Strategic review is a live catalyst: board is pursuing sale of non-core assets (Intermodal segment + parts of Omni) specifically to raise cash and deleverage, which would directly de-risk the equity.",
+    "Deep-value optionality: at ~$472M market cap on ~$2.46B revenue (EV/revenue ~1.0), any successful deleveraging re-rates a thin equity stub sharply higher — classic distressed-equity convexity.",
+    "Earnings trajectory less-bad: last three quarters beat (or hugely beat) depressed EPS estimates (+45%, +30%, +161% surprises), suggesting operational stabilization off the bottom.",
+    "Some insider net buying (net +89k shares over 6 months) and reasonably liquid options (call OI ~6,360) to express a defined-risk view."
+  ],
+  "bearish_points": [
+    "Balance sheet is genuinely dangerous: debt/equity ~1758x, 5.5x leverage sitting right at a covenant that only steps DOWN each quarter — a soft freight market could trip it.",
+    "The strategic review already FAILED to find a full-enterprise buyer; PE suitors stepped back, so the piecemeal asset-sale plan is the fallback, not the prize.",
+    "Revenue declining (-5% YoY), negative profit margins (-3.7%), negative forward P/E — this is a cyclical freight downturn on top of an over-levered post-merger integration.",
+    "Q1 2026 net loss of $40.2M ($(1.09)/sh) badly missed; equity is a small sliver on top of $2.5B EV, so the downside is effectively a zero if covenants break."
+  ],
+  "catalyst": "Q2 2026 earnings plus concrete announcement of an Intermodal/Omni asset-sale deal with defined proceeds applied to debt paydown.",
+  "catalyst_timing": "Q2 earnings Aug 5, 2026; asset-sale announcement timing open-ended ('review nearing conclusion')",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Speculative only. Small defined-risk long call (e.g. 2027-dated $15-20 calls) as a bet on a deleveraging asset sale — do not hold spot into a potential covenant breach where the equity can go to zero.",
+  "key_risk": "A weak freight quarter trips the leverage covenant before asset sales close, forcing a dilutive raise or restructuring that wipes the equity.",
+  "estimated_upside_pct": 90,
+  "estimated_downside_pct": 70,
+  "would_skip_if": "Q2 shows leverage rising toward the covenant with no signed asset-sale agreement, or management signals a need to raise equity."
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT collapsed after its flagship gene therapy ELEVIDYS was linked to three patient deaths from acute liver failure; the FDA requested Sarepta suspend distribution and placed multiple gene-therapy trials on clinical hold. The screener flags it as 'basing' near $16, but this is a falling knife on an active safety crisis, not a confirmed bottom.",
+  "bullish_points": [
+    "Optically cheap on trailing numbers: forward P/E ~6.4, P/B ~1.1, EV/revenue ~0.95, with a still-real ~$2.18B revenue base from EXONDYS/VYONDYS/AMONDYS exon-skippers that are unaffected by the ELEVIDYS halt.",
+    "Aggressive cost action: announced ~36% workforce cut (~500 jobs) targeting ~$400M savings, extending cash runway (~$653M cash) while the crisis plays out.",
+    "Very high short interest (32.6% of float, short ratio 7.4) sets up violent squeeze potential on any clean safety resolution (e.g., sirolimus protocol amendment clearing the ENVISION hold).",
+    "Some insider net buying over trailing 6 months, though most recent transactions are director stock grants rather than open-market conviction buys."
+  ],
+  "bearish_points": [
+    "Active FDA safety action: distribution suspended, black-box warning for acute liver injury/failure requested, multiple trials on clinical hold — the growth engine (ELEVIDYS) is offline with no firm restart date.",
+    "The 'cheap' forward P/E is built on a collapsing earnings base; consensus estimates almost certainly overstate forward EPS given the halt.",
+    "Binary regulatory/safety outcome with genuinely fatal adverse events — the tail risk is further deaths, label restriction, or permanent non-ambulatory contraindication.",
+    "Q2 print (Aug 5) will be the first full look at the financial damage; guidance is likely to be withdrawn or slashed."
+  ],
+  "catalyst": "Q2 2026 earnings and any FDA/company update on the ELEVIDYS distribution hold and ENVISION trial restart (sirolimus protocol amendment).",
+  "catalyst_timing": "Q2 earnings Aug 5, 2026; FDA/trial-hold resolution timing unknown (open-ended)",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass for now. If forced to express it, only a small defined-risk long-dated call (e.g. Jan 2027 $20s) sized as a lottery ticket on a safety-resolution squeeze — never spot, given open-ended downside on an unresolved FDA action.",
+  "key_risk": "Another liver-failure death or a permanent FDA restriction on ELEVIDYS that removes the growth engine for good and forces further guidance cuts.",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 55,
+  "would_skip_if": "FDA hold persists into Q3 with no restart pathway, or any additional serious adverse events are reported — which is the base case until proven otherwise."
+}

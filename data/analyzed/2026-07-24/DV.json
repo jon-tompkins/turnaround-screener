@@ -1,0 +1,29 @@
+{
+  "ticker": "DV",
+  "company_name": "DoubleVerify Holdings, Inc.",
+  "sector": "Communication Services",
+  "industry": "Advertising Agencies",
+  "turnaround_reason": "DV de-rated from a ~$40 growth darling to ~$10 as ad-verification growth decelerated from 20%+ to high-single/low-double digits and the market punished any adtech name tied to programmatic budgets. The business itself never broke — it kept growing revenue and free cash flow — so this is a valuation reset, not an operational collapse.",
+  "bullish_points": [
+    "Genuinely good business: 82% gross margins, 34% adj-EBITDA margins, $131M TTM FCF, net cash (~$174M cash vs ~$96M debt).",
+    "Still growing: Q1 2026 revenue +10% YoY, FY2026 guide reaffirmed at $810-826M (8-10% growth). Beat Q1 EPS badly ($0.17 vs $0.059 est).",
+    "Loud insider conviction: net +566k shares bought over 6 months across 18 purchase transactions, including CEO and CFO — not option-grant noise, actual accumulation.",
+    "Aggressive buyback: $100M repurchased YTD into the weakness, shrinking the float at a de-rated multiple.",
+    "Valuation is cheap for the quality: forward P/E ~8.5, EV/EBITDA ~11, P/B ~1.5. Analyst mean target $13.07 (~25% above spot) with a buy rating from 15 analysts."
+  ],
+  "bearish_points": [
+    "Secular overhang: AI-driven ad platforms (Meta/Google/Amazon walled gardens) and Scibids/optimization commoditization could compress the need for third-party verification over time.",
+    "Growth has structurally slowed — the days of 20%+ are likely gone, so multiple re-rating depends on stabilization, not reacceleration.",
+    "Two consecutive quarters of small EPS estimate misses on the headline print before Q1's beat; guidance has been described as cautious.",
+    "Dossier news feed was empty (yfinance nulls), so catalyst read leans on external search rather than fresh company-specific flow."
+  ],
+  "catalyst": "Q2 2026 earnings — confirmation that FY guide holds (or is raised) plus continued social/CTV attach and buyback pace would validate the floor and support re-rating.",
+  "catalyst_timing": "August 6, 2026 (after close)",
+  "options_liquid": false,
+  "conviction_score": 7,
+  "suggested_trade": "Spot position, scale in $9.50-10.50. Options are effectively untradeable here (near-zero OI), so this is an equity-only name. Add on any post-earnings dip that holds the $7.64 52w low.",
+  "key_risk": "A guide cut or margin walk-back on Aug 6 that signals the growth slowdown is turning into a growth stall — that reprices it lower regardless of how cheap it looks.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "FY revenue guide gets cut below 8% growth, or EBITDA margin guide drops below ~32%, on the Aug 6 call."
+}
