@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty was beaten down to ~$2.47 on structural profitability problems (LTM EBIT margin ~-7.7%, negative ROE, high debt), but the stock is now recovering (+35% over 30 days) on a cluster of catalysts: a Marc Jacobs Beauty digital-first relaunch, an early return of the Gucci Beauty license to Kering worth ~$400M in cash, S&P SmallCap 600 inclusion, SKU rationalization, and insider buying.",
+  "bullish_points": [
+    "Multiple near-term catalysts stacking: Marc Jacobs Beauty relaunch (June 2026), ~$400M Gucci Beauty license return ($250M upfront + up to $150-180M by 2027) for debt paydown, and S&P SmallCap 600 add (structural liquidity/index demand)",
+    "Strong momentum: +35% over 30 days, ~126% of its 100d MA and just above the 200d MA — the recovery is confirmed, not hypothetical",
+    "Brand equity intact: ~$5.9B revenue at ~63% gross margin; the problem is opex/mix, not top-of-funnel demand",
+    "Self-help underway: ~15% Consumer Beauty SKU cut for Fall 2026 and $10M+ targeted FY27 AI-driven savings; Consumer Beauty president bought shares",
+    "Analyst targets ($3.50 median, $3.90 consensus) imply meaningful upside from ~$2.47"
+  ],
+  "bearish_points": [
+    "Still structurally unprofitable at the EBIT line (-7.7% margin) with negative ROE — the operational turn has to actually show in margins, and hasn't yet",
+    "High debt load makes the equity a levered bet; the Gucci cash helps but does not fix leverage alone",
+    "Prestige/consumer beauty demand is softening industry-wide (Estee Lauder and Coty both prioritizing cash over growth)",
+    "Low nominal share price (~$2.47) and no listed options in the dossier — harder to hedge, more retail-momentum-driven",
+    "yfinance overview failed on this dossier; fundamentals sourced externally"
+  ],
+  "catalyst": "Execution proof points on the margin turn — Marc Jacobs relaunch traction, Gucci cash deployment to debt, and the next quarterly print showing EBIT margin inflecting toward positive",
+  "catalyst_timing": "Next quarterly earnings (FY Q1 2027, expected fall 2026) plus ongoing relaunch/index flow through summer",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot-only starter. Momentum + catalyst stack is attractive but the structural unprofitability and leverage cap conviction; size for a speculative recovery, not a core hold. No listed options to reduce risk.",
+  "key_risk": "The catalysts are financial/cosmetic (index add, one-time license cash) while the core margin problem persists; if the next print shows EBIT still deeply negative, the momentum unwinds fast on a levered, low-priced name",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next quarter shows no EBIT margin improvement, or the 30-day momentum rolls over back below the 200d MA"
+}

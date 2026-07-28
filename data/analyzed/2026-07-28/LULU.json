@@ -1,0 +1,30 @@
+{
+  "ticker": "LULU",
+  "company_name": "lululemon athletica inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "turnaround_reason": "Lululemon has fallen ~46-59% as its core Americas business posted a fifth straight quarter of comparable-sales declines (-5% in Q1), forcing a full-year guidance cut and a brand/product reset. It screens as 'basing' near 52-week lows (~$110), but there is no confirmed inflection — this is an early, unproven turnaround in a high-quality brand.",
+  "bullish_points": [
+    "High-quality global brand with strong balance sheet and no distress — this is a demand/execution problem, not a solvency problem",
+    "International is still growing ~22% YoY, partially offsetting North American weakness and proving the brand travels",
+    "New CEO Heidi O'Neill expected to start September 2026 — a fresh-leadership catalyst and potential reset of expectations",
+    "Valuation has compressed dramatically from prior premium multiples; much bad news is arguably priced after a ~50%+ drawdown",
+    "Trades ~40% of its 200w MA and ~25% below its 200d MA — deeply washed out if the Americas comp trend stabilizes"
+  ],
+  "bearish_points": [
+    "Five consecutive quarters of Americas comp declines with management guiding North America revenue down high-single-digits — the trend is still worsening, not stabilizing",
+    "Guidance was cut (FY26 sales $11.0-$11.15B from $11.35-$11.50B); estimate revisions are still negative",
+    "New CEO hasn't started yet — no strategy, no evidence the reset works; catch-a-falling-knife risk until comps inflect",
+    "Tariff/margin pressure and softer product launches compound the demand problem",
+    "China, a prior growth engine, is also decelerating per recent reporting"
+  ],
+  "catalyst": "Evidence that Americas comparable sales are bottoming (a quarter of flat-to-improving comps), plus strategy from incoming CEO Heidi O'Neill after her September 2026 start",
+  "catalyst_timing": "Q2 FY2026 earnings (early September 2026) and CEO transition in September 2026",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Watchlist / very small starter only. Wait for a single quarter of stabilizing Americas comps or the new CEO's strategy before sizing up — buying now is betting on an unconfirmed bottom while estimates still fall.",
+  "key_risk": "Americas comps continue declining for a sixth quarter, confirming brand fatigue rather than a cyclical dip, with the leadership transition adding execution uncertainty",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows Americas comps still deteriorating, or the CEO transition brings a guide-down / kitchen-sink reset"
+}

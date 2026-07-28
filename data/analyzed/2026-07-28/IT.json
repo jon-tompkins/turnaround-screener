@@ -1,0 +1,29 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Gartner de-rated hard in H1 2026 on fears that enterprises will substitute AI assistants for its pricey research/advisory subscriptions, compressing contract value growth to ~1%. The stock is ~17% below its 200d MA but momentum has turned: Q1 2026 adjusted EPS beat by ~11% and shares jumped ~10.7% on the print, with management raising EBITDA/EPS/FCF guidance.",
+  "bullish_points": [
+    "Q1 2026 beat: adjusted EPS $3.32 (+11% vs. estimates, +11.4% YoY); management raised full-year adjusted EPS, EBITDA and FCF guidance",
+    "Strong recent momentum: +5.1% 1d, +9.9% 5d, above the 100d MA — the basing pattern is resolving upward into a hard catalyst",
+    "High-margin, subscription-based, sticky research franchise with strong free-cash-flow conversion and consistent buybacks",
+    "Management explicitly guided that contract value growth 'will accelerate' in H2 2026",
+    "Listed options available (nearest expiry 2026-08-21) allow leveraged expression around the Aug 4 catalyst"
+  ],
+  "bearish_points": [
+    "The AI-substitution bear thesis is structural, not cyclical — if IT departments genuinely eschew third-party research for AI tooling, the moat erodes permanently",
+    "Contract value grew only ~1% and revenue slipped ~1.5% in Q1 — the fundamental reacceleration is a promise, not yet a result",
+    "Full-year top-line guide was trimmed to below $6.41B even as profitability guidance rose (margin-led, not growth-led, story)",
+    "Stock has already rallied into the print, raising the bar and the risk of a 'sell-the-news' fade if CV acceleration doesn't show"
+  ],
+  "catalyst": "Q2 2026 earnings call on August 4, 2026 — the market wants evidence that contract value is inflecting higher and that AI is a tailwind (Gartner's own research on AI spend) rather than a share threat",
+  "catalyst_timing": "August 4, 2026 (Q2 2026 earnings)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter position now; consider a small Aug 21 or Sep 18 call position sized as a defined-risk bet on CV acceleration at the Aug 4 print. Keep options small — IV/OI is modest and a fade is plausible after the run-up.",
+  "key_risk": "Q2 shows contract value still stuck near +1% with no acceleration, validating the AI-disruption bear case and unwinding the post-Q1 momentum",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 22,
+  "would_skip_if": "Contract value fails to accelerate at Q2 or management softens the H2 acceleration guidance; also skip the options leg if the stock keeps ripping into the print (poor risk/reward)"
+}

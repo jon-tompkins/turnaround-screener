@@ -1,0 +1,30 @@
+{
+  "ticker": "GO",
+  "company_name": "Grocery Outlet Holding Corp.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "turnaround_reason": "Grocery Outlet cratered ~25% in March 2026 on a Q4 miss, slashed 2026 guidance, and a 36-store closure 'Optimization Plan' with large goodwill/asset impairments. It screens as 'basing' but the fundamentals remain weak: comps guided down 2% to flat and margins are being deliberately sacrificed to defend traffic.",
+  "bullish_points": [
+    "Defensive extreme-value grocery model that historically does well when consumers trade down in a tight economy",
+    "Store-closure Optimization Plan (36 underperformers) removes a drag and can lift blended unit economics",
+    "New leadership (CEO Jason Potter and a new CFO) driving an operational reset; FY26 guidance reaffirmed rather than cut again in June",
+    "FY26 adjusted EBITDA guide of $220-$235M gives a concrete profitability anchor",
+    "Price ~47% of 200w MA and just below the 200d MA — much of the bad news is arguably priced after the March collapse"
+  ],
+  "bearish_points": [
+    "Comparable-store sales are still negative (Q1 guided -2.5% to -1.5%; full-year -2% to flat) — no top-line inflection",
+    "Management is spending ~$20M of 'synthetic promotional support' and tolerating margin pressure — profitability is being defended, not growing",
+    "Thin-margin grocery with an idiosyncratic independent-operator model that has repeatedly disappointed on execution",
+    "Just took goodwill/asset impairments and closed stores — a sign the prior growth story was over-earned",
+    "yfinance overview failed on this dossier; thesis relies on external reporting, and there are no listed options to hedge"
+  ],
+  "catalyst": "A quarter showing comparable-store sales inflecting toward positive and EBITDA holding the $220-$235M guide as the closure plan annualizes",
+  "catalyst_timing": "Next quarterly earnings (FY Q2 2026, expected fall 2026)",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Watchlist only — pass for now. No confirmed comp inflection, deliberate margin sacrifice, and a broken-model track record. Revisit if a print shows comps turning positive with EBITDA intact.",
+  "key_risk": "Comps stay negative while promotional support keeps compressing margins, so the 'value-grocery-wins-in-a-downturn' thesis fails to translate into earnings",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows comps still negative or EBITDA guidance cut below the $220M floor"
+}
