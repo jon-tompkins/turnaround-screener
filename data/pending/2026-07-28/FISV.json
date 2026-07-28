@@ -1,0 +1,293 @@
+{
+  "ticker": "FISV",
+  "fetched_at": "2026-07-28T13:37:36.380664",
+  "overview": {
+    "name": "Fiserv, Inc.",
+    "sector": null,
+    "industry": null,
+    "description": null,
+    "market_cap": 28350447616,
+    "enterprise_value": null,
+    "shares_outstanding": 533253986,
+    "float_shares": null,
+    "short_ratio": null,
+    "short_percent_of_float": null,
+    "held_by_insiders": null,
+    "held_by_institutions": null,
+    "revenue_ttm": null,
+    "revenue_growth": null,
+    "gross_margins": null,
+    "operating_margins": null,
+    "profit_margins": null,
+    "free_cashflow": null,
+    "operating_cashflow": null,
+    "total_cash": null,
+    "total_debt": null,
+    "debt_to_equity": null,
+    "current_ratio": null,
+    "trailing_pe": 9.011017,
+    "forward_pe": 5.9505424,
+    "price_to_book": 1.0815127,
+    "ev_to_ebitda": null,
+    "ev_to_revenue": null,
+    "fifty_two_week_high": 142.83,
+    "fifty_two_week_low": 47.04,
+    "current_price": 53.165,
+    "analyst_target_mean": 66.62963,
+    "analyst_target_high": 115.0,
+    "analyst_target_low": 40.0,
+    "recommendation": "hold",
+    "num_analysts": 27,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-06 08:00:00-04:00",
+        "EPS Estimate": 1.92,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-05 07:00:00-04:00",
+        "EPS Estimate": 1.58,
+        "Reported EPS": 1.79,
+        "Surprise(%)": 13.49
+      },
+      {
+        "Earnings Date": "2026-02-10 07:00:00-05:00",
+        "EPS Estimate": 1.9,
+        "Reported EPS": 1.99,
+        "Surprise(%)": 4.6
+      },
+      {
+        "Earnings Date": "2025-10-29 07:00:00-04:00",
+        "EPS Estimate": 2.65,
+        "Reported EPS": 2.04,
+        "Surprise(%)": -22.9
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last ": "Purchases",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Sales",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "Total Insider Shares Held",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last ": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 10060,
+        "Value": 499982,
+        "URL": "",
+        "Text": "Purchase at price 49.70 per share.",
+        "Insider": "TODD PAUL M",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2960,
+        "Value": 149746,
+        "URL": "",
+        "Text": "Purchase at price 50.59 per share.",
+        "Insider": "MAMILLI WAFAA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10150,
+        "Value": 500700,
+        "URL": "",
+        "Text": "Purchase at price 49.33 per share.",
+        "Insider": "ROSMAN ADAM L",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7500,
+        "Value": 371775,
+        "URL": "",
+        "Text": "Purchase at price 49.57 per share.",
+        "Insider": "NIXON, GORDON MELBOURNE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2088,
+        "Value": 101080,
+        "URL": "",
+        "Text": "Purchase at price 48.41 per share.",
+        "Insider": "DISIMONE HARRY F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2023,
+        "Value": 100118,
+        "URL": "",
+        "Text": "Purchase at price 49.49 per share.",
+        "Insider": "YARKONI CHARLOTTE B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 50094,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GEORGAKOPOULOS PANAGIOTIS",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 104363,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "TODD PAUL M",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4121,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DISIMONE HARRY F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4121,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DUFETEL CELINE S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.78219544256804,
+    "pct_above_200d_ma": -17.494926958957635,
+    "pct_of_100d_ma": 95.96637737916835,
+    "pct_change_1d": 1.5293427949879979,
+    "pct_change_5d": 4.939735170618942,
+    "pct_change_30d": -1.2458129121476147
+  }
+}

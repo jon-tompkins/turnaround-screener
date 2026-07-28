@@ -1,0 +1,170 @@
+{
+  "ticker": "LULU",
+  "fetched_at": "2026-07-28T13:37:18.038556",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 65369.0,
+        "Trans": 27
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 622.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 64747.0,
+        "Trans": 28
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 5196227.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.012999999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.012999999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.0,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BERGH CHARLES V",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LIST-STOLL TERI L.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORFITT MARTHA A M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAHE ISABEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LOEHNIS ALISON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAURER MARC",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GENTILE LAURA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HENRY KATHRYN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCNEILL JON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WHITE EMILY C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 40.21362081066669,
+    "pct_above_200d_ma": -24.90029953776235,
+    "pct_of_100d_ma": 88.61288817809587,
+    "pct_change_1d": 1.888312347912291,
+    "pct_change_5d": 2.936639914614614,
+    "pct_change_30d": 1.0819261584818607
+  }
+}

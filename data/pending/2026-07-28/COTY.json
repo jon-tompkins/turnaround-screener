@@ -1,0 +1,170 @@
+{
+  "ticker": "COTY",
+  "fetched_at": "2026-07-28T13:37:06.101630",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 527425824,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 4741,
+        "URL": "",
+        "Text": "",
+        "Insider": "SRINIVASAN PRIYA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 83000,
+        "URL": "",
+        "Text": "Purchase at price 2.41 per share.",
+        "Insider": "VON BRETTEN GORDON",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2026-03-06 00:00:00",
+        "Ownership": "D",
+        "Value": 200287.0
+      },
+      {
+        "Shares": 5000,
+        "URL": "",
+        "Text": "Purchase at price 2.65 per share.",
+        "Insider": "MERCIER LAURENT",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-10 00:00:00",
+        "Ownership": "D",
+        "Value": 13250.0
+      },
+      {
+        "Shares": 13287,
+        "URL": "",
+        "Text": "",
+        "Insider": "MAKANJU ANNA ADEOLA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-12-18 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "PARIZE ISABELLE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "BALLINI BEATRICE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "CREUS JOACHIM",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 45000,
+        "URL": "",
+        "Text": "",
+        "Insider": "HARF PETER",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "SINGER ROBERT STEVEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 268803,
+        "URL": "",
+        "Text": "",
+        "Insider": "BLAZEWICZ KRISTIN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2025-10-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 36.53296393067394,
+    "pct_above_200d_ma": 1.1792204255328897,
+    "pct_of_100d_ma": 126.19934886564576,
+    "pct_change_1d": 2.7573546652511105,
+    "pct_change_5d": 1.6363664106889164,
+    "pct_change_30d": 35.024162629579635
+  }
+}

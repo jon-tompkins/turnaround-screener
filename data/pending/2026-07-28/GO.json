@@ -1,0 +1,170 @@
+{
+  "ticker": "GO",
+  "fetched_at": "2026-07-28T13:37:57.722426",
+  "overview": {
+    "error": "yfinance fetch failed: argument of type 'NoneType' is not iterable"
+  },
+  "options": {
+    "has_options": false
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 2017332.0,
+        "Trans": 33
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 100732.0,
+        "Trans": 10
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 1916600.0,
+        "Trans": 43
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 6064949.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.462,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.48599997,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.024,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 5000,
+        "Value": 47500,
+        "URL": "",
+        "Text": "Purchase at price 9.50 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 93700,
+        "URL": "",
+        "Text": "Purchase at price 9.37 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4433,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LEARY SUSAN MICHELLE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 12893,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FERRY IAN DANIEL",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 27431,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MILLER PAUL BLAINE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22022,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "THORNTON FELICIA D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KOBAYASHI MICHAEL K",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MOLLOY LAWRENCE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22022,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ALLEN FRANCES L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18868,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BACHMAN JOHN E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.7234699976774,
+    "pct_above_200d_ma": -1.5129913926886007,
+    "pct_of_100d_ma": 116.66810213356979,
+    "pct_change_1d": 1.0615751662400141,
+    "pct_change_5d": 2.47578575732057,
+    "pct_change_30d": -0.6262992319437499
+  }
+}
