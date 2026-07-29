@@ -1,0 +1,32 @@
+{
+  "ticker": "EPAM",
+  "company_name": "EPAM Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "EPAM is down ~55-62% YTD and ~75% from its 2021 peak on the market's fear that AI code assistants structurally shrink demand for outsourced digital engineering (billable hours deflation), compounded by softer North American IT budgets. The turnaround thesis is that EPAM is a high-quality, net-cash, still-growing engineering firm that is repositioning as an AI-delivery partner rather than an AI victim, at a valuation (fwd P/E ~7) that already prices in secular decline.",
+  "bullish_points": [
+    "Fortress balance sheet: ~$1.04B cash vs ~$288M debt (net cash), current ratio 2.67 — rare among cheap turnarounds; funds buybacks without leverage risk",
+    "Still growing and profitable: revenue +7.6% YoY, 6.96% net margin, ~$693M FCF; Q1 beat ($2.86 vs $2.75) and raised full-year EPS outlook to $12.98-$13.28",
+    "Cheap on multiple axes: fwd P/E ~7.1, EV/EBITDA 6.1, EV/Revenue 0.81, P/B 1.54 — trough-ish for a franchise engineering name",
+    "AI positioning is offense, not just defense: >$125M AI-native revenue/quarter, multi-year Anthropic partnership (Claude practice targeting 10,000+ certified architects, 5,000 by Q3), positions EPAM as an AI implementation arms dealer",
+    "Aggressive capital return: completed ~$547M buyback (~3M shares) in May, shrinking the float into the drawdown",
+    "Analyst targets well above spot: mean ~$135 vs ~$100; Stifel $246, Mizuho/Guggenheim ~$200 — Buy/Outperform reiterated even after cuts"
+  ],
+  "bearish_points": [
+    "Core secular risk is real and unresolved: if Claude Code / AI assistants collapse billable-hours demand faster than EPAM can shift to outcome-based AI delivery, revenue and margins erode structurally, not cyclically",
+    "Guidance is decelerating and was CUT: 2026 revenue growth trimmed to 4.0-6.5% (2.5-5.0% organic cc); management flags weak North American visibility and 'less predictable' client spend",
+    "Q2 guide implies only ~4% YoY growth at midpoint ($1.400-1.415B) — momentum is soft into the print",
+    "The AI partnership is strategically sound but unproven as a margin/growth engine; 'positioning is highly uncertain' per bearish analysts",
+    "Insiders are not buying (only director stock-award grants); no conviction signal from management purchases",
+    "Basing, not recovering: still 30% below its 200d MA, so no confirmed trend — could re-break down on a soft print"
+  ],
+  "catalyst": "Q2 2026 earnings on Aug 6 (pre-market) — a hard, near-term binary. The market wants proof that AI-native revenue is scaling and that North American demand isn't deteriorating further; a beat + stable/raised guide could snap a heavily shorted (25.7% of float), beaten-down stock higher, while any guidance cut confirms the structural bear.",
+  "catalyst_timing": "Q2 2026 earnings, 2026-08-06 (pre-market, ~8 days out)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Starter spot position now (small-to-medium) ahead of Aug 6. For leverage on the binary, small Jan 2027 $110-120 calls sized as a defined-risk bet — ATM IV ~53% is elevated into earnings, so keep options tranche small and prefer adding spot on any post-print dip if the thesis holds",
+  "key_risk": "Aug 6 guidance cut confirming AI-driven demand destruction — organic growth stalling toward zero would validate the structural bear and re-rate the stock lower despite the cheap multiple",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You need confirmed uptrend (this is still basing below the 200d MA), you can't stomach binary earnings-event risk 8 days out, or you believe AI assistants structurally gut IT-services demand faster than EPAM can pivot"
+}

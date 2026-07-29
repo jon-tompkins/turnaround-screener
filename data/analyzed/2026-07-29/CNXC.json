@@ -1,0 +1,31 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a global customer-experience (CX/BPO) outsourcer, has been crushed (~55% below its 52w high) by fears that GenAI automates away the human call-center work at its core, plus a messy ~$4.5-5.5B-net-debt Webhelp integration and a $1.5B goodwill write-down. The deep-value thesis: it still gushes cash (~$775M FCF on a ~$1.6B market cap) and trades at fwd P/E ~2.2 and 0.58x book, so even flat execution is heavily de-risked at the price.",
+  "bullish_points": [
+    "Extreme cash generation vs price: ~$775M FCF / ~$1.58B market cap = ~49% FCF yield; 2026 adjusted FCF guided $630-650M; returned $258M to shareholders and cut net debt $184M",
+    "Deeply cheap: fwd P/E ~2.2, EV/EBITDA 5.3, P/B 0.58, EV/Revenue 0.68 — priced for terminal decline",
+    "CEO buying in the open market (Caldwell added shares at $21.25 in July and $26.97 in March) — modest but a real insider signal",
+    "Webhelp 'met synergy goals' per management; the worst of the integration/impairment may be behind it",
+    "Pivoting toward higher-value GenAI/SaaS-enabled CX contracts rather than pure headcount call centers"
+  ],
+  "bearish_points": [
+    "The AI threat cuts directly at the business model: GenAI/agentic support automates the exact seat-based work Concentrix sells — this is the disruptee, not the disruptor",
+    "Heavy leverage: ~$5.5B total debt, debt/equity ~204, EV ~$6.8B dwarfs the ~$1.6B equity — most enterprise value is debt, so equity is a levered call on execution",
+    "Growth has evaporated: 2026 guide reset to just 0.25-1.25% cc revenue growth; profit margins are negative TTM (-13%) after the write-down",
+    "Big holder selling: Groupe Bruxelles Lambert dumped 6.0M shares (~$133M) at $22.25 in April — net insider shares sold -35.7%, swamping the CEO's small buys",
+    "Options are effectively illiquid for this name (thin OI, unreliable IV) — hard to structure leverage cleanly",
+    "Still basing below the 200d MA; no confirmed bottom"
+  ],
+  "catalyst": "Q3 2026 earnings on Sep 24 — the market needs evidence that the higher-value tech/GenAI contract mix is offsetting seat erosion and that FCF guidance holds; sustained FCF + debt paydown at this multiple is the re-rating driver, while any FCF cut or contract losses confirm the AI-disruption bear.",
+  "catalyst_timing": "Q3 2026 earnings, 2026-09-24 (after close, ~8 weeks out)",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot starter position only, sized for the possibility of a value trap — this is a levered, secularly-challenged deep-value name where the FCF yield pays you to wait but the debt + AI-to-BPO threat cap conviction. Prefer spot over options (illiquid). Existing research note at data/research/CNXC.md",
+  "key_risk": "GenAI automates CX seats faster than Concentrix can move up-market, so FCF and contract volume decline while the ~$5.5B debt load stays fixed — the classic levered value trap",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You avoid highly-levered balance sheets, you think GenAI structurally eats BPO faster than management can pivot, or you weight the GBL block sale over the CEO's small buys"
+}
