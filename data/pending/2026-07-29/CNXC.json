@@ -1,0 +1,300 @@
+{
+  "ticker": "CNXC",
+  "fetched_at": "2026-07-29T13:36:04.350474",
+  "overview": {
+    "name": "Concentrix Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Concentrix Corporation designs, builds, and runs integrated customer experience (CX) solutions worldwide. It provides CX process optimization, technology innovation and design engineering, front- and back-office automation, analytics, and business transformation services to clients in various industry verticals comprising technology and consumer electronics; retail, travel, and e-commerce; communications and media; banking, financial services, and insurance; and healthcare. The company also offers customer lifecycle management; CX and user experience strategy and design; data analytics, enterprise intelligence, artificial intelligence readiness, and actionable insights; digital operations, such as B2B sales, performance marketing, customer loyalty, trust and safety, collections, and financial compliance; and GenAI and agentic AI technologies. In addition, it provides digital transformation services that designs and engineer CX solutions to enable efficient customer self-service and build customer loyalty; customer engagement solutions and services that address the entirety of the customer lifecycle; and AI technology that can intelligently act on customer intent to improve customer experience with non-human engagement. Further, the company offers self-service GenAI and agentic AI assistants for applications in data analysis, language translations, and internal chatbots; voice of the customer and analytics solutions to gather and analyze customer feedback; analytics and consulting solutions that synthesize data and provide professional insight to improve clients' customer experience strategies; specialized support to specific industry verticals; and back office services that support clients in non-customer facing areas. It serves technology and consumer electronics, retail, travel and e-commerce, communications and media, banking, financial services and insurance, healthcare, and other industries. The company was founded in 2004 and is based in Newark, California.",
+    "market_cap": 1577934592,
+    "enterprise_value": 6799171072,
+    "shares_outstanding": 61018350,
+    "float_shares": 45546537,
+    "short_ratio": 4.01,
+    "short_percent_of_float": 0.21059999,
+    "held_by_insiders": 0.17497998,
+    "held_by_institutions": 1.0606999,
+    "revenue_ttm": 9999041536,
+    "revenue_growth": 0.019,
+    "gross_margins": 0.3447,
+    "operating_margins": 0.07893,
+    "profit_margins": -0.13145,
+    "free_cashflow": 775551744,
+    "operating_cashflow": 743694016,
+    "total_cash": 255566000,
+    "total_debt": 5504261120,
+    "debt_to_equity": 203.764,
+    "current_ratio": 1.179,
+    "trailing_pe": null,
+    "forward_pe": 2.174937,
+    "price_to_book": 0.58265555,
+    "ev_to_ebitda": 5.334,
+    "ev_to_revenue": 0.68,
+    "fifty_two_week_high": 58.05,
+    "fifty_two_week_low": 19.12,
+    "current_price": 25.86,
+    "analyst_target_mean": 35.25,
+    "analyst_target_high": 45.0,
+    "analyst_target_low": 26.0,
+    "recommendation": "none",
+    "num_analysts": 4,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-09-24 16:00:00-04:00",
+        "EPS Estimate": 2.81,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-06-29 16:00:00-04:00",
+        "EPS Estimate": 2.64,
+        "Reported EPS": 2.63,
+        "Surprise(%)": -0.28
+      },
+      {
+        "Earnings Date": "2026-03-24 07:00:00-04:00",
+        "EPS Estimate": 2.65,
+        "Reported EPS": 2.61,
+        "Surprise(%)": -1.32
+      },
+      {
+        "Earnings Date": "2026-01-13 07:00:00-05:00",
+        "EPS Estimate": 2.91,
+        "Reported EPS": 2.95,
+        "Surprise(%)": 1.37
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-08-21",
+    "farthest_expiry": "2027-01-15",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 0.0010000000000000002,
+    "total_call_oi": 2100,
+    "total_put_oi": 3132
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 71110.0,
+        "Trans": 16
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 6000000.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": -5928890.0,
+        "Trans": 17
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 10676990.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": -0.357,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.004,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.36099997,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1000,
+        "Value": 21250,
+        "URL": "",
+        "Text": "Purchase at price 21.25 per share.",
+        "Insider": "CALDWELL CHRISTOPHER A",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-07-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6000000,
+        "Value": 133500000,
+        "URL": "",
+        "Text": "Sale at price 22.25 per share.",
+        "Insider": "GROUPE BRUXELLES LAMBERT",
+        "Position": "Beneficial Owner of more than 10% of a Class of Security",
+        "Transaction": "",
+        "Start Date": "2026-04-29 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 2500,
+        "Value": 69869,
+        "URL": "",
+        "Text": "Purchase at price 27.95 per share.",
+        "Insider": "VALENTINE ANDRE S",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-09 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1000,
+        "Value": 26970,
+        "URL": "",
+        "Text": "Purchase at price 26.97 per share.",
+        "Insider": "CALDWELL CHRISTOPHER A",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-26 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CHENG CHIH-KAI",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "OGUT BILGE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "POLK DENNIS",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VEZINA ANN F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MARINELLO KATHRYN V",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 7701,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HAYLEY KATHRYN J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-25 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 41.77269821156928,
+    "pct_above_200d_ma": -17.670129074486308,
+    "pct_of_100d_ma": 100.56100378747827,
+    "pct_change_1d": 2.3219211181852106,
+    "pct_change_5d": 10.647700544517203,
+    "pct_change_30d": 0.9306373455311601
+  }
+}
