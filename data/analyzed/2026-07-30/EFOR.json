@@ -1,0 +1,30 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "EFOR (formerly ASGN, rebranded April 2026) is a ~$4B IT staffing + digital-engineering + federal-services business that got cut nearly in half (from $55 to a $17 low) on the post-COVID IT staffing downcycle. Q2 2026 — its first report under the Everforth name — beat the top end of guidance with >$1B revenue and a 9.6% EBITDA margin, signaling the demand trough may be in.",
+  "bullish_points": [
+    "Q2 beat: revenue $1.01B topped estimates by ~1.6% and EBITDA margin (9.6%) exceeded the high end of guidance; Q3 guide was optimistic — evidence the staffing trough is turning",
+    "Deep-value multiples: forward P/E ~6.3, P/B 0.63 (trading below book), EV/EBITDA ~6.6, EV/revenue 0.59",
+    "Federal segment is the growth engine: ~$2.7B backlog with DHS cybersecurity and Navy data/AI work insulating it from commercial cyclicality",
+    "Strong, clustered insider buying in April 2026 at $18-22 (including a $193k director purchase) — bought right at the base, now up ~30%+",
+    "Robust cash generation: FCF ~$270M supports the ~14x debt paydown / buyback optionality despite leverage"
+  ],
+  "bearish_points": [
+    "The easy money may be made — stock is already +32% over 5 days and the earnings catalyst has now fired",
+    "High leverage: total debt $1.53B, debt/equity 85, EV nearly 2x market cap — magnifies downside if the commercial recovery stalls",
+    "Commercial staffing revenue was still down YoY (-1.3% total); the 'stabilization' is early and could re-roll over in a weak macro",
+    "Low structural growth business (0% TTM revenue growth) — this is a re-rating/cyclical trade, not a compounder",
+    "AI-driven disruption of the IT staffing model is a real medium-term threat to the commercial segment"
+  ],
+  "catalyst": "Q2 2026 earnings beat + optimistic Q3 guide already delivered (July 29); next leg is Q3 print on Oct 28 confirming the recovery trend and continued federal backlog conversion",
+  "catalyst_timing": "Next hard catalyst 2026-10-28 (Q3 earnings); thesis is post-beat momentum + re-rating in the interim",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter (small-to-medium) on the post-earnings breakout; scale on a pullback toward the low-$20s. Options are tradeable (Sept/Jan expiries) for a modest leveraged add.",
+  "key_risk": "Commercial IT staffing demand double-dips on a macro slowdown, stalling the recovery while the heavy debt load caps the re-rating",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 28,
+  "would_skip_if": "Chasing after a 30%+ five-day move; prefer to wait for a pullback rather than buy the earnings spike"
+}

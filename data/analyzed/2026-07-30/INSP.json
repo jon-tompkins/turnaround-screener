@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "INSP fell ~66% from its $147 high to ~$50 as the market priced in an existential GLP-1 threat (oral/injectable obesity drugs reducing OSA severity and demand for its hypoglossal-nerve-stimulation implant). Yet the underlying business keeps beating: it is FCF-positive, 86% gross margin, net cash, and has posted enormous EPS surprises for four straight quarters — a classic 'left for dead on a narrative, still executing' setup.",
+  "bullish_points": [
+    "Four consecutive massive EPS beats (surprises of +324%, +142%, +138% vs estimates) — the sell-side is modeling the GLP-1 apocalypse far more aggressively than results warrant",
+    "Fortress balance sheet: $284M cash vs $30M debt, current ratio 6.3, FCF +$86M — no financing risk, optionality to buy back stock",
+    "Meaningful insider net buying over last 6 months (net +211k shares, 23 purchase transactions vs 4 sales)",
+    "Trailing P/E of only ~11 and price roughly at the analyst mean target ($51.4) after a 21% one-month bounce off the base — momentum turning",
+    "Hard, near-term catalyst: Q2 print after the close on Aug 3, 2026 (est EPS -0.25, but the company has crushed every recent quarter)"
+  ],
+  "bearish_points": [
+    "Management CUT its FY outlook at Q1 on the federal WISeR prior-authorization rollout plus coding/reimbursement friction — a self-inflicted, near-term volume drag distinct from GLP-1; BofA cut 2027 organic growth to ~flat and warns the problem may run into 2028",
+    "GLP-1 overhang is structural: Zepbound has been OSA-indicated since late 2024 and shrinks the future addressable pool for a surgical implant",
+    "New direct competitor: Nyxoah's leadless Genio won FDA approval Aug 2025 and targets the complete-concentric-collapse segment INSP can't treat; INSP is suing for patent infringement (a tell that it feels the threat)",
+    "Forward P/E ~40 vs trailing ~11 signals the Street expects sharp earnings compression ahead — the cheap trailing multiple is a mirage",
+    "Options are effectively untradeable for size (total OI <200 contracts) — spot only; and buying four days ahead of a binary print after a 21% run is poor entry timing"
+  ],
+  "catalyst": "Q2 2026 earnings after market close on Aug 3, 2026 — the swing factor is whether WISeR prior-auth disruption is stabilizing and how management frames GLP-1/Nyxoah impact on procedure volumes",
+  "catalyst_timing": "2026-08-03 (post-close)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Wait for the Aug 3 print. This is a battleground, not a clean turnaround — let the quarter clarify whether prior-auth friction is easing before committing. If it flushes on guidance with volumes intact, a small spot starter becomes attractive.",
+  "key_risk": "WISeR prior-auth + coding friction + GLP-1 substitution compound to keep procedure volumes flat-to-down through 2027-28, turning the cheap trailing multiple into a value trap",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2 guidance shows implant volumes actually declining or prior-auth disruption widening — confirming structural erosion rather than a sentiment overshoot"
+}

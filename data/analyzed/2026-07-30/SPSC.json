@@ -1,0 +1,30 @@
+{
+  "ticker": "SPSC",
+  "company_name": "SPS Commerce, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "turnaround_reason": "SPSC, the leading cloud EDI/retail supply-chain network, fell from $124 to a $49 low as SaaS multiples compressed and revenue growth cooled to high-single-digits. It remains a high-quality, sticky, net-cash compounder — the 'turnaround' here is multiple re-rating off an oversold base rather than a broken business being fixed.",
+  "bullish_points": [
+    "Consistent operational execution: EPS beats of ~13% for four straight quarters; 69% gross margin, 12.8% operating margin, +$152M FCF",
+    "Pristine balance sheet: $154M cash vs $6.6M debt — effectively net cash, low-risk compounder",
+    "Forward P/E ~12.9 vs trailing ~27.8 marks a sharp earnings-power inflection; recovering back above its 200-day MA",
+    "Heavy insider net buying over 6 months (net +396k shares) and active buybacks",
+    "Portfolio pruning (divested a non-core unit) to refocus on multi-retailer 1P suppliers — cleaner growth algorithm"
+  ],
+  "bearish_points": [
+    "Binary risk on entry: Q2 prints TONIGHT (after close July 30) and the stock is already +14% over 5 days into the number",
+    "Still not cheap on trailing earnings (~28x) for a ~6% grower — the re-rate relies on the forward estimates being right",
+    "Q2 will carry an estimated ~$20M loss on the divestiture, which could muddy the headline",
+    "Options are illiquid (call OI 61 / put OI 10) with unreliable IV data — spot only",
+    "Growth is decelerating structurally; if retail IT budgets tighten, network adds slow"
+  ],
+  "catalyst": "Q2 2026 earnings tonight (post-close, July 30) — guidance for H2 and any raise to the FY $796-802M revenue / $2.66-2.69 EPS outlook is the swing factor",
+  "catalyst_timing": "2026-07-30 (post-close, TONIGHT)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Wait for tonight's print — do NOT buy the +14% run-up into a binary event. If it sells off on an in-line quarter, that's a cleaner spot entry on a high-quality name.",
+  "key_risk": "Buying immediately ahead of earnings after a big run: an in-line-but-not-a-beat quarter triggers a sharp mean-reversion pullback",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 22,
+  "would_skip_if": "Entering before the tonight print; revisit after the reaction rather than gambling on the number"
+}
