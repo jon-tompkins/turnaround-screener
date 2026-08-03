@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, the CX/BPO roll-up (SYNNEX spin + Webhelp), has been cut from ~$58 to the low-$20s on fears that generative AI will hollow out its core contact-center outsourcing business; the GAAP net loss is driven largely by Webhelp intangible amortization, while underlying FCF (~$775M TTM) stays strong.",
+  "bullish_points": [
+    "Extremely cheap on cash earnings: forward P/E ~2.2x and large FCF (~$775M) against a ~$1.6B market cap",
+    "AI-powered iX Suite contract signings up ~400% YoY — evidence the company can sell AI-augmented services rather than only be disrupted by them",
+    "Sell-side consensus still 'Buy' (roughly 7 Buy / 2 Hold); some capital return in place",
+    "Revenue is not collapsing — FY26 guide is slightly positive constant-currency growth (~0.25-1.25%) on ~$10B"
+  ],
+  "bearish_points": [
+    "Genuine secular/existential overhang: AI directly threatens the labor-arbitrage core of BPO; the ~2x multiple prices terminal decline for a reason",
+    "Net insider selling of ~5.9M shares over 6 months (one ~6M-share sale) — the opposite of an insider-conviction signal",
+    "Heavy leverage: ~$5.5B total debt vs $256M cash and a shrunken equity cushion",
+    "Guidance was CUT this year on accelerated client offshoring and pricing pressure; the turnaround is unproven",
+    "GAAP unprofitable (-13% net margin); the 'cheap on FCF' case leans on adjusted/cash metrics"
+  ],
+  "catalyst": "Q3 FY26 print (quarter ends Aug 31, 2026) showing whether AI/iX Suite growth offsets legacy attrition, plus any evidence leverage is coming down",
+  "catalyst_timing": "Q3 FY26 earnings late September 2026; FY26 ends Nov 30, 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter only, sized for a battleground. This is a deep-value option on AI-transition survival, not a clean turnaround; a full research note already exists in data/research/CNXC.md.",
+  "key_risk": "AI-driven volume/price deflation accelerates faster than iX Suite can replace it, compressing FCF and forcing the equity to keep de-rating despite the low multiple",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Another guidance cut, continued net insider selling, or FCF deterioration in the Q3 print"
+}

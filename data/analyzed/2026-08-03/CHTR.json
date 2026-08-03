@@ -1,0 +1,31 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter (Spectrum) has been cut roughly in half from ~$286 to the $110s as broadband subscribers bleed to fixed-wireless (T-Mobile/Verizon) and fiber overbuilders; the stock trades at ~3x earnings while the company pivots to convergence (Spectrum Mobile), resets an over-aggressive retention strategy, and keeps generating large free cash flow it uses to shrink the share count.",
+  "bullish_points": [
+    "Q2 2026 EPS beat handily ($10.66 vs $10.14 est) on revenue of $13.53B (slightly above consensus) despite the top-line dip",
+    "Mobile is the growth engine: +406k Spectrum Mobile lines (>12.5M total) and video losses narrowed to just 21k — convergence bundle is working",
+    "Enormous FCF (~$2.2B TTM) funding aggressive buybacks; at ~3.3x forward P/E every dollar of FCF retires a large slug of a shrinking share count",
+    "Insider buying: net +1.6M shares over 6 months (19 purchase transactions) near multi-year lows",
+    "Management credibility reset — CEO Winfrey called prior retention offers 'too aggressive' and set a 3.5x leverage target, signaling a shift from subsidy-driven churn to disciplined pricing",
+    "Deeply liquid options (15 expiries, real ATM IV ~3.1) enable defined-risk expressions"
+  ],
+  "bearish_points": [
+    "Core broadband still shrinking — 172k internet subs lost in Q2, worse YoY; the secular competitive pressure is real and not yet stabilized",
+    "Massive leverage: ~$96.7B total debt vs $509M cash; a levered equity where multiple compression + rate risk cut both ways",
+    "Revenue declined 1.7% YoY; the bull case relies on FCF/buybacks, not growth",
+    "Stock already popped ~12% in 5 days post-earnings, so near-term entry chases the bounce off the washout low",
+    "Sell-side still trimming targets (e.g., RBC to $150) even while acknowledging the FCF story"
+  ],
+  "catalyst": "Sequential improvement in broadband net-adds (or a clear trough) plus continued mobile growth and buyback-driven EPS accretion in the Q3 2026 print",
+  "catalyst_timing": "Q3 2026 earnings (late October 2026); watch monthly fixed-wireless net-add trends as a leading tell",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter now with room to add on a pullback toward the $120s, or defined-risk longer-dated calls (Jan 2027/2028) given liquid options and the FCF/buyback tailwind. Deep-value convergence play, not a fast mover.",
+  "key_risk": "Broadband subscriber losses accelerate rather than trough as fixed-wireless and fiber keep taking share, overwhelming mobile gains and stalling the FCF-per-share thesis while $96B of debt caps the multiple",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Broadband losses worsen materially in Q3, mobile growth stalls, or leverage rises instead of trending toward the 3.5x target"
+}

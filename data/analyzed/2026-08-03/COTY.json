@@ -1,0 +1,29 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty was beaten down to ~$1.82 on weak consumer-beauty demand, a slowing prestige-fragrance market, and a heavy debt load; the stock has re-rated ~44% in 30 days as management deleverages (net debt at a 9-year low), repaid its 2026 maturities, and returned the Gucci Beauty license to Kering for ~$400M to cut debt and refocus on core prestige fragrance.",
+  "bullish_points": [
+    "Fragrance is >60% of revenue and an even larger share of profit; prestige fragrance remains one of the more resilient beauty categories",
+    "Balance sheet actively improving: net debt lowest in 9 years, 2026 bonds repaid, ~$400M Gucci license sale earmarked for debt paydown, positive FCF (~$403M TTM)",
+    "Management guides a return to growth in 2H FY26 with FY26 adjusted EBITDA of ~$838-848M; forward P/E ~8.3x is undemanding for a deleveraging cash generator",
+    "Insiders/JAB hold ~59% of shares, aligning sponsor incentives with recovery"
+  ],
+  "bearish_points": [
+    "Q2 FY26 missed EPS ($0.14 vs $0.18 est); prestige LFL -2% and consumer beauty -6% show demand has NOT inflected yet",
+    "Revenue still shrinking (-1.3% TTM); the 'return to growth' is a guide, not a print",
+    "EV ~$6B on ~$2.5B market cap = highly levered equity stub; small changes in EBITDA swing equity value hard",
+    "The easy money may be gone — stock already ran ~44% in 30 days, so entry now is chasing a recovering-mode move",
+    "Options open interest is thin (call OI ~6k) and the sampled ATM IV field looks like bad data"
+  ],
+  "catalyst": "Q3/Q4 FY26 prints demonstrating the guided 2H return to revenue growth plus continued deleveraging from the Gucci proceeds",
+  "catalyst_timing": "Q3 FY26 earnings (spring 2026, already reported mixed) and Q4/FY26 results late summer 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter only; prefer to add on a pullback toward the low-$2s rather than chase the 44% pop. Not an options name given thin OI.",
+  "key_risk": "Consumer-beauty weakness deepens and the 2H growth inflection fails to show, leaving a still-levered equity de-rating from a stretched short-term move",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "No revenue inflection by Q4 FY26, or fragrance market softens; also skip if forced to chase above ~$3.20 without a pullback"
+}

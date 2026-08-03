@@ -1,0 +1,30 @@
+{
+  "ticker": "GO",
+  "company_name": "Grocery Outlet Holding Corp.",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "turnaround_reason": "Grocery Outlet, the extreme-value 'opportunistic buy' grocery chain, sold off ~75% from its highs to near a 52-week low ($5.65) on soft comps, margin pressure, systems-integration missteps, and management turnover; new CEO Jason Potter is running an Optimization Plan (closing underperformers, fixing supply chain) to stabilize the model.",
+  "bullish_points": [
+    "Strong, broad insider buying: net +1.9M shares over 6 months across 33 purchase transactions — a genuine conviction signal near the lows",
+    "New CEO Jason Potter and an Optimization Plan; 36 underperforming stores closed for ~$12M annualized EBITDA benefit",
+    "Q1 FY26 comps -1% came in slightly ahead of guide with traffic UP 2.1% (the demand signal is there; the problem is ticket/basket, -3.1%)",
+    "Counter-cyclical value-grocery model with real revenue (~$4.7B, +3.6% TTM) and a defensible independent-operator moat",
+    "FY26 adjusted EBITDA guided $220-235M; maintained despite leadership changes"
+  ],
+  "bearish_points": [
+    "No comp inflection yet — FY26 comps guided -2% to flat, and multiple analysts flag 'no turnaround in sight / smaller baskets, same problems'",
+    "Free cash flow is negative (~-$61M TTM) amid ongoing capex/remodels and closures",
+    "Average transaction size falling (-3.1%) offsets traffic gains — the unit economics haven't turned",
+    "~$1.84B total debt vs $59M cash; limited balance-sheet cushion if the turnaround drags",
+    "Turnaround is early-innings and multi-year; basing setup means patience and re-breakdown risk"
+  ],
+  "catalyst": "Q2/Q3 FY26 comp-store-sales prints showing basket/ticket stabilizing and EBITDA benefit from store closures flowing through",
+  "catalyst_timing": "Q2 FY26 earnings (August 2026) and Q3 FY26 (fall 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot starter near current levels ($9-9.50), scale up only on a confirmed comp inflection or a break/hold above the 200-day. The cluster of insider buys is the reason to lean in early; options are liquid enough for small longer-dated calls if preferred.",
+  "key_risk": "Comps stay negative and ticket keeps shrinking through 2H FY26, proving the value-grocery model is structurally challenged rather than mid-turnaround",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Comps deteriorate below the -2% guide, FCF stays deeply negative, or insider buying reverses"
+}
