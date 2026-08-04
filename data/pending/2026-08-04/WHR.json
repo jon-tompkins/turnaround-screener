@@ -1,0 +1,300 @@
+{
+  "ticker": "WHR",
+  "fetched_at": "2026-08-04T13:35:41.595486",
+  "overview": {
+    "name": "Whirlpool Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances",
+    "description": "Whirlpool Corporation manufactures and markets home appliances and related products and services in the North America, Latin America, and internationally. The company's principal products include refrigerators, freezers, ice makers, and refrigerator water filters; laundry appliances, and commercial laundry products and related laundry accessories; cooking and other small domestic appliances; and dishwasher appliances and related accessories, as well as mixers. It markets and distributes its products primarily under the Whirlpool, Maytag, KitchenAid, JennAir, Consul, Brastemp, Amana, InSinkErator, affresh, Gladiator, Swash, everydrop, Eslabon de Lujo, and Acros brands. The company sells its products to retailers, distributors, builders, and other manufacturers, as well as directly to consumers. Whirlpool Corporation was founded in 1911 and is headquartered in Benton Harbor, Michigan.",
+    "market_cap": null,
+    "enterprise_value": 9009714176,
+    "shares_outstanding": null,
+    "float_shares": 64259160,
+    "short_ratio": 0.04,
+    "short_percent_of_float": 0.002,
+    "held_by_insiders": 0.00737,
+    "held_by_institutions": 1.0320201,
+    "revenue_ttm": 15175999488,
+    "revenue_growth": -0.096,
+    "gross_margins": 0.14457,
+    "operating_margins": 0.01253,
+    "profit_margins": 0.01087,
+    "free_cashflow": -333000000,
+    "operating_cashflow": 364000000,
+    "total_cash": 626000000,
+    "total_debt": 7104000000,
+    "debt_to_equity": 188.335,
+    "current_ratio": 0.878,
+    "trailing_pe": 13.7540455,
+    "forward_pe": 10.46584,
+    "price_to_book": 0.7304288,
+    "ev_to_ebitda": 9.966,
+    "ev_to_revenue": 0.594,
+    "fifty_two_week_high": 96.57,
+    "fifty_two_week_low": 35.45,
+    "current_price": 42.5,
+    "analyst_target_mean": 52.54545,
+    "analyst_target_high": 137.0,
+    "analyst_target_low": 30.0,
+    "recommendation": "hold",
+    "num_analysts": 11,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-28 16:00:00-04:00",
+        "EPS Estimate": 1.13,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 16:00:00-04:00",
+        "EPS Estimate": 0.47,
+        "Reported EPS": -0.56,
+        "Surprise(%)": -218.52
+      },
+      {
+        "Earnings Date": "2026-01-28 16:00:00-05:00",
+        "EPS Estimate": 1.52,
+        "Reported EPS": 1.1,
+        "Surprise(%)": -27.63
+      },
+      {
+        "Earnings Date": "2025-10-27 16:00:00-04:00",
+        "EPS Estimate": 1.39,
+        "Reported EPS": 2.09,
+        "Surprise(%)": 50.24
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 11,
+    "nearest_expiry": "2026-08-21",
+    "farthest_expiry": "2028-12-15",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 5826,
+    "total_put_oi": 4862
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 477746,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ELLIOTT GERALDINE T.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ADCOCK MARY ELLEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LACLAIR JENNIFER A.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BUCKNER JUDITH K",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WILSON RUDOLPH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORIKIS JOHN G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LOREE JAMES M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LIU JOHN D",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2811,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DIETZ DIANE M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3305,
+        "Value": 198829.0,
+        "URL": "",
+        "Text": "Purchase at price 60.16 per share.",
+        "Insider": "CREED GREG",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-03 00:00:00",
+        "Ownership": "I"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 46.708703093148095,
+    "pct_above_200d_ma": -28.838646884093176,
+    "pct_of_100d_ma": 93.66884747997449,
+    "pct_change_1d": 9.563886986891102,
+    "pct_change_5d": 11.642410591296915,
+    "pct_change_30d": 17.473337279116308
+  }
+}

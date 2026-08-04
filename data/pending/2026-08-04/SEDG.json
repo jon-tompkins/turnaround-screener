@@ -1,0 +1,300 @@
+{
+  "ticker": "SEDG",
+  "fetched_at": "2026-08-04T13:35:43.275902",
+  "overview": {
+    "name": "SolarEdge Technologies, Inc.",
+    "sector": "Technology",
+    "industry": "Solar",
+    "description": "SolarEdge Technologies, Inc., together with its subsidiaries, operates as an energy technology company in the United States, Europe, and internationally. The company offers power optimizers and DC-to-AC inverters; Storage Solutions, such as home battery 400V and CSS-OD solution; EV chargers for residential and commercial applications; SolarEdge ONE, an energy optimization system; and cloud-based monitoring platform. It also provides mySolarEdge app, which enables system owners to track their real-time system production and household energy consumption; SolarEdge Go app, a mobile application for SolarEdge installers, integrating installation, management, and service capabilities; designer platform, a web-based tool; and mapper application for registering the physical layout of new PV sites. In addition, the company offers SetApp application to activate and configure SolarEdge inverters; grid services; and pre-sales support, ongoing trainings, and technical support before, during, and after installation based on its operation structure. It serves solar installers, solar distributors, and electrical equipment wholesalers, as well as providers of PV systems to residential and commercial end users through distributors and electrical equipment wholesalers, and directly to solar installers and engineering, procurement, and construction firms, or EPCs. SolarEdge Technologies, Inc. was incorporated in 2006 and is headquartered in Herzliya Pituach, Israel.",
+    "market_cap": 2839297792,
+    "enterprise_value": 2606814208,
+    "shares_outstanding": 60818202,
+    "float_shares": 60011144,
+    "short_ratio": 4.34,
+    "short_percent_of_float": 0.2011,
+    "held_by_insiders": 0.01194,
+    "held_by_institutions": 1.1063,
+    "revenue_ttm": 1275464960,
+    "revenue_growth": 0.415,
+    "gross_margins": 0.183,
+    "operating_margins": -0.15279001,
+    "profit_margins": -0.28561002,
+    "free_cashflow": 277839360,
+    "operating_cashflow": 94866000,
+    "total_cash": 541649984,
+    "total_debt": 404347008,
+    "debt_to_equity": 98.448,
+    "current_ratio": 2.025,
+    "trailing_pe": null,
+    "forward_pe": 29.942406,
+    "price_to_book": 6.913224,
+    "ev_to_ebitda": -15.306,
+    "ev_to_revenue": 2.044,
+    "fifty_two_week_high": 81.25,
+    "fifty_two_week_low": 23.01,
+    "current_price": 46.685,
+    "analyst_target_mean": 45.25,
+    "analyst_target_high": 100.0,
+    "analyst_target_low": 26.0,
+    "recommendation": "hold",
+    "num_analysts": 20,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-08-05 08:00:00-04:00",
+        "EPS Estimate": NaN,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-05-06 07:00:00-04:00",
+        "EPS Estimate": -0.27,
+        "Reported EPS": -0.43,
+        "Surprise(%)": -59.88
+      },
+      {
+        "Earnings Date": "2026-02-18 07:00:00-05:00",
+        "EPS Estimate": -0.24,
+        "Reported EPS": -0.14,
+        "Surprise(%)": 40.48
+      },
+      {
+        "Earnings Date": "2025-11-05 07:00:00-05:00",
+        "EPS Estimate": -0.42,
+        "Reported EPS": -0.31,
+        "Surprise(%)": 26.8
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 14,
+    "nearest_expiry": "2026-08-07",
+    "farthest_expiry": "2028-12-15",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 3307,
+    "total_put_oi": 3319
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 37973.0,
+        "Trans": 7
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 2566.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 35407.0,
+        "Trans": 8
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 726169.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.051,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.055,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.004,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 2634,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GECHT GUY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3390,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GROSS DANA REBECCA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2634,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ALMOGY GILAD",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2634,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ATKINS BETSY S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3390,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "TIETZ YORAM",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9307,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "AVERY MORE",
+        "Position": "Chairman of the Board",
+        "Transaction": "",
+        "Start Date": "2026-06-03 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 13984,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SIGRON MAOZ",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2566,
+        "Value": 99467,
+        "URL": "",
+        "Text": "Sale at price 38.28 - 39.20 per share.",
+        "Insider": "AVERY MORE",
+        "Position": "Chairman of the Board",
+        "Transaction": "",
+        "Start Date": "2026-05-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22321,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ALPEROVITZ ASAF",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 90880,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "NIR YEHOSHUA",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-01-02 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 47.91044918422583,
+    "pct_above_200d_ma": 8.374820490963653,
+    "pct_of_100d_ma": 91.27001191893058,
+    "pct_change_1d": 2.615248965225292,
+    "pct_change_5d": 15.547790341114087,
+    "pct_change_30d": -19.548219199202567
+  }
+}
