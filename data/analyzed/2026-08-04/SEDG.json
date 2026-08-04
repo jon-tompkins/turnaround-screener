@@ -1,0 +1,32 @@
+{
+  "ticker": "SEDG",
+  "company_name": "SolarEdge Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "turnaround_reason": "SolarEdge collapsed from >$300 to the low-$20s on a channel-inventory glut, European demand air-pocket, and deep operating losses. It is now recovering: revenue is growing ~41% off the trough, gross margin is climbing back, FCF has turned positive, and U.S. domestic-content manufacturing plus storage give it a concrete self-help path. Q2 earnings pre-market 2026-08-05 is a hard binary catalyst.",
+  "bullish_points": [
+    "Clear recovery inflection: revenue +41.5% TTM, FCF ~+$278M turned positive, current ratio 2.0, and last two prints beat (Feb +40%, Nov +27%)",
+    "Hard binary catalyst tomorrow (2026-08-05 pre-market): Q2 guide was $325-355M with a target of near-breakeven operating profit; consensus ~$341M / near-breakeven EPS (a huge YoY swing)",
+    "U.S. domestic-content manufacturing scaling into IRA/45X demand supports volumes and margin — a structural, policy-backed tailwind",
+    "High short interest (~20% of float, short ratio 4.3) sets up a squeeze on any beat-and-raise",
+    "Momentum into the print (+15.5% 5d) with price above the 200-day MA (recovering screen mode confirmed)",
+    "Deep, liquid options chain (14 expiries out to Dec 2028) for defined-risk expression around the event"
+  ],
+  "bearish_points": [
+    "Still fundamentally unprofitable: operating margin -15%, profit margin -29%, EV/EBITDA negative; the 'improving' is off a very low base",
+    "Stock has already run ~15% in 5 days into a coin-flip print — a beat may be partly priced, an in-line/miss could round-trip fast",
+    "-19.5% over 30 days shows the tape is still whippy and headline-sensitive",
+    "P/B ~6.9 and forward P/E ~30 mean you are paying up for a recovery that must actually materialize",
+    "European resi solar demand and rate sensitivity remain the swing factor and are outside management control",
+    "Guidance, not the print, will drive the move; a soft H2 outlook could overwhelm a clean Q2 beat"
+  ],
+  "catalyst": "Q2 2026 earnings + H2 guidance — confirmation of the return to operating breakeven and a constructive back-half outlook",
+  "catalyst_timing": "2026-08-05, pre-market (~8:00am ET call)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Event trade: keep it small and defined-risk given the print is <24h out and the stock already ran. Prefer a modest spot starter OR a defined-risk long call spread (e.g. Nov 2026) sized so a gap-down is survivable; avoid naked long premium into elevated event risk",
+  "key_risk": "A Q2 beat paired with soft/uncertain H2 guidance triggers a 'sell the news' gap-down given the 15% pre-print run and 30x forward multiple",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You are not willing to hold through a binary overnight gap; if flat into the print, wait and react to the guide rather than pre-position"
+}

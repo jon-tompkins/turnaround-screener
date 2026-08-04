@@ -1,0 +1,31 @@
+{
+  "ticker": "WHR",
+  "company_name": "Whirlpool Corporation",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "turnaround_reason": "Whirlpool was crushed (from ~$96 to the mid-$30s) by a demand-starved housing market, historic margin compression, and a levered balance sheet. The bull case is that updated Section 232 tariffs structurally advantage its predominantly U.S.-based manufacturing while imports get taxed, and self-help cost takeout ($200M in 2025, >$150M more in 2026) restores margin as volume eventually normalizes.",
+  "bullish_points": [
+    "Structural tariff tailwind: Section 232 raises costs on imported appliances while WHR's mostly-U.S. footprint is comparatively advantaged",
+    "Aggressive self-help: $200M cost takeout in 2025 plus >$150M identified for 2026 (~100bps net margin benefit)",
+    "Deep-value optics: P/B ~0.73, forward P/E ~10.5, EV/Rev ~0.59 — priced for continued distress",
+    "Strong momentum into/through the print: +9.6% 1d, +11.6% 5d, +17.5% 30d — the tape is already voting for the turnaround",
+    "Q2 2026 (reported ~Aug 3) is the first real test of the margin-recovery timeline; a beat/in-line with better guide would validate the thesis"
+  ],
+  "bearish_points": [
+    "Very high leverage: total debt ~$7.1B vs $626M cash, debt/equity ~188, current ratio 0.88 — a genuinely stressed balance sheet",
+    "Dividend suspension in the 2026 outlook to prioritize debt paydown — removes the classic WHR income-holder support and signals cash strain",
+    "Negative free cash flow (~-$333M TTM); operating margin barely positive (1.3%), profit margin 1.1%",
+    "Q1 2026 was an EPS disaster (-$0.56 vs +$0.47 est, -218% surprise); full-year 2026 EPS estimates collapsed from $6.57 to ~$1.15",
+    "Housing/big-ticket demand remains weak; the volume recovery is macro-dependent and outside management control",
+    "Stock has already run ~17% in a month — chasing here pays up for a turnaround that is far from proven"
+  ],
+  "catalyst": "Margin-recovery inflection confirmed on Q2/Q3 prints as cost takeout + tariff mitigation flow through; continued debt paydown de-risking the equity",
+  "catalyst_timing": "Q2 2026 results reported ~2026-08-03; next hard checkpoint Q3 2026 earnings ~2026-10-28",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small, and preferably on a pullback after the recent ~17% run rather than chasing strength; the leverage argues against sizing up",
+  "key_risk": "The balance sheet — with negative FCF, a suspended dividend, and $7B of debt, a prolonged demand trough could force further deleveraging actions that impair the equity",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q2/Q3 shows tariff advantage not translating to margin, FCF stays negative, or leverage metrics deteriorate further"
+}

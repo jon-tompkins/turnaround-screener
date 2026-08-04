@@ -1,0 +1,32 @@
+{
+  "ticker": "FLO",
+  "company_name": "Flowers Foods, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Flowers has been cut in half (from ~$16.85 to ~$7.20) on soft fresh-bread volumes, integration cost of the Simple Mills acquisition, and margin pressure. The setup is a cheap, cash-generative staples name basing near multi-year lows while insiders buy and management executes a deleveraging + brand-relaunch plan.",
+  "bullish_points": [
+    "Cheap on multiple lenses: forward P/E ~8.8, EV/EBITDA ~5.4, P/B ~1.15, EV/Rev 0.52 for a branded staples business",
+    "Positive and durable cash generation: FCF ~$240M, operating cash flow ~$418M on a $1.5B market cap",
+    "Net insider buying over last 6m, including a CFO open-market purchase at $7.51 (near current price) — management putting cash in",
+    "Q1 2026 (Feb) and Q2 2026 (May) both beat EPS handily (+45.6% and +8.2% surprises); estimate revisions have been improving off a low base",
+    "Revenue growing ~6.8% helped by Simple Mills; premium/better-for-you brands (Simple Mills, DKB, Canyon Bakehouse) shift mix away from commoditized loaf",
+    "Hard near-term catalyst: Q2 fiscal earnings 2026-08-14 with the deleveraging narrative in focus"
+  ],
+  "bearish_points": [
+    "Secular volume headwind in packaged bread (GLP-1 adoption, carb avoidance) — the core category is in slow structural decline",
+    "Levered: total debt ~$1.47B vs $253M cash, debt/equity 111, current ratio 0.77 — deleveraging is the whole thesis and it is not fast",
+    "Thin net margin (1.4%) leaves little cushion if input costs or promo intensity re-accelerate",
+    "Only a 'hold' consensus (5 analysts, mean target $8.8) — no institutional catalyst chorus",
+    "Prior CEO (McMullian) sold 209k shares at $8.03 in April — offsets some of the insider-buy signal",
+    "News feed in dossier is empty; catalyst read is built from earnings history + acquisition thesis, not fresh headlines"
+  ],
+  "catalyst": "Q2 fiscal 2026 earnings — evidence that Simple Mills is accretive, pricing is holding, and the deleveraging plan is on track; a third consecutive beat would confirm the trough",
+  "catalyst_timing": "2026-08-14 (after close)",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot starter here ($7.00-7.30), size to add on a post-print dip toward the $6.80 52w low; not an options name (only 4 expiries, thin OI)",
+  "key_risk": "Fresh-bread volume decline outpaces pricing + premium-brand mix, so the deleveraging plan stalls and the stock grinds toward the $6.80 low",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 18,
+  "would_skip_if": "Q2 shows renewed volume declines with no offsetting pricing/mix, or management guides to slower debt paydown"
+}
