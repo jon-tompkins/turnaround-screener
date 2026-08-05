@@ -1,0 +1,36 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "FOXF was beaten down from $30+ to $13 after a dismal FY2025 that included a massive ~$545M net loss (impairments/write-downs) and margin compression. Management responded with a $50M cost reduction program, non-core divestitures with all proceeds earmarked for debt reduction, and a refocus on core PVG/aftermarket. Q1 2026 beat guidance and FY2026 guidance reaffirms a 200 bps EBITDA margin improvement despite a ~5% revenue decline, with H2 margin expansion expected from cost programs and tariff relief. Stock is recovering off the $13 low to ~$19.64.",
+  "bullish_points": [
+    "Q1 2026 revenue and adjusted EBITDA exceeded guidance, driven by PVG and aftermarket strength",
+    "Previous EPS beat: Q1 2026 reported $0.18 vs $0.08 estimate (+119.51% surprise)",
+    "FY2026 guidance reaffirms 200 bps EBITDA margin expansion with $50M targeted cost savings",
+    "Divesting non-core businesses, all proceeds to debt reduction (de-levering story)",
+    "EPS recovery trajectory: FY2026E $1.40 (+31.9% YoY) → FY2027E $1.74 (+24.7%)",
+    "Reasonable valuation: EV/EBITDA 10.6x, P/B 1.25x, forward PE ~14x",
+    "Stock technically recovering: 10% above 200d MA, 112% of 100d MA, +11.9% in 30d",
+    "Short interest 11.5% of float with short ratio 5.3 — a positive surprise could squeeze"
+  ],
+  "bearish_points": [
+    "Revenue still declining: FY2026E $1.40B (-4.5% YoY) — not a growth story yet",
+    "High leverage: $787M debt vs $54M cash, D/E 119%, debt to enterprise value ~50%",
+    "FY2025 net loss of ~$545M (includes large impairment) — quality of earnings in question",
+    "Only 1 insider open-market purchase signal in 6m (only stock grants, no buys)",
+    "BofA downgraded to Sell with $20 target (June 2026)",
+    "Operating margins thin at 1.6% — little room for error",
+    "Near-term catalyst (earnings Aug 6) cuts both ways — a miss could re-break the stock",
+    "Options open interest thin (21 calls / 8 puts on sampled expiry) despite 3 expiries"
+  ],
+  "catalyst": "Q2 2026 earnings report on 2026-08-06 (tomorrow). Need to see cost-savings progress, margin recovery confirmation, and divestiture close timing.",
+  "catalyst_timing": "2026-08-06 (tomorrow after close), plus follow-through from divestiture closings through H2 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Wait for earnings print (Aug 6) before initiating. If beat + raised guidance: spot starter with room to add on a pullback to $18-19. Avoid pre-earnings due to binary risk and thin options liquidity. December 2026 calls only if conviction hardens post-print.",
+  "key_risk": "Earnings miss or soft H2 margin commentary re-breaks the stock below $13 low, especially given high leverage and 11.5% short interest amplifying downside.",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Earnings show margin expansion stalling, divestiture proceeds not flowing to debt, or revenue decline accelerating beyond -6%. Also skip if management withdraws/refuses to reaffirm FY2026 guidance."
+}
