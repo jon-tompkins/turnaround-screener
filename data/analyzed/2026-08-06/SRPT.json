@@ -1,0 +1,34 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Beaten down from ~$25 to ~$17 over the past year due to ELEVIDYS gene therapy safety concerns, FDA label restrictions limiting the addressable DMD population to ambulatory patients, and declining revenue. The setup is a basing pattern near 52-week lows with binary catalysts ahead — H2 2026 siRNA platform readouts (SRP-1001 FSHD, SRP-1003 DM1) and a new CEO (Michael Severino, ex-AbbVie/Amgen) capable of re-rating the story if clinical data hits.",
+  "bullish_points": [
+    "Binary near-term catalysts: Phase 1/2 MAD data for SRP-1001 (FSHD) and SRP-1003 (DM1) expected H2 2026 — Jefferies cites potential +15-30% stock moves on positive readouts",
+    "New CEO Michael Severino started July 28, 2026 — brings large-pharma experience from AbbVie/Amgen, potential for strategic refocus",
+    "siRNA platform (partnered with Arrowhead) addresses large untreated patient populations with no approved therapies (FSHD, DM1)",
+    "ELEVIDYS ENDEAVOR Cohort 8 enrolling with sirolimus regimen — could reopen non-ambulatory DMD market if 12-week safety data is positive (Q1 2027)",
+    "PMO franchise sNDAs accepted for AMONDYS 45 and VYONDYS 53 with PDUFA dates around Feb 2027 — reduces regulatory risk on stable revenue base",
+    "High short interest (32.3% of float) creates squeeze potential on positive news",
+    "Operating profitability achieved in Q2 2026 ($86.5M non-GAAP operating income) despite ELEVIDYS decline, ~$945M cash on hand"
+  ],
+  "bearish_points": [
+    "ELEVIDYS commercial trajectory still uncertain — 2025 safety concerns and label restrictions devastated peak sales expectations",
+    "Revenue declined 1.9% TTM — turnaround in core franchise not yet confirmed",
+    "siRNA Phase 1/2 data is early-stage and inherently binary — negative or ambiguous results could crush the stock",
+    "32.3% short float reflects genuine skepticism about the bull thesis",
+    "Operating margins of 49% are inflated by one-time items; profit margins only 3%",
+    "Forward PE of 6.6 looks cheap but is misleading if earnings deteriorate further",
+    "薪酬-heavy insider activity (mostly stock awards, one small sale by director Mayo at $17.02)"
+  ],
+  "catalyst": "Phase 1/2 Multiple Ascending Dose (MAD) data for SRP-1001 (FSHD) and SRP-1003 (DM1) — expected H2 2026",
+  "catalyst_timing": "H2 2026 (siRNA readouts); Q1 2027 (ENDEAVOR Cohort 8 12-week data); Feb 2027 (PMO sNDA PDUFA dates)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot starter near $15-17, or Jan 2027 $20-22 calls if comfortable with binary risk — options IV is relatively low (12.5% ATM)",
+  "key_risk": "siRNA Phase 1/2 data disappoints or is ambiguous, removing the primary re-rating catalyst and leaving the stock dependent on a struggling ELEVIDYS franchise",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "siRNA MAD data is delayed into 2027, or if ELEVIDYS revenue acceleration deteriorates further before the next catalyst"
+}

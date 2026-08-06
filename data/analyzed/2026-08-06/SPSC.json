@@ -1,0 +1,35 @@
+{
+  "ticker": "SPSC",
+  "company_name": "SPS Commerce, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "turnaround_reason": "SPSC transitioned from a high-growth but margin-compressed SaaS story to a profitability-focused turnaround in 2026. After the stock fell from ~$117 to ~$49, the company divested its low-margin Amazon 3P Revenue Recovery business (Carbon6), raised EBITDA margin guidance to ~34% (+300 bps YoY), and launched an AI product (MAX Agent) leveraging 25+ years of proprietary retail supply chain data. Q2 2026 EPS beat by 16% ($1.27 vs $1.09), and aggressive share buybacks ($300M authorization) support the floor.",
+  "bullish_points": [
+    "Profitability inflection: Adjusted EBITDA margin expanded 400 bps YoY to 34% in Q2 2026, with management raising full-year EBITDA guidance despite lowering revenue guidance",
+    "AI product (MAX Agent) transitioning from 400-customer beta to full launch — combines 25+ years of proprietary retailer data with LLMs for inventory optimization, potential ARPU expansion and stickiness",
+    "Divested low-margin 3P Revenue Recovery business — removes margin drag and management bandwidth distraction, cleaner operations going forward",
+    "Strong capital return: $51.2M buybacks in Q2, $47.1M in Q1, $300M authorization — supported by $176M FCF TTM",
+    "Durable moat: de facto standard in retail supply chain EDI with high switching costs and retailer mandates (Walmart, Target compliance)",
+    "Forward PE of 13.3 is reasonable for a profitable SaaS company with margin expansion runway",
+    "Consecutive EPS beats (12-16% surprises over last 4 quarters) show improving execution",
+    "Near-zero debt ($6.3M) and strong current ratio (2.26) — balance sheet quality"
+  ],
+  "bearish_points": [
+    "Revenue growth decelerated sharply from ~18% (FY25) to ~5-6% (FY26 guidance) — core organic growth slowing due to macro headwinds, supplier spend scrutiny, tariff caution",
+    "Q3 2026 revenue guidance implies further deceleration (~3.9% YoY) — hitting long-term 'high single digit' target depends on H2 reacceleration",
+    "Stock has already run 27.8% in the last 30 days — much of the margin expansion story may be priced in after the rebound from $49 to $71",
+    "Trailing PE of 34 remains elevated — limited multiple expansion upside if growth doesn't reaccelerate",
+    "Carbon6 acquisition and quick divestiture signal M&A execution risk",
+    "Options liquidity is thin — only 4 expiries, total call OI 65, put OI 17, ATM IV near 0%",
+    "Analyst mean target ($73.18) is close to current price ($70.97) — limited upside per sell-side"
+  ],
+  "catalyst": "MAX Agent AI product full launch and H2 2026 reacceleration in organic revenue growth",
+  "catalyst_timing": "Q3 2026 earnings (Oct 29, 2026) — MAX Agent launch metrics and revenue reacceleration commentary",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only — small starter on a pullback toward $60-65; avoid chasing after the 28% monthly run-up. Options too illiquid for structured positions.",
+  "key_risk": "Revenue growth continues to decelerate below 5%, undermining the 'profitable growth' narrative and limiting multiple expansion despite margin gains",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Q3 2026 revenue growth falls below 3% YoY, or if MAX Agent adoption metrics disappoint at the full launch"
+}
