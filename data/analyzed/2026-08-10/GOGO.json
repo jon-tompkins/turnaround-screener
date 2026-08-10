@@ -1,0 +1,30 @@
+{
+  "ticker": "GOGO",
+  "company_name": "Gogo Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Gogo provides in-flight broadband connectivity to business and commercial aviation. Stock crushed from $13 to $3.58 after heavy debt load, flat revenue, and a severe Q2 2026 earnings miss (-65% surprise). High short interest (15%) reflects skepticism, but real recurring revenue base and analyst targets at $8.50 suggest asymmetric setup if debt can be managed and growth re-accelerates.",
+  "bullish_points": [
+    "Real operating business with $903M TTM revenue and 14% operating margins",
+    "Analyst consensus target $8.50 (2 analysts) vs current $3.58 — 137% upside",
+    "High short interest (15.4% float) creates potential squeeze fuel on any positive catalyst",
+    "Aviation connectivity is sticky recurring revenue; switching costs high once installed",
+    "Near 52-week lows with forward PE of 5.8x suggests deeply discounted valuation"
+  ],
+  "bearish_points": [
+    "Extremely leveraged: $880M debt vs $66M cash, debt/equity >700%",
+    "Q2 2026 earnings miss was severe (-65% vs estimates); guidance risk elevated",
+    "Revenue growth negative (-1.4% YoY) — needs to prove re-acceleration",
+    "Free cash flow negative (-$41M TTM) despite positive operating cash flow",
+    "Only 2 analysts covering; low institutional visibility post-downturn"
+  ],
+  "catalyst": "Q3 2026 earnings (Nov 5) + potential debt refinancing or strategic review announcements",
+  "catalyst_timing": "Q3 earnings November 5 2026; any interim creditor or M&A chatter",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter near current levels ($3.40-3.60), size 1-2% portfolio max. Add on volume confirmation above $4.50.",
+  "key_risk": "Further debt covenant breach or continued revenue erosion leading to dilutive equity raise",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Further deterioration in liquidity metrics or missed Q3 estimates by >30%"
+}
