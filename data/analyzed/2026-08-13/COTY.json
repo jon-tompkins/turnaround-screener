@@ -1,0 +1,33 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Beauty conglomerate trading at a fraction of its 52-week high ($2.80 vs $5.08) under the weight of $3.4B debt, negative operating margins, and revenue decline (-1.3% TTM). Recovery thesis hinges on JAB-backed management executing debt reduction, margin expansion from the Prestige segment, and potential strategic actions to unlock value from a brand portfolio that includes Gucci, Burberry, Calvin Klein, and Marc Jacobs fragrances.",
+  "bullish_points": [
+    "Forward PE of ~8x with EV/EBITDA of 7.4x — cheap if earnings stabilize",
+    "Price-to-book of 0.80 — trading below liquidation value of tangible assets",
+    "Insider buying: Gordon von Bretten purchased 83K shares at $2.41 (Mar 2026), CFO Mercier bought at $2.65 (Feb 2026) — skin in the game at current levels",
+    "~59% insider ownership via JAB Holdings — strong alignment with shareholders",
+    "Free cash flow of $403M against a $2.5B market cap = ~16% FCF yield, providing capacity for debt paydown",
+    "Prestige fragrance is a resilient category; brand portfolio includes globally recognized luxury licenses"
+  ],
+  "bearish_points": [
+    "Operating margins negative (-0.6%), profit margins -9.2% — business is barely profitable",
+    "Total debt $3.4B vs market cap $2.5B — debt-to-equity of 98x is extremely elevated",
+    "Current ratio 0.82 — potential liquidity pressure if cash flow deteriorates further",
+    "Revenue growth -1.3% TTM — top line is shrinking, not stabilizing",
+    "Short interest 13.1% of float — market is skeptical",
+    "Web search unavailable — unable to verify near-term catalyst or news context; analysis based solely on dossier data",
+    "Earnings on Aug 19 (6 days away) with EPS estimate of -$0.01 — high binary risk if miss is significant"
+  ],
+  "catalyst": "Q4 FY2026 earnings report on August 19, 2026 — any sign of margin stabilization, debt paydown progress, or strategic action (divestiture, restructuring) could reset sentiment sharply given the low valuation and high short interest",
+  "catalyst_timing": "August 19, 2026 (6 days from now)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small size — too leveraged and binary for a position ahead of earnings without catalyst confirmation. If earnings show margin stabilization and debt reduction, add on the pullback. Avoid options given earnings binary and IV data appears anomalous.",
+  "key_risk": "Debt service overwhelms FCF if revenue continues to decline; a bad earnings print on Aug 19 could push the stock toward the $1.82 52-week low",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Earnings on Aug 19 show further revenue decline without a clear debt reduction plan, or if management signals covenant headroom is tightening"
+}

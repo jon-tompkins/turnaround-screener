@@ -1,0 +1,35 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Asset-light freight forwarder crushed from $32 to $7.86 (52-week low) after the Omni Logistics acquisition saddled the company with $2.1B in debt and integration challenges. Stock has rallied ~49% in the last 30 days to ~$20 on the back of a massive Q2 earnings beat ($1.53 vs -$0.15 estimate, 1096% surprise). The turnaround thesis is that Omni integration is starting to bear fruit, cost synergies are being realized, and the expedited freight cycle is recovering — the stock has already been reclassified from 'graduated above entry' suggesting momentum is real.",
+  "bullish_points": [
+    "Recent Q2 earnings blown out of the water: $1.53 reported vs -$0.15 estimate — suggests dramatic operational improvement or one-time benefits",
+    "Forward Air was previously in 'appreciated' status in the pipeline — the screener already flagged it moving above entry",
+    "Revenue growth +8.8% TTM — top line is expanding, not shrinking",
+    "Insider net purchasing: +89,378 shares net over last 6 months (15 buy transactions vs 2 sells) — management is buying the turnaround story",
+    "Analyst recommendation 'buy' with mean target $22.50 (vs current $20.29) — 11% upside to target",
+    "49% 30-day price momentum suggests the market is re-rating the story",
+    "Free cash flow of $87M provides some cushion for debt service"
+  ],
+  "bearish_points": [
+    "Total debt $2.1B vs market cap $685M — leverage is extreme (EV $2.6B vs $685M cap)",
+    "Book value is negative — price-to-book is meaningless; equity is thin",
+    "Profit margins still negative (-11.4%) despite revenue growth — integration costs are eating the P&L",
+    "Only 2 analysts cover the stock — low institutional following and low liquidity",
+    "Short interest 10.3% of float — skeptics remain",
+    "Web search unavailable — unable to verify Omni integration progress or specific catalyst details; analysis based solely on dossier data",
+    "The 1096% earnings surprise is suspicious — could include one-time gains, asset sales, or accounting adjustments that aren't repeatable",
+    "Q3 earnings (Nov 4) estimate is only $0.14 — the street expects normalization back to low profitability"
+  ],
+  "catalyst": "Q3 2026 earnings on November 4 — if the company can show that Q2's beat is repeatable (not a one-time benefit) and that Omni synergies are flowing through, the stock could re-rate significantly from a depressed base",
+  "catalyst_timing": "November 4, 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter at current levels ($20) with room to add on a pullback to $15-17. The Q2 beat needs confirmation in Q3 before sizing up. Avoid options — OI is thin (964 calls, 326 puts) and IV data appears anomalous.",
+  "key_risk": "Q2's massive beat is a one-time accounting benefit or asset sale rather than operational improvement, and Q3 reverts to the $0.14 consensus — the stock gives back the 49% 30-day gain",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 earnings confirm the Q2 beat was non-recurring, or if Omni integration costs escalate and push leverage ratios higher"
+}
