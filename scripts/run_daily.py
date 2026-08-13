@@ -100,6 +100,22 @@ def main():
             pct_above_200d_ma=entry["pct_above_200d_ma"],
         )
 
+    # === STAGE 3b: Trailing-stop evaluation ===
+    print("\n[3b/5] Evaluating 20% trailing stop...")
+    import subprocess
+    ts_script = Path(__file__).resolve().parent / "trailing_stop.py"
+    result = subprocess.run(
+        [sys.executable, str(ts_script)],
+        capture_output=True, text=True, timeout=120,
+    )
+    if result.returncode != 0:
+        print(f"  ⚠ trailing stop warning: {result.stderr[:300]}")
+    else:
+        # Print the meaningful output lines
+        for line in result.stdout.splitlines():
+            if any(k in line for k in ("STOPPED", "APPRECIATED", "→", "summary", "active", "appreciated", "stopped", "dropped")):
+                print(f"  {line}")
+
     # === STAGE 4: Enrich + (optionally) analyze NEW tickers ===
     print(f"\n[4/5] Enriching {len(new_tickers_data)} new tickers...")
     total_cost = 0.0
