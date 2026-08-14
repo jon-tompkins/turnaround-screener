@@ -1,0 +1,29 @@
+{
+  "ticker": "CSGP",
+  "company_name": "CoStar Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "turnaround_reason": "CoStar's high-margin commercial-real-estate data monopoly got cut ~64% from its $92 high to ~$33 as heavy Homes.com residential spend crushed reported margins and trailing P/E (181x). The core CRE franchise is still growing and re-accelerating, so this is a self-inflicted margin trough on a quality compounder rather than a broken business.",
+  "bullish_points": [
+    "CEO Andy Florance bought $2.5M of stock at $29.89 on Aug 4 — a large, high-signal open-market insider purchase near the lows; insiders net bought 462k shares over 6m",
+    "Revenue growing 18-23% YoY ($897M Q1 2026); returned to profit, raised FY26 guidance, and guided FY26 adjusted EBITDA to $740-800M (up from $442M in 2025, +83%)",
+    "Commercial adjusted EBITDA margin already back to 34%; residential/Homes.com guided to profitability in 2026, removing the single biggest bear argument (cash burn)",
+    "Homes.com traffic +119% organic YoY and revenue +63%; Matterport + Domain acquisitions add to the franchise; forward P/E of ~19 is reasonable for a 20%+ grower",
+    "Screen 'basing' with +9.5% over 5 days and +10.4% over 30 days; near-net-cash balance sheet ($1.27B cash vs $1.16B debt)"
+  ],
+  "bearish_points": [
+    "Trailing P/E of 181x and EV/EBITDA of ~34x mean valuation still leans on the margin-recovery story delivering; any slip re-rates it lower",
+    "Homes.com is a cash-hungry land grab against Zillow; run-rate profitability isn't targeted until 2029 and full-year until 2030, so residential drag persists for years",
+    "-64% drawdown means real trend damage; 'basing' can break down again if a quarter misses on residential spend",
+    "Some officer/director selling alongside the CEO buy (small, but present)"
+  ],
+  "catalyst": "Q3 earnings showing continued CRE margin expansion and concrete progress toward residential profitability, validating the FY26 EBITDA guide",
+  "catalyst_timing": "Q3 earnings 2026-10-27",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position now (small-to-medium), add on a Q3 margin beat. Jan 2027 calls acceptable given liquid options (OI 2,134 calls / 3,843 puts).",
+  "key_risk": "Homes.com spend re-accelerates and pushes consolidated margins back down, breaking the EBITDA-recovery narrative the current price depends on.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 shows CRE margin stalling or residential losses widening beyond guidance; management walks back the FY26 EBITDA target."
+}

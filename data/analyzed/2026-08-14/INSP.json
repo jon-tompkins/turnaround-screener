@@ -1,0 +1,29 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Down ~60% from its $147 high to ~$58 on a 2026 CMS coding/reimbursement disruption that knocked TTM revenue negative (-7.6%). The core hypoglossal-nerve-stimulation OSA business is intact and highly profitable (86% gross margin), so the drawdown is a reimbursement-timing shock, not a demand collapse.",
+  "bullish_points": [
+    "Q2 2026 EPS of $0.14 crushed the -$0.25 estimate (4th straight large beat); management RAISED FY26 revenue guide to $835-875M despite the reimbursement drag",
+    "Proposed 2027 CMS reimbursement is +12% (hospital outpatient, $35,414) and +15% (ASC, $31,722) over 2026 — a hard, dated catalyst that reverses the exact headwind that beat the stock down",
+    "Fortress balance sheet: $321M cash vs only $29M debt, 8.5x current ratio, positive FCF ($95M TTM) — no financing risk during the reset",
+    "Insiders net buyers over 6m (+216k shares, 24 purchase transactions); Inspire V mix is lifting gross margin +150bps",
+    "New $30M 'Project Horizon' growth plan; screen in 'basing' mode with +23.7% over the last 30 days suggesting the bottom may be forming"
+  ],
+  "bearish_points": [
+    "TTM revenue is shrinking (-7.6%) and the coding/reimbursement hit is estimated at $120-130M for the full year — the overhang persists until 2027 rates are FINAL, not just proposed",
+    "Nyxoah's Genio just won FDA clearance and launched in the US; first credible direct competitor to Inspire's monopoly, now in an active patent fight (litigation cuts both ways)",
+    "Forward P/E of ~38 is not cheap; the market is paying up for a recovery that hasn't fully shown in the top line yet",
+    "Listed options are effectively illiquid (total OI ~126 calls / 158 puts) — no clean way to express this with defined risk"
+  ],
+  "catalyst": "CMS finalizes 2027 outpatient/ASC reimbursement rates (proposed +12-15%), removing the coding overhang; plus Q3 print showing revenue re-acceleration",
+  "catalyst_timing": "CMS final rule ~Nov 2026; Q3 earnings 2026-11-02",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot only, starter size. Add on confirmation of the 2027 CMS final rule. Options too thin to use.",
+  "key_risk": "CMS waters down the proposed 2027 rate increase, or Nyxoah takes share faster than expected — either extends the revenue reset by another year.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Final 2027 CMS rates come in flat/negative, or Q3 shows continued revenue declines with no reimbursement relief in sight."
+}

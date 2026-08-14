@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air overpaid for Omni Logistics in a debt-funded 2024 deal that left it levered ~5.5x EBITDA; the stock collapsed and is now a deleveraging/special-situation play. A strategic review 'nearing conclusion' is pivoting from a full-company sale to divesting non-core assets (Intermodal + legacy Omni units) to pay down debt.",
+  "bullish_points": [
+    "Stock up ~48% in 30 days as the market prices in a credible path to deleveraging via asset sales; one non-core unit already closed in July for ~$16.5M at an $8-10M gain",
+    "Operating income improved to ~$20M from ~$5M YoY on transformation execution; Omni margin expanded to 8.3% on a deliberate mix shift to higher-margin contract logistics",
+    "Q2 headline EPS of $1.53 vs -$0.15 est (though flattered by items) and prior beats show the operating trajectory is improving off a low base",
+    "Hard, near-term binary catalyst: strategic review conclusion / asset-sale announcements that could re-rate equity if proceeds meaningfully cut the $2.1B debt"
+  ],
+  "bearish_points": [
+    "Extreme leverage: $2.1B total debt, EV $2.6B on a $668M market cap, net debt ~5.5x EBITDA — the equity is a thin, highly-levered residual claim where a bad outcome is near-zero",
+    "$244M Omni goodwill impairment drove a $207M Q2 net loss; negative profit margins (-11.4%) and negative book value (P/B -5.8) signal a broken balance sheet",
+    "Only 2 analysts cover it — thin, unreliable consensus; option IV data in the dossier is garbage (0.001%), so the greeks can't be trusted",
+    "Asset sales into a weak freight cycle may fetch disappointing prices; if the review disappoints, the 48% run reverses hard"
+  ],
+  "catalyst": "Conclusion of the strategic review with concrete asset-sale proceeds applied to debt paydown",
+  "catalyst_timing": "Review 'nearing conclusion' — likely next 1-2 quarters; next earnings 2026-11-04",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Pass, or lottery-ticket spot only (position you can zero). Not a core turnaround — a levered event bet.",
+  "key_risk": "Asset sales fall short of expectations or the freight recession deepens, leaving 5.5x leverage intact and the equity impaired.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 60,
+  "would_skip_if": "Any signal the strategic review stalls or produces below-book asset prices; deteriorating freight volumes."
+}
