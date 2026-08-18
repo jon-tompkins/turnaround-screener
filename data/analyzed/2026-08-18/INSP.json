@@ -1,0 +1,31 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire, the leader in implantable hypoglossal-nerve stimulation for obstructive sleep apnea, fell ~60% from a $147 high to ~$58 as growth reset (revenue -7.6% TTM, FY26 guide just 4-10%) on reimbursement pressure and fears that GLP-1 weight-loss drugs shrink the addressable OSA pool. The bull case is a profitable, net-cash franchise now trading near a floor with a next-gen product (Inspire V) and takeout optionality.",
+  "bullish_points": [
+    "Real, profitable business: 86% gross margins, positive FCF (~$95M), ~$321M cash vs only ~$29M debt (net cash), current ratio 8.5",
+    "Beat EPS by 138-157% three quarters running (Aug: +0.14 vs -0.25 est) — profitability far better than the reset guidance implied",
+    "Net insider buying over 6 months (+216k shares net, 24 purchase transactions) against a beaten-down tape",
+    "Inspire V next-gen data strong: implant time -20%, median AHI 34.4 to 8.4, no revisions/explants in early cohort; possible medtech acquisition target (Trefis floated buyer speculation)",
+    "Deeply oversold on long-term basis (34.9% of 200-week MA) while 30-day momentum has turned up (+17%)"
+  ],
+  "bearish_points": [
+    "Secular overhang: GLP-1 weight-loss drugs reduce OSA severity and the implant-eligible population; this is a genuine, hard-to-quantify threat",
+    "Revenue is actually declining (-7.6% TTM) and FY26 growth guide is only 4-10% — this is a decelerating, not accelerating, story",
+    "Forward P/E ~37.6 vs trailing 12.7 signals the market expects a big earnings step-down; not cheap on forward numbers",
+    "Reimbursement/adoption pressure as the market shifts toward lower-cost, less-invasive OSA solutions",
+    "Options are effectively illiquid (total OI ~126 calls / ~161 puts) — no clean way to express via options",
+    "Analyst mean target ($60.4) is barely above spot; consensus rating is Hold — no Street conviction for a big move"
+  ],
+  "catalyst": "Continued Inspire V rollout / adoption data and any resolution of the reimbursement overhang; secondary optionality from an acquisition by a larger medtech",
+  "catalyst_timing": "Q3 earnings 2026-11-02; SLEEP-conference and rollout data through 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small starter. Scale on confirmation above the 200-day MA; net-cash balance sheet and takeout optionality provide a floor.",
+  "key_risk": "GLP-1-driven structural shrinkage of the OSA implant market makes the growth reset permanent rather than cyclical, capping any multiple re-rating.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You require an accelerating top line or a hard near-term binary catalyst; INSP is a basing, longer-horizon value/oversold setup, not a momentum trade."
+}

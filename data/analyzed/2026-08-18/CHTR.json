@@ -1,0 +1,32 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter, the #2 US cable/broadband operator (Spectrum), collapsed ~49% from $286 to ~$146 as broadband subscriber losses accelerated (172k internet losses in Q2, worse than Q1's 120k) under fixed-wireless and fiber attack. The setup is deep-value: 3.3x forward earnings, ~$2.2B FCF, a $34.5B Cox merger closing now, and conspicuous insider buying well above the current price.",
+  "bullish_points": [
+    "Extreme cheapness: trailing P/E 3.8, forward P/E 3.3, EV/EBITDA 5.4, P/B ~1.0 — priced for terminal decline",
+    "Hard near-term catalyst: $34.5B Cox acquisition expected to close mid-to-late August 2026 with ~$800M-$1B expense synergies",
+    "Aggressive insider buying with real money: CEO Winfrey bought ~$1.2M at $172, directors bought at $140-175 (all above spot); net +1.58M shares over 6 months",
+    "Convergence working: mobile penetration of internet base hit 20% and internet+mobile customers churn ~40% less — the strategic answer to the broadband bleed",
+    "Very high short interest (50.4% of float, 7.18 days to cover) sets up squeeze potential on any positive surprise",
+    "Beat Q2 EPS ($10.66 vs $10.06 est); still generates large operating cash flow ($16.5B)"
+  ],
+  "bearish_points": [
+    "Enormous leverage: ~$96.7B debt, debt/equity ~442, current ratio 0.36 — equity is a thin sliver on the EV, so small EBITDA moves swing the stock hard",
+    "Broadband losses are accelerating, not stabilizing (120k Q1 to 172k Q2); CEO admitted retention strategy was 'too aggressive'",
+    "Revenue declining (-1.7% YoY) and EBITDA ex-Cox down 3.2% — the core is shrinking",
+    "Fixed wireless (T-Mobile/Verizon) and fiber overbuild are structural, not cyclical, competitive threats",
+    "Cox integration adds execution and near-term cost risk on top of an already stretched balance sheet",
+    "Consensus is Hold; the wide target range ($101-$380, mean $184) reflects genuine disagreement on terminal value"
+  ],
+  "catalyst": "Cox Communications merger close and integration/synergy realization; stabilization of broadband net-adds via mobile-convergence bundling",
+  "catalyst_timing": "Cox close expected mid-to-late August 2026 (imminent); Q3 earnings 2026-10-30",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter-to-medium spot position with a plan to add on Cox-close clarity. For leverage, consider Jan 2027 calls given liquid options; size for the balance-sheet risk (this is a leveraged-equity turnaround, not a safe compounder).",
+  "key_risk": "Broadband subscriber losses keep accelerating and fixed-wireless/fiber permanently impair the cash-flow base, so the low multiple is a value trap rather than a discount given the ~$97B debt load.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You are uncomfortable owning a highly leveraged equity where terminal broadband cash flows are in structural doubt; the cheap multiple only pays off if net-adds stabilize."
+}
