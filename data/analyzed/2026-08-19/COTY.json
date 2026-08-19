@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty fell from $4.93 to ~$2.90 on soft beauty demand, revenue declines, and heavy leverage that turns it into a highly geared equity stub. The recovering-mode read is a bet that its transformation cost program and easier comps stabilize margins — but it reports fiscal Q4 earnings TODAY (Aug 19, after close), which is the dominant near-term risk.",
+  "bullish_points": [
+    "Transformation program on track for $200M+ savings by FY26 end; YTD FCF up 14% to ~$276M",
+    "Deeply de-rated: forward P/E ~8.4, P/B ~0.83, EV/EBITDA ~7.4; sits below book",
+    "Insider buying earlier in 2026 (director von Bretten 83k sh @ $2.41; CFO 5k @ $2.65)",
+    "Management expects sequential improvement in both Prestige and Consumer Beauty on easier comps",
+    "Strong owned/licensed fragrance portfolio (Burberry, Hugo Boss, Marc Jacobs, Kylie)"
+  ],
+  "bearish_points": [
+    "Reports fiscal Q4 tonight (Aug 19) — a binary event that dwarfs any pre-print positioning; consensus is a ~$0.01 loss on revenue ~$1.2B (-~5% YoY)",
+    "Dangerous balance sheet: $3.4B debt, D/E ~98, current ratio 0.82, negative TTM profit margin (-9%)",
+    "Revenue declining (-1.3% TTM) in a soft global beauty market",
+    "Sub-$3 price with high leverage makes the equity a volatile, option-like stub",
+    "Sampled options IV in dossier looks like bad data (~0%); treat greeks as unreliable"
+  ],
+  "catalyst": "Fiscal Q4 FY2026 earnings tonight — guidance on FY27 margins/savings and any debt-reduction progress will set direction",
+  "catalyst_timing": "After market close today, Aug 19, 2026",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass / avoid sizing into tonight's print. Revisit after earnings; only a tiny speculative starter if the report confirms margin recovery and deleveraging.",
+  "key_risk": "Tonight's print misses or guides down on a highly levered balance sheet, sending a sub-$3 stub sharply lower with little margin for error.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Holding into an unhedged binary earnings event with this leverage — which is why conviction is low pre-print."
+}

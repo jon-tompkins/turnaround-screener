@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "INSP collapsed from $147 to the high-$30s on fears that GLP-1 weight-loss drugs would gut demand for its surgical hypoglossal-nerve OSA implant, compounded by 2026 U.S. coding/reimbursement pressure that pushed revenue negative YoY. The bounce is a re-rating as GLP-1 fear cools and profitability returns.",
+  "bullish_points": [
+    "Q2 2026 beat and raise: revenue $200.6M (beat by ~3%), returned to profit, adj EPS $0.14; stock jumped ~23%; raised FY26 outlook and unveiled 'Project Horizon'",
+    "Management frames GLP-1s as a long-term tailwind (patients lose weight to qualify for Inspire), not a demand killer",
+    "Strong margins (85% gross), clean balance sheet ($321M cash, minimal debt), positive FCF ~$95M",
+    "Insider net buying over last 6m (+216k shares net, 24 purchase transactions)",
+    "Beat EPS massively 3 quarters running (surprises of +157%, +138%, +142%)"
+  ],
+  "bearish_points": [
+    "Revenue still declining -7.6% YoY on U.S. coding/reimbursement pressure — a real fundamental headwind, not just sentiment",
+    "Rich on forward numbers: forward P/E ~38 vs trailing ~13; much of the easy re-rating may be done after the +24% 30-day run",
+    "GLP-1 disruption remains a genuine long-tail overhang if drugs reduce the treatable-OSA funnel",
+    "Catalyst (Q2 print) already passed and is in the price; next hard datapoint not until November",
+    "Options open interest is thin (129 calls / 162 puts) — spot is the clean expression"
+  ],
+  "catalyst": "Continued proof that GLP-1 adoption is neutral-to-positive for volumes and that reimbursement pressure stabilizes, validating the raised guidance",
+  "catalyst_timing": "Q3 2026 earnings Nov 2, 2026; ongoing GLP-1 adoption data through 2H 2026",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position; prefer to add on a pullback rather than chase after the ~24% 30-day move. Spot only given thin options.",
+  "key_risk": "U.S. reimbursement/coding pressure persists and keeps revenue negative, so the profitability rebound doesn't translate into growth and the forward multiple compresses.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Revenue growth stays negative into Q3 or GLP-1 script data shows a measurable hit to Inspire procedure volumes."
+}

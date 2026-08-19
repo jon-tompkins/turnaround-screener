@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a top-two customer-experience/BPO vendor, dropped from $58 to ~$25 as the market decided generative AI would gut demand for its call-center/outsourcing core. It is deeply cheap (forward P/E ~2.1, ~25% FCF yield) with the bull case resting on AI-integrated CX services replacing lost seat-based revenue faster than feared.",
+  "bullish_points": [
+    "Extraordinarily cheap: forward P/E ~2.1, EV/EBITDA ~5.3, P/B ~0.56, FCF ~$776M against a $1.5B market cap",
+    "Analyst consensus still 'buy' (7 buy / 2 hold), median target ~$30-35 vs ~$25 price (~27% upside)",
+    "Modest revenue growth returned (+1.9% YoY) with improving mix toward AI-integrated/agentic services",
+    "CEO and CFO made open-market purchases in 2026 (small but directionally supportive)",
+    "Positioned as one of two scaled global CX players — consolidation winner if the category survives"
+  ],
+  "bearish_points": [
+    "Core BPO is the textbook AI-disruption target; the entire de-rating is a bet on an existential question",
+    "Heavy leverage from the WebHelp deal: ~$5.5B debt, D/E ~204, ~3 turns of net debt",
+    "Big holder Groupe Bruxelles Lambert sold 6M shares (~$133M) in April — a real overhang and insider net-seller signal",
+    "Margins pressured amid restructuring; profit margin negative TTM (goodwill/amortization drag)",
+    "Basing -21% below 200d MA with 20% short interest; cheap multiple alone hasn't stopped the slide"
+  ],
+  "catalyst": "Evidence that AI-integrated CX revenue is additive (not just cannibalizing seats) and that revenue/margins inflect upward, plus deleveraging progress",
+  "catalyst_timing": "Q3 (fiscal) earnings Sept 24, 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative starter only. This is a cheap-but-binary AI-disruption call; size it as a high-variance value bet, not a core position. Sept 24 print is the near-term test.",
+  "key_risk": "AI erodes seat-based BPO revenue and pricing faster than AI-services growth offsets it, so FCF falls against a heavy debt load and the low multiple proves to be a value trap.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Sept 24 print shows decelerating revenue or margin compression, or GBL continues selling — confirming the AI-disruption thesis."
+}

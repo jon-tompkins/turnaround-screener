@@ -1,0 +1,30 @@
+{
+  "ticker": "EPAM",
+  "company_name": "EPAM Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "EPAM fell ~54% from its $222 high as the market priced in AI cannibalizing traditional digital-engineering/staff-augmentation spend and a demand air-pocket while clients pivot budgets to AI-led modernization. It remains a real, profitable, net-cash business that keeps beating estimates, so the drawdown looks more sentiment- than fundamentals-driven.",
+  "bullish_points": [
+    "Q2 2026 beat: EPS $3.38 (+22% YoY, +7.6% vs est), revenue $1.415B (+4.5% YoY); third straight beat",
+    "AI-native revenue accelerating, now >11% of total business with double-digit sequential growth",
+    "Cheap for the quality: forward P/E ~7.3, EV/EBITDA ~6, net cash ($789M cash vs $152M debt)",
+    "Analyst consensus 'buy' (17 analysts), mean target ~$123 (~19% upside), strong FCF ($650M)",
+    "Screener already carries EPAM as a conv-7 watchlist name -1.7% since add"
+  ],
+  "bearish_points": [
+    "Guidance tempered: full-year growth only 3.2-4.2%; big AI opportunities pushed to 1H 2027, so a near-term revenue gap as legacy work rolls off faster than AI work ramps",
+    "AI is a genuine structural threat to labor-arbitrage IT-services, not just a scare",
+    "High short interest (~22% of float) signals the bear thesis has real adherents",
+    "Basing, not confirmed recovering: -29% below 200d MA, could re-break lower on a soft print",
+    "Dossier news feed was empty (yfinance nulls); view built from earnings + web catalyst check"
+  ],
+  "catalyst": "AI-native revenue mix crossing a threshold where reaccelerating growth is undeniable, plus stabilization of North American discretionary IT spend; next hard datapoint is Q3 print",
+  "catalyst_timing": "Q3 2026 earnings ~Nov 5, 2026; larger AI-led revenue inflection guided to 1H 2027",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Starter spot position now (small-to-medium), add on a pullback toward the low-$90s or on confirmed reacceleration. Optionally Jan 2027 calls given cheap-ish IV.",
+  "key_risk": "AI-led modernization replaces legacy engineering revenue more slowly than it cannibalizes it, producing 1-2 quarters of flat/negative growth that re-rates the stock lower before the 2027 inflection.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 guide cuts full-year below 3% or AI-native mix growth stalls, confirming the bear demand-gap thesis."
+}
