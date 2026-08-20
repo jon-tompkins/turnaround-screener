@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Three patient deaths from acute liver failure triggered an FDA shipment suspension and clinical holds on Sarepta's AAVrh74 gene therapies, collapsing the stock; the FDA has since reversed the Elevidys distribution pause, but revenue fell 34% YoY and the safety/legal cloud remains.",
+  "bullish_points": [
+    "FDA reversed the Elevidys distribution pause -- shipments can resume (removed the worst-case overhang)",
+    "Still a real revenue base (~$328.7M net product revenue in Q2 FY26) and the PMO franchise",
+    "Forward PE ~7.7 prices in heavy pessimism; new CEO with long-vest equity alignment",
+    "Recovering-mode: back above 200d MA, +7.5% over 5 days"
+  ],
+  "bearish_points": [
+    "Q2 revenue -34% YoY; commercial trajectory badly impaired",
+    "Ongoing litigation and safety scrutiny tied to the AAVrh74 vector deaths",
+    "Debt/equity ~69.5; pipeline catalysts (SRP-1005 proof-of-biology) not until 2027",
+    "Binary regulatory/safety headline risk in both directions"
+  ],
+  "catalyst": "Durable Elevidys re-launch traction and resolution of the LGMD trial clinical holds",
+  "catalyst_timing": "H2 2026 into 2027 (SRP-1005 data 2027)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot only; size for binary headline risk, no leverage",
+  "key_risk": "Renewed safety signal or another death reinstates holds and craters the re-launch thesis",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Any new liver-failure/safety event or a stalled Elevidys re-launch"
+}

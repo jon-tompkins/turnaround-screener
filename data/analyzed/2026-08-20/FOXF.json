@@ -1,0 +1,28 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Bike/powersports demand destruction and channel destock crushed FOXF from the low-$100s to $13; Q2 FY26 showed the inflection with powersports +22.5%, premium e-bikes sold out, and a guided gross-margin ramp from 12.2% -> 13.6% -> 15.6% across Q2/Q3/Q4 as tariff drag anniversaries.",
+  "bullish_points": [
+    "Q2 FY26 beat EBITDA by ~$5M and management raised the full-year sales view",
+    "Powersports segment +22.5% YoY; premium e-bikes sold out for first time in a while",
+    "Cost-savings programs net-releasing into H2, driving guided margin step-up",
+    "Recovering-mode setup: up ~27% over 30 days, back above 200d MA (+19%)"
+  ],
+  "bearish_points": [
+    "Debt/equity ~102 with rate-sensitive discretionary end markets",
+    "Total consolidated net sales still -4.5% YoY; recovery is margin- not revenue-led",
+    "Consumer-cyclical demand could roll over if bike/powersports channel restock stalls",
+    "yfinance profit margin / FCF fields null in dossier"
+  ],
+  "catalyst": "Q3 FY26 earnings confirming the guided gross-margin step-up to ~13.6% and continued powersports strength",
+  "catalyst_timing": "Q3 FY26 earnings (early Nov 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium); add on a Q3 margin beat or pullback toward the 200d MA",
+  "key_risk": "Discretionary demand double-dips and the guided H2 margin ramp fails to materialize, re-rating the stock back toward the low teens",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 gross margin comes in flat/down vs Q2 or powersports growth decelerates sharply"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "GLP-1 fear (Zepbound's OSA approval) plus reimbursement/center-onboarding delays cut INSP from $147 to ~$40; it is now basing near $60 on hopes that GLP-1 expands OSA awareness rather than displacing the implant, plus recurring M&A/takeout speculation.",
+  "bullish_points": [
+    "Some analysts argue GLP-1 threat is overblown -- INSP serves third-line patients and drugs raise OSA awareness",
+    "Inspire V launch shows ~20% shorter surgical times and better adherence/sensing",
+    "Persistent large-medtech takeout speculation provides optionality",
+    "Basing setup with 5d/30d momentum turning up (+23.8% over 30 days)"
+  ],
+  "bearish_points": [
+    "Forward PE ~39.5 vs trailing ~13 implies the market expects earnings to fall",
+    "GLP-1 competition is a genuine secular overhang on implant demand",
+    "2025 sales guide already revised down to $900-910M on onboarding/reimbursement friction",
+    "Still -9.7% below 200d MA; trend not yet confirmed"
+  ],
+  "catalyst": "Evidence that Inspire V ramp and center expansion re-accelerate procedure volume despite GLP-1s, or a concrete acquisition approach",
+  "catalyst_timing": "H2 2026 procedure/volume data and 2026 guidance updates",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter / watchlist; wait for a confirmed re-accel in procedure volumes before sizing up",
+  "key_risk": "GLP-1 adoption structurally shrinks the addressable implant funnel and forward earnings estimates keep falling",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next guidance shows procedure growth decelerating or GLP-1 substitution accelerating"
+}

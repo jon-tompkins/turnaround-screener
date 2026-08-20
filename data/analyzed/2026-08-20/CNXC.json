@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Fears that generative AI structurally disrupts the BPO/customer-experience model, plus a cut FY26 outlook and client offshoring, drove CNXC from the high-$50s to ~$19; the bull case is that its iX AI suite (contract signings +400% YoY) repositions it as an AI-orchestration play rather than a victim.",
+  "bullish_points": [
+    "Trades at forward PE ~2.2 -- extreme deep-value if earnings hold",
+    "AI iX Suite bookings up ~400% YoY; management pivoting toward recurring AI revenue",
+    "Analyst consensus still Buy (7 buy / 2 hold, no sells)",
+    "Targeting net leverage below 2.6x EBITDA by end of FY26 (deleveraging path)"
+  ],
+  "bearish_points": [
+    "FY26 guide cut to just 0.25-1.25% constant-currency growth; core is eroding",
+    "Net debt ~$4.5B, debt/equity ~204 -- high leverage into a disrupted revenue base",
+    "Classic value-trap risk: cheap because the market prices AI as an existential threat",
+    "Basing but -13.9% below 200d MA; no confirmed reversal"
+  ],
+  "catalyst": "Proof that AI-suite revenue grows faster than legacy BPO erodes, stabilizing total revenue and margins",
+  "catalyst_timing": "Next 1-2 quarterly prints (FY26 H2)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Watchlist / very small speculative starter only; needs proof AI is a tailwind not a headwind before sizing",
+  "key_risk": "AI accelerates client insourcing/offshoring faster than iX ramps, eroding revenue and pressuring the levered balance sheet",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Another guidance cut or AI bookings fail to convert to reported revenue growth"
+}

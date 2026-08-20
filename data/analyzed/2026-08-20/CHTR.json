@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Accelerating broadband subscriber losses (-120k in Q1 FY26) to fixed wireless and fiber halved CHTR from ~$286 to the low-$150s; the just-closed $34.5B Cox merger (completed Aug 20, 2026) plus the Liberty Broadband acquisition create a 70M-home footprint and ~$800M synergy target.",
+  "bullish_points": [
+    "Cox + Liberty Broadband deals closed today; ~$800M cost synergies and national scale",
+    "Extremely cheap on cash flow: forward PE ~3.5, large FCF generator",
+    "Spectrum mobile bundling (free year for Cox customers) and full product launch in Cox markets mid-Sept",
+    "Convergence/mobile attach is a structural offset to broadband softness"
+  ],
+  "bearish_points": [
+    "Broadband subs still bleeding; fixed wireless + fiber competition is secular, not cyclical",
+    "Debt/equity ~442 -- very high leverage amplifies both equity upside and downside",
+    "Large integration risk absorbing Cox at the same time subscribers erode",
+    "Basing but still -17.7% below 200d MA; no confirmed trend reversal"
+  ],
+  "catalyst": "Cox integration executing on synergies plus broadband sub losses stabilizing as mobile convergence scales",
+  "catalyst_timing": "Q3-Q4 FY26 (mid-Sept Cox-market product launch; next earnings late Oct 2026)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Starter spot for the deep-value/FCF thesis; add only if broadband net-adds inflect",
+  "key_risk": "Broadband losses keep accelerating while high leverage limits flexibility, turning the cheap multiple into a value trap",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 broadband subscriber losses widen further or Cox integration shows early synergy slippage"
+}

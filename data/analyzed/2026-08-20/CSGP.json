@@ -1,0 +1,28 @@
+{
+  "ticker": "CSGP",
+  "company_name": "CoStar Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "turnaround_reason": "Years of heavy Homes.com/residential spend suppressed margins and dragged CSGP to a seven-year low near $26; Q2 FY26 marked the profitability inflection as Residential turned EBITDA-positive ($12M, first ever) and total adjusted EBITDA more than doubled to $184M.",
+  "bullish_points": [
+    "Residential segment turned EBITDA-positive for the first time; the biggest cost drag is inflecting",
+    "Adjusted EBITDA more than doubled YoY to $184M; margins guided to expand from ~14.7% toward ~28% over next three quarters",
+    "FY26 adjusted EBITDA guide affirmed at $780-820M, above the initial February outlook",
+    "Fortress balance sheet (debt/equity ~14.5) funds the pivot without leverage risk"
+  ],
+  "bearish_points": [
+    "Management trimmed FY26 revenue guide ~$50M; growth is being sacrificed for profitability",
+    "Trailing PE ~176 -- still expensive on trailing earnings; thesis relies on forward margin expansion",
+    "Stock at seven-year low; sentiment and price momentum still weak (-27.7% vs 200d MA)",
+    "Commercial real estate backdrop remains soft"
+  ],
+  "catalyst": "Q3 FY26 showing sustained Residential EBITDA positivity and the guided margin ramp toward ~28%",
+  "catalyst_timing": "Q3 FY26 earnings (late Oct 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position now (small-to-medium), add on confirmation of Q3 margin expansion",
+  "key_risk": "Residential profitability proves lumpy/one-off and the margin ramp stalls, leaving a still-richly-valued stock without its inflection story",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Residential swings back to an EBITDA loss or FY26 EBITDA guide is cut"
+}
