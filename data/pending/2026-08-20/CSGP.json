@@ -1,0 +1,300 @@
+{
+  "ticker": "CSGP",
+  "fetched_at": "2026-08-20T13:35:37.287073",
+  "overview": {
+    "name": "CoStar Group, Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "description": "CoStar Group, Inc. provides information, analytics, and online marketplace services to real estate and related business communities in the United States, Australia, Canada, Europe, the Asia Pacific, and Latin America. It offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing, and land properties; CoStar Leasing, a data on lease transactions and tools to manage user-entered lease data; CoStar Sales, a database of commercial real estate sales transactions; CoStar Owners provides detailed portfolio information; CoStar Markets to view and report on market and submarket trends; and CoStar Tenant that provides tenant information. The company also provides hospitality benchmarking that allows hotels to measure performance against competitors; Debt Solutions, a tool for lenders to manage loan portfolios and risk; and real estate and lease management technology solutions, such as lease administration, lease accounting, and transaction management services. In addition, it offers Apartamentos.com, an apartment marketing sites; LoopNet.com, a commercial property marketing sites; Homes.com, a home for sale listings site; Ten-X, an online auction platform for commercial real estate; Land.com, a marketplace for rural land sales; and BizBuySell.com, a marketplace for operating businesses and franchises for sale. It serves sales, leasing, and mortgage brokers; property, real estate investment trust, insurance companies, and asset managers; and government agencies, property owners, mortgage-backed security issuers, appraisers, design and construction professionals, pension fund managers, real estate developers, reporters tenant vendors, bankers, building services vendors, mortgage bankers, communications providers, retailers, institutional advisors, hospitality owners, investors, and real estate agents. The company was founded in 1986 and is headquartered in Arlington, Virginia.",
+    "market_cap": 13529547776,
+    "enterprise_value": 13569314816,
+    "shares_outstanding": 405197588,
+    "float_shares": 399630173,
+    "short_ratio": 2.1,
+    "short_percent_of_float": 0.040599998,
+    "held_by_insiders": 0.012619999,
+    "held_by_institutions": 1.0487,
+    "revenue_ttm": 3556000000,
+    "revenue_growth": 0.184,
+    "gross_margins": 0.78683996,
+    "operating_margins": 0.082159996,
+    "profit_margins": 0.02081,
+    "free_cashflow": 412700000,
+    "operating_cashflow": 497000000,
+    "total_cash": 1266000000,
+    "total_debt": 1155000064,
+    "debt_to_equity": 14.537,
+    "current_ratio": 2.214,
+    "trailing_pe": 175.73685,
+    "forward_pe": 19.353268,
+    "price_to_book": 1.7040062,
+    "ev_to_ebitda": 34.44,
+    "ev_to_revenue": 3.816,
+    "fifty_two_week_high": 91.89,
+    "fifty_two_week_low": 25.89,
+    "current_price": 33.39,
+    "analyst_target_mean": 37.1,
+    "analyst_target_high": 53.0,
+    "analyst_target_low": 25.0,
+    "recommendation": "buy",
+    "num_analysts": 20,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-27 16:00:00-04:00",
+        "EPS Estimate": 0.34,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-07-28 16:00:00-04:00",
+        "EPS Estimate": 0.29,
+        "Reported EPS": 0.32,
+        "Surprise(%)": 11.88
+      },
+      {
+        "Earnings Date": "2026-04-28 16:00:00-04:00",
+        "EPS Estimate": 0.18,
+        "Reported EPS": 0.23,
+        "Surprise(%)": 24.8
+      },
+      {
+        "Earnings Date": "2026-02-24 16:00:00-05:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": 0.31,
+        "Surprise(%)": 13.82
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 8,
+    "nearest_expiry": "2026-08-21",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 4142,
+    "total_put_oi": 14332
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 470684.0,
+        "Trans": 18
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 8288.0,
+        "Trans": 2
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 462396.0,
+        "Trans": 20
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 5113593.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.099,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.101,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.002,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 4788,
+        "Value": 147375,
+        "URL": "",
+        "Text": "Sale at price 30.78 per share.",
+        "Insider": "CANN CYNTHIA CAMMETT",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3500,
+        "Value": 105735,
+        "URL": "",
+        "Text": "Sale at price 30.21 per share.",
+        "Insider": "HILL JOHN W",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-05 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 83300,
+        "Value": 2489837,
+        "URL": "",
+        "Text": "Purchase at price 29.89 per share.",
+        "Insider": "FLORANCE ANDREW COLDEN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BERISFORD JOHN L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MCCARTHY CHRISTINE M.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MUSSLEWHITE ROBERT W",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GLASER RACHEL C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HILL JOHN W",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRUNNER ANGELIQUE G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8262,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SAMS LOUISE S.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-23 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 45.94331551799527,
+    "pct_above_200d_ma": -27.67008827066062,
+    "pct_of_100d_ma": 100.69230014800459,
+    "pct_change_1d": -1.0376474321703744,
+    "pct_change_5d": 0.9984927040017633,
+    "pct_change_30d": 11.750921092280485
+  }
+}
