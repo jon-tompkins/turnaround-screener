@@ -1,0 +1,30 @@
+{
+  "ticker": "FMC",
+  "company_name": "FMC Corporation",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "turnaround_reason": "FMC's crop-protection business was hit by a multi-quarter channel destocking cycle plus generic competition, cratering the stock ~60%+ to ~$11 near its 52-week low. Management suspended the dividend and cut guidance; the bull case is a demand normalization as destocking ends, led by Latin America.",
+  "bullish_points": [
+    "Deep-value optics: P/B ~0.83, fwd P/E ~6.7, trading near 52-week low ($9.95)",
+    "Positive free cash flow (~$166M TTM) despite the downturn; management prioritizing cash generation",
+    "Destocking is a cyclical (not secular) headwind -- volumes should mean-revert as channel inventory clears",
+    "New-active-ingredient pipeline positioned to offset patent cliffs and generics",
+    "Latin America demand recovery is the identified swing factor for the rebound"
+  ],
+  "bearish_points": [
+    "Balance sheet is stretched: debt/equity ~265, total debt ~$4.4B vs ~$477M cash",
+    "TTM profit margin -85% and revenue -17.5% YoY -- deep operational damage, not yet stabilized",
+    "Dividend suspension is a negative confidence signal, not a bottoming tell",
+    "'Basing' screen: bottom is unconfirmed and re-breakdown risk is real if ag markets stay soft",
+    "EV/EBITDA ~19.7 shows depressed earnings make it far less cheap on enterprise value than the P/E suggests"
+  ],
+  "catalyst": "Q3 2026 earnings showing destocking has troughed and Latin America volumes inflecting",
+  "catalyst_timing": "Q3 2026 earnings ~2026-10-28",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small-to-medium starter spot $10.50-11.00 for the cyclical-recovery optionality; hold size back given the leverage until a volume inflection is confirmed.",
+  "key_risk": "The ag downcycle drags longer than expected and the heavy debt load forces further defensive actions, deepening the drawdown.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows revenue still falling with no LatAm volume improvement, or any sign of covenant/leverage stress."
+}

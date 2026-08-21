@@ -1,0 +1,31 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "High-end bike demand collapsed (~42% segment decline) on post-COVID inventory digestion and weak discretionary spend, dragging FOXF from the $30s to the low teens. Q2 2026 marked an inflection: powersports surged and management raised the full-year outlook, signaling channel inventory has largely cleared.",
+  "bullish_points": [
+    "Q2 2026 beat: EBITDA topped estimates by ~$5M and management LIFTED the 2026 sales view",
+    "Powersports (PVG) up 22.5% YoY in Q2, +28% in H1 as OEM channel inventory normalizes",
+    "Bike and aftermarket showing stabilization after a brutal downcycle",
+    "Clear margin-repair ramp guided: ~12.2% EBITDA in Q2 -> 13.6% Q3 -> ~15.6% Q4 as tariffs anniversary and cost programs hit full run-rate",
+    "$75M profit-recovery savings program targeted by FY2027",
+    "Marucci bat launch delayed into a stronger period is an incremental tailwind"
+  ],
+  "bearish_points": [
+    "TTM profit margin -20% reflects prior impairments/goodwill damage; still not GAAP-clean",
+    "Debt/equity ~102 leaves limited cushion if the consumer weakens again",
+    "Analyst mean target ~$21.8 sits right at the current price -- Street sees fair value, not deep upside",
+    "Bike recovery is 'stabilization' not growth; a discretionary re-slowdown would re-break the thesis",
+    "F-150 chassis supply constraints and tariffs remain swing factors on the margin ramp"
+  ],
+  "catalyst": "Q3 2026 earnings confirming the guided margin step-up (13.6% EBITDA) and continued powersports strength",
+  "catalyst_timing": "Q3 2026 earnings ~2026-11-05",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter-to-medium spot position $20-22, add on a confirmed Q3 margin beat. Options fine for sizing but spot preferred given still-negative GAAP.",
+  "key_risk": "A renewed pullback in discretionary consumer spend (bikes, powersports) stalls the volume recovery and the margin ramp misses.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 shows the margin ramp slipping or powersports growth decelerating sharply -- the whole thesis rests on the guided inflection being real."
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire, maker of an implantable obstructive-sleep-apnea neurostimulator, fell from ~$147 to ~$61 as GLP-1 weight-loss drugs threatened its addressable market and a reimbursement/coding overhang plus a slow Inspire V launch forced a guidance cut. It is a high-quality franchise re-rating on structural fears.",
+  "bullish_points": [
+    "Elite margin profile: ~86% gross margin, GAAP profitable (15% net margin), rare for a turnaround name",
+    "Fortress balance sheet: debt/equity ~3.5, current ratio ~8.6, effectively net cash",
+    "GLP-1s unlikely to fully displace INSP -- many patients remain eligible as a third-line therapy",
+    "IP litigation wins help hold off Nyxoah/LivaNova competition",
+    "Inspire V is a genuine next-gen product cycle once onboarding/reimbursement smooth out"
+  ],
+  "bearish_points": [
+    "Coding/reimbursement overhang flagged by analysts as lasting into 2028 -- a long wait",
+    "2026 guidance cut up to 10%; Q1 revenue grew just ~1.6%",
+    "GLP-1 (Zepbound/Wegovy, both OSA-approved) is a real, growing demand headwind",
+    "Still not cheap: fwd P/E ~39.8 -- little valuation cushion for a decelerating grower",
+    "Analyst mean target (~$60) is at the current price -- Street sees no near-term upside"
+  ],
+  "catalyst": "Evidence the coding/reimbursement overhang is resolving and Inspire V onboarding re-accelerates unit growth",
+  "catalyst_timing": "Q3 2026 earnings ~2026-11-02; reimbursement clarity likely a multi-quarter/2027 story",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Watchlist / very small starter only. Great business, but no near-term catalyst and a rich multiple -- wait for reimbursement clarity or a cheaper entry.",
+  "key_risk": "GLP-1 adoption plus the multi-year coding overhang structurally lowers INSP's growth rate, and a ~40x multiple de-rates further.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Growth stays low-single-digit with no reimbursement resolution -- a high-quality but dead-money name until the overhang lifts."
+}

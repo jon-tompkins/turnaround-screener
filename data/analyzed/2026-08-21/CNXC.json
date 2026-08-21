@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a top-two global customer-experience/BPO vendor, has been cut roughly in half (to ~$25 from the high-$50s) as the market prices in AI displacing human customer-service seats. The debate is whether AI is an existential threat or a re-rating opportunity if its agentic CX platform gains traction.",
+  "bullish_points": [
+    "Screamingly cheap on the surface: fwd P/E ~2.1, P/B ~0.57, EV/EBITDA ~5.3",
+    "Massive free cash flow (~$776M TTM) against a ~$1.5B market cap",
+    "Pivoting into AI: iX and agentic CX platforms position it as an AI partner rather than pure headcount arbitrage",
+    "Q2 revenue still grew ~1.9% YoY -- not yet in absolute decline",
+    "If AI-CX adoption converts, the multiple has enormous room to expand from distressed levels"
+  ],
+  "bearish_points": [
+    "Existential AI-disruption overhang -- the core seat-based BPO model may be structurally impaired",
+    "TTM profit margin -13% (impairment-driven); GAAP earnings are negative",
+    "High leverage: debt/equity ~204, current ratio ~1.18",
+    "Management already cut revenue guidance and flagged clients trimming spend",
+    "Thin coverage (only ~4 analysts) -- low institutional conviction, wide outcome range"
+  ],
+  "catalyst": "Evidence of meaningful AI/iX Suite revenue adoption on an upcoming print that reframes the AI narrative from threat to opportunity",
+  "catalyst_timing": "Q3 2026 earnings ~2026-09-24",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot only -- a deep-value option on the AI pivot working. Size for a wide binary outcome, not a core holding.",
+  "key_risk": "AI genuinely compresses BPO seat demand, turning the low multiple into a value trap on a shrinking, over-levered revenue base.",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Next print shows revenue turning negative YoY or no traction in AI/iX adoption -- that confirms secular decline over transition."
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter has been crushed (from ~$286 to ~$149, a fresh 52-week low) as broadband subscriber losses accelerated to ~172K in a quarter under fixed-wireless and fiber assault. The bull case rests on the $34.5B Cox merger closing and a huge, cheap free-cash-flow base.",
+  "bullish_points": [
+    "Extremely cheap on cash flow: fwd P/E ~3.4, EV/EBITDA ~5.4, ~$2.2B FCF",
+    "$34.5B Cox acquisition expected to close, adding ~6.5M customers and ~$800M operating synergies",
+    "12M+ mobile lines is a genuine growth vector cross-selling into the broadband base",
+    "Management expects Cox scale plus network upgrades to improve internet unit trajectory",
+    "Street mean target (~$184) implies meaningful upside from a washed-out price"
+  ],
+  "bearish_points": [
+    "Core broadband is in secular decline -- 172K sub losses and management warns competition stays 'fierce'",
+    "Balance sheet is heavy: debt/equity ~441, current ratio 0.36; the Cox deal adds more leverage",
+    "Cord-cutting continues to erode legacy video",
+    "Fixed wireless (T-Mobile/Verizon) and fiber overbuilders are structural, not cyclical, headwinds",
+    "'Cheap on FCF' is the classic value-trap profile if the FCF base itself is eroding"
+  ],
+  "catalyst": "Cox merger close plus a quarter showing broadband net-adds stabilizing (losses narrowing)",
+  "catalyst_timing": "Merger close expected summer/H2 2026; Q3 earnings ~2026-10-30",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot only near the 52-week low; scale only if a quarter shows broadband losses decelerating. Not a size-up until the sub bleed slows.",
+  "key_risk": "Broadband subscriber losses keep accelerating, making the low multiple a melting-ice-cube rather than a bargain.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows sub losses widening again or the Cox deal timeline slips/adds worse-than-expected leverage."
+}

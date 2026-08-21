@@ -1,0 +1,29 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Sarepta collapsed after multiple patient deaths (acute liver failure) tied to its AAVrh74 gene-therapy platform led the FDA to halt Elevidys shipments (later partially reinstated for ambulatory patients only) and place LGMD trials on clinical hold. Revenue fell ~34%. The 'recovering' screen reflects a bounce off the lows, not a resolved crisis.",
+  "bullish_points": [
+    "Off its lows (~$19.5 vs 52-wk low $14.68); still a commercial DMD franchise with the PMO antisense products",
+    "FDA allowed Elevidys shipments to resume for ambulatory patients, preserving part of the revenue base",
+    "fwd P/E ~7.6 and strong liquidity (current ratio ~4.4) give runway to work through the crisis",
+    "Analyst mean target (~$22) sits above the current price"
+  ],
+  "bearish_points": [
+    "Three patient deaths this year -- an existential safety overhang on the core AAV platform",
+    "FDA revoked the AAVrh74 platform-therapy designation, kneecapping the pipeline's regulatory fast-track",
+    "LGMD gene-therapy trials on clinical hold; Elevidys restricted to ambulatory patients only",
+    "Revenue -34% YoY with negative gross margin (-17%) -- severe operational impairment",
+    "Stock is prone to violent two-way moves on every headline; extreme binary risk"
+  ],
+  "catalyst": "Regulatory clarity on the platform (LGMD hold lifted, safety mitigations accepted) and a Q3 print showing Elevidys revenue stabilizing",
+  "catalyst_timing": "Q3 2026 earnings ~2026-11-04; regulatory updates are event-driven and unpredictable",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / watchlist only. Too much unquantifiable safety and regulatory tail risk to size a position. Speculative traders: tiny, defined-risk options at most.",
+  "key_risk": "Further safety events or a full FDA withdrawal of Elevidys would gut the franchise -- the downside is not floored.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "Any new safety signal, an adverse FDA action, or continued Elevidys revenue decline -- the risk is fundamentally uncapped here."
+}
