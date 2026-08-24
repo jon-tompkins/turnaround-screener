@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire, the leader in implantable hypoglossal nerve stimulation for obstructive sleep apnea, was derated hard on fears that GLP-1 weight-loss drugs (Zepbound, Wegovy) shrink its addressable market, plus a slower-than-hoped Inspire V rollout and CMS prior-authorization friction. Revenue growth turned slightly negative TTM. The bull case: a high-quality, net-cash franchise whose GLP-1 fear is overdone and whose Inspire V ramp reaccelerates growth.",
+  "bullish_points": [
+    "Genuinely high-quality business: ~86% gross margins, GAAP profitable (~15% net margin), and net cash (~$321M cash vs ~$29M debt)",
+    "Meaningful insider buying over the last 6 months (net +216k shares across 29 transactions) signaling management sees value",
+    "GLP-1 fear may be overdone: drugs raise OSA awareness and many patients remain eligible for device therapy as a later line",
+    "Inspire V cuts implant time >20% and ASC penetration expands the procedure footprint",
+    "Stock is ~37% of its 200-week MA after a violent derate; momentum improving (+20% over 30 days)"
+  ],
+  "bearish_points": [
+    "Revenue growth has gone slightly negative TTM (-7.6%), a real deceleration for a former hypergrowth name",
+    "Inspire V commercial rollout has been slow: center onboarding and reimbursement delays are pushing procedures right",
+    "WISeR/CMS AI-driven prior-auth pilot across six states adds administrative drag on near-term volumes",
+    "GLP-1 structural risk is real, not just sentiment, if long-term OSA resolution reduces the eligible implant pool",
+    "Options are only moderately liquid (call OI ~130), so sizing via options is harder"
+  ],
+  "catalyst": "Inspire V rollout reacceleration plus progressive CMS/prior-auth de-risking through 2026 and ASC expansion",
+  "catalyst_timing": "Through 2026; next quarterly print for evidence of growth re-inflection",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium); accumulate on a growth re-inflection. LEAPS only if liquidity improves",
+  "key_risk": "GLP-1 adoption structurally shrinks the OSA implant TAM faster than Inspire V and ASC expansion can offset",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows procedure volumes still declining with no Inspire V inflection, or management cuts full-year guidance again"
+}

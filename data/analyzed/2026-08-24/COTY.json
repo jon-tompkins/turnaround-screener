@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty was beaten down by a struggling Consumer Beauty division (CoverGirl, Rimmel, Max Factor), excess inventory, tariffs and the loss of the Gucci Beauty license. FY26 is an explicit 'transition year'; the bull case is that its stronger Prestige fragrance portfolio (Burberry, Hugo Boss, Marc Jacobs) drives a return to like-for-like growth in 2H FY26.",
+  "bullish_points": [
+    "Fragrance remains a genuine bright spot in beauty and is the core of Coty's Prestige business",
+    "Stock is deeply depressed long term (~35% of its 200-week MA) with revenue still ~$5.8B and 63% gross margins",
+    "Management guiding to a return to growth in 2H FY26; Marc Jacobs Beauty relaunch cited as a turnaround driver",
+    "Positive free cash flow (~$363M) despite GAAP operating losses",
+    "Liquid options (call OI ~5,700) for expressing the view with defined risk"
+  ],
+  "bearish_points": [
+    "FY26 like-for-like sales still fell ~5%; Q3 guidance calls for another mid-single-digit LFL decline led by Consumer Beauty weakness",
+    "Returning the Gucci Beauty license to Kering costs ~$400M ($250M upfront) and removes a revenue stream ~a year early",
+    "Net debt is heavy: EV ~$5.9B vs ~$2.4B market cap; leverage limits margin for error",
+    "JAB controls ~54%; a controlled company with a large potential overhang and misaligned minority interests",
+    "Tariffs and excess inventory continue to pressure gross profit; no insider buying to signal a bottom"
+  ],
+  "catalyst": "2H FY26 inflection back to like-for-like growth, plus Prestige fragrance momentum and Marc Jacobs relaunch traction",
+  "catalyst_timing": "2H FY26 (calendar H1 2027); next quarterly print is the near-term read",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small-to-medium starter spot position; wait for confirmation of the 2H inflection before adding",
+  "key_risk": "Consumer Beauty keeps deteriorating and the promised 2H growth inflection slips, leaving a levered balance sheet exposed",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows Prestige/fragrance also decelerating or leverage rising; would pass if the 2H growth guide is walked back"
+}

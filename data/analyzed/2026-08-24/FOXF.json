@@ -1,0 +1,30 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Fox Factory (premium ride-dynamics products across bikes, powersports/off-road, and aftermarket applications) was crushed by a bike-channel inventory glut, weak discretionary demand, and tariff-driven margin compression. The turnaround is now visibly underway: Q2 2026 beat on EBITDA, management raised the full-year sales view, and Powersports grew ~22.5% YoY with a mapped margin recovery into 2H.",
+  "bullish_points": [
+    "Q2 2026 EBITDA beat (~$5M) and a raised full-year 2026 sales outlook — a real inflection, not just hope",
+    "Powered Vehicles / Powersports surged +22.5% YoY in Q2 (+28% 1H), the clear bright spot",
+    "Clear margin recovery path guided: ~12.2% Q2 EBITDA margin stepping to ~13.6% Q3 and ~15.6% Q4 as tariffs anniversary and cost savings land",
+    "Bike stabilizing: expected roughly flat with strong margins, and new e-bike products reportedly sold out",
+    "Strong price momentum confirms the 'recovering' mode (+26.7% over 30 days, well above 200-day MA)"
+  ],
+  "bearish_points": [
+    "Stock has already run hard (+26.7% in 30 days; ~122% of its 100-day MA) — much of the near-term recovery may be priced in",
+    "TTM GAAP profitability is deeply negative (profit margin ~-20%), reflecting prior write-downs and weak volumes",
+    "Gross margins compressed on unmitigated tariffs plus steel/aluminum inflation; the 2H margin ramp is a guide, not a fact",
+    "Small cap (~$915M) with ~$680M debt; discretionary end-markets (bikes, off-road) remain consumer-sensitive",
+    "Options are illiquid (call OI ~76), so this is effectively a spot-only expression"
+  ],
+  "catalyst": "Q3/Q4 2026 margin step-up as tariffs anniversary, cost-savings phase 2 lands, and PVG recovers on easing F-150 chassis supply",
+  "catalyst_timing": "Q3 2026 (Nov) and Q4 2026 earnings",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot position, but wait for a pullback given the sharp run; scale in on dips toward the 100-day MA",
+  "key_risk": "Discretionary demand (bike channel) re-breaks down or tariff drag persists, and the guided 2H margin ramp fails to materialize",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Bike channel inventory worsens again or Q3 margins fail to step up as guided; would pass on chasing further strength without a pullback"
+}

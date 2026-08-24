@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a global customer-experience/BPO outsourcer, has been derated on fears that generative AI structurally disrupts its seat-based revenue model, compounded by client offshoring and a Q2 2026 guidance cut that dropped the stock ~22%. The bull case is a very low multiple plus its AI-native iX Suite (contract signings reportedly +400% YoY) pivoting the mix toward higher-value work.",
+  "bullish_points": [
+    "Optically very cheap: ~$1.55B market cap on ~$10B revenue with positive free cash flow (~$776M)",
+    "iX Suite AI contract signings reportedly up 400% YoY, a possible bridge from labor arbitrage to outcome-based pricing",
+    "Sell-side consensus still 'Buy' (7 Buy / 2 Hold) even after price-target cuts to ~$25",
+    "Post-cut expectations are low; any stabilization in guidance could drive a sharp mean-reversion given the leverage"
+  ],
+  "bearish_points": [
+    "The core disruption fear is fundamental, not sentiment: AI can genuinely compress seat-based BPO revenue faster than iX Suite scales",
+    "High financial leverage: ~$5.5B debt vs ~$1.55B market cap (EV ~$6.8B) magnifies downside if EBITDA erodes",
+    "TTM net margin is negative (-13%); management cut full-year 2026 guidance on accelerated client offshoring",
+    "Insiders were net sellers over 6 months (net -5.9M shares, including a single ~6M-share sale) — no bottom signal",
+    "Options are illiquid (call OI ~317; IV data looks unreliable), so this is effectively a spot-only name"
+  ],
+  "catalyst": "Evidence that iX Suite revenue offsets legacy BPO erosion, or a guidance stabilization that ends the downgrade cycle",
+  "catalyst_timing": "Next 1-2 quarterly prints (Q3/Q4 2026)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Small speculative spot / watchlist only; this is a high-leverage value-trap-risk name, size accordingly",
+  "key_risk": "AI structurally destroys the seat-based BPO model faster than iX Suite grows, and the debt load turns a value trap into permanent impairment",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Next print shows further offshoring-driven revenue declines with iX Suite still immaterial to revenue, or leverage rising"
+}

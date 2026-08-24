@@ -1,0 +1,30 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter (Spectrum) has been derated toward multi-year lows as broadband subscriber losses accelerated (-172k in Q2 2026) amid fixed-wireless and fiber competition, producing a fourth consecutive quarterly revenue decline against a heavy debt load. The bull case is deep value: massive free cash flow, growing mobile (12M lines), shrinking video losses, and the just-closed $34.5B Cox merger with $800M of targeted synergies.",
+  "bullish_points": [
+    "Very large insider buying: net +1.58M shares over 6 months across 22 purchase transactions — a strong bottom-fishing signal",
+    "Substantial free cash flow (~$2.2B) supports deleveraging and buybacks even amid revenue declines",
+    "Cox merger (closed, $34.5B) adds scale with ~$800M of identified synergies",
+    "Mobile is a real growth engine (~12M lines) and video subscriber losses are shrinking sharply",
+    "Deeply depressed valuation: ~47% of the 200-week MA and ~19% below the 200-day, with improving 30-day momentum (+13%)"
+  ],
+  "bearish_points": [
+    "Enormous leverage: ~$96.7B total debt (EV ~$119B vs ~$20B equity) in a higher-for-longer rate environment",
+    "Core broadband is in secular decline: fixed wireless (T-Mobile, Verizon) and fiber structurally erode the subscriber base",
+    "Four consecutive quarters of revenue decline; the top line has not yet stabilized",
+    "Merger integration risk and California-imposed investment conditions add near-term cost",
+    "A levered equity stub means small changes in EBITDA/rates swing the equity value hard"
+  ],
+  "catalyst": "Cox synergy realization plus broadband sub-loss stabilization and continued mobile growth translating into FCF/equity de-risking",
+  "catalyst_timing": "Next 2-3 quarters (2H 2026 into 2027) as merger integration and network upgrades progress",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Starter spot position for deep-value/insider-buying exposure; longer-dated LEAPS an option given liquid chain",
+  "key_risk": "Fixed-wireless/fiber keep structurally shrinking broadband while the ~$97B debt load caps equity upside and amplifies downside",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Broadband net losses keep accelerating with no stabilization, or merger synergies slip and leverage metrics deteriorate"
+}
