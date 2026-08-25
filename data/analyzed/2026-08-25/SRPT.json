@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Sarepta collapsed (~-86% over 12 months) after three patient deaths from acute liver failure tied to its AAVrh74 gene-therapy platform, an FDA request to suspend Elevidys distribution, clinical holds on multiple programs, and class-action suits. The 'basing' setup reflects a stock trying to find a floor amid an unresolved safety/regulatory crisis.",
+  "bullish_points": [
+    "Off the 52-week low ($14.68 vs $18.39 spot); recent quarters beat EPS (Q2 +27.6%, Q1 +202%), and the exon-skipping (EXONDYS/VYONDYS/AMONDYS) franchise still generates ~$2B revenue",
+    "Forward P/E ~7.1 and P/B ~1.27 price in a lot of bad news; Roche/Arrowhead collaborations retain optionality",
+    "Any FDA resolution allowing Elevidys distribution to resume would be a sharp positive re-rate catalyst",
+    "Solid liquidity: $788M cash, current ratio 4.4 — not a near-term solvency risk"
+  ],
+  "bearish_points": [
+    "Core safety crisis is unresolved: 3 deaths, distribution suspension, and clinical holds across the AAVrh74 platform — an open-ended, potentially existential overhang",
+    "Revenue -34% YoY and gross margin -17% TTM; Elevidys (the growth engine) is effectively offline",
+    "Active class-action litigation adds legal/financial tail risk and management-credibility damage",
+    "Debt $1.06B > cash; 'hold' consensus with target dispersion from $5 to $38 signals genuine binary uncertainty"
+  ],
+  "catalyst": "FDA decision on resuming Elevidys distribution / lifting clinical holds; updated safety mitigation plan. Q3 earnings 2026-11-04 as a checkpoint.",
+  "catalyst_timing": "FDA path is open-ended (no fixed date); next earnings 2026-11-04",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / watchlist only. This is a falling-knife biotech with an unresolved, potentially existential safety-regulatory overhang. If any position, a tiny speculative call spread sized to lose 100% — not a spot commitment.",
+  "key_risk": "The FDA does not permit Elevidys/AAVrh74 programs to resume (or another death occurs), permanently impairing the growth franchise and cratering the equity.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "No credible line of sight to distribution resumption, additional adverse safety events, or escalating litigation — i.e., the current base case, hence the low conviction."
+}

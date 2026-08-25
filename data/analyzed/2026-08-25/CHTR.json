@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter cratered (~48% off highs, 'worst day ever' in 2026) as broadband subscriber losses accelerated under fixed-wireless and fiber competition. The bull case rests on the just-closed $34.5B Cox merger, huge FCF, and a rock-bottom multiple; the bear case is a secular broadband melt on a mountain of debt.",
+  "bullish_points": [
+    "Cox merger closed ($34.5B) — creates the largest US broadband/video provider, ~37M customers across 45 states, with synergy and scale upside",
+    "Deep value on cash earnings: trailing P/E 3.8, forward 3.3; EV/EBITDA 5.5; FCF $2.2B and operating cash flow $16.5B",
+    "Mobile is a genuine growth vector (12M+ lines and climbing), partially offsetting broadband erosion",
+    "Street mean target (~$184) sits well above spot ($147), implying material upside if losses stabilize"
+  ],
+  "bearish_points": [
+    "Broadband bleeding: -172k subs in Q2 2026 (worse than -120k in Q1) — the trend is deteriorating, not stabilizing",
+    "Crushing leverage: total debt $96.7B, debt/equity 441%, current ratio 0.36 — equity is a thin sliver on a huge capital structure",
+    "Cox integration risk layered on top of an already-pressured core; merger timing/synergy realization uncertain",
+    "Analyst split skews cautious (more Holds/Sells than Buys); FCF inflection could slip if ARPU compresses"
+  ],
+  "catalyst": "Q3 2026 earnings (Oct 30) — first look at broadband-sub trajectory and early Cox integration; any sign losses are stabilizing would re-rate the equity given the low multiple",
+  "catalyst_timing": "Q3 earnings 2026-10-30",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Watchlist / very small starter only. Wait for evidence broadband losses are stabilizing (a single quarter of moderation) before committing real size; the leverage makes this a knife until the trend turns.",
+  "key_risk": "Broadband subscriber losses keep accelerating, so ARPU compression delays the FCF inflection and the 441% debt load re-rates the thin equity sharply lower.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows broadband losses widening again or Cox integration stumbles; only turns actionable once sub losses visibly moderate."
+}

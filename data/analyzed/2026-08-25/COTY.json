@@ -1,0 +1,28 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty was beaten down on soft prestige-fragrance sell-through, mass-beauty share loss (CoverGirl/Rimmel), and a debt overhang from its legacy P&G-beauty acquisition. The recovering thesis: deleveraging is working and the portfolio is being rationalized, but growth remains anemic.",
+  "bullish_points": [
+    "Q4 FY26 beat: like-for-like sales -1% vs guidance of mid-single-digit decline; strong cash generation",
+    "Meaningful deleveraging — net debt down ~$840M YoY to $2.9B, leverage ~3.4x with a stated ~2x long-term target; FY26 FCF $348M (+~$70M YoY)",
+    "Trades below book (P/B 0.82) and at ~10x forward earnings; JAB majority ownership aligns with a patient value fix",
+    "Returning Gucci Beauty license to Kering for ~$400M ($250M upfront) — cleans up a low-margin obligation and adds cash"
+  ],
+  "bearish_points": [
+    "Management declined to issue FY27 guidance amid 'Coty Curated' rollout and strategic review — reduced visibility is a red flag for a leveraged name",
+    "Prestige fragrance sell-out -1% in H2; flagship launches not yet creating portfolio halo",
+    "Gucci exit removes a low-double-digit % of revenue by FY28 with a sizable mechanical profit hit absent offsets",
+    "Current ratio 0.755 and total debt $3.3B keep the balance sheet fragile; operating margin still negative TTM"
+  ],
+  "catalyst": "Q1 FY27 earnings and any strategic-review outcome (further brand divestitures / capital-structure actions); evidence that deleveraging continues without volume collapse",
+  "catalyst_timing": "Next earnings 2026-11-05; strategic review ongoing through FY27",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot around $2.60-2.80 as a deleveraging/deep-value play; size for volatility given sub-$3 price and leverage. Spot only — no need to reach for options here.",
+  "key_risk": "Fragrance/mass volumes deteriorate faster than debt comes down, so leverage re-rates the equity lower despite the cheap multiple (classic levered value trap).",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Leverage stops falling, another guidance withdrawal/cut lands, or LFL sales turn sharply negative — any of which breaks the deleveraging thesis."
+}

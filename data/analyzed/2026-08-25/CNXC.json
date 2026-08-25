@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix (CX/BPO) has been crushed by the 'killed by AI' narrative — the market fears generative AI displaces its contact-center core — compounded by ~3x leverage from the 2023 WebHelp deal and trimmed 2026 guidance. The bull case is extreme cheapness plus early AI monetization.",
+  "bullish_points": [
+    "Extraordinarily cheap: forward P/E ~2.2, P/B 0.58, EV/EBITDA 5.4, EV/Rev 0.68 — priced for structural decline",
+    "Robust cash generation: FCF $775M against a $1.57B market cap (~half the cap in annual FCF)",
+    "AI-related bookings reportedly +400%; iX/Intelligent Experience recurring base is the 'AI as ally, not killer' hook",
+    "Management prioritizing debt reduction and FCF over buybacks — deleveraging can re-rate the equity even on flat revenue",
+    "Near-term hard catalyst: Q3 earnings 2026-09-24, where AI monetization traction and margin trajectory get tested"
+  ],
+  "bearish_points": [
+    "Secular AI-disruption risk is real, not just sentiment — if agentic AI compresses seat-based CX volumes, the core shrinks",
+    "2026 guidance trimmed to ~0.25%-1.25% cc revenue growth; TTM profit margin -13% (goodwill/amortization heavy)",
+    "High leverage: debt/equity ~204%, total debt $5.5B — limits flexibility if revenue stalls near zero",
+    "Only 4 analysts, recommendation 'none' — thin coverage, prone to air-pocket moves"
+  ],
+  "catalyst": "Q3 2026 earnings (Sept 24) — read on AI bookings converting to revenue, margin stabilization, and pace of debt paydown",
+  "catalyst_timing": "Q3 earnings 2026-09-24 (near-term)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot $25-26 as deep-value/AI-optionality; keep it small ahead of the binary Sept 24 print. Wait for post-earnings confirmation before adding.",
+  "key_risk": "AI genuinely erodes the seat-based CX book faster than the iX/AI recurring base can offset, turning the low multiple into a permanent value trap on a levered balance sheet.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Sept 24 print shows revenue turning negative or AI bookings not converting to revenue/margin; or leverage stops improving."
+}

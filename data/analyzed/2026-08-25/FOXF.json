@@ -1,0 +1,29 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "FOXF was hammered by a bike-channel inventory glut and soft powersports/truck-accessory demand through 2024-2025, plus Marucci integration drag. Q2 2026 marked a clear operational inflection: EPS $0.37 vs $0.185 est (~100% beat), powersports +22.5%, cost-out programs biting, and management raised full-year sales guidance.",
+  "bullish_points": [
+    "Q2 2026 blowout: adj EPS $0.37 doubled the $0.185 consensus; adj EBITDA topped high end of guide by ~$5M",
+    "Full-year revenue guidance RAISED to $1.42B-$1.47B; adj EBITDA tightened to $176M-$196M with H2 margin expansion expected",
+    "Powersports segment +22.5%; bike volumes normalizing as supplier disruptions resolve; delayed Marucci bat launch shifts revenue into H2",
+    "Off the 52-week lows ($13.08) but still ~30% below the 52-week high ($30.56) — inflection not yet fully priced",
+    "Positive FCF ($48.9M) and healthy current ratio (3.1); analyst mean target ($21.83) roughly at spot with recent upgrades likely"
+  ],
+  "bearish_points": [
+    "Still GAAP-unprofitable on a TTM basis (profit margin -20.4%, weighed by prior impairments); revenue -4.5% YoY",
+    "Debt/equity ~102%, total debt $680M vs $61M cash — leverage limits margin for error if demand softens",
+    "Consumer-cyclical exposure (high-end bikes, trucks, powersports) is discretionary and rate/tariff sensitive",
+    "Recovery thesis leans on H2 cost-out execution and product-launch timing that can slip"
+  ],
+  "catalyst": "Q3 2026 earnings (Nov 5) confirming H2 margin expansion and the guidance raise, plus continued powersports/bike volume normalization",
+  "catalyst_timing": "Q3 2026 earnings 2026-11-05; H2 margin ramp through year-end",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium starter spot at $21-22; add on a hold of the 50-day post-earnings. Aggressive accounts can consider Jan 2027 $22-25 calls given the guidance-raise momentum.",
+  "key_risk": "A discretionary-demand rollover (bike/powersports/truck) in H2 that stalls the guided margin expansion and re-exposes the leveraged balance sheet.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 22,
+  "would_skip_if": "Q3 print misses the raised guide or powersports growth decelerates sharply; or the stock extends above ~$26 (52w-high zone) before entry, killing the risk/reward."
+}
