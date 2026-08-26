@@ -1,0 +1,29 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "INSP fell from ~$147 to ~$60 (down ~59% off highs) on a temporary U.S. coding/reimbursement disruption for its Inspire sleep-apnea implant plus GLP-1-eats-obesity/OSA-demand fears. The underlying franchise is intact: 86% gross margins, GAAP-profitable, net cash, and management just raised full-year guidance despite the coding noise.",
+  "bullish_points": [
+    "Q2 2026 print: revenue $200.6M; despite a 7.6% YoY dip from coding/reimbursement disruption, management RAISED FY2026 revenue guidance to $835-875M and EPS to $1.05-1.45 — a raise into a scare is a strong tell",
+    "High-quality unit economics: ~86% gross margins, 15% profit margin, debt/equity ~3.5 (essentially net cash), so no financing risk during the air-pocket",
+    "'Project Horizon' restructuring frees ~$30M for growth reinvestment, setting up a 2027 reacceleration",
+    "Net insider buying over trailing 6m (+32k shares, buys outnumber sells 18:5); price is +20% over the last 30 days, consistent with a base forming off the low",
+    "Management explicitly pushed back on the GLP-1 bear case, stating GLP-1s do not change overall demand for Inspire therapy"
+  ],
+  "bearish_points": [
+    "The coding/reimbursement disruption is the root cause of the revenue decline and its resolution timing is not fully in the company's control",
+    "GLP-1 overhang is a real multi-year sentiment weight on any OSA-adjacent name even if near-term volumes hold",
+    "Still ~59% below its 52-week high and only 9.5% below its 200d MA — 'basing', not confirmed recovery; risk of re-break if the next quarter disappoints",
+    "Valuation is not cheap on a beaten-down-turnaround basis (~$1.75B cap on ~$850M revenue); this is a quality-at-a-discount story, not a deep-value one"
+  ],
+  "catalyst": "Reimbursement/coding normalization flowing back into procedure volumes, plus Project Horizon reinvestment; confirmation would come on the Q3 2026 earnings call",
+  "catalyst_timing": "Q3 2026 earnings (early November 2026); coding normalization commentary through 2H 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium) in the low $60s; add on a confirmed reclaim of the 200d MA. Options are liquid if you prefer Jan/Mar 2027 calls to define risk.",
+  "key_risk": "Coding/reimbursement disruption persists or deepens into Q3/Q4, turning a temporary air-pocket into a structural demand reset and invalidating the raised guidance",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows the coding issue is not resolving and volumes keep sliding, or management walks back the FY guide"
+}

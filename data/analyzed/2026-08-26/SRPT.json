@@ -1,0 +1,29 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT cratered from the $140s to ~$18 (down ~87% off highs) after safety events (acute liver injury / patient deaths) tied to its Elevidys DMD gene therapy forced a label update and crushed volumes; TTM revenue is down 34% with negative gross margins. The bull case is a still-commercial rare-disease franchise trading near tangible value, a credible new CEO, and heavy insider accumulation.",
+  "bullish_points": [
+    "Very heavy insider buying/alignment: net +907k shares over 6m, including a 756k-share CEO award — management is loading up near the lows",
+    "Credible leadership reset: Michael Severino, M.D. (ex-Amgen vice chair) took over as CEO effective July 28, 2026",
+    "Efficacy signal intact: 3-year EMBARK data (Jan 2026) showed treated patients holding motor function above baseline vs. declining controls — the drug works, the problem is safety management, not efficacy",
+    "Multiple shots on goal: Japan launch (Roche milestone), ENDEAVOR Cohort 8 testing prophylactic sirolimus to reduce ALI risk, and a broader RNA/gene-therapy pipeline",
+    "Trades near enterprise value ~$2.3B on ~$2B revenue — a lot of bad news is priced in"
+  ],
+  "bearish_points": [
+    "Safety overhang is existential, not cosmetic: patient deaths from acute liver injury drove the collapse and any further event could gut the franchise",
+    "Financially deteriorating: revenue -34% YoY, negative gross margins (-17%), negative net margin — the P&L is going the wrong way",
+    "The key de-risking catalyst (Cohort 8 enhanced immunosuppression data) has no firm public readout date, so the safety cloud persists indefinitely in the meantime",
+    "Binary, headline-driven name — a single FDA action or trial death can move it 30%+ overnight in either direction"
+  ],
+  "catalyst": "ENDEAVOR Cohort 8 data showing prophylactic sirolimus meaningfully reduces acute liver injury, which would reopen the non-ambulant market and lift the safety overhang",
+  "catalyst_timing": "Cohort 8 enrollment underway (announced March 2026); data readout timing not firmly disclosed — likely 2027",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Very small speculative starter only, sized as a binary. If expressing via options, defined-risk long calls (Jan 2027) are preferable to spot given the headline gap risk in both directions.",
+  "key_risk": "Another Elevidys-related death or a punitive FDA label/withdrawal action, which would impair the core revenue base and the equity",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "You cannot stomach single-headline 30%+ drawdowns, or a fresh safety signal emerges before Cohort 8 data"
+}

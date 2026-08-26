@@ -1,0 +1,29 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "CHTR collapsed from ~$286 to ~$156 (down ~45%) on accelerating broadband subscriber losses (172k lost in Q2 2026) as fixed-wireless and fiber overbuilders eat into cable. The bull case is a deleveraging, buyback-heavy FCF machine that just closed the $34.5B Cox merger, adding scale, mobile growth, and $800M of targeted synergies.",
+  "bullish_points": [
+    "Cluster of open-market insider buying: net +1.58M shares over 6m, including CEO Winfrey and multiple directors buying $170-175/share in April — insiders stepping in above the current price",
+    "Cox merger (closed Aug 2026) creates the largest U.S. broadband/video provider (~37M customers, 45 states) with synergies raised to ~$800M",
+    "Mobile is the growth engine — ~12M lines and climbing — partially offsetting cable erosion; video losses moderating",
+    "Prodigious free cash flow funds continued buybacks at a depressed multiple; +18.6% over the last 30 days suggests a base is forming",
+    "Profitable (9% net margin) with 55% gross margins — this is a cash-generative operating business, not a broken one"
+  ],
+  "bearish_points": [
+    "Extreme leverage: enterprise value ~$120B against a ~$21B market cap (debt/equity ~442) — equity is a thin, highly-levered claim, so subscriber trends dominate the stock",
+    "Secular broadband decline is the core problem and it is accelerating, not stabilizing (120k lost Q1, 172k lost Q2)",
+    "Merger integration risk on top of a declining base; synergy realization is multi-year and not guaranteed",
+    "Fixed wireless and fiber competition shows no sign of easing"
+  ],
+  "catalyst": "Broadband net-add trend inflecting (losses narrowing) plus visible Cox synergy capture and continued aggressive buybacks shrinking the share count",
+  "catalyst_timing": "Q3 2026 earnings (late October 2026); Cox synergy milestones through 2027",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot in the mid-$150s alongside the insider-buying cluster; size modestly given the leverage. Prefer common over options — the high debt makes the equity volatile and the thesis is a multi-quarter deleveraging story.",
+  "key_risk": "Broadband subscriber losses keep accelerating, so the deleveraging math breaks and the levered equity re-rates sharply lower",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 broadband losses exceed Q2's 172k or FCF/buyback pace slows, signaling the deleveraging thesis is failing"
+}
