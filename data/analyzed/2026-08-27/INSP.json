@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Down ~58% from its $147 high on fears that GLP-1 weight-loss drugs (Zepbound, OSA-indicated since late 2024) and new competitor Nyxoah shrink the future implant pool, plus a self-inflicted prior-authorization/coding reimbursement drag. Business itself remains high-quality and is inflecting back to GAAP profitability.",
+  "bullish_points": [
+    "Extraordinary earnings-beat streak: reported EPS blew past estimates four straight quarters (+157%, +138%, +142% surprises), and Q2 2026 swung to a net profit vs a loss estimate.",
+    "Q2 2026 revenue of $200.6M beat, and management RAISED full-year guidance to $835-875M / up to $0.17 EPS; stock jumped ~13-20% on the print.",
+    "Pristine balance sheet: $321M cash vs $29M debt, 86% gross margins, FCF-positive ($95M), current ratio 8.5 — no financing risk while it works through the air pocket.",
+    "Net insider buying over last 6m (+32k shares net, 18 buys); management reframes GLP-1s as a potential funnel (weight loss makes more patients implant-eligible).",
+    "Stock bottomed at $38.91 and is +19% over 30 days — basing pattern with technical stabilization."
+  ],
+  "bearish_points": [
+    "Revenue is actually DECLINING (-7.6% YoY) — rare for a former growth darling and the core of the bear thesis that TAM is structurally eroding.",
+    "Forward P/E ~40x vs trailing ~14x: the market is betting forward earnings keep falling as GLP-1 substitution bites.",
+    "GLP-1 substitution is real — CEO admitted patients are delaying implant to try Zepbound first, and he can't yet quantify the drag.",
+    "New direct competitor Nyxoah (leadless Genio) FDA-approved, adding pricing/share pressure.",
+    "Options open interest is thin (140 call / 214 put) despite listed contracts — hard to build a clean options position."
+  ],
+  "catalyst": "Q3 2026 earnings — proof of whether the guidance raise holds and whether GLP-1 delay is a temporary air pocket or a structural leak.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-11-02 (EPS est $0.09)",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter position (small-to-medium). Options OI too thin; use equity. Add on confirmation above the 200d MA.",
+  "key_risk": "GLP-1 adoption accelerates and the revenue decline deepens rather than stabilizes, validating the terminal-decline bear case and re-breaking the base.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows revenue decline accelerating or another guidance cut; or if you can't stomach a battleground name where the forward multiple (~40x) offers no cushion on a miss."
+}

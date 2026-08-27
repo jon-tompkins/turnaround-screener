@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "A $10B-revenue customer-experience (BPO) outsourcer cut in half on the 'AI kills call centers' fear plus a heavy post-Webhelp debt load. Trades at ~2.3x forward earnings and 0.63x book as the market prices in secular decline; the turnaround bet is that AI becomes a bookings tailwind while FCF pays down debt.",
+  "bullish_points": [
+    "Extreme cheapness: ~2.3x forward P/E, 0.63x book, 5.4x EV/EBITDA — deep-value optionality if revenue merely stabilizes.",
+    "Strong cash generation: record Q2 operating cash flow $258M, ~$242M adjusted FCF, $775M TTM FCF; management prioritizing debt reduction over buybacks.",
+    "AI narrative flipping from threat to tailwind: iX Suite deals +400% YoY, large jump in AI-related bookings, growing recurring 'Intelligent Experience' revenue.",
+    "Insider buying by CEO (Caldwell) and CFO (Valentine) at $21-28, near current levels — alignment at the lows."
+  ],
+  "bearish_points": [
+    "Revenue growth is stuck near zero (FY26 guide cut to +0.25% to +1.25% constant-currency) — no top-line inflection yet.",
+    "Heavy leverage: $5.5B debt, debt-to-equity ~204x, EV ~$6.9B dwarfs the $1.7B market cap — equity is a thin sliver of the capital structure.",
+    "Negative TTM profit margin (-13%, likely goodwill/impairment) despite positive cash flow — GAAP optics remain ugly.",
+    "Large-holder overhang: Groupe Bruxelles Lambert dumped 6.0M shares (~$133M) in April — a big seller against the tape.",
+    "Core BPO is exactly the labor-arbitrage business most exposed to genuine agentic-AI disruption; the tailwind claim is unproven."
+  ],
+  "catalyst": "Q3 2026 earnings — evidence on whether AI bookings convert to revenue growth and whether debt paydown is visibly progressing.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-09-24 (EPS est $2.81)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small starter. Deep-value/value-trap coin flip; size for a full drawdown to the $19 low. Wait for Q3 revenue trend before adding.",
+  "key_risk": "AI genuinely compresses BPO volumes and revenue turns negative while the debt load leaves no margin for error — the classic value trap.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Q3 shows revenue turning negative, AI bookings failing to convert, or further large-holder selling; leverage leaves no room for an operational miss."
+}

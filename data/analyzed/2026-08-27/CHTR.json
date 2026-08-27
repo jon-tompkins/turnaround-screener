@@ -1,0 +1,30 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Spectrum has been cut ~65% from ~$286 as the market extrapolates broadband subscriber losses (172k internet subs lost in Q2 2026) into terminal cable decline, pushing the stock to ~3.4x forward earnings on a business still generating multi-billion-dollar FCF. The bet is a mechanical FCF inflection as capex rolls off, plus Cox scale and Spectrum Mobile growth.",
+  "bullish_points": [
+    "Mechanical FCF inflection: capex guided down hard from ~$11.4B (2026) toward $7.5-8.0B (2028-29), driving FCF/share from ~$33 toward ~$64 — an eventual sub-3x P/FCF at current price.",
+    "Cox merger CLOSED ($34.5B) — now the largest US ISP by subscriber count (~37M customers, 45 states); synergies RAISED to at least $800M run-rate.",
+    "Spectrum Mobile compounding: >12M lines and adding ~400k/quarter — the fastest-growing US mobile business and a genuine broadband bundle moat.",
+    "Aggressive net insider buying: +1.58M net shares over 6m (79% buy ratio), including CEO Winfrey and multiple directors buying $1M+ each in April near current levels.",
+    "Very high short interest (~51.6% of float) — sets up squeeze fuel on any positive surprise; trailing/forward P/E ~3.9x/3.4x with real earnings behind it."
+  ],
+  "bearish_points": [
+    "Broadband is still bleeding subscribers to fixed-wireless (T-Mobile/Verizon) and mobile substitution — the secular driver of the de-rating has not reversed.",
+    "Enormous leverage: ~$96.7B debt, EV ~$119B, debt-to-equity ~442x, current ratio 0.36 — rate/refinancing sensitivity and thin equity cushion.",
+    "Buybacks paused near-term to prioritize deleveraging (targeting ~3.5x post-Cox), delaying the per-share compounding thesis.",
+    "Cox integration risk on top of an already-complex network-evolution capex program; execution must be near-flawless.",
+    "Video/linear secular decline continues to shrink a legacy revenue line even as it narrows."
+  ],
+  "catalyst": "Q3 2026 earnings — first post-Cox-close print; watch broadband net-add trajectory, mobile line adds, Cox synergy capture, and capex/FCF trajectory.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-10-30 (EPS est $10.02)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot core position (medium). Options are liquid (OI ~4.5k call / 5.0k put) — Jan 2027 calls viable for leveraged expression given high short interest. Add on a broadband net-add stabilization signal.",
+  "key_risk": "Broadband losses accelerate rather than stabilize post-Cox and the FCF inflection slips, leaving the market focused on the $96B debt stack instead of the deleveraging math.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows broadband losses widening again, Cox integration friction/synergy delays, or any refinancing stress — leverage means a subscriber-trend miss compounds fast."
+}
