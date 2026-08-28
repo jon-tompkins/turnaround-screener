@@ -1,0 +1,27 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty sits near multi-year lows (~$2.86, 52-week range $1.82-$4.56) after pulling its fiscal 2026 guidance, the departure of CEO Sue Nabi, and underperformance in Consumer Beauty. An interim CEO launched a 'Coty. Curated' plan, is returning the Gucci Beauty license to Kering for ~$400M, and is reviewing the mass color cosmetics business.",
+  "bullish_points": [
+    "'Coty. Curated' restructuring plus ~$400M Gucci license return gives cash and a cost-savings lever ('belts and suspenders' approach)",
+    "Forward P/E ~11 on a portfolio that still has prestige fragrance strength, near washed-out sentiment",
+    "Recovering screen mode with price ~8% above its 200d MA; large fragrance franchise remains a real asset"
+  ],
+  "bearish_points": [
+    "Guidance was pulled and like-for-like revenue is still declining (-3% in Q2 FY26); Q1 FY27 guided to a further low-to-mid-single-digit LFL decline",
+    "Heavy leverage with thin liquidity: ~$3.30B debt vs only $176M cash (debt/equity ~98) — little room if the beauty cycle stays soft",
+    "Leadership vacuum (interim CEO) plus lawsuits cloud the turnaround; no insider buying at all in the last 6 months",
+    "Losing the Gucci license removes a revenue stream that restructuring must scramble to offset"
+  ],
+  "catalyst": "Interim-to-permanent CEO clarity and execution on 'Coty. Curated' cost savings + a stabilization in Consumer Beauty LFL trends",
+  "catalyst_timing": "Fiscal 2027 (multi-quarter); no single hard near-term event",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Watchlist only / pass. Wait for a permanent CEO and one quarter of LFL stabilization before touching it; a highly-levered falling knife with no insider conviction.",
+  "key_risk": "Continued LFL declines against ~$3.3B of debt force further guidance cuts or a balance-sheet event before the turnaround takes hold",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Always for now — no permanent CEO, guidance withdrawn, LFL still negative, zero insider buying, heavy leverage"
+}

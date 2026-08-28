@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter collapsed ~65% from a ~$422 high to ~$150 as broadband subscribers bleed to fixed-wireless and fiber (down 172k in Q2 2026, a 4th straight quarterly revenue decline). It just closed the $34.5B Cox merger, making it the largest US internet/video provider at ~37M customers, and trades at a low-single-digit forward multiple with heavy insider buying.",
+  "bullish_points": [
+    "Forward P/E ~3.4 on a large cash-generative franchise; classic levered FCF/buyback deleveraging setup",
+    "Cox merger closed — scale, ~12M mobile lines converging, and cost/synergy runway; Street mean target well above current price",
+    "Very strong insider buying: 1,672,194 shares purchased across 22 transactions vs 87,833 sold in last 6 months",
+    "Basing mode; deeply washed out after worst single-day drop ever, sentiment extremely negative"
+  ],
+  "bearish_points": [
+    "Secular broadband share loss is ongoing, not one-off — subs fell 120k in Q1 then 172k in Q2, worse than estimates",
+    "Extreme leverage: ~$96.7B total debt vs $509M cash (debt/equity ~442); refinancing risk if rates stay high",
+    "Revenue still declining (-1.7% YoY) with merger integration execution risk on top",
+    "Price sits ~19% below its 200d MA — no confirmed trend reversal yet"
+  ],
+  "catalyst": "Cox integration synergies + aggressive buybacks translating declining revenue into growing FCF/share, and any stabilization in broadband net adds (mobile bundle, rural build-out)",
+  "catalyst_timing": "Next 2-4 quarters as merger synergies and mobile momentum show up; Q3/Q4 2026 broadband trend is the key tell",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Starter spot only, sized small given leverage. This is a levered FCF/buyback bet, not a growth story. Add on a confirmed inflection in broadband net adds.",
+  "key_risk": "Broadband losses accelerate while $96B of debt has to be refinanced at higher rates, compressing equity value in a levered capital structure",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You're uncomfortable with 400%+ debt/equity, or broadband net losses widen further next quarter"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "LULU",
+  "company_name": "lululemon athletica inc.",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "turnaround_reason": "Lululemon fell ~48% from ~$226 to ~$118 as US/Americas demand stalled (Q1 2026 Americas comps -5%) and the company cut full-year guidance, even as international (China +30%, intl comps +13%) stays strong. It's now cheap for the franchise at ~9.5x trailing / ~10.5x forward earnings with heavy insider buying.",
+  "bullish_points": [
+    "Premium global brand at a trough valuation (P/E ~9.5, well below its historical range) with international still compounding fast (China revenue +30%)",
+    "Strong insider buying: 65,369 shares purchased across 27 transactions vs 622 sold in last 6 months",
+    "Healthy balance sheet ($1.51B cash vs $2.14B debt) and deep options liquidity (call OI 8,652) for structured entries",
+    "Q2 FY2026 earnings due early September — a hard near-term catalyst that could mark the US bottom if comps stabilize"
+  ],
+  "bearish_points": [
+    "US turnaround is unconfirmed: North America guided to high-single-digit full-year decline, low-double-digit decline in Q2",
+    "EPS fell 35% YoY in Q1 on margin pressure; product launches criticized for failing to excite shoppers",
+    "Sits ~24% below its 200d MA and below its 100d MA — no trend confirmation, still basing",
+    "Tariff/margin headwinds and a still-soft US consumer could extend the comp decline"
+  ],
+  "catalyst": "Q2 FY2026 earnings and holiday product/newness cycle; a stabilization or beat on US comps would reprice the stock off trough multiples",
+  "catalyst_timing": "Q2 FY2026 earnings early September 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot into earnings; keep dry powder to size up if Q2 shows US comps flattening. Aggressive players can use defined-risk calls given liquid chain.",
+  "key_risk": "US comps keep deteriorating and guidance is cut again, confirming brand fatigue rather than a cyclical dip",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q2 US comps come in worse than the guided low-double-digit decline with no forward improvement"
+}

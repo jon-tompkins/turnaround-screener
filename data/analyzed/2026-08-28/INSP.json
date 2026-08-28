@@ -1,0 +1,28 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire fell ~58% from ~$147 to ~$61 as GLP-1 drugs (Zepbound approved for OSA) created a competitive overhang and CMS coding/reimbursement disruptions cut into revenue (Q2 2026 rev -7.6% to $200.6M). Profitability and cash flow still beat, the company launched 'Project Horizon' and raised its 2026 outlook, and the Inspire V rollout is underway.",
+  "bullish_points": [
+    "Still profitable with cash flow beating expectations despite the revenue dip; raised 2026 outlook",
+    "Reimbursement/coding disruption is viewed as progressively de-risking through 2026 — a fixable, not structural, headwind",
+    "Inspire V launch and ambulatory surgery center penetration are concrete growth levers; management argues GLP-1s expand the diagnosed OSA funnel long-term",
+    "Clean balance sheet ($321M cash vs only $29M debt); modest net insider buying (net +32k shares)"
+  ],
+  "bearish_points": [
+    "GLP-1 adoption is a real near-term revenue headwind the company itself acknowledges, and some physicians now try GLP-1s before Inspire therapy",
+    "Forward P/E ~40 vs trailing ~13.5 implies the market expects earnings to fall — rich on forward numbers",
+    "Revenue is still declining and the stock sits ~9% below its 200d MA — basing, not recovering",
+    "Single-product concentration in a category facing a structural pharma alternative"
+  ],
+  "catalyst": "CMS reimbursement/coding normalization plus Inspire V ramp re-accelerating revenue growth in 2H26",
+  "catalyst_timing": "Progressive through 2026; next quarterly print is the key checkpoint on reimbursement recovery",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot; wait for one clean quarter of reimbursement normalization before sizing up. Liquid options (ATM IV ~71%) allow defined-risk expressions.",
+  "key_risk": "GLP-1s structurally shrink the addressable implant market faster than Inspire V and funnel expansion can offset",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next quarter shows reimbursement headwinds persisting and revenue declines steepening"
+}

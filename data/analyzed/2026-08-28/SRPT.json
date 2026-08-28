@@ -1,0 +1,29 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Sarepta cratered from ~$150 in 2024 to the mid-teens after acute liver-failure deaths tied to its DMD gene therapy Elevidys forced a label update and shipment pause to non-ambulatory patients. Q1 2026 blew past estimates (adj EPS $3.16 vs $0.99, rev $730.8M vs $474.3M), a restructuring plus new CEO were announced, and management guides to Elevidys momentum rebuilding in 2H26 into 2027.",
+  "bullish_points": [
+    "Q1 2026 massive beat and RBC notes Elevidys sales stabilizing with costs controlled, giving visibility to near-term cash-flow positivity",
+    "Only FDA-approved gene therapy for Duchenne muscular dystrophy with a large multi-year eligible population; Japan launch (via Roche) added $40M milestone",
+    "Heavy insider buying: 914,804 shares purchased across 12 transactions in last 6 months vs only 7,239 sold",
+    "Forward P/E ~8.5 and price recovering hard (+27% 30d, +16% 5d), sitting 15% above its 200d MA in recovering mode",
+    "Guidance cut on 2026 was met with a +12.9% stock pop — bad news largely priced"
+  ],
+  "bearish_points": [
+    "Core overhang is patient deaths from acute liver failure; any additional safety signal in the ongoing enhancement study is thesis-ending",
+    "Elevidys safety-enhancement study timeline slipped roughly five months, delaying the key de-risking readout for non-ambulatory patients",
+    "Net debt position ($1.06B debt vs $788M cash); revenue and margin data fields incomplete in dossier (yfinance nulls on margins/EBITDA)",
+    "Gene-therapy competitive landscape and reimbursement scrutiny remain live risks"
+  ],
+  "catalyst": "Sequential recovery in Elevidys sales through 2H26/2027 plus readout from the gene-therapy safety-enhancement study that would clear the path back to non-ambulatory patients",
+  "catalyst_timing": "2H 2026 sales inflection; safety study readout slipped ~5 months into 2027",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium). For leverage, small long-dated calls (Jan 2027+) sized as a lottery given binary safety risk. Scale spot on confirmed sales re-acceleration.",
+  "key_risk": "A fresh Elevidys safety/mortality signal (or a bad safety-study readout) that reinstates shipment restrictions and reprices the franchise",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You cannot stomach binary biotech safety risk, or Elevidys sales fail to stabilize in the next reported quarter"
+}

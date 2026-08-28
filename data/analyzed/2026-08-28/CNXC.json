@@ -1,0 +1,27 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix fell ~51% from ~$58 to ~$28 on fears that AI is disrupting its core customer-experience/BPO business. Q2 2026 narrowly missed and full-year guidance was trimmed on accelerated client offshoring and cost pressure, even as its AI iX Suite bookings surged (contract signings +400% YoY). It trades at a forward P/E near 2.4, pricing in a lot of pain.",
+  "bullish_points": [
+    "Extremely cheap on forward earnings (~2.4x) with a widely-cited fair-value narrative around $35 vs the high-$20s price",
+    "AI iX Suite momentum real — signings +400% YoY and growing Intelligent Experience recurring revenue could offset legacy erosion over time",
+    "Webhelp integration synergies expected to expand non-GAAP operating margins; management shifting focus toward debt reduction"
+  ],
+  "bearish_points": [
+    "The bear case is existential: AI directly disrupts the labor-arbitrage core of BPO, and revenue growth plus margins have declined two years running",
+    "Very heavy leverage — ~$5.5B debt vs $256M cash (debt/equity ~204) — limits margin for error if revenue keeps slipping",
+    "Insider signal is negative on net: 66,108 shares bought but 6,000,000 shares sold in a single transaction (likely sponsor/large holder)",
+    "'Cheap for a reason' — a Seeking Alpha downgrade and thesis hinging on an unproven 2H26 margin recovery"
+  ],
+  "catalyst": "2H 2026 margin/cash-flow recovery validating the Webhelp synergy story, plus AI bookings converting to reported revenue faster than legacy erosion",
+  "catalyst_timing": "2H 2026 — needs one or two quarters of margin stabilization to confirm",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Small speculative spot only. This is a deep-value/high-leverage bet with a genuine secular-disruption tail risk; keep size tight.",
+  "key_risk": "AI compresses the core BPO business faster than iX Suite scales, and the heavy debt load turns a revenue miss into an equity wipeout",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You want to avoid AI-disruption tail risk on a highly-levered balance sheet, or 2H26 margins fail to inflect"
+}
