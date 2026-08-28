@@ -1,0 +1,300 @@
+{
+  "ticker": "LULU",
+  "fetched_at": "2026-08-28T13:35:41.195957",
+  "overview": {
+    "name": "lululemon athletica inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail",
+    "description": "lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails technical athletic apparel, footwear, and accessories for women and men under the lululemon brand in the United States, Canada, Mexico, China, Hong Kong, Taiwan, Macau, Greece, and internationally. It offers pants, shorts, tops, and jackets for athletic activities, such as yoga, running, training, and other activities. The company also provides fitness-inspired accessories. It sells its products through company-operated stores; seasonal stores, pop-ups, university campus retailers, and yoga and fitness studios; outlets; Like New, a re-commerce program; and its e-commerce website. The company was founded in 1998 and is based in Vancouver, Canada.",
+    "market_cap": 13398215680,
+    "enterprise_value": 13679979520,
+    "shares_outstanding": 108437957,
+    "float_shares": 104557041,
+    "short_ratio": 4.38,
+    "short_percent_of_float": 0.0998,
+    "held_by_insiders": 0.044239998,
+    "held_by_institutions": 0.78529,
+    "revenue_ttm": 11203543040,
+    "revenue_growth": 0.043,
+    "gross_margins": 0.55695,
+    "operating_margins": 0.11205,
+    "profit_margins": 0.13029,
+    "free_cashflow": 1133960960,
+    "operating_cashflow": 1935870976,
+    "total_cash": 1514728960,
+    "total_debt": 2136007936,
+    "debt_to_equity": 44.264,
+    "current_ratio": 2.226,
+    "trailing_pe": 9.553838,
+    "forward_pe": 10.528082,
+    "price_to_book": 2.7977593,
+    "ev_to_ebitda": 5.331,
+    "ev_to_revenue": 1.221,
+    "fifty_two_week_high": 225.98,
+    "fifty_two_week_low": 104.44,
+    "current_price": 117.9899,
+    "analyst_target_mean": 127.34615,
+    "analyst_target_high": 280.0,
+    "analyst_target_low": 88.0,
+    "recommendation": "hold",
+    "num_analysts": 26,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-09-03 16:00:00-04:00",
+        "EPS Estimate": 2.85,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-06-04 16:00:00-04:00",
+        "EPS Estimate": 1.68,
+        "Reported EPS": 1.69,
+        "Surprise(%)": 0.38
+      },
+      {
+        "Earnings Date": "2026-03-17 16:00:00-04:00",
+        "EPS Estimate": 4.78,
+        "Reported EPS": 5.01,
+        "Surprise(%)": 4.77
+      },
+      {
+        "Earnings Date": "2025-12-11 16:00:00-05:00",
+        "EPS Estimate": 2.21,
+        "Reported EPS": 2.59,
+        "Surprise(%)": 17.1
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 15,
+    "nearest_expiry": "2026-08-28",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 8652,
+    "total_put_oi": 10139
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 65369.0,
+        "Trans": 27
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 622.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 64747.0,
+        "Trans": 28
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 5023625.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.012999999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.012999999,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.0,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORFITT MARTHA A M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GENTILE LAURA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HENRY KATHRYN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BERGH CHARLES V",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LIST-STOLL TERI L.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "WHITE EMILY C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAHE ISABEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRACEY ESI EGGLESTON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LOEHNIS ALISON",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1606,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MAURER MARC",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-25 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 39.83929031226928,
+    "pct_above_200d_ma": -23.747970895747184,
+    "pct_of_100d_ma": 92.889835985279,
+    "pct_change_1d": 2.1618254288383154,
+    "pct_change_5d": -2.960188701324795,
+    "pct_change_30d": 0.9938084706543338
+  }
+}
