@@ -1,0 +1,300 @@
+{
+  "ticker": "FMC",
+  "fetched_at": "2026-08-31T13:35:35.535547",
+  "overview": {
+    "name": "FMC Corporation",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "description": "FMC Corporation, an agricultural sciences company, develops, markets, and sells crop protection chemicals in Latin America, North America, Europe, the Middle East, Africa, and Asia. The company offers crop protection chemicals, including insecticides, herbicides, and fungicides. It also provides biologicals, crop nutrition, and seed treatment products. It markets its products through its sales organization and alliance partners, independent distributors, and sales representatives. The company was founded in 1883 and is headquartered in Philadelphia, Pennsylvania.",
+    "market_cap": 1423829120,
+    "enterprise_value": 5369220096,
+    "shares_outstanding": 125226839,
+    "float_shares": 115961305,
+    "short_ratio": 7.96,
+    "short_percent_of_float": 0.3136,
+    "held_by_insiders": 0.00931,
+    "held_by_institutions": 1.0360299,
+    "revenue_ttm": 3251200000,
+    "revenue_growth": -0.175,
+    "gross_margins": 0.31927,
+    "operating_margins": 0.11833,
+    "profit_margins": -0.84830004,
+    "free_cashflow": 165637504,
+    "operating_cashflow": 156400000,
+    "total_cash": 476600000,
+    "total_debt": 4402699776,
+    "debt_to_equity": 265.047,
+    "current_ratio": 1.987,
+    "trailing_pe": null,
+    "forward_pe": 6.9229646,
+    "price_to_book": 0.8698646,
+    "ev_to_ebitda": 19.938,
+    "ev_to_revenue": 1.651,
+    "fifty_two_week_high": 38.83,
+    "fifty_two_week_low": 9.95,
+    "current_price": 11.37,
+    "analyst_target_mean": 13.42067,
+    "analyst_target_high": 21.0,
+    "analyst_target_low": 11.0,
+    "recommendation": "hold",
+    "num_analysts": 15,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-28 16:00:00-04:00",
+        "EPS Estimate": 0.11,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-07-29 16:00:00-04:00",
+        "EPS Estimate": 0.22,
+        "Reported EPS": 0.26,
+        "Surprise(%)": 17.04
+      },
+      {
+        "Earnings Date": "2026-04-29 16:00:00-04:00",
+        "EPS Estimate": -0.38,
+        "Reported EPS": -0.23,
+        "Surprise(%)": 39.6
+      },
+      {
+        "Earnings Date": "2026-02-04 17:00:00-05:00",
+        "EPS Estimate": 1.2,
+        "Reported EPS": 1.2,
+        "Surprise(%)": -0.19
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-10-16",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 9624,
+    "total_put_oi": 3986
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1165861,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 44,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRONDEAU PIERRE R",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 11,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BARRY MICHAEL F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 48,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RAINES JOHN MITCHELL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 101,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FORTMANN KATHY LYNN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 184,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "JOHNSON K LYNNE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 41,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MERKT STEVEN T.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 131,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CORDEIRO EDUARDO E",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 83,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "DAVIDSON CAROL ANTHONY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 50,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "VERDUIN PATRICIA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9175,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BARRY MICHAEL F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 21.83491225350516,
+    "pct_above_200d_ma": -15.633207921396009,
+    "pct_of_100d_ma": 91.0401532333489,
+    "pct_change_1d": -0.26478140488264135,
+    "pct_change_5d": 0.17730902692498773,
+    "pct_change_30d": 0.9830260453664419
+  }
+}

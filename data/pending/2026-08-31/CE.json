@@ -1,0 +1,300 @@
+{
+  "ticker": "CE",
+  "fetched_at": "2026-08-31T13:35:49.199287",
+  "overview": {
+    "name": "Celanese Corporation",
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "description": "Celanese Corporation produces and sells engineered polymers worldwide. It operates through Engineered Materials and Acetyl Chain segments. The company offers ethylene acrylic elastomers, ethylene vinyl acetate pharmaceutical grade copolymers, liquid crystal polymers, long-fiber reinforced thermoplastics, nylon and polypropylene compounds and formulations, polyoxymethylene, ultra-high molecular weight polyethylene, and thermoplastic elastomers, polyesters, and vulcanizates for use in appliance, automotive, construction, consumer apparel, consumer electronics, electrical, energy storage, filtration equipment, industrial, medical, and telecommunication applications. It also provides acetic acid and anhydride, acetate flakes and tows, butyl acetates, emulsion polymers, ethyl acetates, ethylene vinyl acetate resins and compounds, formaldehydes, redispersible powders, and vinyl acetate monomers for use in adhesives, automotive parts, coatings, consumer goods, external thermal insulation composite systems, films, filtration, flexible packaging, food and beverage, food packaging, inks, lamination, lubricants, paints, paper finishing, pharmaceuticals, plasticizers, plasters and renders, solvents, textiles, and tiling applications. The company offers its products under the Amcel, AOPlus, Ateva, Avicor, Celanese, Celanex, Celanyl, Celcon, Celstran, Celvolit, Clarifoil, Crastin, Dur-O-Set, Dytron, ECOMID, EcoVAE, Elotex, Factor, Flexbond, Forprene, FRIANYL, Fortron, Geolast, GHR, GUR, Hostaform, Hytrel, Laprene, Melinex, MetaLX, Mowilith, MT, Mylar, NILAMID, Nylfor, OmniLon, Pibifor, Pibiter, Polifor, Resyn, Rynite, Santoprene, SlideX, Sofprene, Sofpur, Talcoprene, Tarnoform, Tecnoprene, TufCOR, Tynex, Vamac, VAntage, Vectra, Vinac, Vinamul, VitalDose, Zenite, and Zytel brands. It sells its products directly to customers and through distributors; and original equipment manufacturers and suppliers. It has a strategic partnership with VIGOR Precision Ltd. Celanese Corporation was founded in 1912 and is headquartered in Irving, Texas.",
+    "market_cap": 5028147200,
+    "enterprise_value": 16392701952,
+    "shares_outstanding": 109748926,
+    "float_shares": 99803478,
+    "short_ratio": 3.41,
+    "short_percent_of_float": 0.09819999,
+    "held_by_insiders": 0.00365,
+    "held_by_institutions": 1.11944,
+    "revenue_ttm": 9712000000,
+    "revenue_growth": 0.087,
+    "gross_margins": 0.21375999,
+    "operating_margins": 0.11047,
+    "profit_margins": -0.12037,
+    "free_cashflow": 949875008,
+    "operating_cashflow": 984000000,
+    "total_cash": 1364000000,
+    "total_debt": 12396999680,
+    "debt_to_equity": 270.205,
+    "current_ratio": 1.447,
+    "trailing_pe": null,
+    "forward_pe": 7.4163947,
+    "price_to_book": 1.2066422,
+    "ev_to_ebitda": 9.775,
+    "ev_to_revenue": 1.688,
+    "fifty_two_week_high": 70.7,
+    "fifty_two_week_low": 35.13,
+    "current_price": 45.815,
+    "analyst_target_mean": 63.625,
+    "analyst_target_high": 86.0,
+    "analyst_target_low": 45.0,
+    "recommendation": "none",
+    "num_analysts": 16,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-05 15:00:00-05:00",
+        "EPS Estimate": 1.59,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-04 16:00:00-04:00",
+        "EPS Estimate": 2.22,
+        "Reported EPS": 2.45,
+        "Surprise(%)": 10.21
+      },
+      {
+        "Earnings Date": "2026-05-05 16:00:00-04:00",
+        "EPS Estimate": 0.9,
+        "Reported EPS": 0.85,
+        "Surprise(%)": -5.19
+      },
+      {
+        "Earnings Date": "2026-02-17 16:00:00-05:00",
+        "EPS Estimate": 0.91,
+        "Reported EPS": 0.67,
+        "Surprise(%)": -26.32
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 9,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 1412,
+    "total_put_oi": 852
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 400583,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 2300,
+        "Value": 104698.0,
+        "URL": "",
+        "Text": "Purchase at price 45.50 - 45.53 per share.",
+        "Insider": "KYRISH CHUCK B.",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-14 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2153,
+        "Value": 98004.0,
+        "URL": "",
+        "Text": "Purchase at price 45.52 per share.",
+        "Insider": "MURRAY MARK CHRISTOPHER",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 600,
+        "Value": 27360.0,
+        "URL": "",
+        "Text": "Purchase at price 45.60 per share.",
+        "Insider": "DUFFIE ASHLEY B.",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-08-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1930,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GALANTE EDWARD G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CHINN BRUCE E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MOORTHY GANESH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KOENIG MICHAEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KISSIRE DEBORAH J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RUCKER KIM K. W.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2975,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HILL KATHRYN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 49.479609743008744,
+    "pct_above_200d_ma": -10.933340507301937,
+    "pct_of_100d_ma": 85.77980474470549,
+    "pct_change_1d": 0.2897282621124653,
+    "pct_change_5d": -3.84615227864179,
+    "pct_change_30d": -1.4651492672081878
+  }
+}

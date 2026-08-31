@@ -1,0 +1,300 @@
+{
+  "ticker": "CHTR",
+  "fetched_at": "2026-08-31T13:35:47.317642",
+  "overview": {
+    "name": "Charter Communications, Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "description": "Charter Communications, Inc. operates as a broadband connectivity company in the United States. The company offers subscription-based internet, mobile, video, and voice services; broadband connectivity services, including fixed internet, WiFi, and mobile; Spectrum internet products; advanced WiFi services; and in-home WiFi, which provides customers with high performance wireless routers and managed WiFi services to enhance their wireless internet experience. It also offers wireline voice communications services using voice over internet protocol technology; Call Guard, an advanced caller ID and robocall blocking solution; video programming and video services, including access to an interactive programming guide with parental controls, video on demand and pay-per-view services; and broadband communications solutions, such as internet access, data networking, fiber connectivity, video entertainment, and business telephone services. In addition, the company provides advertising services on cable television networks, various streaming services, and advertising platforms for local, regional and national businesses. Further, it offers production and technical services for regional sports networks; owns and manages local news channels, including Spectrum News NY1\u00ae and Spectrum News SoCal; and delivers broadband connectivity solutions to apartments, single-family gated communities, off-campus student housing, senior residences, and RV parks. The company was founded in 1993 and is headquartered in Stamford, Connecticut.",
+    "market_cap": 20474048512,
+    "enterprise_value": 119473405952,
+    "shares_outstanding": 119277492,
+    "float_shares": 115239950,
+    "short_ratio": 8.14,
+    "short_percent_of_float": 0.5157,
+    "held_by_insiders": 0.03098,
+    "held_by_institutions": 0.88792,
+    "revenue_ttm": 54395998208,
+    "revenue_growth": -0.017,
+    "gross_margins": 0.55189997,
+    "operating_margins": 0.23503,
+    "profit_margins": 0.09052,
+    "free_cashflow": 2198374912,
+    "operating_cashflow": 16469999616,
+    "total_cash": 509000000,
+    "total_debt": 96710000640,
+    "debt_to_equity": 441.578,
+    "current_ratio": 0.361,
+    "trailing_pe": 3.9518733,
+    "forward_pe": 3.4444597,
+    "price_to_book": 1.0688704,
+    "ev_to_ebitda": 5.477,
+    "ev_to_revenue": 2.196,
+    "fifty_two_week_high": 285.82,
+    "fifty_two_week_low": 111.55,
+    "current_price": 151.91,
+    "analyst_target_mean": 184.41176,
+    "analyst_target_high": 380.0,
+    "analyst_target_low": 101.0,
+    "recommendation": "hold",
+    "num_analysts": 17,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-30 08:00:00-04:00",
+        "EPS Estimate": 10.02,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-07-24 07:00:00-04:00",
+        "EPS Estimate": 10.06,
+        "Reported EPS": 10.66,
+        "Surprise(%)": 5.94
+      },
+      {
+        "Earnings Date": "2026-04-24 07:00:00-04:00",
+        "EPS Estimate": 10.08,
+        "Reported EPS": 9.17,
+        "Surprise(%)": -9.07
+      },
+      {
+        "Earnings Date": "2026-01-30 07:00:00-05:00",
+        "EPS Estimate": 9.93,
+        "Reported EPS": 10.34,
+        "Surprise(%)": 4.09
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 14,
+    "nearest_expiry": "2026-09-04",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 6.250937500000001,
+    "total_call_oi": 4612,
+    "total_put_oi": 5140
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 1672194.0,
+        "Trans": 22
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 87833.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 1584361.0,
+        "Trans": 23
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3695216.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.751,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.792,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.042,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1547,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CLEMENT DALLAS S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1547,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GREATREX MARK JAMES",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 87833,
+        "Value": 12732783.0,
+        "URL": "",
+        "Text": "Sale at price 144.45 - 146.96 per share.",
+        "Insider": "RUTLEDGE THOMAS M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-27 00:00:00",
+        "Ownership": "D/I"
+      },
+      {
+        "Shares": 9929,
+        "Value": 1399308.0,
+        "URL": "",
+        "Text": "Purchase at price 140.93 per share.",
+        "Insider": "RAMOS MAURICIO",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-15 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1000,
+        "Value": 175460.0,
+        "URL": "",
+        "Text": "Purchase at price 175.46 per share.",
+        "Insider": "NAIR BALAN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6936,
+        "Value": 1194621.0,
+        "URL": "",
+        "Text": "Purchase at price 172.23 per share.",
+        "Insider": "WINFREY CHRISTOPHER L",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D/I"
+      },
+      {
+        "Shares": 5728,
+        "Value": 995068.0,
+        "URL": "",
+        "Text": "Purchase at price 173.72 per share.",
+        "Insider": "DAVIS WADE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1627560,
+        "Value": 369629726.0,
+        "URL": "",
+        "Text": "Conversion of Exercise of derivative security at price 222.92 - 232.34 per share.",
+        "Insider": "RUTLEDGE THOMAS M",
+        "Position": "Divisional Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1407,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GOODMAN KIM C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1407,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MIRON STEVEN A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-21 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.592374657773874,
+    "pct_above_200d_ma": -17.041187837512396,
+    "pct_of_100d_ma": 98.84707308431743,
+    "pct_change_1d": -1.0480410503355353,
+    "pct_change_5d": 1.137718842553359,
+    "pct_change_30d": 17.691228086756293
+  }
+}
