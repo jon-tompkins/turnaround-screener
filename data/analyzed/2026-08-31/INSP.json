@@ -1,0 +1,29 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "A former high-growth sleep-apnea implant darling fell from ~$147 to ~$61 on two fears: GLP-1s (Zepbound approved for OSA) cannibalizing candidates, and CMS/facility coding confusion around the new Inspire V. Thesis is that both are sentiment overhangs on a still-profitable, pristine-balance-sheet franchise.",
+  "bullish_points": [
+    "Fortress balance sheet: cash $321M vs debt $29M, D/E 3.5, current ratio 8.5 — zero solvency risk, rare for a de-rated growth name",
+    "Actually profitable (profit margin ~15%) and beating: Q2 EPS 0.14 vs -0.25 est; prior two quarters also large beats",
+    "GLP-1 fear looks overblown: Inspire's own physician survey suggests GLP-1s expand OSA diagnosis funnel; many patients remain third-line implant candidates",
+    "Inspire V rollout + ambulatory surgery-center penetration are growth levers as CMS coding de-risks progressively through 2026",
+    "Sentiment washout: stock near 52w low ($61 vs low $39 / high $147), target mean $60.4 already reset low"
+  ],
+  "bearish_points": [
+    "Revenue is actually declining now (-7.6% TTM) — the growth story broke, this isn't just multiple compression",
+    "Still not cheap: fwd P/E ~39.5 embeds a re-acceleration that hasn't been proven",
+    "CMS/facility coding ambiguity for Inspire V is a real near-term revenue headwind; one analyst flags the overhang lasting into 2028",
+    "GLP-1 adoption trajectory is genuinely uncertain — if prescribers routinely try drugs first, the implant funnel slows for years"
+  ],
+  "catalyst": "Inspire V reimbursement/coding clarity plus a return to revenue growth confirming the GLP-1 fear was overdone",
+  "catalyst_timing": "Q3 2026 earnings 2026-11-02; CMS coding updates through 2H 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small starter spot $58-61 with room to add on a coding-clarity catalyst or a growth-reacceleration print. Quality name at a washed-out sentiment level; size for the fact that revenue is still declining.",
+  "key_risk": "GLP-1 substitution proves structural rather than complementary and Inspire V coding stays muddled, keeping revenue in decline and collapsing the growth multiple.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 revenue declines accelerate, or CMS coding resolution slips again with no reimbursement path in sight."
+}

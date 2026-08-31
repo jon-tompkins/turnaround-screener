@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "The CX/BPO leader de-rated to a low-single-digit multiple as the market prices AI displacing its core customer-service outsourcing. Thesis is that the fear is over-discounted for a ~$10B-revenue, FCF-generative platform that is itself deploying AI (iX Suite).",
+  "bullish_points": [
+    "Absurdly cheap on forward earnings: fwd P/E ~2.4, P/B ~0.65, EV/EBITDA ~5.5 — pricing near-terminal decline",
+    "Still growing modestly (revenue +1.9% cc in Q1 2026) and FCF-positive (~$776M TTM)",
+    "Analyst consensus 'Buy' (7 buy / 2 hold), target mean ~$35 vs ~$29 — decent upside if AI fear normalizes",
+    "iX Suite technology contracts growing — company is trying to be an AI beneficiary, not just a victim"
+  ],
+  "bearish_points": [
+    "AI disruption to voice/chat outsourcing is the whole bear case and is genuinely hard to handicap — a 2.4x multiple can be 'correct' if revenue enters terminal decline",
+    "Company trimmed its 2026 outlook and guided subdued growth for the rest of FY26; GAAP margins compressed",
+    "Meaningful leverage: debt ~$5.5B, D/E 204 — limits flexibility if the top line rolls over",
+    "Negative TTM profit margin (-13%); some analysts see only ~1% upside on a neutral rating"
+  ],
+  "catalyst": "Evidence that AI is net-additive (seat expansion via iX Suite) rather than deflationary, plus a quarter that arrests the guidance-cut trend",
+  "catalyst_timing": "Q3 2026 earnings 2026-09-24",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot only $28-29 as a deep-value AI-fear reversal; keep it starter-sized because the disruption tail risk is real and unquantifiable. Wait for the Sept print before adding.",
+  "key_risk": "AI genuinely deflates seat-based BPO economics and revenue enters structural decline, in which case the low multiple is a value trap, not a bargain.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows organic revenue turning negative or another guidance cut — that would confirm the AI-erosion thesis."
+}

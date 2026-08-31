@@ -1,0 +1,29 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter collapsed ~65% from its ~$286 high on relentless broadband subscriber losses (fixed-wireless and fiber overbuild) and revenue in its fourth straight quarterly decline. Deep-value thesis is that the market is pricing terminal decline into a still-cash-gushing business that just gained scale via the $34.5B Cox close.",
+  "bullish_points": [
+    "Extraordinarily cheap: trailing P/E ~3.95, fwd P/E ~3.44, P/B ~1.07 — pricing in secular death",
+    "Large FCF (~$2.2B TTM) plus a history of aggressive buybacks that shrink the share count fast at these multiples",
+    "Cox merger closed (largest US broadband/video provider, ~37M customers); synergy target raised to $800M from $500M",
+    "Mobile is the growth engine: ~12M lines and climbing; video-loss drag improving",
+    "Short interest is ~52% of float — any stabilization in broadband nets could force a violent squeeze"
+  ],
+  "bearish_points": [
+    "Core broadband is in secular decline: lost 172K internet subs in Q2 2026 (worse than Q1's 120K); revenue down ~1.7% YoY, fourth straight decline",
+    "Enormous leverage: total debt ~$96.7B, D/E 441, current ratio 0.36 — a classic 'equity is the residual' capital structure",
+    "Fixed wireless (T-Mobile/Verizon) and fiber overbuilders are structural, not cyclical, pressures",
+    "51% short float cuts both ways — it reflects deep institutional conviction that the equity compounds down, not up"
+  ],
+  "catalyst": "A quarter showing broadband net-adds stabilizing plus Cox synergy realization, which would break the terminal-decline narrative and trigger multiple re-rate / short-covering",
+  "catalyst_timing": "Q3 2026 earnings 2026-10-30",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot $150-152 sized small given the leverage; this is a levered mean-reversion / de-rating-reversal bet, not a compounder. Consider defined-risk call spreads into the Oct print rather than naked longs.",
+  "key_risk": "Broadband subscriber losses keep accelerating, confirming secular decline; with 441 D/E, persistent revenue erosion eventually threatens the equity regardless of how cheap the multiple looks.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 broadband net losses widen again vs Q2, or management signals synergy slippage / guides revenue lower."
+}

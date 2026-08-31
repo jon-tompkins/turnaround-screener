@@ -1,0 +1,28 @@
+{
+  "ticker": "FMC",
+  "company_name": "FMC Corporation",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "turnaround_reason": "Ag-chemical destocking plus a looming Rynaxypyr patent cliff took FMC down ~90% from its 2022 highs. Thesis is that channel inventories are normalizing (on-farm use now exceeding distributor sales) and a new-AI product ramp offsets branded erosion.",
+  "bullish_points": [
+    "Destocking cycle appears to be ending — actual on-farm use now exceeds distributor sales, signaling channel normalization",
+    "New active ingredients (Isoflex, fluindapyr, Dodhylex, rimisoxafen) projected at $300-400M in 2026, ~75%+ growth vs 2025",
+    "Q2 2026 beat (EPS 0.26 vs 0.22); cheap on forward earnings (fwd P/E ~6.9, P/B ~0.87), near 52w low $9.95",
+    "Analyst target mean $13.4 (~18% upside), technical double-bottom noted near crisis lows"
+  ],
+  "bearish_points": [
+    "Rynaxypyr patent cliff hitting in 2026 — branded earnings only flat at best as generics erode price; this is a structural, not cyclical, headwind",
+    "TTM profit margin deeply negative (-85%) on impairments; revenue still declining -17.5%",
+    "Heavy debt (~$4.4B, D/E 265) into a still-uneven recovery; LatAm patented markets lagging as distributors wait for cheaper generics",
+    "EV/EBITDA ~19.9 on depressed EBITDA — not obviously cheap on cash earnings, only on forward hope"
+  ],
+  "catalyst": "Confirmation that destocking is fully behind and new-AI volume growth is outrunning Rynaxypyr generic erosion",
+  "catalyst_timing": "Q3 2026 earnings 2026-10-28",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small-to-medium starter spot $10.50-11.50 (already a watchlist name); this is a cyclical-bottom bet with a patent-cliff offset — keep dry powder for a re-test of the lows.",
+  "key_risk": "Rynaxypyr generic erosion outpaces the new-product ramp and the recovery stays uneven, leaving earnings and the debt load stuck.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows new-AI sales missing the $300-400M trajectory or Rynaxypyr pricing collapsing faster than volumes can offset."
+}

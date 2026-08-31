@@ -1,0 +1,28 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "A beauty/fragrance turnaround that stalled: Consumer Beauty underperformance, margin pressure, a withdrawn 2026 guidance, and the exit of CEO Sue Nabi took the stock to ~$2.79 (from a $4.56 high). Thesis rests on a new 'Coty.Curated' prestige-focused strategy and debt paydown from divesting the Gucci license.",
+  "bullish_points": [
+    "Returning the Gucci Beauty license to Kering for ~$400M to cut debt and refocus on core prestige fragrance",
+    "Prestige fragrance still the resilient piece; Marc Jacobs Beauty relaunch positioned as a defining 2026 launch",
+    "Optically cheap on assets: P/B ~0.82, fwd P/E ~10.9; high insider ownership (~59%)",
+    "Positive FCF (~$363M TTM) despite the operational mess"
+  ],
+  "bearish_points": [
+    "Guidance withdrawn and CEO gone — leadership vacuum with only an interim CEO running a 'comprehensive review'; lawsuits add noise",
+    "Consumer Beauty down ~10% like-for-like; the mass color-cosmetics business is under strategic review (i.e. possibly shrinking/selling from weakness)",
+    "Negative operating and profit margins (-2.4% / -10.4%); recent quarters missed badly (EPS -0.02 vs -0.01)",
+    "Analyst target mean $2.69 is BELOW the current price — the Street sees no upside, and net debt is still ~$3.3B (D/E 98)"
+  ],
+  "catalyst": "A new permanent CEO with a credible plan and visible debt reduction from the Gucci divestiture proceeds",
+  "catalyst_timing": "Q1 FY27 earnings 2026-11-05; permanent-CEO appointment TBD",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass / watch-only for now. If taken, keep it a token spot under $2.60 and wait for a permanent CEO plus a de-levering milestone before committing.",
+  "key_risk": "The interim leadership + strategic-review limbo drags on while Consumer Beauty keeps eroding, so the divestiture cash just plugs holes instead of funding a real turnaround.",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "No permanent CEO / no clear plan by the next print, or Consumer Beauty declines steepen despite the divestiture."
+}

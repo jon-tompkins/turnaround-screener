@@ -1,0 +1,29 @@
+{
+  "ticker": "CE",
+  "company_name": "Celanese Corporation",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "turnaround_reason": "Acetyl/engineered-materials demand trough plus a debt overhang from the ~$11B DuPont M&M acquisition crushed the stock from ~$71 to ~$46. Recovery thesis is a sequential acetyl-chain rebound, price increases sticking, and free cash flow directed at deleveraging.",
+  "bullish_points": [
+    "Q2 2026 beat (reported EPS 2.45 vs 2.22 est, +10%); management guided 2H toward ~$3.00 EPS and raised FY FCF outlook to $700-800M",
+    "Cheap on forward earnings: fwd P/E ~7.4, EV/EBITDA ~9.8, P/B ~1.2, trading near 52w low ($45.8 vs low $35 / high $71)",
+    "Acetyl price hikes implemented; SharpCell carbon-capture binder partnership adds an optionality kicker",
+    "Analyst target mean $63.6 (~39% upside) with 16 analysts; positive FCF ($950M TTM) funds deleveraging",
+    "Dividend slashed to $0.03/qtr — a credible signal that all cash is going to the balance sheet, not defended-for-optics"
+  ],
+  "bearish_points": [
+    "Very high leverage: total debt ~$12.4B, D/E 270, net-debt/EBITDA ~4.8x — highly sensitive to rates and a demand relapse",
+    "TTM profit margin negative (-12%); no trailing P/E because bottom line is still red on impairment/interest drag",
+    "Structural overcapacity and weak auto/industrial end-market demand in both acetyl and engineered materials",
+    "Recovery is a management projection, not yet demonstrated across a full year — execution risk on both price realization and volume"
+  ],
+  "catalyst": "Continued sequential acetyl-chain earnings recovery and visible deleveraging progress on the Q3 print",
+  "catalyst_timing": "Q3 2026 earnings 2026-11-05",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium starter spot $44-46; scale on a confirmed deleveraging trajectory. Long-dated calls (Jan 2027) reasonable for those wanting leverage given IV, but the debt makes spot the cleaner expression.",
+  "key_risk": "A demand relapse or credit-market tightening that stalls deleveraging and forces refinancing at higher rates — with this much leverage, equity is the thin tranche.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Acetyl pricing rolls back over, FCF guidance is cut, or net-debt/EBITDA fails to improve on the Q3 print."
+}

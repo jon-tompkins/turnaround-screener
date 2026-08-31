@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Sarepta's DMD gene therapy Elevidys was hit by three patient deaths (fatal liver failure), an FDA distribution suspension and clinical holds, a boxed warning, and a label restriction to ambulatory patients only. The stock fell to ~$20; 'recovering' reflects the FDA-cleared ambulatory restart, but this is a genuinely damaged franchise.",
+  "bullish_points": [
+    "FDA cleared a restart of Elevidys shipments for ambulatory patients after clearing an unrelated Brazil death — worst-case distribution shutdown avoided",
+    "Balance sheet cushion: cash ~$788M vs debt ~$1.06B, current ratio 4.4; aggressive 36% workforce cut extends runway",
+    "Recent EPS beats (Q2 0.64 vs 0.49) and a very cheap fwd P/E ~7.9 if the base PMO/RNA franchise stabilizes",
+    "Pivot toward siRNA platform gives a longer-term pipeline story beyond the impaired gene-therapy program"
+  ],
+  "bearish_points": [
+    "Three deaths and a boxed warning on the flagship product — a safety overhang that can resurface with any new adverse event",
+    "Label now restricted to ambulatory DMD only; non-ambulatory and limb-girdle programs are curtailed, structurally shrinking the addressable market",
+    "Revenue collapsing (-34% TTM); the deep workforce cut signals management itself is bracing for a much smaller company",
+    "Analyst target range is $5 to $38 (mean ~$22) — extreme disagreement means the outcome is binary and headline-driven, not analyzable with confidence"
+  ],
+  "catalyst": "Clean safety data through the ambulatory relaunch plus siRNA pipeline progress that reframes the story beyond Elevidys",
+  "catalyst_timing": "Ongoing relaunch/safety monitoring; Q3 2026 earnings 2026-11-04",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass for a turnaround book. This is an event-driven biotech gamble on safety headlines, not a fundamentals-driven recovery; if played at all, tiny defined-risk options only.",
+  "key_risk": "Another Elevidys adverse event or death re-triggers FDA action, gutting the remaining ambulatory franchise and the equity with it.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "Any new serious safety signal emerges, or the ambulatory relaunch shows weak uptake — either would confirm the franchise is permanently impaired."
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Structural decline in the Atkins brand plus OWYN weakness triggered a $249M impairment, a net loss, and a guidance cut, taking the stock from ~$29 to ~$11. Thesis is that Quest (the crown jewel) keeps growing and carries the company through Atkins' fade at a washed-out valuation.",
+  "bullish_points": [
+    "Quest still growing (+3.4% in Q3 2026) and is the durable asset; GLP-1-user positioning is a plausible tailwind for the protein/snack portfolio",
+    "Cheap and clean: fwd P/E ~6.4, P/B ~0.68, current ratio 4.8, modest debt ($448M, D/E 32), FCF ~$107M",
+    "Analyst rec 'buy', target mean $14.4 (~31% upside); the $249M impairment is non-cash and now largely behind",
+    "Active share buyback program shrinking the count at a depressed multiple"
+  ],
+  "bearish_points": [
+    "Atkins is in structural decline (-22% to -25%), driven by falling household penetration — not a fixable-with-marketing cyclical dip",
+    "Just cut 2026 guidance; Q3 net sales -5.4%, gross margin dropped to 31.6% on input costs, tariffs, and OWYN quality actions",
+    "OWYN acquisition underperforming (poor velocities even on expanded distribution) — capital-allocation misstep overhang",
+    "This is a falling knife until a credible Atkins-stabilization plan appears; the next few quarters are the make-or-break"
+  ],
+  "catalyst": "A credible Atkins stabilization plan and evidence Quest growth is outweighing Atkins/OWYN drag on the next print",
+  "catalyst_timing": "Q4 2026 earnings 2026-10-22",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot $10.50-11.00; a value-plus-Quest-optionality bet, sized small because Atkins' structural fade and a fresh guidance cut argue for patience and a lower entry.",
+  "key_risk": "Atkins decline accelerates and drags Quest growth below the blended fade rate, so the whole portfolio shrinks and the 'cheap' multiple proves to be a value trap.",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Quest growth decelerates, or management cuts guidance again without a concrete Atkins turnaround plan."
+}
