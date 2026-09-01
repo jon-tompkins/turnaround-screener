@@ -1,0 +1,300 @@
+{
+  "ticker": "COTY",
+  "fetched_at": "2026-09-01T13:35:39.699808",
+  "overview": {
+    "name": "Coty Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "description": "Coty Inc., together with its subsidiaries, manufactures, markets, distributes, and sells branded beauty products in the United States and internationally. It operates through two segments: Prestige and Consumer Beauty. The company provides fragrances, color cosmetics, and skin and body care products. It offers prestige products through prestige retailers, including perfumeries, department stores, e-retailers, direct-to-consumer websites, and duty-free shops under Burberry, Calvin Klein, Chloe, Davidoff, Escada, Etro, Gucci, Hugo Boss, Infiniment Coty Paris, Jil Sander, Joop!, Kylie Cosmetics by Kylie Jenner, Lancaster, Marc Jacobs, Orveda, philosophy, and Tiffany & Co. brands. The company provides beauty products through hypermarkets, supermarkets, drug stores, pharmacies, mid-tier department stores, traditional food and drug retailers, and e-commerce retailers under the Adidas, David Beckham, Bozzano, Bourjois, Bruno Banani, CoverGirl, Jovan, LeGer by Lena Gercke, Max Factor, Mexx, Monange, Nautica, Paixao, Rimmel, Risque, Vera Wang, and Sally Hansen brands. It also sells its products through third-party distributors. Coty Inc. was founded in 1904 and is headquartered in New York, New York. Coty Inc. operates as a subsidiary of JAB Beauty B.V.",
+    "market_cap": 2496122368,
+    "enterprise_value": 6019156480,
+    "shares_outstanding": 880466438,
+    "float_shares": 376423008,
+    "short_ratio": 5.49,
+    "short_percent_of_float": 0.1292,
+    "held_by_insiders": 0.58752996,
+    "held_by_institutions": 0.42658,
+    "revenue_ttm": 5806600192,
+    "revenue_growth": 0.013,
+    "gross_margins": 0.62894,
+    "operating_margins": -0.024419999,
+    "profit_margins": -0.10416,
+    "free_cashflow": 362687488,
+    "operating_cashflow": 537800000,
+    "total_cash": 176100000,
+    "total_debt": 3295899904,
+    "debt_to_equity": 97.538,
+    "current_ratio": 0.755,
+    "trailing_pe": null,
+    "forward_pe": 11.077681,
+    "price_to_book": 0.83505154,
+    "ev_to_ebitda": 7.597,
+    "ev_to_revenue": 1.037,
+    "fifty_two_week_high": 4.56,
+    "fifty_two_week_low": 1.82,
+    "current_price": 2.835,
+    "analyst_target_mean": 2.689,
+    "analyst_target_high": 4.0,
+    "analyst_target_low": 1.5,
+    "recommendation": "hold",
+    "num_analysts": 14,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-05 15:00:00-05:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-19 16:00:00-04:00",
+        "EPS Estimate": -0.01,
+        "Reported EPS": -0.02,
+        "Surprise(%)": -132.29
+      },
+      {
+        "Earnings Date": "2026-05-05 16:00:00-04:00",
+        "EPS Estimate": NaN,
+        "Reported EPS": -0.03,
+        "Surprise(%)": -728.73
+      },
+      {
+        "Earnings Date": "2026-02-05 16:00:00-05:00",
+        "EPS Estimate": 0.18,
+        "Reported EPS": 0.14,
+        "Surprise(%)": -24.17
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 0.0010000000000000002,
+    "total_call_oi": 6400,
+    "total_put_oi": 2183
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 517429696,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 4741,
+        "URL": "",
+        "Text": "",
+        "Insider": "SRINIVASAN PRIYA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-02 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 83000,
+        "URL": "",
+        "Text": "Purchase at price 2.41 per share.",
+        "Insider": "VON BRETTEN GORDON",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2026-03-06 00:00:00",
+        "Ownership": "D",
+        "Value": 200287.0
+      },
+      {
+        "Shares": 5000,
+        "URL": "",
+        "Text": "Purchase at price 2.65 per share.",
+        "Insider": "MERCIER LAURENT",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-10 00:00:00",
+        "Ownership": "D",
+        "Value": 13250.0
+      },
+      {
+        "Shares": 13287,
+        "URL": "",
+        "Text": "",
+        "Insider": "MAKANJU ANNA ADEOLA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-12-18 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "SINGER ROBERT STEVEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "BALLINI BEATRICE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "CREUS JOACHIM",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 25000,
+        "URL": "",
+        "Text": "",
+        "Insider": "PARIZE ISABELLE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 45000,
+        "URL": "",
+        "Text": "",
+        "Insider": "HARF PETER",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2025-11-14 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 12303,
+        "URL": "",
+        "Text": "",
+        "Insider": "ZAFAR AYESHA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2025-10-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "recovering",
+  "screen_metrics": {
+    "pct_of_200w_ma": 37.691202705545734,
+    "pct_above_200d_ma": 9.002256249526152,
+    "pct_of_100d_ma": 120.37804339968001,
+    "pct_change_1d": -0.07017035468153132,
+    "pct_change_5d": 2.0788562197511684,
+    "pct_change_30d": 5.481481455317572
+  }
+}
