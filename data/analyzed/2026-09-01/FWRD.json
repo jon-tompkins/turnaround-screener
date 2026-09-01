@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Debt-laden after the $2.1B Omni acquisition (added ~$1.4B debt), Forward Air is under activist pressure and running a strategic review; the equity is effectively an option on deleveraging via asset sales.",
+  "bullish_points": [
+    "Hard catalyst in play: strategic review nearing conclusion, pivoting to divestitures of Intermodal + legacy Omni assets (~$394M of 2025 revenue) to cut debt.",
+    "Activists (~25% of shares) are pushing for value-unlocking actions.",
+    "+24% over 30 days; freight cycle upturn plus asset-sale proceeds could re-rate the thin equity quickly.",
+    "Net leverage (5.5x) sits ~1 turn inside the covenant, buying some runway."
+  ],
+  "bearish_points": [
+    "Full-company sale looks unlikely (no actionable proposals), which took some air out of the buyout thesis (-6% over 5 days).",
+    "Net debt ~$1.68B at 5.5x EBITDA is dangerous; small EBITDA slips move the equity violently.",
+    "TTM profit margin is negative; fwd P/E ~39 \u2014 not statistically cheap on earnings.",
+    "Freight demand is cyclical and soft; divestiture proceeds may disappoint on price."
+  ],
+  "catalyst": "Conclusion of the strategic review / announced asset divestitures and debt paydown.",
+  "catalyst_timing": "H2 2026 (review said to be nearing conclusion).",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot sized as an event/option; not a core position.",
+  "key_risk": "Divestitures fall through or price low, leaving leverage intact into a soft freight cycle.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "You avoid 5x+ levered names or need positive cash earnings to underwrite."
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Stock collapsed in 2025 on ELEVIDYS safety signals (fatal acute liver injury in gene-therapy patients), a label update, and a strategic restructuring. It is recovering as commercial DMD franchise and cost cuts restore profitability, with an enhanced-immunosuppression protocol aimed at de-risking the liver-injury issue.",
+  "bullish_points": [
+    "Q1 2026 blew out estimates: adjusted EPS $3.16 vs $0.99 consensus, revenue $730.8M vs $474.3M expected; company remains profitable and cash-flow positive with ~$1B cash.",
+    "EMBARK 3-year topline showed durable, statistically significant motor-function benefit vs external control, supporting the ELEVIDYS efficacy story.",
+    "ENDEAVOR Cohort 8 testing sirolimus-based enhanced immunosuppression could materially reduce the acute liver injury risk that broke the stock \u2014 a genuine de-risking catalyst.",
+    "Valuation is cheap on a franchise basis: fwd P/E ~8.2, EV ~$2.5B against ~$2B revenue; Japan launch adds Roche milestone/royalty upside.",
+    "Momentum has turned: +24% over 30 days, +15% over 5 days, trading above the 200-day MA."
+  ],
+  "bearish_points": [
+    "Safety overhang is existential \u2014 patient deaths tied to gene therapy invite ongoing FDA scrutiny and potential further label restrictions.",
+    "Revenue growth is -34% TTM and reported gross margin is negative (-17%), reflecting charges/inventory hits; the P&L is noisy and hard to underwrite.",
+    "ELEVIDYS uptake pressured by prescriber caution; recovery depends on the immunosuppression data reading out clean.",
+    "Biotech binary risk: a bad safety update could re-break the stock overnight."
+  ],
+  "catalyst": "ENDEAVOR Cohort 8 enhanced-immunosuppression data + continued ELEVIDYS commercial recovery / next quarterly print.",
+  "catalyst_timing": "Data/updates across H2 2026; next earnings the near-term checkpoint.",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position with room to add; risk-tolerant accounts can express via longer-dated calls given event-driven upside.",
+  "key_risk": "A new ELEVIDYS safety event or FDA action that further restricts the label.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You can't stomach single-headline binary risk, or the immunosuppression data disappoints."
+}

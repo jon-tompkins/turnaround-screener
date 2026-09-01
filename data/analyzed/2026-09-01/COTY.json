@@ -1,0 +1,27 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "A leveraged beauty roll-up whose Consumer Beauty division is in decline; the stock fell to ~$2.83 after management pulled FY26 EBITDA/FCF guidance amid a CEO transition and took a large impairment.",
+  "bullish_points": [
+    "Early green shoots: CoverGirl and Sally Hansen closing the sellout gap vs market, Sally Hansen growing ahead of market; CoverGirl repositioned to Gen X.",
+    "Prestige fragrance remains a decent, low-to-mid-single-digit growth market where Coty is well positioned.",
+    "Optically low price and fwd P/E ~11 leave room if the turnaround takes hold."
+  ],
+  "bearish_points": [
+    "Management PULLED FY26 guidance for EBITDA and FCF \u2014 a serious red flag mid-turnaround.",
+    "Consumer Beauty down ~10% like-for-like with a $362.8M impairment and widening adjusted operating loss (-$51.3M); company is unprofitable (-10% net margin).",
+    "Leverage is heavy (debt/equity ~98, EV ~$6B vs ~$2.5B market cap) \u2014 the equity is a thin stub on a lot of debt.",
+    "CEO transition adds execution uncertainty exactly when the business needs steady hands."
+  ],
+  "catalyst": "Stabilization in Consumer Beauty LFL and reinstated guidance under new CEO.",
+  "catalyst_timing": "Next 1-2 quarterly prints (guidance reinstatement).",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass for now / tiny speculative spot only; wait for guidance to be reinstated and LFL to stabilize.",
+  "key_risk": "Consumer Beauty decline continues and leverage forces value-destructive actions.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Guidance stays pulled or Consumer Beauty LFL doesn't stabilize \u2014 i.e., current conditions."
+}

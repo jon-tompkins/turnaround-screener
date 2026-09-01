@@ -1,0 +1,28 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "A high-quality OSA-implant maker whose stock fell from ~$147 to ~$39 on fears that GLP-1 drugs (Zepbound approved for OSA) will erode its addressable market; it is basing as management argues GLP-1s expand OSA diagnosis rather than replace implants.",
+  "bullish_points": [
+    "Excellent unit economics: ~86% gross margin, profitable (~15% net margin), net cash (EV < market cap) \u2014 a real business, not a falling-knife shell.",
+    "Management survey of 200+ sleep physicians suggests GLP-1 availability is increasing the number of patients seeking OSA diagnosis/treatment, expanding the funnel.",
+    "+19% over 30 days off a deeply washed-out base; sentiment may be over-discounting the GLP-1 threat.",
+    "Rich options IV (~64%) lets holders sell premium or structure defined-risk upside."
+  ],
+  "bearish_points": [
+    "GLP-1 competitive overhang is structural, not a one-quarter blip \u2014 an analyst flags the problem persisting into 2028.",
+    "Guidance was lowered; revenue growth is negative (-7.6% TTM) as patients delay implants to try weight-loss drugs first.",
+    "Not statistically cheap: fwd P/E ~41 for a decelerating grower.",
+    "Added noise from a Medicare fee change and new lawsuits."
+  ],
+  "catalyst": "Evidence GLP-1s expand rather than cannibalize the OSA funnel; a guidance beat/reset that stabilizes the growth narrative.",
+  "catalyst_timing": "Next 1-2 quarterly prints.",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot; better expressed selling premium given elevated IV, add on a stabilized growth print.",
+  "key_risk": "GLP-1 adoption structurally shrinks Inspire's addressable market faster than management expects.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You think GLP-1s permanently cap OSA-implant demand, or you won't pay ~40x for a decelerating grower."
+}

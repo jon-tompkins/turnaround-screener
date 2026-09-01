@@ -1,0 +1,29 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Broadband subscriber losses to fixed wireless and fiber crushed the stock from ~$286 to ~$112. It is basing as the $34.5B Cox merger closes, capex steps down, buybacks accelerate, and a new turnaround-credentialed COO arrives.",
+  "bullish_points": [
+    "Extraordinarily cheap: fwd P/E ~3.4, generating large free cash flow that funds accelerating buybacks \u2014 mechanical EPS tailwind at a shrinking share count.",
+    "Cox merger closed ($34.5B), creating the largest US broadband/video footprint (~37M customers) with cost and convergence synergies.",
+    "Nick Jeffery (ex-Frontier CEO with a documented NPS/subscriber turnaround) joins as COO in Sept 2026 \u2014 a concrete operational catalyst.",
+    "Capex is rolling off as the network upgrade/expansion completes, inflecting free cash flow higher.",
+    "+14% over the last 30 days off a deeply depressed base; convergence (mobile lines growing) partly offsets broadband erosion."
+  ],
+  "bearish_points": [
+    "Core broadband is still shrinking \u2014 172k internet subs lost in Q2 2026; the secular threat from fixed wireless and fiber is unresolved.",
+    "Extremely levered: debt/equity ~442, EV ~$119B; the buyback story amplifies both upside and downside on the equity stub.",
+    "Turnaround is show-me \u2014 narrowing quarterly sub losses toward 60-80k is the proof point and hasn't happened yet.",
+    "Rate/refi environment matters a lot given the debt load."
+  ],
+  "catalyst": "Sequential improvement in broadband net adds + Cox synergy realization + accelerating buybacks; Nick Jeffery's operational impact.",
+  "catalyst_timing": "Q3/Q4 2026 subscriber prints; COO onboarding from Sept 2026.",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter-to-medium spot position; scale on evidence subscriber losses are narrowing.",
+  "key_risk": "Broadband subscriber erosion accelerates instead of stabilizing, overwhelming buyback math.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You don't believe cable broadband can stabilize against FWA/fiber, or you avoid highly levered equities."
+}
