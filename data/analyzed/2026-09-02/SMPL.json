@@ -1,0 +1,28 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods fell ~60% over the past year (from ~$29 to ~$11.5) as its legacy Atkins brand went into steep decline (-24.6% in Q3 2026), dragging total revenue down 6% and pushing the company to a quarterly net loss. It is basing near a $9.88 low while management restructures.",
+  "bullish_points": [
+    "Quest and OWYN — the growth brands — are still gaining share and offsetting part of the Atkins drag; the protein-snacking category is structurally healthy",
+    "Self-help underway: high-single-digit price increases and a ~15% workforce cut to protect margin",
+    "A director bought stock at the lows; analyst mean target ~$14.38 with a 'Buy' consensus implies ~25% upside",
+    "33% gross margin and a manageable balance sheet ($124M cash vs $448M debt) — not a solvency story"
+  ],
+  "bearish_points": [
+    "Atkins decline is likely secular, not cyclical; low-carb dieting is out of fashion and GLP-1 drugs pressure the whole diet-snack category",
+    "Reported net margin swung negative (-14%) and full-year outlook still guides to a 6-7% sales decline",
+    "Turnaround depends on Quest/OWYN outgrowing Atkins' shrinkage — an unproven offset at scale",
+    "No hard near-term catalyst; this is a wait-for-stabilization story"
+  ],
+  "catalyst": "Evidence in the next 1-2 quarters that Quest/OWYN growth is outpacing Atkins decline and total revenue is inflecting",
+  "catalyst_timing": "Q4 2026 / Q1 2027 earnings",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot in the $11-12 range; add only on confirmed revenue stabilization. Spot, not options.",
+  "key_risk": "Atkins keeps bleeding faster than Quest/OWYN can grow, and the whole portfolio de-rates further",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You want confirmation the Atkins bleed has stopped before committing capital"
+}

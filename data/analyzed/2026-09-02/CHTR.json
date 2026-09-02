@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter, the #2 US cable/broadband operator, collapsed ~65% from a ~$422 peak to ~$150 as it lost broadband subscribers to fixed-wireless and fiber competitors (120k lost in Q1 2026, 172k in Q2). It is basing while it integrates the $34.5B Cox acquisition and leans on mobile-broadband convergence to stem the bleed.",
+  "bullish_points": [
+    "Massive free cash flow and a deeply discounted multiple; the Street mean target implies ~67% upside from current levels",
+    "Cox merger (closed 2026) creates the largest US internet/video provider at 37M customers, with meaningful synergy and scale in mobile convergence",
+    "Mobile is the growth engine — 12M+ Spectrum Mobile lines and rising; free-mobile-line offers are a real retention/bundling lever",
+    "23.5% operating margin and 9% net margin — this is a cash machine, not a distressed operator; buybacks shrink the float"
+  ],
+  "bearish_points": [
+    "Core broadband is in secular decline; subscriber losses are accelerating (172k in Q2 vs 120k in Q1), which is the crux of the bear case",
+    "Enormous leverage: ~$96.7B total debt and 441% D/E — refinancing at higher rates pressures the equity",
+    "Cox integration is large and complex; synergy realization and merger timing remain execution risks",
+    "Fixed-wireless (T-Mobile/Verizon) and fiber overbuilders are structural, well-funded competitors that are not going away"
+  ],
+  "catalyst": "Broadband sub losses stabilizing plus visible Cox synergy capture and convergence-driven ARPU/retention gains",
+  "catalyst_timing": "Q3-Q4 2026 earnings and 2027 as Cox integration progresses",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Starter spot near $150 as a deep-value FCF/convergence call; add on evidence broadband losses are bottoming.",
+  "key_risk": "Broadband subscriber erosion keeps accelerating, so FCF compresses faster than debt paydown and buybacks can offset",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You need broadband sub losses to inflect positive before trusting the FCF-and-buyback thesis"
+}

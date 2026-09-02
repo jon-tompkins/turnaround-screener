@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT collapsed from ~$130 in 2024 to the mid-teens through 2025 after patient deaths tied to ELEVIDYS gene therapy forced label restrictions, a commercial pause in non-ambulatory Duchenne, and a strategic restructuring. The stock is recovering off a $14.68 low as the label stabilized for ambulatory patients and the company reasserted profitability.",
+  "bullish_points": [
+    "Now GAAP profitable and cash-flow positive: Q1 2026 GAAP operating income of $358M, ~$1B cash on hand, so no near-term dilution pressure",
+    "ELEVIDYS retains traditional approval for ambulatory patients and revenue is positioned to re-stabilize; ENDEAVOR Cohort 8 with sirolimus pretreatment is a path back to the non-ambulatory market",
+    "Catalyst-rich pipeline: siRNA readouts SRP-1001 (FSHD) and SRP-1003 (DM1), each a >$1B opportunity, flagged by sell-side as potential +25-50% stock moves",
+    "Roche partnership on ELEVIDYS ex-US and a broad genetic-medicine platform provide optionality beyond the lead asset"
+  ],
+  "bearish_points": [
+    "Safety overhang is real and unresolved: the non-ambulatory deaths are the reason for the crash and any further safety signal re-breaks the thesis hard",
+    "Revenue fell 34% year-over-year and gross margin printed negative (-17%) on the dossier — the commercial franchise is impaired, not just paused",
+    "$1.06B total debt against $788M cash; D/E ~70% leaves less room for error than the cash figure alone suggests",
+    "Biotech binary risk: a disappointing siRNA readout removes the main upside catalyst"
+  ],
+  "catalyst": "Initial Phase 1/2a data for SRP-1001 (FSHD) and SRP-1003 (DM1), plus progress on the ELEVIDYS non-ambulatory pathway (ENDEAVOR Cohort 8)",
+  "catalyst_timing": "siRNA initial data expected around Q1 2026 / 1H 2026; non-ambulatory pathway updates through 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium starter spot in the low-$20s; size for binary biotech risk. Consider Jan 2027 calls only for a defined-risk catalyst bet, not core.",
+  "key_risk": "A new ELEVIDYS safety signal or a failed siRNA readout — either invalidates the recovery narrative",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You cannot stomach single-headline biotech gap risk, or you need confirmed revenue re-acceleration before entering"
+}

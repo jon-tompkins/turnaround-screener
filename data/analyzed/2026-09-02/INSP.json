@@ -1,0 +1,28 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire, a former high-flyer in implantable obstructive-sleep-apnea therapy, fell from ~$147 to a $38.91 low (now ~$62) on GLP-1-driven TAM fears and a 2026 guidance cut tied to coding/reimbursement problems for its new Inspire V system and the WISeR prior-authorization program. It is basing while the reimbursement picture resolves.",
+  "bullish_points": [
+    "Exceptional business quality: 86% gross margins, net cash balance sheet ($321M cash vs $29M debt), and a differentiated implantable therapy with a wide moat",
+    "Q2 2026 delivered a profit and a guidance raise that popped the stock ~20% — early sign the reimbursement air-pocket may be transient",
+    "Multi-year secular demand for OSA treatment is intact; GLP-1s address a different patient segment and adherence remains poor",
+    "Inspire V is a genuine product-cycle upgrade once coding/reimbursement normalizes"
+  ],
+  "bearish_points": [
+    "Management cut full-year 2026 guidance on Inspire V coding and WISeR reimbursement uncertainty; revenue is still guided down 4-10% YoY",
+    "Reimbursement risk for a discretionary implant is the exact kind of overhang that can persist for several quarters",
+    "GLP-1 narrative, even if overstated, keeps a valuation lid on the multiple",
+    "Mixed signals — an earlier guidance slash then a Q2 beat — make the trajectory hard to underwrite"
+  ],
+  "catalyst": "Resolution of Inspire V coding/reimbursement and WISeR clarity, plus continued quarterly proof the revenue decline is bottoming",
+  "catalyst_timing": "Q3-Q4 2026 earnings and CMS/payer coding updates",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot near $60 on the quality; scale up only once reimbursement clarity and revenue re-acceleration are confirmed.",
+  "key_risk": "Reimbursement/coding problems drag on and revenue keeps declining, proving the guidance cut was structural not transient",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You need reimbursement resolution in hand before paying up for the quality"
+}

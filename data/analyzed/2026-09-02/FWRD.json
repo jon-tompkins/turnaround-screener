@@ -1,0 +1,27 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air destroyed shareholder value with its controversial $2.1B Omni Logistics acquisition in Jan 2024, loading ~$1.4B of extra debt onto the balance sheet. The stock fell from ~$31 to a $7.86 low and is basing near $16 as the board pursues asset sales to deleverage.",
+  "bullish_points": [
+    "Basing well off the $7.86 low; a successful non-core asset sale (Intermodal, Omni units) would be a hard deleveraging catalyst",
+    "Core LTL/expedited franchise remains a real, revenue-generating business ($2.5B TTM revenue, +8.8% growth)",
+    "Activist and strategic interest has kept a floor of M&A optionality under the name"
+  ],
+  "bearish_points": [
+    "Full-enterprise sale process ended without a buyer; Clearlake and Apollo walked — the cleanest exit is off the table",
+    "Net debt ~$1.68B at 5.5x EBITDA; $2.1B total debt against just $139M cash is a genuinely stressed balance sheet",
+    "Q2 2026 operating loss of $201M including a $244M Omni goodwill impairment — the acquisition is still being written down",
+    "Negative net margin (-11%); deleveraging via piecemeal asset sales is slow and value-uncertain"
+  ],
+  "catalyst": "Announcement of Intermodal and/or Omni non-core asset sales that materially cut leverage",
+  "catalyst_timing": "Ongoing through 2026 as the strategic review concludes",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / watchlist only. Revisit if a concrete asset-sale price and debt-paydown figure is announced.",
+  "key_risk": "Leverage at 5.5x with a deteriorating freight cycle — a covenant or refinancing problem could wipe the equity",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 55,
+  "would_skip_if": "You require a clean balance sheet or a committed buyer; both are absent here"
+}
