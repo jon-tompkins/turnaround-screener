@@ -1,0 +1,300 @@
+{
+  "ticker": "FWRD",
+  "fetched_at": "2026-09-03T13:38:20.503635",
+  "overview": {
+    "name": "Forward Air Corporation",
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics",
+    "description": "Forward Air Corporation, together with its subsidiaries, operates as an asset-light freight and logistics company in the United States, Mexico, Europe, Asia, and Canada. The company operates through three segments: Expedited Freight, Omni Logistics, and Intermodal. Its Expedited Freight segment provides expedited regional, inter-regional, and national less-than-truckload services; local pick-up and delivery services; and other services, which include shipment consolidation and deconsolidation, warehousing, customs brokerage, and other handling. This segment offers expedited truckload brokerage, dedicated fleet, and high security and temperature-controlled logistics services. The Omni Logistics segment offers full suite of global logistics services, such as air and ocean freight consolidation and forwarding, customs brokerage, warehousing and distribution, value-added services, time-definite transportation services, and other supply chain solutions. Its Intermodal segment provides intermodal container drayage services; and contract and container freight station warehouse and handling services. The company serves freight forwarders, third-party logistics companies, integrated air cargo carriers and passenger, passenger and cargo airlines, steamship lines, and retailers. Forward Air Corporation was incorporated in 1981 and is headquartered in Dallas, Texas.",
+    "market_cap": 544885312,
+    "enterprise_value": 2503115264,
+    "shares_outstanding": 33780862,
+    "float_shares": 27309800,
+    "short_ratio": 2.76,
+    "short_percent_of_float": 0.0926,
+    "held_by_insiders": 0.01859,
+    "held_by_institutions": 0.97679,
+    "revenue_ttm": 2518074880,
+    "revenue_growth": 0.088,
+    "gross_margins": 0.2149,
+    "operating_margins": 0.06343,
+    "profit_margins": -0.11366,
+    "free_cashflow": 86966248,
+    "operating_cashflow": 70841000,
+    "total_cash": 139448000,
+    "total_debt": 2109981056,
+    "debt_to_equity": null,
+    "current_ratio": 1.321,
+    "trailing_pe": null,
+    "forward_pe": 37.511627,
+    "price_to_book": -4.713618,
+    "ev_to_ebitda": 8.884,
+    "ev_to_revenue": 0.994,
+    "fifty_two_week_high": 31.3,
+    "fifty_two_week_low": 7.86,
+    "current_price": 16.13,
+    "analyst_target_mean": 28.0,
+    "analyst_target_high": 29.0,
+    "analyst_target_low": 27.0,
+    "recommendation": "none",
+    "num_analysts": 2,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-04 15:00:00-05:00",
+        "EPS Estimate": 0.1,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-05 16:00:00-04:00",
+        "EPS Estimate": -0.15,
+        "Reported EPS": 1.53,
+        "Surprise(%)": 1096.09
+      },
+      {
+        "Earnings Date": "2026-05-07 16:00:00-04:00",
+        "EPS Estimate": -0.37,
+        "Reported EPS": -0.2,
+        "Surprise(%)": 45.67
+      },
+      {
+        "Earnings Date": "2026-02-23 16:00:00-05:00",
+        "EPS Estimate": -0.26,
+        "Reported EPS": -0.19,
+        "Surprise(%)": 30.0
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 6,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2027-12-17",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 3.12596875,
+    "total_call_oi": 962,
+    "total_put_oi": 601
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 627986,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 9545,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "GORJANC CHRISTINE MARIE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9545,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BOYLES DALE W",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 9545,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "SVINDLAND PAUL C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 18692,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "STEWART SHAWN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5732,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PIERSON JAMIE G",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-16 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2340,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FAUGHT JAMES R.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 43197,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "STEWART SHAWN",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10799,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "LORRAIN JEROME JEAN-PIERRE",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2026-02-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 8999,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "BRANDT ERIC FREDERICK",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 4950,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HERREN JESSICA L",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-02-19 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 35.36437568422153,
+    "pct_above_200d_ma": -17.672842255895805,
+    "pct_of_100d_ma": 106.0203993967046,
+    "pct_change_1d": 0.2503186274919411,
+    "pct_change_5d": -9.132154167005202,
+    "pct_change_30d": -0.31113402619821207
+  }
+}
