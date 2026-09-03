@@ -1,0 +1,30 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT collapsed in 2025 after patient deaths and a boxed liver-injury warning on ELEVIDYS (its DMD gene therapy), an FDA shipping pause, and removal of the non-ambulatory indication — revenue fell 34% YoY. The stock is now recovering after the FDA reversed the shipping pause, management removed the near-term debt overhang via a 2027->2030 convert exchange, and insiders bought aggressively.",
+  "bullish_points": [
+    "FDA reversed the ELEVIDYS shipping pause; management guides to gradual momentum returning in 2H26 into 2027",
+    "Very heavy insider buying: 11 purchases / ~907k shares, net +900k shares in last 6 months — strong conviction signal",
+    "Short interest is ~31% of float with an 8.66 short ratio — meaningful squeeze fuel on any good news",
+    "PMO (exon-skipping) franchise still generating ~$230M/quarter — real, cash-generative base business beneath the ELEVIDYS story",
+    "Debt overhang pushed out to 2030 via convert exchange; $788M cash on hand",
+    "Cohort 8 of ENDEAVOR (sirolimus pretreatment) aims to restore non-ambulatory access — a potential label re-expansion catalyst"
+  ],
+  "bearish_points": [
+    "ELEVIDYS carries a boxed warning for serious liver injury tied to patient deaths — an overhang that caps prescriber confidence",
+    "Revenue growth -34% and gross margins negative (-17%) on the trailing window; the recovery is a hope, not yet a trend",
+    "Stock already ran +44% in 30 days / +17% in 5 days — much of the near-term good news may be priced",
+    "Gene-therapy safety headlines are binary and can re-break the thesis at any time"
+  ],
+  "catalyst": "Sequential ELEVIDYS revenue re-acceleration in 2H26 earnings prints, plus ENDEAVOR Cohort 8 data supporting a path back to the non-ambulatory population",
+  "catalyst_timing": "2H 2026 quarterly prints (Q3 2026 report) and ENDEAVOR Cohort 8 readouts over the next several quarters",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium starter spot near $22-23; scale on a confirmed revenue re-acceleration print rather than chasing the run",
+  "key_risk": "A new ELEVIDYS safety event (further liver-injury deaths) that triggers another pause or label restriction and re-breaks the recovery",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You need confirmation the ELEVIDYS rebuild is real — skip until at least one quarter shows sequential ELEVIDYS revenue growth; also skip if chasing after the +44% 30-day move rather than buying a pullback"
+}

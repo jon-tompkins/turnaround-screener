@@ -1,0 +1,29 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air is down ~70% since its debt-funded Omni Logistics merger left it with ~$1.68B net debt at ~5.5x EBITDA — right at its covenant limit. A Goldman-advised strategic review raised hopes of a full-company sale, but a full sale is now seen as unlikely, sending shares lower. It is basing near lows on a fading M&A catalyst.",
+  "bullish_points": [
+    "Strategic review is nearing conclusion; even a partial outcome (Omni unit divestitures) could de-lever and reduce the covenant risk",
+    "~$2.5B trailing revenue on a ~$545M market cap — enormous operating leverage to any margin recovery or successful sale",
+    "Piecemeal Omni divestitures have begun (one unit closed July 2026), showing the board is executing on de-leveraging",
+    "If freight cycle recovers, EBITDA growth alone could pull the leverage ratio back below the covenant"
+  ],
+  "bearish_points": [
+    "A full-company sale is now viewed as unlikely — the primary near-term catalyst just deflated, and the stock fell ~9% in 5 days on it",
+    "Net debt ~5.5x EBITDA sits exactly at the covenant limit; any EBITDA slippage risks a breach and equity impairment",
+    "Q2 posted a loss on a $244M impairment — the underlying business is still deteriorating",
+    "Divestitures so far are tiny (~$16.5M) relative to a ~$1.7B debt problem — nowhere near a fix",
+    "This is a broken-balance-sheet equity: the payoff is binary and skewed to the downside if the review disappoints"
+  ],
+  "catalyst": "Conclusion of the strategic review — a larger Omni divestiture or refinancing that materially cuts leverage below the covenant limit",
+  "catalyst_timing": "Next 1-2 quarters as the review concludes",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / watch-only; if taken, a very small speculative spot near $16 sized as an option-like bet on the review outcome",
+  "key_risk": "The strategic review ends with no transformative deal while EBITDA slips, breaching covenants and severely impairing the equity",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 55,
+  "would_skip_if": "You are not comfortable with covenant-breach / equity-wipe risk — the fading full-sale catalyst removed the main reason to own it here"
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty got cut in half (to ~$2.9 from $4.56) on soft Consumer Beauty sales, a heavy debt load (EV ~$6B vs ~$2.6B market cap) and the looming loss of the Gucci fragrance license. It is now recovering as a new ex-P&G CEO deleverages with $750M of Wella-stake proceeds and guides to a return to like-for-like growth in 2H FY26.",
+  "bullish_points": [
+    "Sold remaining 25.8% Wella stake to KKR for $750M upfront, most of which paid down long-term debt — a concrete deleveraging catalyst",
+    "New Executive Chairman/interim CEO Markus Strobel (33 years at P&G) brings operating credibility to the reset",
+    "Management guides like-for-like sales back to growth in 2H FY26, driven by prestige fragrance launches and growth-market expansion",
+    "Prestige fragrance remains a structurally healthy category; the brand portfolio has real cash-generative value",
+    "Deep value optically: stock near multi-year lows with analyst targets around $4.86"
+  ],
+  "bearish_points": [
+    "Debt is still the story — EV more than 2x market cap; equity is a thin slice of a leveraged capital structure",
+    "Losing the Gucci license by FY28 is a known revenue and margin headwind with no clean offset yet",
+    "Management itself frames FY27 as a 'transition year' — the recovery is slow and back-half weighted",
+    "Trailing profit margin is -10%; Consumer Beauty fell 11% in the most recent quarter"
+  ],
+  "catalyst": "Return to like-for-like sales growth in 2H FY26 plus continued debt paydown from Wella proceeds lowering the leverage overhang",
+  "catalyst_timing": "2H FY26 (calendar 2026) quarterly prints",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot near $2.90-3.10; this is a leveraged deleveraging bet, size for the balance-sheet risk",
+  "key_risk": "Sales growth fails to inflect in 2H FY26 while the Gucci loss approaches, leaving a still-levered balance sheet and forcing further guidance cuts",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You want a clean balance sheet — the leverage makes the equity binary; skip if 2H FY26 fails to show the promised like-for-like inflection"
+}

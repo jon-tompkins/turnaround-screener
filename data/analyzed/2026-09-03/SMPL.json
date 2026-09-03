@@ -1,0 +1,30 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods (Quest, Atkins, OWYN) fell from ~$29 to ~$11 after repeated FY26 guidance cuts, steep declines in Atkins (-26.6%) and OWYN (-16.8%), and ~$200M of cumulative OWYN impairments tied to product-quality and marketing-execution problems. It is basing near multi-year lows with a possible earnings reset.",
+  "bullish_points": [
+    "Quest — the crown-jewel brand — held roughly flat (+0.3%) even through a bad stretch, suggesting the core franchise is stable",
+    "Positive free cash flow (~$107M) and manageable leverage (~$448M debt vs ~$124M cash) give the business time to fix execution",
+    "OWYN problems have been called out as quality/marketing execution (fixable) rather than category demand collapse",
+    "Guidance has been reset low, so the bar for a positive surprise is now much lower",
+    "Some sell-side framing already views the post-reset valuation as undervalued"
+  ],
+  "bearish_points": [
+    "FY26 sales guided down ~6-7%; the most recent quarter turned to a ~$52M net loss vs prior-year profit",
+    "Two of three brands (Atkins, OWYN) are in steep decline; the whole thesis leans on Quest not rolling over",
+    "GLP-1 and shifting nutrition trends pressure the entire active-nutrition/low-carb snack category",
+    "Repeated downward guidance revisions show management has struggled to forecast its own business — credibility gap",
+    "Basing only; no identifiable hard near-term catalyst to force a re-rate"
+  ],
+  "catalyst": "Stabilization of Quest and a bottoming of OWYN declines confirmed on the next earnings print, showing the guidance reset was the trough",
+  "catalyst_timing": "Next quarterly report (FY26 Q4 / early FY27)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small starter near $11; add only once a print confirms Quest stability and OWYN declines are decelerating",
+  "key_risk": "Quest decelerates and joins Atkins/OWYN in decline, turning a brand-specific execution problem into a company-wide demand problem",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Quest growth turns negative or FY26 guidance is cut again — the entire bull case rests on Quest holding"
+}

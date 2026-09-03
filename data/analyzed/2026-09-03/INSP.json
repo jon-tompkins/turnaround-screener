@@ -1,0 +1,30 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "INSP fell from ~$147 to ~$64 after cutting 2026 guidance on reimbursement/coding challenges with its new Inspire 5 system and intensifying competition (GLP-1s, rival hypoglossal-nerve devices). It is basing after a +20% 30-day bounce as management points to sequential recovery in 2H as coding clarity improves.",
+  "bullish_points": [
+    "Clean balance sheet: ~$321M cash vs only ~$29M debt, and still GAAP-profitable (15% net margin) — rare for a beaten-down growth medtech",
+    "86% gross margins and an installed base / recurring procedure model give real operating leverage if volumes reaccelerate",
+    "Net insider buying (net +32k shares, 18 purchases) signals some management conviction at these levels",
+    "High short interest (~20% of float, 5.51 ratio) provides squeeze potential on any guidance stabilization",
+    "Management guides to sequential 2H recovery as Inspire 5 coding/reimbursement clarity increases"
+  ],
+  "bearish_points": [
+    "Guidance was cut up to 10% on reimbursement and WISeR-program headwinds — the core growth engine has stalled (Q1 revenue +1.6%)",
+    "GLP-1 weight-loss drugs are a genuine structural threat to the sleep-apnea device addressable market",
+    "Territory contraction and a pivot to supporting existing accounts signal a retreat from the high-growth expansion story",
+    "Multiple analysts (JPM, RBC, Mizuho) cut targets; a share/ESOP shelf registration adds potential dilution overhang",
+    "Basing, not confirmed recovering — the bounce could be a lower high within a downtrend"
+  ],
+  "catalyst": "Coding/reimbursement clarity on Inspire 5 driving a return to double-digit revenue growth, confirmed on 2H 2026 prints",
+  "catalyst_timing": "2H 2026 quarterly results (Q3 2026 report)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small; wait for a Q3 print that confirms sequential revenue re-acceleration before adding",
+  "key_risk": "Reimbursement/coding headwinds persist and GLP-1 competition compresses the addressable market, turning the 'temporary' guidance cut into a structural de-rate",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 revenue growth stays low-single-digit or guidance is cut again — the reimbursement fix has to show up in the numbers first"
+}
