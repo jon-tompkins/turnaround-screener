@@ -1,0 +1,31 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Inspire, maker of the hypoglossal-nerve-stimulation implant for obstructive sleep apnea, collapsed ~58% from its 52-week high on fears that GLP-1 drugs (Zepbound, now FDA-approved for OSA) shrink its addressable market, compounded by reimbursement/coding uncertainty and a guidance cut to $900-910M.",
+  "bullish_points": [
+    "Exceptional business quality: 86% gross margin, positive net margin (15%), and a near-net-cash balance sheet ($320M cash vs $29M debt)",
+    "Inspire's own survey of 200+ sleep physicians suggests GLP-1 availability is increasing the number of patients seeking OSA diagnosis/treatment, potentially expanding the funnel",
+    "Clinical momentum (SLEEP 2026 presence, PREDICTOR study) supports the durability of the therapy",
+    "Deeply de-rated toward the 52-week low with a still-underpenetrated OSA implant market",
+    "Category-defining device with limited direct implant competition"
+  ],
+  "bearish_points": [
+    "GLP-1 threat is genuine and multi-year: some physicians will trial a GLP-1 before considering Inspire, delaying/reducing demand",
+    "BofA downgrade cites slower growth, reimbursement and coding/insurance billing confusion — a self-inflicted near-term headwind",
+    "One analyst flags the problem lasting into 2028, i.e. no quick fix",
+    "Revenue growth already negative (-7.6%); a former hyper-grower is now shrinking",
+    "'Basing' is unconfirmed (technicals null); high risk of re-breakdown on another guide or coding setback"
+  ],
+  "catalyst": "Resolution of the reimbursement/coding confusion and evidence that GLP-1s expand rather than cannibalize the OSA funnel, shown in stabilizing revenue growth",
+  "catalyst_timing": "Next 1-2 earnings prints (2H 2026); coding clarity could extend into 2027",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter near the low; wait for a growth-stabilization print before adding",
+  "key_risk": "GLP-1 adoption structurally caps the implant TAM and coding headwinds persist into 2027-2028",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Another guidance cut or worsening coding/reimbursement commentary",
+  "note": "Existing deep-dive research note already present at data/research/INSP.md; not redone."
+}

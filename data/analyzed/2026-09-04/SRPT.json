@@ -1,0 +1,30 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT was gutted in 2025 after three patient deaths tied to its AAV gene therapies triggered an FDA distribution suspension and clinical holds; the stock fell from the high-$100s to a $14.68 low. In 2026 the safety overhang is being resolved (black-box liver-injury warning agreed, ambulant ELEVIDYS label largely intact) and the company is restructuring around a de-risked commercial base plus an siRNA pipeline.",
+  "bullish_points": [
+    "ELEVIDYS still generated ~$102M net product revenue in Q1 2026 despite the safety saga, proving a durable commercial base rather than a zero",
+    "Catalyst-rich 2026: black-box warning agreed (resolves material ambulant-label risk), sNDAs filed for AMONDYS 45 and VYONDYS 53 seeking traditional approval, and early siRNA Phase 1/2 data (SRP-1001 FSHD, SRP-1003 DM1) showing dose-dependent exposure",
+    "Strategic restructuring and pipeline prioritization cutting cost, extending runway around $788M cash",
+    "Recent FDA signals read as more gene-therapy-friendly, a tailwind for both ELEVIDYS and the siRNA platform",
+    "Roche ex-US ELEVIDYS partnership provides validation and non-dilutive economics"
+  ],
+  "bearish_points": [
+    "Three patient deaths create a lasting safety overhang; any further ALI/ALF event could re-trigger holds or worse",
+    "Revenue down 34% YoY and gross margin negative (-17%) — the P&L is mid-restructuring and messy",
+    "Total debt $1.06B against $788M cash; not a fortress balance sheet for a company with declining revenue",
+    "Dossier technicals (SMA/RSI) came back null, so the read is fundamental/catalyst-driven not confirmed by trend",
+    "DMD gene-therapy TAM is being reassessed by payers and physicians post-deaths"
+  ],
+  "catalyst": "Sequential regulatory de-risking (traditional-approval conversions for AMONDYS/VYONDYS, ELEVIDYS label stabilization) plus siRNA pipeline readouts re-rating the platform",
+  "catalyst_timing": "Rolling through 2H 2026 into 2027 (sNDA decisions, further siRNA data)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium); consider Jan 2027 calls only for a risk-budgeted sleeve given binary safety tail",
+  "key_risk": "A new liver-injury death or FDA action that re-imposes distribution/clinical holds",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Any fresh serious adverse-event signal, or a financing that heavily dilutes before catalysts land"
+}

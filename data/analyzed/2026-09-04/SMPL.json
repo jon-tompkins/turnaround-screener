@@ -1,0 +1,29 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods fell ~61% from its 52-week high as its flagship Atkins brand deteriorated (net sales -26%) and OWYN stumbled on a product-quality/distribution issue, forcing a $249M intangible impairment, a $160M quarterly net loss, and a cut to FY2026 guidance. Only Quest is roughly holding.",
+  "bullish_points": [
+    "Quest remains healthy (roughly flat with chips and milkshakes strong), providing a viable growth core if Atkins is stabilized or wound down",
+    "Founder/operator Scalzo returning signals a hands-on attempt to fix marketing and distribution execution",
+    "Decent underlying gross margin (33%) for packaged food once impairments are excluded",
+    "Down 61% and basing, so a lot of the Atkins decline is arguably in the price"
+  ],
+  "bearish_points": [
+    "Atkins is in structural decline (household penetration falling, under-marketed) — the impairment is an admission the brand is worth less",
+    "OWYN's problems (product quality, ineffective marketing) hit the one piece that was supposed to be growth",
+    "Guidance cut to $1.31-1.35B sales (down 7-10%) with adjusted EBITDA down 19-22% — estimates still falling",
+    "Negative reported net margin (-14%) driven by the write-downs; earnings visibility is poor",
+    "'Basing' is unconfirmed (technicals null) and fundamentals are still deteriorating, a classic re-break risk"
+  ],
+  "catalyst": "Evidence the new leadership stabilizes Atkins declines and re-accelerates OWYN, or a strategic move around the Atkins brand",
+  "catalyst_timing": "FY2026 Q3/Q4 prints over the next two quarters",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Pass, or a tiny spot only pending a print that shows Atkins declines decelerating",
+  "key_risk": "Atkins decline proves secular and drags the whole portfolio, keeping estimates on a downward path",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows Atkins/OWYN declines steepening or another guidance cut"
+}

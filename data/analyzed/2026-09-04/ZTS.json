@@ -1,0 +1,30 @@
+{
+  "ticker": "ZTS",
+  "company_name": "Zoetis Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "turnaround_reason": "Zoetis, the animal-health leader, de-rated ~51% from its 52-week high (to near the $71 low) after cutting 2026 guidance twice on softening U.S. companion-animal demand — fewer vet visits, price-sensitive pet owners, and rising competition. The debate is temporary demand air-pocket versus structural growth reset.",
+  "bullish_points": [
+    "Best-in-class quality of the whole batch: 71.7% gross margin, 40.7% operating margin, 27.7% net margin — a genuine compounder now on sale",
+    "Category leader with a broad, durable franchise (Simparica, Librela, livestock) and pricing power over time",
+    "Librela trends stabilizing in the U.S. after a -22% quarter; management sees traction from fixes",
+    "Livestock/cattle demand strong (New World screwworm response) providing an offset to companion-animal softness",
+    "Trading near a 52-week low with a still-growing secular animal-health end market"
+  ],
+  "bearish_points": [
+    "Guidance cut is real: 2026 revenue lowered to $9.12-9.32B, organic revenue -3% to -1%, adjusted net income -9% to -5% — earnings are declining, not just decelerating",
+    "Core U.S. companion-animal revenue down 11%; if vet-visit weakness is structural (GLP-1-style behavior shifts, macro) the reset is deeper",
+    "Still not cheap on absolute multiples for a company guiding to declining EPS",
+    "Total debt $9.26B vs $1.68B cash; manageable for this cash flow but not trivial",
+    "Dossier technicals null — no confirmed base, could re-break lower on another guide-down"
+  ],
+  "catalyst": "Stabilization/reacceleration of U.S. companion-animal demand and Librela recovery, confirmed in the next 1-2 earnings prints; any guidance raise would re-rate a quality name off a trough multiple",
+  "catalyst_timing": "Q3 2026 and Q4 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Starter spot position (small-to-medium) near the low; scale on a confirmed guidance stabilization",
+  "key_risk": "A third consecutive guidance cut showing the U.S. companion-animal softness is structural rather than cyclical",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Next print cuts guidance again or U.S. companion-animal revenue declines accelerate"
+}

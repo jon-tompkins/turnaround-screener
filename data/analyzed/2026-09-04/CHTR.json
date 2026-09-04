@@ -1,0 +1,31 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter fell ~58% from its 52-week high, including a record -25.5% single session in April 2026, on accelerating broadband subscriber losses (120k in Q1, 172k cited) amid fixed-wireless and fiber competition. The bull case is that the just-closed Cox acquisition plus mobile growth and heavy FCF stabilize units at a deeply discounted valuation.",
+  "bullish_points": [
+    "Highly cash-generative cable model with 23.5% operating margin and 9% net margin even through the sub declines",
+    "Cox acquisition (~$34.5B) expected to close mid-to-late August 2026; management frames it as improving internet performance and unit growth",
+    "Mobile line growth (~12M lines cited) is a real, growing convergence lever that reduces churn",
+    "Street mean target implies large upside from a washed-out price; sentiment is maximally bearish",
+    "Basing setup after a historic drawdown — much of the bad news is arguably priced"
+  ],
+  "bearish_points": [
+    "Enormous leverage: ~$96.7B total debt against a $20B equity cap; equity is a thin slice of a $119B EV, so small EBITDA changes swing the stock hard",
+    "Broadband losses are still widening quarter over quarter — the core secular threat (fiber overbuild + FWA) is not yet stabilized",
+    "Cox integration is large and execution-heavy; synergy timing and added debt are risks",
+    "Weaker profit outlook flagged alongside the sub losses",
+    "Dossier technicals null; 'basing' is unconfirmed and could re-break on another weak print"
+  ],
+  "catalyst": "Cox deal close and first combined-entity subscriber/guidance updates showing broadband trends stabilizing",
+  "catalyst_timing": "2H 2026 (deal close already underway) and Q3/Q4 2026 earnings",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot only; this is a levered value/turnaround, size for the possibility of continued sub bleed",
+  "key_risk": "Broadband subscriber losses keep accelerating post-Cox, compressing EBITDA against the huge debt load",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows broadband losses worsening or Cox integration guidance disappoints",
+  "note": "Existing deep-dive research note already present at data/research/CHTR.md; not redone."
+}

@@ -1,0 +1,29 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air is a broken-deal distressed situation: its ~$2.1B January 2024 Omni Logistics acquisition loaded ~$1.4B of debt onto the balance sheet, net debt is ~5.5x EBITDA, a formal sale review ended with no buyer, and the company is now selling non-core assets to deleverage.",
+  "bullish_points": [
+    "Deleveraging optionality: asset sales underway (an Omni unit closed July 2026 for ~$16.5M with an expected gain; Intermodal and other Omni units for sale)",
+    "Q2 described as a 'step in the right direction' operationally despite the headline loss",
+    "Equity is a highly-levered call option on successful debt reduction if freight demand cooperates",
+    "Revenue growing modestly (+8.8% YoY) off the combined base"
+  ],
+  "bearish_points": [
+    "Net debt ~$1.68B at ~5.5x EBITDA — balance sheet is the whole story and it is stretched",
+    "The strategic review ended WITHOUT a buyer, removing the cleanest exit and signaling weak strategic interest",
+    "A contract-logistics customer representing ~10% of $2.5B revenue intends to diversify away — direct revenue risk",
+    "$244M goodwill impairment and a $207M Q2 net loss; negative net margin (-11%)",
+    "Freight cycle is soft; deleveraging via asset sales into a weak market fetches low prices"
+  ],
+  "catalyst": "Completion of Omni/Intermodal asset sales that materially cut leverage and clarify the go-forward entity",
+  "catalyst_timing": "Rolling through 2H 2026 as the strategic review concludes",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Pass, or a tiny speculative spot only for those who want the levered deleveraging option",
+  "key_risk": "Debt load plus the 10% customer defection overwhelms slow asset-sale progress, forcing a distressed outcome",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "Leverage stays above ~5x, the large customer confirms its exit, or freight demand weakens further"
+}

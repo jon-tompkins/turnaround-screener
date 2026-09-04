@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty trades near $2.92 (52-week low $1.82) after years of soft Consumer Beauty trends, but is executing a credible deleveraging and cost-out story: net debt down ~$840M YoY to $2.9B, ~3.4x leverage targeting ~2x, with the 'Coty.Curated' reset underway.",
+  "bullish_points": [
+    "Q4 like-for-like sales down only 1%, ahead of mid-single-digit-decline guidance, with better US prestige fragrance and mass cosmetics orders",
+    "Deleveraging is tangible: net debt -$840M YoY, FCF $348M (+~$70M YoY), 'All in to Win' delivered $250M+ savings ahead of target",
+    "Returning the Gucci Beauty license to Kering for ~$400M ($250M upfront) provides cash and simplifies the portfolio",
+    "Optically cheap equity where each turn of debt reduction is highly accretive to the thin equity stub",
+    "Prestige fragrance remains a resilient category"
+  ],
+  "bearish_points": [
+    "Heavy leverage remains the dominant risk: $3.3B total debt vs only $176M cash; EV $6.1B dwarfs the $2.6B cap",
+    "Management withheld full-year FY2027 guidance citing Coty.Curated implementation and strategic review — an uncertainty flag",
+    "Consumer Beauty demand is still soft and negative profit margin (-10%) shows the P&L isn't fixed yet",
+    "Barchart framing that the turnaround 'hinges on whether vendors keep waiting' hints at working-capital/supplier fragility",
+    "Dossier technicals null; low-priced stock with high sensitivity to any liquidity scare"
+  ],
+  "catalyst": "Continued net-debt reduction plus Coty.Curated execution stabilizing Consumer Beauty; the Gucci license cash inflow",
+  "catalyst_timing": "FY2027 quarterly prints beginning fall 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot only; treat as a levered deleveraging option, size accordingly",
+  "key_risk": "Consumer Beauty demand deteriorates and leverage forces dilutive or distressed action before the debt glide-path completes",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "A guide-down on FCF/leverage, or evidence supplier terms are tightening"
+}
