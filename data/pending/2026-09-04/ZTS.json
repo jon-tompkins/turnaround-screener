@@ -1,0 +1,300 @@
+{
+  "ticker": "ZTS",
+  "fetched_at": "2026-09-04T13:35:25.191273",
+  "overview": {
+    "name": "Zoetis Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "description": "Zoetis Inc. engages in the discovery, development, manufacture, and commercialization of medicines, vaccines, diagnostic products and services, biodevices, genetic tests, and precision animal health solutions for the animal health industry in the United States and internationally. The company commercializes products primarily across companion animals comprising dogs, cats, and horses; and species, including livestock, such as cattle, swine, poultry, fish, and sheep. It also offers parasiticides, vaccines, dermatology, anti-infectives, pain and sedation, other pharmaceutical, and animal health diagnostics. In addition, the company provides animal health diagnostics, including point-of-care diagnostic products, instruments and reagents, rapid immunoassay tests, reference laboratory kits and services, and blood glucose monitors; and other non-pharmaceutical products, which include nutritionals, as well as products and services in biodevices, genetic tests, and precision animal health. It markets its products to veterinarians, livestock producers, and pet owners. The company has collaborated with Blacksmith Medicines, Inc. to discover and develop novel antibiotics for animal health. Zoetis Inc. was incorporated in 2012 and is headquartered in Parsippany, New Jersey.",
+    "market_cap": 31107473408,
+    "enterprise_value": 39103827968,
+    "shares_outstanding": 413223602,
+    "float_shares": 412372361,
+    "short_ratio": 2.47,
+    "short_percent_of_float": 0.046,
+    "held_by_insiders": 0.00164,
+    "held_by_institutions": 1.0022,
+    "revenue_ttm": 9525000192,
+    "revenue_growth": -0.002,
+    "gross_margins": 0.71738,
+    "operating_margins": 0.40721,
+    "profit_margins": 0.27685,
+    "free_cashflow": 2016999936,
+    "operating_cashflow": 2840000000,
+    "total_cash": 1676000000,
+    "total_debt": 9255000064,
+    "debt_to_equity": 293.996,
+    "current_ratio": 3.084,
+    "trailing_pe": 12.280587,
+    "forward_pe": 11.525789,
+    "price_to_book": null,
+    "ev_to_ebitda": 9.617,
+    "ev_to_revenue": 4.105,
+    "fifty_two_week_high": 155.15,
+    "fifty_two_week_low": 71.0,
+    "current_price": 75.28,
+    "analyst_target_mean": 96.0,
+    "analyst_target_high": 155.0,
+    "analyst_target_low": 80.0,
+    "recommendation": "buy",
+    "num_analysts": 15,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-03 07:00:00-05:00",
+        "EPS Estimate": 1.51,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-06 07:00:00-04:00",
+        "EPS Estimate": 1.85,
+        "Reported EPS": 1.87,
+        "Surprise(%)": 0.95
+      },
+      {
+        "Earnings Date": "2026-05-07 07:00:00-04:00",
+        "EPS Estimate": 1.62,
+        "Reported EPS": 1.53,
+        "Surprise(%)": -5.28
+      },
+      {
+        "Earnings Date": "2026-02-12 07:00:00-05:00",
+        "EPS Estimate": 1.4,
+        "Reported EPS": 1.48,
+        "Surprise(%)": 5.48
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 9,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 5569,
+    "total_put_oi": 8517
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 677686,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 6650,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "D AMELIO FRANK A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1209,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "MCCALLISTER MICHAEL B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1572,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "STETTER MARK",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-21 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 12130,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "PARENT LOUISE M",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-20 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2000,
+        "Value": 151750.0,
+        "URL": "",
+        "Text": "Purchase at price 75.88 per share.",
+        "Insider": "BISARO PAUL M.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6650,
+        "Value": 501344.0,
+        "URL": "",
+        "Text": "Purchase at price 75.39 per share.",
+        "Insider": "D AMELIO FRANK A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-13 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 3000,
+        "Value": 233273.0,
+        "URL": "",
+        "Text": "Purchase at price 77.76 per share.",
+        "Insider": "MCCALLISTER MICHAEL B",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-11 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 259,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "ESCH KEVIN PH.D.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1528,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SARBAUGH KEITH",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-03-31 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1213,
+        "Value": 0.0,
+        "URL": "",
+        "Text": "Stock Gift at price 0.00 per share.",
+        "Insider": "NORDEN GREGORY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-03-09 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 49.97198847505684,
+    "pct_above_200d_ma": -26.344165034470123,
+    "pct_of_100d_ma": 90.72562571358864,
+    "pct_change_1d": -1.4877469165155865,
+    "pct_change_5d": -2.8251844608935817,
+    "pct_change_30d": -0.2587919028176122
+  }
+}
