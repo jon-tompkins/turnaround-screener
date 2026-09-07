@@ -1,0 +1,30 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Fox Factory was crushed by a post-COVID bike-industry inventory glut and soft powersports/OEM demand, driving revenue down and pushing the stock to ~$13 lows. It is now recovering (+16% over 30d) on two straight strong earnings beats, a raised full-year sales outlook, and 22.5% powersports growth.",
+  "bullish_points": [
+    "Two consecutive large beats: Q2 2026 EPS $0.37 vs $0.18 est (+107%), Q1 $0.18 vs $0.08 (+120%); adjusted EBITDA ~$5M above the high end of Q2 guide",
+    "Management raised FY sales guidance to $1.42B-$1.47B and points to H2 margin expansion from cost optimization and tariff anniversary benefits",
+    "Powersports segment soaring (+22.5%) and bike demand stabilizing with new e-bike and softball (Marucci) product launches",
+    "Diversified brand portfolio (FOX, Marzocchi, Race Face, Marucci, Method) across powered vehicles, aftermarket, and specialty sports",
+    "Reasonable valuation for a recovering cyclical: EV/EBITDA ~10.6, forward P/E ~11.7"
+  ],
+  "bearish_points": [
+    "Input-cost inflation running ~$20M above plan (steel, aluminum, freight, fuel) pressuring the margin-recovery thesis",
+    "Specialty Sports Group / bike remains volatile and the recovery there is 'stabilization,' not growth",
+    "Leverage is elevated: D/E ~102%, total debt $680M vs $61M cash; profit margin still negative (-20.4% TTM, GAAP hit by non-cash items)",
+    "Consumer-cyclical demand (premium bikes, powersports) is discretionary and rate/consumer-sentiment sensitive",
+    "Insider activity is grants only — no open-market conviction buying"
+  ],
+  "catalyst": "Continued earnings beats and the H2 2026 margin-expansion inflection as tariff/cost comparisons ease; FY guidance raises",
+  "catalyst_timing": "Next earnings 2026-11-05",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot, small-to-medium starter around current levels; add on a confirmed H2 margin-expansion print. Options OI is thin (88 calls / 10 puts) so prefer shares",
+  "key_risk": "Bike demand relapses or input-cost inflation overwhelms the cost-savings program, so the raised guidance proves too optimistic and the multiple re-rates down",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 shows margin compression despite the tariff anniversary, or bike/powersports orders roll over again"
+}

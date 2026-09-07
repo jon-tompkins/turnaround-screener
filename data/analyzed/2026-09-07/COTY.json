@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty collapsed to a sub-$3 stock as soft mass beauty, a slowing fragrance cycle, and a heavy debt load overwhelmed the story; it withdrew FY26 guidance in early 2026. It is recovering (+10.6% over 30d) as JAB-backed management sells non-core assets and deleverages, but debt remains the dominant risk.",
+  "bullish_points": [
+    "Active deleveraging: net debt cut ~$840M YoY to ~$2.9B (leverage ~3.4x), aided by monetizing the Wella stake for $750M and selling the Gucci Beauty license back to Kering for $400M+",
+    "Q4 FY26 results came in ahead of expectations — an 'encouraging step' in execution consistency per management",
+    "Deep-value optics: price/book ~0.86, EV/EBITDA ~7.7, forward P/E ~11.4 on a global prestige-fragrance franchise",
+    "Some open-market insider buying (an officer/director bought ~$200k at $2.41; CFO added a small clip)",
+    "Strong gross margins (~63%) and positive FCF (~$363M) give the deleveraging plan runway"
+  ],
+  "bearish_points": [
+    "Debt is still the story: $3.3B total debt, D/E ~97.5%, and a weak current ratio of 0.755 — little margin for error",
+    "Management withdrew FY26 guidance and declined to issue FY27 guidance, citing an early-stage restructuring — low visibility",
+    "Operating margin negative (-2.4%) and profit margin -10.4%; the core Consumer Beauty segment remains under pressure",
+    "Sub-$3 share price and JAB majority control (majority owner) limit float and leave minority holders as price-takers",
+    "Turnaround depends on a still-uncertain prestige-fragrance cycle and continued asset sales to hit leverage targets"
+  ],
+  "catalyst": "Further debt reduction milestones and evidence the prestige fragrance business is reaccelerating; eventual reinstatement of guidance",
+  "catalyst_timing": "Next earnings 2026-11-05",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass for now / tiny speculative spot only. Wait for management to reinstate guidance and show a leverage path below 3x before sizing up",
+  "key_risk": "Fragrance demand softens while high fixed debt costs eat the equity — a levered value trap if deleveraging stalls",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Leverage stops falling, another guidance withdrawal, or Consumer Beauty revenue keeps declining"
+}

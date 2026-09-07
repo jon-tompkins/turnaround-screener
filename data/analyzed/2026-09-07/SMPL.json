@@ -1,0 +1,30 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods fell from ~$28 to ~$11 on decelerating sales, an $82M Atkins/OWYN goodwill impairment, and the market's fear that GLP-1 weight-loss drugs structurally erode demand for its nutrition snacks. It is basing as management resets distribution and leans into a GLP-1-adjacent positioning while Quest keeps growing.",
+  "bullish_points": [
+    "Cheap with real cash generation: forward P/E ~6.7, EV/EBITDA ~6.2, price/book ~0.71, FCF ~$107M and operating cash flow ~$148M",
+    "Quest brand is growing (chips and milkshakes strong) and management argues Atkins snacking overlaps heavily with GLP-1 users rather than being displaced by them",
+    "Notable open-market insider buying: director Kilts bought ~$991k and Daley ~$118k in 2026 — real conviction, not grants",
+    "Distribution cuts framed as a deliberate reset to align shelf space with demand; Atkins expected to stabilize as it laps weak comps",
+    "Strong balance sheet: current ratio ~4.8, manageable debt (D/E ~31.6), analysts rate it a buy with ~$14.4 mean target vs $11.45"
+  ],
+  "bearish_points": [
+    "Guidance is still deteriorating: FY26 net sales guided -7% to -6% and adjusted EBITDA -21% to -19%",
+    "$82M non-cash impairment confirms the Atkins/OWYN brands are worth less than paid; OWYN distribution losses expected to persist 6-12 months",
+    "GLP-1 is a genuine, unresolved secular question for the meal-replacement/weight-management category",
+    "Turnaround is early-stage ('strengthening economics, org clarity, rebuilding brand investment') with no proven inflection yet",
+    "Negative TTM profit margin (-14.3%) driven by impairment; growth is negative (-6.3%)"
+  ],
+  "catalyst": "Atkins sales stabilization as comps ease, Quest momentum, and evidence that GLP-1 users remain buyers; FY27 guidance reset",
+  "catalyst_timing": "Next earnings 2026-10-22 (FY guidance/quarterly trajectory)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot, small starter in the $10.50-11.50 zone alongside the insider buyers; add only when sales growth turns less negative",
+  "key_risk": "GLP-1 adoption structurally shrinks the category and Atkins keeps declining, so the cheap multiple compresses further on falling EBITDA",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows Quest decelerating too, or FY27 guidance implies continued double-digit EBITDA declines"
+}

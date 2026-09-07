@@ -1,0 +1,30 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air fell ~70% after its contested, debt-laden 2024 acquisition of Omni Logistics, which triggered a shareholder revolt and left the balance sheet at ~5.5x net leverage. It is now basing (+9.7% on the day of the dossier, +17% over 30d) as a board-led strategic review pivots from a full-company sale to asset divestitures aimed at deleveraging.",
+  "bullish_points": [
+    "Record operating quarter: Q2 2026 revenue $673M (all-time high) with consolidated EBITDA $93M, the best in 2.5 years and margin up a full point across all segments",
+    "Hard catalyst: Intermodal sale on track to close by end of 2026, plus legacy Omni unit sales, with proceeds earmarked to pay down the $1.68B net debt",
+    "Deep-value / special-situation setup: EV/EBITDA ~9.1 vs a beaten-down ~7-8x ground-freight sector, on a name that has already sold off 70%",
+    "Activist and sponsor presence: Clearlake Capital holds ~13.8% and Ancora has publicly pushed for a value-maximizing sale — pressure that keeps the board action-oriented",
+    "Massive Q2 EPS surprise ($1.53 vs -$0.15 est) shows operating leverage as the integration matures"
+  ],
+  "bearish_points": [
+    "Balance sheet is the whole story: net debt ~5.5x EBITDA, negative book equity (P/B -5.2), and the thesis is entirely dependent on executing asset sales at good prices",
+    "No full-company buyer emerged from the strategic review — a negative signal about how the market values the whole",
+    "Only 2 analysts cover it and Q2 EPS beat may include non-recurring items; forward P/E ~41.6 shows earnings are still thin",
+    "Freight cycle is soft and sector multiples are compressing (transport EV/EBITDA fell from ~11x to ~8x into Q2 2026)",
+    "Litigation overhang from the no-vote Omni structure; execution risk on retaining Intermodal customer revenue post-sale"
+  ],
+  "catalyst": "Announcement/close of the Intermodal divestiture and use of proceeds to deleverage; conclusion of the strategic review",
+  "catalyst_timing": "Intermodal sale expected to close by end of 2026; next earnings 2026-11-04",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot position sized as a binary special-situation bet; scale only on a signed Intermodal sale at a credible multiple. See data/research/FWRD.md",
+  "key_risk": "Intermodal/Omni asset sales close at disappointing prices (or slip), leaving net leverage stuck above 5x into a soft freight cycle and forcing dilutive equity or covenant trouble",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "The Intermodal sale is pulled or repriced sharply lower, leverage covenants tighten, or the company signals an equity raise"
+}

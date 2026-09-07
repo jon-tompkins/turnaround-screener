@@ -1,0 +1,31 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter cratered ~65% from its 52-week high on accelerating broadband subscriber losses (120k lost in Q1 2026 vs ~100k expected) amid fixed-wireless and fiber competition. The bull case: extreme cheapness (forward P/E ~3.4, EV/EBITDA ~5.5) on a business still generating ~$2.2B FCF, a large insider buy cluster, a big short position, and the pending Cox merger as a hard catalyst.",
+  "bullish_points": [
+    "Dirt cheap on cash flow: forward P/E ~3.4, EV/EBITDA ~5.5, price/book ~1.07, generating ~$2.2B FCF and $16.5B operating cash flow TTM",
+    "Strong insider conviction cluster: net +1.58M shares purchased over 6m across 21 transactions, led by CEO Winfrey and multiple directors buying with their own capital ($1M-$1.4M each)",
+    "Cox merger (~$21.9B, ~$34.5B incl. debt) received FCC/DOJ clearance, expected to close summer 2026, with ~$800M of targeted operating synergies and Spectrum brand extension",
+    "Aggressive buybacks shrinking the share count (4.3M shares / ~$963M in Q1 alone) at prices well above current",
+    "Very high short interest at ~51% of float — sets up squeeze potential on any positive subscriber/merger surprise",
+    "Mobile remains a genuine growth engine (~12M lines and climbing), partially offsetting broadband erosion"
+  ],
+  "bearish_points": [
+    "Core broadband subs still shrinking, and the losses are widening vs estimates — the fundamental erosion is not yet arrested",
+    "Enormous leverage: ~$96.7B total debt, D/E ~441%, current ratio 0.36 — refinancing/rate risk is real and Cox adds more debt",
+    "Revenue declining (-1.7% TTM); the thesis relies on cost synergies and buybacks, not top-line growth",
+    "Cord-cutting and fixed-wireless/fiber competition are secular, not cyclical, headwinds",
+    "Integration risk on a merger this size; synergy realization is multi-year and never guaranteed"
+  ],
+  "catalyst": "Cox merger close (summer 2026) plus subsequent quarterly broadband net-adds inflection; continued buybacks and deleveraging as FCF compounds",
+  "catalyst_timing": "Cox close targeted summer 2026; next earnings 2026-10-30",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot, medium starter position now with room to add on a broadband net-add inflection. For leverage, Jan 2027 $160-180 calls given elevated but not extreme IV (~58%)",
+  "key_risk": "Broadband subscriber losses keep accelerating and fixed-wireless takes more share, so the 'cheap' multiple is a value trap on a structurally declining, over-levered asset",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Cox deal breaks or is materially repriced, or Q3 broadband losses accelerate again with no mobile offset"
+}

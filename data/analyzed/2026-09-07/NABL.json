@@ -1,0 +1,30 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "N-able, a SaaS provider of unified endpoint management, security, and data protection for MSPs, fell from ~$8.7 to ~$4 as a go-to-market transition and UEM/EDR renewal challenges forced a full-year guidance cut. It is basing near multi-year lows but the most recent catalyst (the guide-down) was negative.",
+  "bullish_points": [
+    "High-quality SaaS economics: ~80% gross margins, ~$70M FCF, and a ~29-30% adjusted EBITDA margin target for 2026",
+    "Data Protection ARR crossed $200M and is growing faster than the company, leading net-new ARR — a genuine bright spot",
+    "Cheap for software: forward P/E ~9.4, price/book ~0.95; net revenue retention still positive at ~106% reported",
+    "Sticky MSP customer base; $50k+ ARR customers up ~7% YoY and now ~63% of ARR (up-market mix improving)",
+    "Balance sheet workable (current ratio 1.3, ~$116M cash) with product investment shifting to AI-driven security and DR"
+  ],
+  "bearish_points": [
+    "The most recent catalyst was a guidance CUT: FY26 ARR lowered to $562-565M from $581-586M on UEM/EDR renewal problems — momentum is the wrong way",
+    "ARR growth has decelerated to ~4-6%; this is a low-growth SaaS name, not a re-acceleration story yet",
+    "Go-to-market transition is mid-stream with execution risk and no proven inflection",
+    "EV/EBITDA ~16.3 is not cheap on cash earnings despite the low P/E; heavy share count (~189M) dilutes per-share metrics",
+    "No open-market insider buying (grants only); only 5 analysts and a 'none' consensus recommendation"
+  ],
+  "catalyst": "Stabilization of UEM/EDR renewals and continued Data Protection ARR growth; a guidance beat/raise would reset sentiment",
+  "catalyst_timing": "Next earnings 2026-11-05",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass / watchlist. Revisit only if Q3 shows renewals stabilizing and ARR guidance holds or ticks up",
+  "key_risk": "Renewal churn in UEM/EDR continues and the GTM transition stalls, so ARR growth fades toward flat and the multiple compresses",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Another ARR guidance cut, net revenue retention drops below ~100%, or Data Protection growth decelerates"
+}
