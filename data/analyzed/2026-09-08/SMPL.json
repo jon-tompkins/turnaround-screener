@@ -1,0 +1,29 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods fell ~60% from ~$28 to ~$11 after Atkins collapsed (retail takeaway -23%) and the OWYN acquisition disappointed, forcing a guidance cut and strategic overhaul. The bet is that Quest strength plus cost cuts and a returning CEO restore margins and stabilize the portfolio.",
+  "bullish_points": [
+    "Cheap for a branded, cash-generative food company: forward P/E ~6.7, P/B ~0.71, EV/EBITDA ~6.2, with positive FCF of ~$107M",
+    "Insider conviction: Chairman James Kilts bought ~$991k at $12.39 and director Daley ~$118k at $11.78 in 2026",
+    "Self-help underway: Joe Scalzo returned as CEO, ~$17M annual cost savings, margin restoration and brand reinvestment prioritized",
+    "Quest (the growth brand) still positive (+2.4% takeaway) and has been the driver as Atkins fades",
+    "Consistent EPS beats (Q3 0.42 vs 0.35; Q2 0.45 vs 0.40) and analyst mean target ~$14.4 with a buy rating"
+  ],
+  "bearish_points": [
+    "Core Atkins brand (24% of sales) is in steep secular decline (-23% takeaway, worsening), and OWYN integration explicitly 'did not meet expectations'",
+    "Reported profit margin is negative (-14%) reflecting impairment/writedowns; TTM revenue growth -6.3%",
+    "Total company retail takeaway down ~6.4%; the turnaround is early and unproven",
+    "GLP-1/appetite-suppressant headwinds hang over the entire protein-snack/meal-replacement category"
+  ],
+  "catalyst": "Q4/FY2026 earnings showing margin recovery from cost cuts and Atkins decline moderating while Quest/OWYN stabilize",
+  "catalyst_timing": "Q4 FY2026 earnings ~Oct 22, 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter only (~$11) as a cheap value/insider-buy setup; wait for evidence Atkins decline is moderating before adding",
+  "key_risk": "Atkins keeps deteriorating faster than Quest can offset, and category-wide GLP-1 pressure caps any brand recovery",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows continued portfolio-wide takeaway declines with no margin stabilization from the cost program"
+}

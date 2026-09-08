@@ -1,0 +1,30 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty collapsed to penny-stock territory (~$2.88, from $4.56) on soft beauty demand, the Gucci license loss, and a heavy debt load. The bet is that JAB-backed deleveraging, productivity savings, and SKU rationalization eventually stabilize a franchise trading below book.",
+  "bullish_points": [
+    "Real deleveraging: net debt cut ~$840M to $2.9B in FY2026 with >$250M productivity savings",
+    "Q4 like-for-like sales fell only 1%, ahead of guidance, on stronger US prestige fragrance and mass cosmetics orders",
+    "Trades below book (P/B ~0.85) and at forward P/E ~11 with ~$363M FCF; strong gross margin (~63%)",
+    "Insider/sponsor alignment: JAB owns ~59%; officer von Bretten bought ~$200k at $2.41",
+    "'Color the Future' program cutting SKUs 20% to reduce returns/obsolescence and lift EBITDA over time"
+  ],
+  "bearish_points": [
+    "Analyst mean target (~$2.69) sits BELOW the current price — the Street sees no upside here",
+    "FY2027 is a declared transition year: Q1 LFL sales down low-to-mid single digits, adjusted EBITDA down low-10s%, and NO full-year guidance issued",
+    "Heavy leverage (debt ~$3.3B, D/E ~98, current ratio 0.755) leaves little margin for error",
+    "Gucci Beauty exit (FY2028) removes a prestige revenue stream; beauty category demand remains soft with tariff pressure",
+    "GAAP still loss-making (profit margin -10.4%, operating margin -2.4%)"
+  ],
+  "catalyst": "Evidence in FY2027 prints that LFL sales stabilize while debt keeps falling and the SKU/productivity programs lift EBITDA",
+  "catalyst_timing": "Q1 FY2027 earnings ~Nov 5, 2026 (no FY guidance expected)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass / watch-only for now; at most a tiny speculative spot nibble given deleveraging progress, but the setup is a falling knife with negative Street targets",
+  "key_risk": "Beauty demand stays weak through the transition year so declining EBITDA outpaces debt reduction, and the leveraged equity keeps compressing",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "LFL sales declines re-accelerate or deleveraging stalls; a below-current analyst target and no guidance argue for patience"
+}

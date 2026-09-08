@@ -1,0 +1,29 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Fox Factory was hit by post-COVID bike channel destocking and soft powersports/consumer demand, dropping from ~$30 toward a $13 low. The bet is that destocking is bottoming, powersports is reaccelerating, and a $50M cost program restores earnings power.",
+  "bullish_points": [
+    "Destocking bottoming: management says inventory rebalancing 'really taken shape'; powersports +22.5% within Powered Vehicles Group",
+    "Big adjusted EPS beats (Q2 adj 0.37 vs 0.18; Q1 0.18 vs 0.08) with 12.7% adjusted EBITDA margin",
+    "Self-help: >$25M of gross savings captured in H1 toward a $50M 2026 target; net debt down $9.1M since year-end",
+    "Recovering screen mode with momentum (+15.5% over 30d) and forward P/E ~11.5",
+    "Diversified premium brand portfolio (FOX, Marucci, Method) with OEM + aftermarket + DTC channels"
+  ],
+  "bearish_points": [
+    "Revenue still declining (-4.5% TTM); GAAP profit margin -20% reflects impairment and weak absorption",
+    "Leverage is elevated (debt ~$680M, D/E ~102) for a cyclical with lumpy OEM order timing",
+    "Specialty Sports (bike) sales still falling YoY on OEM timing and channel destocking",
+    "Consumer-cyclical discretionary demand (bikes, trucks, powersports) is rate- and sentiment-sensitive; recovery could stall"
+  ],
+  "catalyst": "Q3 2026 earnings confirming destocking is over, SSG returning to growth, and cost savings dropping to the bottom line",
+  "catalyst_timing": "Q3 2026 earnings ~Nov 5, 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter (~$21) on the destocking-inflection thesis; add on a confirmed return to revenue growth",
+  "key_risk": "Bike/powersports demand stays weak so the 'destocking over' call proves premature and revenue keeps declining against a levered balance sheet",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows SSG still shrinking or guidance cut, signaling demand (not just inventory) is the problem"
+}

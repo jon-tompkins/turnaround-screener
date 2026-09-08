@@ -1,0 +1,29 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "The debt-laden ($2.1B) Omni Logistics acquisition crushed Forward Air, but a board-run strategic review plus surprisingly strong Omni performance and a big Q2 EPS beat have the stock basing and up ~19% in 30 days. The bet is that asset sales deleverage the balance sheet and unlock equity value.",
+  "bullish_points": [
+    "Hard near-term catalyst: strategic review nearing conclusion, pivoting to sale of Intermodal + two legacy Omni units (~$394M of 2025 revenue) to deleverage",
+    "Massive Q2 2026 EPS surprise (1.53 vs -0.15 est) and prior quarters beating; operations resilient post-merger",
+    "Net leverage ~5.5x EBITDA but a full turn below covenant, with the highest cash balance in 8 quarters (~$141M) and ~$40M covenant cushion",
+    "Revenue growing +8.8% TTM; asset-light model with real freight franchise value",
+    "Only 2 analysts but mean target ~$28 vs ~$17.5 price"
+  ],
+  "bearish_points": [
+    "Balance sheet is precarious: negative book value (P/B -5.1), ~$2.1B debt vs $590M market cap; equity is a thin sliver on top of debt",
+    "Forward P/E ~40.6 — profitability is still marginal and the equity thesis depends entirely on deleveraging execution",
+    "Strategic review could disappoint (no full-company buyers materialized; only piecemeal asset sales)",
+    "Freight cycle is soft; a downturn would pressure covenants fast at 5.5x leverage"
+  ],
+  "catalyst": "Conclusion of strategic review with announced asset sales (Intermodal/Omni units) and debt paydown terms",
+  "catalyst_timing": "Strategic review 'nearing conclusion' — next few months; Q3 earnings ~Nov 4, 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot position (~$17.5) sized as a levered special-situation; treat as binary on the asset-sale outcome",
+  "key_risk": "Strategic review yields no meaningful sale or unfavorable terms, leaving the ~$2.1B debt load intact and the equity impaired",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Review concludes with no asset sales or a distressed/equity-dilutive outcome, or freight demand rolls over into covenant risk"
+}
