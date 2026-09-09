@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "LTL/expedited freight operator saddled with debt after the contentious Omni Logistics merger; equity trades as an option on a strategic review that is now 'nearing conclusion' (asset sales of Intermodal + legacy Omni units).",
+  "bullish_points": [
+    "Hard, near-term binary catalyst: strategic review concluding with likely asset divestitures",
+    "Revenue growing +8.8%; Omni EBITDA +12% y/y",
+    "Deleveraging covenant steps down toward 5.5x by Q4'26, forcing action",
+    "Any credible sale/asset monetization could re-rate the thin equity sharply"
+  ],
+  "bearish_points": [
+    "Net debt ~5.5x EBITDA \u2014 equity is highly levered and fragile",
+    "No actionable full-company buyer emerged; asset sales may underwhelm",
+    "Reported net losses; cash going to debt service and advisor fees",
+    "Freight cycle still soft"
+  ],
+  "catalyst": "Outcome of the strategic review (asset sales / recapitalization)",
+  "catalyst_timing": "H2 2026 (review 'nearing conclusion')",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot as an event/option on the review; size tiny given leverage",
+  "key_risk": "Asset-sale proceeds disappoint and covenant pressure forces a dilutive recap",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 50,
+  "would_skip_if": "You can't stomach a binary levered-equity event with wide outcomes"
+}

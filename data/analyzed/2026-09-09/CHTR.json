@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Cable/broadband operator collapsed ~65% from highs on persistent internet-sub losses to fixed wireless; trades at ~3x earnings with a transformational Cox merger set to close.",
+  "bullish_points": [
+    "Extreme valuation: forward P/E ~3.3, ~$2.2B FCF; Street mean target implies large upside",
+    "Cox merger (~$34.5B) closing summer 2026 adds ~6.5M customers and $800M synergies",
+    "Mobile scaling (12M lines) and video losses shrinking fast",
+    "Network upgrade narrows the fixed-wireless competitive gap over time"
+  ],
+  "bearish_points": [
+    "Broadband sub losses ongoing (-120k Q1'26); secular fixed-wireless/fiber pressure",
+    "Enormous leverage ($96.7B debt) magnifies any FCF miss",
+    "Upgrade capex weighs on near-term FCF",
+    "Merger integration risk on top of a soft top line (-1.7%)"
+  ],
+  "catalyst": "Cox deal close + evidence broadband net-adds stabilize as synergies/mobile bundle bite",
+  "catalyst_timing": "Summer/H2 2026 (Cox close) and subsequent prints",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter near $145 as deep-value + hard catalyst; see data/research/CHTR.md",
+  "key_risk": "Broadband erosion accelerates and the FCF/deleveraging story stalls",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Cox synergies disappoint or broadband losses steepen post-close"
+}

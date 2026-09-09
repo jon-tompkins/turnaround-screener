@@ -1,0 +1,28 @@
+{
+  "ticker": "ENPH",
+  "company_name": "Enphase Energy, Inc.",
+  "sector": "Technology",
+  "industry": "Solar",
+  "turnaround_reason": "Residential-solar microinverter leader crushed (-19.6% revenue) by the 25D tax-credit reset (US sell-through -34%) plus tariffs; a policy-driven air-pocket rather than a broken business.",
+  "bullish_points": [
+    "Still profitable (~10% net margin) with strong cash (~$938M) through the downturn",
+    "Tariff refunds ($45M in Q2) and Propel financing expansion (to ~12 states) partly backfill lost 25D demand",
+    "Goldman lifted target to $57; forward P/E ~17 on trough earnings",
+    "Franchise brand/margins intact for the eventual policy/demand normalization"
+  ],
+  "bearish_points": [
+    "Policy overhang (25D expiration) is severe and demand softness expected to persist",
+    "US is ~78% of revenue \u2014 highly exposed to domestic policy",
+    "Basing, no confirmed demand inflection",
+    "Solar sentiment fragile; further policy changes possible"
+  ],
+  "catalyst": "Stabilization/return of US resi-solar demand as Propel scales and channel digests 25D reset",
+  "catalyst_timing": "Late 2026 into 2027",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Small starter only; patience required for policy/demand to turn",
+  "key_risk": "Resi-solar demand stays structurally impaired under the new subsidy regime",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You need a near-term catalyst \u2014 this is a policy-timing wait"
+}

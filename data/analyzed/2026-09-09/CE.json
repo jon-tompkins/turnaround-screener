@@ -1,0 +1,28 @@
+{
+  "ticker": "CE",
+  "company_name": "Celanese Corporation",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "turnaround_reason": "Acetyl-chain/engineered-materials producer over-levered from the DuPont M&M deal and hit by a weak chemicals cycle; the thesis is a deleveraging + acetyl-rebound recovery.",
+  "bullish_points": [
+    "Clear deleveraging path: net debt $11.3B \u2192 ~$10B by YE26, <$9B by YE27",
+    "H2 2026 EPS guided ~$3.00; raised FCF outlook to $700-800M",
+    "Forward P/E ~7.3 with real earnings torque as the cycle turns",
+    "Cost savings ($120M in 2025, +$50-70M in 2026) support the recovery"
+  ],
+  "bearish_points": [
+    "Very high leverage (~6x, D/E ~270%) \u2014 the discount IS the leverage risk",
+    "Acetyl chain still oversupplied; Q1 operating profit -41%",
+    "TTM net loss; recovery depends on an uncertain demand/pricing rebound",
+    "Cyclical and rate-sensitive \u2014 a weaker macro delays deleveraging"
+  ],
+  "catalyst": "Sequential acetyl-chain volume/price rebound + visible net-debt reduction each quarter",
+  "catalyst_timing": "H2 2026 earnings; YE26 leverage milestone",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter near $45 as a leveraged deleveraging play; size for volatility; see data/research/CE.md",
+  "key_risk": "Chemicals demand stays weak, deleveraging stalls, and the leverage becomes the story",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Acetyl pricing rolls over or net-debt targets slip"
+}

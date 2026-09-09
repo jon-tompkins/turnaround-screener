@@ -1,0 +1,28 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Premium bike/powered-vehicle suspension maker hammered by the post-COVID bike destock and soft PVG demand; now executing a $50M cost-out and has beaten and raised through 1H 2026.",
+  "bullish_points": [
+    "Recovering mode confirmed: beat Q1 and Q2 2026, RAISED FY26 revenue to $1.42-1.47B",
+    "$50M cost-reduction program driving ~200bps EBITDA-margin improvement",
+    "Forward P/E ~11 on recovering earnings",
+    "Bike channel destock maturing; operating momentum improving"
+  ],
+  "bearish_points": [
+    "High leverage (D/E ~102%); TTM net loss reflects prior impairment",
+    "Ford F-150 chassis constraints cap PVG upside in 2026",
+    "Bike/SSG end-demand still muted and consumer cautious",
+    "Cyclical \u2014 a consumer slowdown would stall the recovery"
+  ],
+  "catalyst": "Continued beat-and-raise cadence as cost-out lands and bike demand normalizes",
+  "catalyst_timing": "Q3 2026 earnings (Nov 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter near $20 with adds on continued execution; see data/research/FOXF.md",
+  "key_risk": "Consumer/bike demand rolls over before the cost-out fully offsets, re-pressuring margins",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 breaks the beat-and-raise streak or leverage forces a capital raise"
+}

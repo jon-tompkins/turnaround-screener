@@ -1,0 +1,27 @@
+{
+  "ticker": "INSP",
+  "company_name": "Inspire Medical Systems, Inc.",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "turnaround_reason": "Hypoglossal-nerve-stim sleep-apnea implant leader de-rated ~60% as GLP-1 weight-loss drugs (Zepbound OSA approval) threaten the addressable pool and revenue turned negative (-7.6%).",
+  "bullish_points": [
+    "Profitable with a clean balance sheet (~$320M cash, minimal debt)",
+    "Q2 beat on both revenue and EPS; Medicare reimbursement dynamics can swing sentiment",
+    "Larger diagnosed-OSA funnel could partly offset GLP-1 substitution"
+  ],
+  "bearish_points": [
+    "GLP-1 substitution is a genuine multi-year secular overhang (analysts flag it into 2028)",
+    "BofA at Underperform, $39 target \u2014 well below the current ~$62 price",
+    "Revenue declining; forward P/E ~40 leaves little margin for error",
+    "Nyxoah/LivaNova competition gives high-volume accounts alternatives"
+  ],
+  "catalyst": "Proof that OSA volumes stabilize despite GLP-1 uptake / favorable reimbursement update",
+  "catalyst_timing": "Next 1-2 quarterly prints",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / watch \u2014 no position until revenue re-accelerates",
+  "key_risk": "GLP-1s structurally cap the implant TAM and growth never returns",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Always for now \u2014 falling knife with an unresolved secular threat and price above the bear target"
+}

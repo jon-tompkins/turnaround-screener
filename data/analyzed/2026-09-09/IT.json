@@ -1,0 +1,28 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "High-margin research-subscription franchise fell ~61% on decelerating contract value (DOGE federal cancellations, tariff-driven decision delays) and an 'AI kills Gartner' narrative.",
+  "bullish_points": [
+    "Best-in-class economics: ~70% gross margin, ~$1.05B FCF, recurring subscription base",
+    "Forward P/E ~10 \u2014 rare discount for this quality compounder",
+    "Management guides contract-value acceleration through 2026",
+    "Federal headwind is largely a one-time renewal-cohort reset, not a permanent break"
+  ],
+  "bearish_points": [
+    "Net contract value turned negative in Q1'26; growth still decelerating",
+    "Federal dollar-retention near 50% on the renewal cohort",
+    "AI-disruption narrative could keep a multiple lid on the stock",
+    "Basing \u2014 needs a confirmed contract-value re-acceleration"
+  ],
+  "catalyst": "Contract-value growth re-acceleration once the federal cohort laps and enterprise decisions unfreeze",
+  "catalyst_timing": "H2 2026 into 2027 prints",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot starter with adds on a confirmed CV inflection; see data/research/IT.md",
+  "key_risk": "AI genuinely erodes the research-subscription value prop and CV growth doesn't recover",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Contract value fails to inflect over the next two quarters"
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Atkins/Quest nutrition-snack maker got beaten down as Atkins sales eroded and the OWYN integration disappointed; net sales -6.3% and a Q3 FY26 net loss (largely a goodwill/impairment charge). Longtime operator Joe Scalzo returned as President in Jan 2026 to run an explicit turnaround.",
+  "bullish_points": [
+    "Forward P/E ~6.2 \u2014 very cheap vs history for a branded consumables name",
+    "Real free cash flow (~$107M TTM) despite the reported net loss",
+    "Credible, incentivized turnaround leader (Scalzo) back at the helm",
+    "Quest brand still healthy; OWYN adds protein-shake shelf space"
+  ],
+  "bearish_points": [
+    "Atkins in structural decline; category faces GLP-1 appetite-suppression headwind",
+    "Management itself says it's in the 'early stages' with 'significant work ahead'",
+    "Revenue still shrinking (-6.3%); no confirmed inflection yet",
+    "Basing, not recovering \u2014 bottom unconfirmed"
+  ],
+  "catalyst": "Evidence Scalzo's plan is re-igniting Quest/OWYN volume and stabilizing Atkins in the next 1-2 print(s)",
+  "catalyst_timing": "Q4 FY26 earnings (Oct 2026) and FY27 guide",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot near $10-11; add only on a confirmed volume inflection",
+  "key_risk": "GLP-1s permanently shrink the low-carb/snack category faster than the brand refresh can offset",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows continued Quest deceleration or no margin stabilization"
+}

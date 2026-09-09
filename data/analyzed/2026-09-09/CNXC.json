@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Customer-experience/BPO leader de-rated to a ~2x forward multiple on fears that generative AI structurally disrupts contact-center outsourcing; guidance was trimmed on client offshoring/cost pressure.",
+  "bullish_points": [
+    "Optically extreme value: forward P/E ~2.3, strong FCF (~$776M)",
+    "AI-powered iX Suite signings up 400% y/y \u2014 pivot to higher-value work underway",
+    "Analyst consensus still net Buy; revenue actually grew +1.9%",
+    "Any proof AI is a tailwind (not just a threat) could violently re-rate"
+  ],
+  "bearish_points": [
+    "Core business faces a genuine AI-substitution question \u2014 the market's central fear",
+    "Heavy leverage (D/E ~204%) and TTM net loss",
+    "Trimmed 2026 outlook; client offshoring pressuring pricing",
+    "Cheap for a reason until the burden of proof is met"
+  ],
+  "catalyst": "Evidence the AI pivot offsets legacy erosion (iX revenue scaling, margin stabilization)",
+  "catalyst_timing": "Next 1-2 quarterly prints",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Small deep-value spot for the brave; size for a possible value trap; see data/research/CNXC.md",
+  "key_risk": "AI compresses BPO volumes/pricing faster than iX Suite can replace the revenue",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "iX growth stalls or leverage forces defensive action"
+}
