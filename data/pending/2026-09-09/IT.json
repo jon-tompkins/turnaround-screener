@@ -1,0 +1,300 @@
+{
+  "ticker": "IT",
+  "fetched_at": "2026-09-09T13:35:39.954821",
+  "overview": {
+    "name": "Gartner, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Gartner, Inc. provides business and technology insights to support decision-making and performance on an organization's mission-critical priorities in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Insights, Conferences, and Consulting. The Insights segment delivers insights through subscription services, such as access to published content, data and benchmarks, and direct access to a network of business and technology experts. The Conferences segment enables executives and teams to learn, share, and network through its Symposium/Xpo series and peer-driven sessions, as well as through its conferences focused on specific business roles and topics. The Consulting segment provides technology-driven strategic initiatives, including custom analysis and on-the-ground support to senior executives. This segment also offers actionable solutions for IT-related priorities, including IT cost optimization, digital transformation, and IT sourcing optimization. The company was formerly known as Gartner Group, Inc. and changed its name to Gartner, Inc. in November 2001. Gartner, Inc. was founded in 1979 and is headquartered in Stamford, Connecticut.",
+    "market_cap": 10693963776,
+    "enterprise_value": 12739672064,
+    "shares_outstanding": 63148976,
+    "float_shares": 57221813,
+    "short_ratio": 4.83,
+    "short_percent_of_float": 0.16420001,
+    "held_by_insiders": 0.03753,
+    "held_by_institutions": 1.20459,
+    "revenue_ttm": 6463626240,
+    "revenue_growth": -0.006,
+    "gross_margins": 0.69629997,
+    "operating_margins": 0.22623,
+    "profit_margins": 0.11996,
+    "free_cashflow": 1052553024,
+    "operating_cashflow": 1382615040,
+    "total_cash": 1488706048,
+    "total_debt": 3329496064,
+    "debt_to_equity": null,
+    "current_ratio": 0.88,
+    "trailing_pe": 15.242575,
+    "forward_pe": 10.35199,
+    "price_to_book": -65.18283,
+    "ev_to_ebitda": 9.206,
+    "ev_to_revenue": 1.971,
+    "fifty_two_week_high": 265.85,
+    "fifty_two_week_low": 124.25,
+    "current_price": 169.345,
+    "analyst_target_mean": 185.15385,
+    "analyst_target_high": 229.0,
+    "analyst_target_low": 150.0,
+    "recommendation": "hold",
+    "num_analysts": 13,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-03 07:00:00-05:00",
+        "EPS Estimate": 2.85,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-04 06:00:00-04:00",
+        "EPS Estimate": 3.73,
+        "Reported EPS": 4.37,
+        "Surprise(%)": 17.06
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 2.92,
+        "Reported EPS": 3.32,
+        "Surprise(%)": 13.64
+      },
+      {
+        "Earnings Date": "2026-02-03 06:00:00-05:00",
+        "EPS Estimate": 3.51,
+        "Reported EPS": 3.94,
+        "Surprise(%)": 12.21
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2027-03-19",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 6.250937500000001,
+    "total_call_oi": 5282,
+    "total_put_oi": 2991
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 9850.0,
+        "Trans": 13
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 7082.0,
+        "Trans": 5
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 2768.0,
+        "Trans": 18
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 2369981.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.001,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.004,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.003,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 3278,
+        "Value": 644127.0,
+        "URL": "",
+        "Text": "Sale at price 196.50 per share.",
+        "Insider": "KRANICH ROBIN B.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 700,
+        "Value": 141211.0,
+        "URL": "",
+        "Text": "Sale at price 201.73 per share.",
+        "Insider": "JAIN AKHIL",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1205,
+        "Value": 229022.0,
+        "URL": "",
+        "Text": "Sale at price 190.06 per share.",
+        "Insider": "GENOVESE YVONNE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 860,
+        "Value": 158500.0,
+        "URL": "",
+        "Text": "Sale at price 184.30 per share.",
+        "Insider": "FUCHS ANNE SUTHERLAND",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1039,
+        "Value": 198148.0,
+        "URL": "",
+        "Text": "Sale at price 190.71 per share.",
+        "Insider": "HERKES CLAIRE L",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 71,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "RINELLO JOHN J",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-30 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1744,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SERRA EILEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-08 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 705,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "SERRA EILEEN",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 551,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "PAGLIUCA STEPHEN G",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 551,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "CESAN RAUL E.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-29 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.46518422272793,
+    "pct_above_200d_ma": -3.6724425922280424,
+    "pct_of_100d_ma": 107.8721861932912,
+    "pct_change_1d": -1.1877878760391147,
+    "pct_change_5d": -10.209024449733962,
+    "pct_change_30d": 9.43274980343929
+  }
+}
