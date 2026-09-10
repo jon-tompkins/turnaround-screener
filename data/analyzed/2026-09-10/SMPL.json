@@ -1,0 +1,28 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Nutritional-snack roll-up (Quest/Atkins/OWYN) beaten down as Atkins collapses (retail takeaway -23%) and gross margin gets crushed ~460bps by ingredient inflation. Bull case is Quest chips/shakes strength plus a margin/brand reset stabilizing the top line.",
+  "bullish_points": [
+    "Fwd P/E ~6 and P/B 0.64 \u2014 priced for continued decline",
+    "Quest chips and milkshakes growing double digits; OWYN still expanding despite reset",
+    "Positive FCF (~$107M) and clean-ish balance sheet (current ratio 4.8, net debt ~$325M)",
+    "Management reaffirmed FY2026 outlook and long-term algo (4-6% sales, ~20% EBITDA margin)"
+  ],
+  "bearish_points": [
+    "Atkins is 24% of sales and falling ~23% \u2014 structural, not cyclical",
+    "Gross margin contracted to 31.6% on ingredient inflation with no clear near-term relief",
+    "OWYN in a 6-12 month distribution reset after a product-quality issue",
+    "Revenue growth negative (-6.3% ttm); net margin negative on impairment"
+  ],
+  "catalyst": "Sequential gross-margin stabilization and Quest offsetting Atkins drag in upcoming quarterly prints",
+  "catalyst_timing": "Next 2-3 quarterly earnings (FY2026)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Watch / small spot starter only below ~$10; no options",
+  "key_risk": "Atkins decline accelerates and ingredient inflation persists, dragging margins lower before Quest can offset",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Skip if next print shows further GM contraction or Quest core bars roll over with Atkins"
+}

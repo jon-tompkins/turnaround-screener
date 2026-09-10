@@ -1,0 +1,27 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Over-levered freight/logistics name after the debt-funded Omni acquisition. Strategic review was supposed to unlock a sale; instead it produced no buyer, and the plan is now piecemeal asset sales to delever.",
+  "bullish_points": [
+    "Revenue growing +8.8% ttm",
+    "Selling non-core assets (Intermodal, two Omni units) to pay down debt",
+    "Any credible deleveraging or surprise whole-company bid is a levered equity re-rate"
+  ],
+  "bearish_points": [
+    "Net debt ~5.5x EBITDA; negative book value (P/B -4.7) \u2014 equity is a thin stub",
+    "Strategic review produced NO actionable sale \u2014 PE interest waned, stock fell 22% in May",
+    "A ~$250M-revenue customer is shifting most volume away starting early 2027",
+    "Net margin -11.4%; covenant steps down to 5.5x by Q4 2026 leaving little cushion"
+  ],
+  "catalyst": "Asset-sale proceeds / deleveraging milestones or a renewed take-private bid",
+  "catalyst_timing": "Ongoing through 2026; customer headwind hits early 2027",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass \u2014 or tiny speculative spot only for distressed-equity risk appetite",
+  "key_risk": "Covenant breach / dilutive refinancing wiping out the equity stub before deleveraging works",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 70,
+  "would_skip_if": "Skip unless a concrete deleveraging path or bid emerges; the 2027 customer loss caps the thesis"
+}

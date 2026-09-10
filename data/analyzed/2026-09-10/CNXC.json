@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "One of the two global CX/BPO leaders trading at a deep-value multiple after the debt-funded Webhelp deal and a guidance cut driven by client offshoring and AI-disruption fears. Bull case: iX AI suite (signings +400% YoY) converts the AI threat into a higher-value revenue stream.",
+  "bullish_points": [
+    "Fwd P/E ~2.3 and P/B 0.61 \u2014 extreme deep value; strong FCF (~$776M)",
+    "iX AI/GenAI suite contract signings up ~400% YoY \u2014 a real pivot, not just marketing",
+    "Analyst consensus still Buy (7 Buy / 2 Hold); capital returns underway",
+    "Scale leader with sticky enterprise CX relationships"
+  ],
+  "bearish_points": [
+    "FY2026 guide reset to just 0.25-1.25% cc growth \u2014 near stall",
+    "~3 turns of debt from Webhelp; net debt heavy vs $1.65B equity cap",
+    "Secular AI risk: automation could shrink the core seat-based BPO revenue faster than iX scales",
+    "Net margin -13% ttm on amortization; offshoring pressure on pricing"
+  ],
+  "catalyst": "Evidence that iX AI revenue and margin offset core BPO erosion; stabilizing/rising guidance",
+  "catalyst_timing": "Next 2 quarterly prints (FY2026)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small spot starter; deep-value high-leverage bet \u2014 size for volatility. Long-dated calls only for risk-tolerant",
+  "key_risk": "AI automates seats faster than iX monetizes, turning cheap multiple into a value trap while leverage bites",
+  "estimated_upside_pct": 90,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Skip if next guide is cut again or iX signings fail to convert to revenue/margin"
+}

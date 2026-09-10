@@ -1,0 +1,28 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "High-quality subscription research compounder whose stock was nearly halved on a sharp growth slowdown (contract value decel, tariff/budget delays) and fears that GenAI erodes the value of paid research. Business quality is intact; the multiple has reset.",
+  "bullish_points": [
+    "Best business in the batch: ~70% gross margin, 22% op margin, 12% net margin, ~$1.05B FCF",
+    "Fwd P/E ~10.4 \u2014 cheap vs its own history for a sticky subscription model",
+    "Sticky, high-retention research subscriptions; disciplined buybacks",
+    "Fair-value narratives (~$283) sit well above the reset price"
+  ],
+  "bearish_points": [
+    "Growth slowing hard: ~6.7% (2025) to ~3.3% (2026) guide, below IT-spend growth",
+    "GenAI overhang \u2014 genuine question whether AI commoditizes syndicated research",
+    "Tariff/budget-driven decision delays hitting new-business contract value",
+    "UBS downgrade; sentiment negative near term"
+  ],
+  "catalyst": "Contract-value growth re-acceleration and evidence AI is additive (not substitutive) to research demand",
+  "catalyst_timing": "FY2026 quarterly prints; watch CV growth inflection",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot accumulation on weakness; Jan 2027 calls for leverage to a CV re-accel",
+  "key_risk": "GenAI structurally impairs research renewals, making the slowdown secular rather than cyclical",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Skip if contract-value growth decelerates further or net retention breaks below trend"
+}

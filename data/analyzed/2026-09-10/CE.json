@@ -1,0 +1,28 @@
+{
+  "ticker": "CE",
+  "company_name": "Celanese Corporation",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "turnaround_reason": "Highly levered specialty-chemicals cyclical (acetyls + engineered materials) that cut its dividend ~95% to delever through a demand trough driven by weak China/Europe. Bull case is a cyclical demand recovery plus deleveraging driving an outsized equity re-rate.",
+  "bullish_points": [
+    "Deep operating leverage to a chemicals recovery; ~$950M FCF",
+    "Dividend cut ~95% + cost/inventory actions freeing cash for debt paydown",
+    "Deleveraging models point to 21-23% IRR by 2028 on margin recovery",
+    "Revenue growing +8.7% ttm as volumes stabilize"
+  ],
+  "bearish_points": [
+    "Massive leverage: $12.4B debt, d/e ~270 \u2014 equity is a levered call on recovery",
+    "Weak demand and overcapacity in acetyls/EM persist (China, Europe)",
+    "Already up ~36% YTD \u2014 a lot of cyclical optimism priced in",
+    "Net margin -12% ttm; margin recovery still 'getting worse before better'"
+  ],
+  "catalyst": "Chemical demand inflection + concrete debt-reduction milestones",
+  "catalyst_timing": "2026-2027; watch quarterly EM/acetyls volume and leverage ratio",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot as part of a cyclical basket; add on pullbacks after the YTD run",
+  "key_risk": "Demand recovery stalls while leverage stays high, forcing further balance-sheet actions",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Skip if leverage ratio fails to improve or EM/acetyls volumes deteriorate further"
+}
