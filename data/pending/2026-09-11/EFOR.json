@@ -1,0 +1,300 @@
+{
+  "ticker": "EFOR",
+  "fetched_at": "2026-09-11T13:35:21.525768",
+  "overview": {
+    "name": "Everforth, Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "description": "Everforth, Inc. provides information technology solutions for commercial and government sectors in the United States, Canada, and Europe. It operates through two segments: Commercial and Federal Government. The Commercial Segment provides consulting, creative digital marketing, and permanent placement services primarily to Fortune 1000 and mid-market companies across harmonized solutions areas, such as cloud and infrastructure, data and AI, software development and engineering, customer experience, cybersecurity, and enterprise platforms, as well as key industries consists financial services, consumer and industrial, technology, media and telecom, healthcare, and business and government services. The Federal Government Segment provides advanced IT solutions in data and AI, cybersecurity, and enterprise platforms to defense and intelligence, national security, federal civilian, and other clients in the public and private sectors. It provides its products under the Apex Systems, Creative Circle, CyberCoders, ECS, GlideFast, and TopBloc brand names. The company was formerly known as ASGN Incorporated and changed its name to Everforth, Inc. in April 2026. The company was founded in 1985 and is headquartered in Glen Allen, Virginia.",
+    "market_cap": 1251934976,
+    "enterprise_value": 2589690112,
+    "shares_outstanding": 41000000,
+    "float_shares": 37345670,
+    "short_ratio": 5.07,
+    "short_percent_of_float": 0.1187,
+    "held_by_insiders": 0.03373,
+    "held_by_institutions": 1.09865,
+    "revenue_ttm": 3966799872,
+    "revenue_growth": -0.013,
+    "gross_margins": 0.28527,
+    "operating_margins": 0.05055,
+    "profit_margins": 0.020920001,
+    "free_cashflow": 213500000,
+    "operating_cashflow": 256900000,
+    "total_cash": 152900000,
+    "total_debt": 1496600064,
+    "debt_to_equity": 82.91,
+    "current_ratio": 2.127,
+    "trailing_pe": 15.73969,
+    "forward_pe": 7.0953054,
+    "price_to_book": 0.6918702,
+    "ev_to_ebitda": 7.563,
+    "ev_to_revenue": 0.653,
+    "fifty_two_week_high": 54.94,
+    "fifty_two_week_low": 16.9,
+    "current_price": 30.535,
+    "analyst_target_mean": 27.5,
+    "analyst_target_high": 36.0,
+    "analyst_target_low": 17.0,
+    "recommendation": "hold",
+    "num_analysts": 6,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-10-28 16:00:00-04:00",
+        "EPS Estimate": 1.03,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-07-29 16:00:00-04:00",
+        "EPS Estimate": 0.82,
+        "Reported EPS": 0.91,
+        "Surprise(%)": 11.42
+      },
+      {
+        "Earnings Date": "2026-04-22 16:00:00-04:00",
+        "EPS Estimate": 1.0,
+        "Reported EPS": 0.69,
+        "Surprise(%)": -30.65
+      },
+      {
+        "Earnings Date": "2026-02-04 16:00:00-05:00",
+        "EPS Estimate": 1.18,
+        "Reported EPS": 1.15,
+        "Surprise(%)": -2.21
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 4,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2027-03-19",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 0.0010000000000000002,
+    "total_call_oi": 1066,
+    "total_put_oi": 486
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1382930,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 1112,
+        "Value": 24992,
+        "URL": "",
+        "Text": "Purchase at price 22.47 per share.",
+        "Insider": "DYER JOSEPH WENDELL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-29 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1125,
+        "Value": 25054,
+        "URL": "",
+        "Text": "Purchase at price 22.27 per share.",
+        "Insider": "CUNNINGHAM ROSE",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 1110,
+        "Value": 25164,
+        "URL": "",
+        "Text": "Purchase at price 22.67 per share.",
+        "Insider": "IYER SADASIVAM",
+        "Position": "President",
+        "Transaction": "",
+        "Start Date": "2026-04-28 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5121,
+        "Value": 103800,
+        "URL": "",
+        "Text": "Purchase at price 20.27 per share.",
+        "Insider": "CALLAGHAN BRIAN JOSEPH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-27 00:00:00",
+        "Ownership": "I"
+      },
+      {
+        "Shares": 247,
+        "Value": 4977,
+        "URL": "",
+        "Text": "Purchase at price 20.15 - 20.16 per share.",
+        "Insider": "LINDSTROM CAROL J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2500,
+        "Value": 51512,
+        "URL": "",
+        "Text": "Purchase at price 20.60 per share.",
+        "Insider": "OBERMAIER PATRICIA L",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-27 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2000,
+        "Value": 37739,
+        "URL": "",
+        "Text": "Purchase at price 18.87 per share.",
+        "Insider": "HOLMAN JONATHAN S",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5136,
+        "Value": 100112,
+        "URL": "",
+        "Text": "Purchase at price 19.49 per share.",
+        "Insider": "HAWTHORNE MARIA R",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2500,
+        "Value": 50078,
+        "URL": "",
+        "Text": "Purchase at price 20.03 per share.",
+        "Insider": "PAINTER JENNIFER HANKES",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-04-24 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10000,
+        "Value": 193462,
+        "URL": "",
+        "Text": "Purchase at price 19.35 per share.",
+        "Insider": "MATIN ARSHAD",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-04-24 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 44.02473916667061,
+    "pct_above_200d_ma": -10.33509385428345,
+    "pct_of_100d_ma": 128.92579777371049,
+    "pct_change_1d": 0.5264884851120089,
+    "pct_change_5d": -4.0213656604259125,
+    "pct_change_30d": 10.808848658767921
+  }
+}
