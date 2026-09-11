@@ -1,0 +1,30 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "A debt-laden freight roll-up (the controversial $2.1B Omni Logistics acquisition in Jan 2024 added ~$1.4B debt) was crushed to a $7.86 low; activists (~25% of shares) forced a Goldman-run strategic review. Recovery hinges on an Omni (partial) divestiture that de-levers the balance sheet.",
+  "bullish_points": [
+    "Strategic review is nearing conclusion \u2014 a genuine binary near-term catalyst",
+    "Q2 blowout: reported EPS $1.53 vs -$0.15 estimate (+1096% surprise)",
+    "Revenue growing +8.8%; Omni EBITDA +12% YoY and +10% sequentially",
+    "Activist ownership (~25%) keeps management honest on unlocking value",
+    "High operating/financial leverage means a de-levering event could re-rate equity sharply"
+  ],
+  "bearish_points": [
+    "Enormous leverage: ~$2.1B debt vs $558M market cap, negative book value (P/B -4.8)",
+    "Full-company sale is now seen as UNLIKELY (Clearlake/Apollo dropped enterprise bids) \u2014 stock already fell on this",
+    "If the review concludes with no divestiture, downside is severe",
+    "Weak freight/LTL cycle pressures the core",
+    "Thin coverage (only 2 analysts); low float; illiquid options"
+  ],
+  "catalyst": "Conclusion of the strategic review with a partial Omni divestiture that pays down debt",
+  "catalyst_timing": "Strategic review nearing conclusion \u2014 H2 2026; next earnings 2026-11-04",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small speculative spot $16-17, sized for a binary outcome; pure event-driven special situation",
+  "key_risk": "Review ends with status quo / no divestiture, or leverage forces a dilutive equity raise",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 45,
+  "would_skip_if": "Management signals the review is concluding with no divestiture"
+}

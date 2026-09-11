@@ -1,0 +1,30 @@
+{
+  "ticker": "IT",
+  "company_name": "Gartner, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "A high-quality research/advisory franchise de-rated ~61% on fears that AI erodes the paid-research model, plus decelerating contract-value growth (net contract value increase turned negative in Q1). Recovery hinges on CV growth reaccelerating and AskGartner defending the moat.",
+  "bullish_points": [
+    "Elite economics: 70% gross margin, 23% EBITDA margin, $1.05B FCF",
+    "Q2 beat and raised buyback authorization",
+    "Contract value growth reaccelerated to +4.9% cc in Q2 after the Q1 dip",
+    "Forward P/E ~10.5 vs a long-standing premium multiple",
+    "Sticky subscription base plus new AskGartner AI tool to defend the franchise"
+  ],
+  "bearish_points": [
+    "Stock plunged ~27% in Aug despite beating \u2014 the growth narrative is broken",
+    "CV growth decelerating; NCVI went negative in Q1",
+    "AI is a genuine existential question for syndicated research (why pay when you have an LLM?)",
+    "No near-term catalyst until the Nov print",
+    "Negative book value from years of buybacks"
+  ],
+  "catalyst": "Q3 earnings showing contract-value growth re-acceleration",
+  "catalyst_timing": "Q3 2026 earnings 2026-11-03",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot, small \u2014 quality at a discount but with an AI overhang; scale in below ~$165",
+  "key_risk": "Contract value growth keeps decelerating and AI structurally disrupts the research-subscription model",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 contract value growth decelerates again"
+}

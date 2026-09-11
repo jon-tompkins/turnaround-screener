@@ -1,0 +1,30 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Legacy Atkins brand is in structural decline (net sales -24.6% in Q3 FY26) and dragged the whole company; total net sales fell 6.3% and FY26 guidance was cut, driving the stock from ~$27 to ~$10. Recovery hinges on Quest and OWYN growth offsetting Atkins and on the newly outlined margin/brand-investment turnaround plan.",
+  "bullish_points": [
+    "Cheap on every metric: forward P/E ~6, P/B 0.64, EV/EBITDA 5.7, EV/Rev 0.88",
+    "Strong FCF ($107M) and operating margins ~12.8% despite the sales dip",
+    "Quest (+1.1%) and OWYN (+3.6%) still growing; Quest is the real franchise",
+    "Trading near 52-week low ($9.875), 'basing' setup with limited further multiple compression",
+    "History of positive EPS surprises (last 4 quarters all beat)"
+  ],
+  "bearish_points": [
+    "Atkins -24.6% is structural erosion, not a blip; may keep bleeding",
+    "FY26 adjusted EBITDA guided down ~19-21%",
+    "Q3 net loss of $52M (likely goodwill impairment on Atkins/OWYN)",
+    "OWYN in a 6-12 month distribution reset after a product-quality issue",
+    "Category headwinds: GLP-1 appetite suppression + private-label protein"
+  ],
+  "catalyst": "Q4/FY26 earnings showing Quest reacceleration and Atkins stabilization under the new three-pillar turnaround plan",
+  "catalyst_timing": "Q4 FY2026 earnings 2026-10-22",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot $10.00-10.50; add only on confirmed Quest reacceleration at Q4",
+  "key_risk": "Atkins decline accelerates and starts to drag Quest/OWYN, with the whole protein-snack category softening",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q4 shows Quest decelerating or another FY guidance cut"
+}

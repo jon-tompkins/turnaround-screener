@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "A top-two customer-experience/BPO vendor hit by AI-disruption fears (call centers seen as automatable) and accelerated client offshoring; Q2 narrowly missed and cut FY guidance, taking the stock to a $19 low. Recovery hinges on the AI iX Suite mix shift and a re-rate off an extreme-low multiple.",
+  "bullish_points": [
+    "Absurdly cheap: forward P/E ~2.3, P/B 0.61, EV/EBITDA 5.4, EV/Rev 0.69",
+    "Strong FCF $775M",
+    "iX Suite AI contract signings up 400% YoY \u2014 the strategic pivot is landing",
+    "Q2 net income +38% YoY; analyst consensus still 'Buy'",
+    "Near-term earnings catalyst Sept 29 with beaten-down expectations"
+  ],
+  "bearish_points": [
+    "Heavy leverage (~$5.5B debt from WebHelp, D/E 204)",
+    "Core BPO faces genuine secular AI/offshoring pressure \u2014 the burden of proof is on the company",
+    "Cut FY guidance on offshoring and cost pressure",
+    "TTM profit margins negative (-13%, impairment-driven); revenue barely growing (+1.9%)",
+    "Fell 16.6% in the last 5 days on real fundamental worry, not noise"
+  ],
+  "catalyst": "Q3 earnings \u2014 guidance stabilization and continued iX Suite AI traction",
+  "catalyst_timing": "Q3 2026 earnings 2026-09-29",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot $26-27 into the Sept 29 print; high-leverage value bet, size accordingly",
+  "key_risk": "AI erodes the core BPO faster than iX Suite scales, and leverage magnifies the downside",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Sept 29 shows another guidance cut or iX Suite growth stalling"
+}

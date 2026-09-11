@@ -1,0 +1,30 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Cable broadband is bleeding subscribers (120k lost in Q1, accelerating) amid fiber and fixed-wireless competition and the end of the ACP subsidy; the stock is down ~67% YoY. Recovery hinges on broadband stabilization, Cox merger synergies, and mobile growth.",
+  "bullish_points": [
+    "Extremely cheap: forward P/E ~3.2, P/B ~1.0, EV/EBITDA 5.4",
+    "$2.2B FCF and $16.5B operating cash flow",
+    "$34.5B Cox acquisition creating scale and a re-rating catalyst",
+    "Mobile line growth is a genuine bright spot",
+    "Market is pricing in outright collapse; aggressive buybacks"
+  ],
+  "bearish_points": [
+    "Broadband subscriber losses are structural (fiber overbuild + fixed wireless), not cyclical",
+    "120k Q1 sub losses accelerating vs 59k a year ago",
+    "Enormous leverage: $96.7B debt, D/E 441, current ratio 0.36",
+    "$11.4B capex plan through 2027 pressures near-term FCF",
+    "Cox merger adds integration and further leverage risk"
+  ],
+  "catalyst": "Cox merger close plus evidence broadband losses are stabilizing",
+  "catalyst_timing": "Q3 earnings 2026-10-30; Cox merger close pending California approval",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small \u2014 deep-value with a structural overhang; consider Jan 2027 calls only on confirmed merger close",
+  "key_risk": "Broadband subscriber losses keep accelerating; cord-cutting/fiber overbuild is a permanent share-loss story",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows further broadband acceleration or the merger stalls in regulatory review"
+}
