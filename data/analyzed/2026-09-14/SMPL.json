@@ -1,0 +1,28 @@
+{
+  "ticker": "SMPL",
+  "company_name": "The Simply Good Foods Company",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "turnaround_reason": "Simply Good Foods fell from ~$27 to ~$10 as its legacy Atkins brand and the acquired OWYN line softened, dragging full-year sales guidance down 7-10%; Quest remains a growth engine and the market is pricing near-permanent decline at ~6x forward earnings.",
+  "bullish_points": [
+    "Cheap on forward earnings (fwd PE ~6) for a branded, cash-generative consumer-staples business with a real growth brand in Quest",
+    "Q3 FY2026 earnings came in ahead of expectations, and Q2 non-GAAP EPS of $0.42 beat consensus by ~18% — cost/margin execution is holding up even as sales dip",
+    "Adjusted EBITDA guide of $217-225M against a ~$900M market cap implies a low EV/EBITDA for a stable-demand category",
+    "Nutritional-snacking/high-protein secular tailwind still supports Quest even as Atkins fades"
+  ],
+  "bearish_points": [
+    "Guidance was CUT: FY2026 net sales guided to $1.31-1.35B, down 7-10% YoY — this is a shrinking top line, not yet a confirmed turn",
+    "Atkins is in structural decline and OWYN is soft; Quest has to carry the whole portfolio to offset both",
+    "'Basing' mode — the bottom is unconfirmed and the stock sits near its 52-week low; re-breakdown risk is real",
+    "Options are thin (low OI, only 4 expiries) — spot-only name; dossier margin fields null"
+  ],
+  "catalyst": "Sales stabilization / return to growth as Quest scales and Atkins declines annualize; evidence the guidance cut marks the trough",
+  "catalyst_timing": "Next quarterly print (FY2026 Q4 / early FY2027, roughly Oct 2026) and FY2027 initial guide",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small-to-medium starter near $10 with patience; add if a print confirms sales stabilization",
+  "key_risk": "Atkins/OWYN erosion outpaces Quest growth and sales keep declining, turning a 'cheap staple' into a value trap",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 22,
+  "would_skip_if": "Another guidance cut or Quest growth decelerates; wait for confirmed top-line stabilization before sizing up"
+}

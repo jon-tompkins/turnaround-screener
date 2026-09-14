@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix collapsed from ~$58 to ~$19 as the market priced its customer-experience/BPO core as an AI casualty; guidance was cut on accelerated client offshoring and margin pressure, leaving it at a ~2.4x forward multiple that screams either deep value or value trap.",
+  "bullish_points": [
+    "Optically extreme value: forward PE ~2.4 with analyst consensus still 'Buy' (7 Buy / 2 Hold)",
+    "AI-powered iX Suite is a genuine bright spot — contract signings up 400% YoY — showing some ability to sell AI-augmented services rather than only being disrupted by them",
+    "Revenue was still modestly growing in constant currency (Q1 +1.9% cc, ~5% reported); this is margin/multiple compression more than a revenue cliff so far",
+    "dossier shows small insider purchases (11 buy transactions), a modest offset to the big sale"
+  ],
+  "bearish_points": [
+    "AI disruption is the core existential bear thesis for labor-arbitrage BPO — the market is pricing structural erosion, and that risk is real, not transient",
+    "Guidance was cut on accelerated client offshoring and cost pressure; profitability of the traditional book is eroding",
+    "Insider signal is net NEGATIVE: dossier shows ~5.93M net shares SOLD (a single ~6M-share sale) — the opposite of the CSGP/CHTR insider setups",
+    "High leverage (debt/equity ~204) limits margin for error if EBITDA keeps sliding"
+  ],
+  "catalyst": "Proof that iX Suite AI revenue can grow fast enough to offset core BPO erosion and stabilize margins/guidance",
+  "catalyst_timing": "Next quarterly print (roughly late 2026) and FY2027 guide",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative sizing if at all; prefer to wait for one clean quarter of stabilized guidance before committing",
+  "key_risk": "AI erodes the core faster than iX Suite scales, guidance keeps getting cut, and cheap becomes cheaper — a classic value trap on a levered balance sheet",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Another guidance cut, continued net insider selling, or no acceleration in iX Suite offsetting core declines"
+}

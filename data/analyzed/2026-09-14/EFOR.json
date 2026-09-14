@@ -1,0 +1,28 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Everforth, a Glen Allen VA digital-engineering/IT-services firm (~$3.97B TTM revenue, ~2,800 employees), fell from ~$55 to a $16.9 low on slowing growth and margin compression; it has since rebounded to ~$32 but forward growth is only ~2% and the re-rating case is thin.",
+  "bullish_points": [
+    "Cheap on forward earnings (fwd PE ~7.5) with a large, established revenue base (~$3.97B TTM)",
+    "Q2 CY2026 beat: revenue topped estimates by ~1.6% and EPS beat by ~36%, with optimistic next-quarter sales guidance",
+    "Stock has already reclaimed its trend (trading ~134% of the 100d MA), suggesting the base may be in",
+    "dossier shows modest insider purchase activity and options exist, giving some optionality"
+  ],
+  "bearish_points": [
+    "Growth is anemic: revenue forecast ~2.3% annually vs ~14% for the US IT industry — this is a slow-grower, not a re-accelerating turnaround",
+    "Profitability is deteriorating: Q2 net income down 52% YoY, EPS $0.35 vs $0.67 prior year",
+    "Options are effectively illiquid (sampled ATM IV ~0.001, thin OI) — spot-only, and the ticker/name is unfamiliar, adding due-diligence risk",
+    "High leverage (debt/equity ~83) against a shrinking-margin profile"
+  ],
+  "catalyst": "Margin stabilization and any acceleration in digital-engineering/AI-services demand that lifts the ~2% growth trajectory",
+  "catalyst_timing": "Next quarterly print (roughly Oct-Nov 2026) and FY2027 guide",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small starter if at all; a cheap-but-slow IT-services name that needs a growth or margin catalyst to re-rate",
+  "key_risk": "IT-services margin compression continues and growth stays ~2%, so the low multiple is deserved and the stock dead-money",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Margins keep compressing or growth guidance stays low-single-digit; no clear catalyst to re-rate a slow-grower"
+}

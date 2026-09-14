@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter fell ~49% from $285 to a low of $111 as broadband subscriber losses to fixed-wireless and fiber spooked the market; it now trades at ~3.5x earnings with the transformational Cox merger just closed and heavy insider buying.",
+  "bullish_points": [
+    "Trailing PE ~3.8 / forward ~3.5 — extreme value if free cash flow holds; classic levered-equity call option on stable EBITDA",
+    "Cox Communications acquisition completed Aug 20, 2026, adding 6.2M customers and ~$800M targeted operating synergies",
+    "Strong insider conviction: CEO Chris Winfrey and Director Wade Davis bought in open market; dossier shows net insider purchases of 1.58M shares over 6 months",
+    "12M+ mobile lines growing fast (Spectrum Mobile) provides a convergence bundle to defend broadband and add ARPU"
+  ],
+  "bearish_points": [
+    "Core broadband is in secular decline: lost 120k internet subs in Q1 2026, worse than the ~100k expected; fixed wireless + fiber overbuild pressure is structural, not cyclical",
+    "Extreme leverage (debt/equity ~442, large net debt) means equity is a thin slice; any EBITDA erosion hits the stock hard",
+    "Cox integration adds execution and leverage risk on top of an already-levered balance sheet",
+    "Some insider divestment noise historically (Rutledge sales); the bull insider signal is recent-CEO-led"
+  ],
+  "catalyst": "Cox synergy realization + evidence broadband sub losses are bottoming (convergence bundle stabilizing churn), driving FCF-per-share and deleveraging",
+  "catalyst_timing": "Q3 2026 earnings (late Oct 2026) — first post-Cox-close print; synergy cadence through 2027",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium spot starter near $145-150; for leverage, Jan 2027/2028 $150 calls (deep, liquid chain) sized as a speculative sleeve",
+  "key_risk": "Broadband sub losses accelerate rather than stabilize, EBITDA declines against ~4.4x-leveraged balance sheet, and deleveraging thesis breaks",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Next print shows accelerating broadband losses or no sign of churn stabilization from convergence; or Cox integration missteps on synergies"
+}

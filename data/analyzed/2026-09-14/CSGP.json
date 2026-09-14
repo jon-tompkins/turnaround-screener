@@ -1,0 +1,28 @@
+{
+  "ticker": "CSGP",
+  "company_name": "CoStar Group, Inc.",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "turnaround_reason": "Stock fell ~65% from $90 to a 7-year low near $26 as heavy Homes.com residential spend crushed margins and drew activist ire; the commercial data monopoly (CoStar/LoopNet/Apartments.com) never stopped compounding, and 2026 marked a profitability inflection with EBITDA more than doubling YoY.",
+  "bullish_points": [
+    "Founder/CEO Andy Florance has bought ~210k shares for ~$7.5M of his own cash all the way down (last near $35), a rare all-in insider signal; dossier confirms net insider purchases of 204k shares",
+    "Q2 2026 was a profitability inflection: adjusted EBITDA more than doubled YoY to $184M; full-year revenue reaffirmed at $3.78-3.82B (~17% growth) with raised outlook",
+    "Third Point activist campaign pressuring the board on capital allocation and Homes.com spend creates a second, independent catalyst path",
+    "Core commercial info business is a wide-moat data monopoly with recurring subscription revenue; Homes.com net investment is winding down, unlocking margin into 2027"
+  ],
+  "bearish_points": [
+    "Trailing PE of 174 reflects still-depressed margins; the re-rating depends on EBITDA margins actually expanding from ~15%",
+    "Homes.com residential bet has been a multi-year capital-allocation failure per Third Point; execution risk if management doubles down",
+    "$12.7B market cap is not a small-cap bounce candidate; upside is a re-rate grind, not a snap-back",
+    "dossier margin/PE fields partially null (yfinance gaps); leaning on web-sourced financials"
+  ],
+  "catalyst": "Continued EBITDA margin expansion as Homes.com spend rolls off, plus potential board/capital-allocation changes from the Third Point campaign",
+  "catalyst_timing": "Q3 2026 earnings (late Oct/early Nov 2026); activist resolution over coming quarters",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Starter spot position now (small-to-medium), add on dips toward $28-29; consider Jan 2027 $30-35 calls given liquid chain",
+  "key_risk": "Management keeps pouring capital into Homes.com and the promised margin inflection stalls, leaving a high-multiple stock with no earnings support",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next print shows EBITDA margin flat-to-down or renewed residential spend ramp; or if insider buying reverses"
+}
