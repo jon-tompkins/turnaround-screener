@@ -1,0 +1,28 @@
+{
+  "ticker": "CHTR",
+  "company_name": "Charter Communications, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "turnaround_reason": "Charter fell ~65% from ~$285 to ~$142 on relentless broadband subscriber losses (172k in Q2 2026) from fixed-wireless and fiber competition. It could re-rate if the just-closed $34.5B Cox merger delivers ~$800M synergies, mobile keeps scaling (12M lines), and broadband losses stabilize.",
+  "bullish_points": [
+    "Extraordinary insider conviction: 75% net insider buying over 6 months, including CEO Winfrey buying ~$1.2M at $172",
+    "Deep value: forward P/E ~3.4, EV/EBITDA ~5.4, P/B ~1.0, with ~$2.2B FCF and ~$16.5B operating cash flow",
+    "Cox merger closed (~37M customers, largest US broadband/video); synergy target raised to $800M from $500M",
+    "Mobile is a real growth engine (12M lines) and video losses are shrinking (down ~67% YoY); heavy short interest (~34% of float) is fuel for a squeeze on any good print"
+  ],
+  "bearish_points": [
+    "Core broadband subs still declining — the secular question is unanswered, not resolved",
+    "Enormous leverage: ~$96.7B total debt, D/E ~442, current ratio 0.36 — little room if EBITDA slips",
+    "Fixed-wireless (T-Mobile/Verizon) and fiber overbuilders keep pressuring the moat",
+    "Cox integration is large and complex; synergy realization and churn risk are real"
+  ],
+  "catalyst": "Broadband net-add stabilization plus visible Cox synergy capture and continued mobile growth",
+  "catalyst_timing": "Q3 2026 earnings on 2026-10-30; Cox synergy ramp through 2027",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Starter spot now (small-to-medium), add on a broadband-stabilization print. Existing deep-dive in data/research/CHTR.md. LEAPS (Jan 2027/2028 calls) reasonable for a leveraged-equity re-rate given cheap IV.",
+  "key_risk": "Broadband losses accelerate and pressure EBITDA against the massive debt load, so the cheap multiple stays cheap or compresses further.",
+  "estimated_upside_pct": 80,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 broadband losses widen materially or management walks back Cox synergy guidance."
+}

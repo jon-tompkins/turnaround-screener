@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Forward Air destroyed its balance sheet with the ~$2.1B January 2024 Omni Logistics acquisition, taking on ~$1.4B of debt (net debt ~$1.68B, ~5.5x EBITDA). The equity is a leveraged stub that recovers only if a strategic review, asset sales, or a full sale deleverages it.",
+  "bullish_points": [
+    "Strategic review live with Goldman Sachs; piecemeal deleveraging underway (an Omni unit sold July 2026 for ~$16.5M with an $8-10M gain)",
+    "Record Q2 operating revenue ~$673M and ~$93M consolidated EBITDA — the operating business generates cash",
+    "EV/revenue ~1.0 and positive FCF (~$87M); analyst mean target $28 vs ~$17 price (thin, only 2 analysts)",
+    "Asset-light model with real scale in expedited LTL if leverage is tamed"
+  ],
+  "bearish_points": [
+    "The full-company sale process ENDED WITHOUT A BUYER — the primary bull catalyst already failed",
+    "Q2 carried a $244M goodwill impairment on Omni → $201M operating loss, $246M net loss; the huge 'EPS beat' (1.53 vs -0.15) is one-time gains, not run-rate",
+    "Negative book value (P/B -4.9) and ~4.5x financial leverage; deleveraging depends on selling assets into a soft freight market",
+    "Freight cycle still weak; execution risk on carving up Omni/Intermodal without fire-sale pricing"
+  ],
+  "catalyst": "Definitive divestiture(s) of Omni/Intermodal segments at prices that materially cut net debt",
+  "catalyst_timing": "Ongoing through H2 2026; next earnings 2026-11-04",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative. This is a distressed deleveraging bet, not a core position. Existing research note in data/research/FWRD.md.",
+  "key_risk": "Asset sales come too slow or too cheap and the debt load forces dilution or restructuring, wiping the equity stub.",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 55,
+  "would_skip_if": "Leverage stays above 5x into 2027 or a dilutive equity raise is signaled."
+}

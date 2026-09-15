@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a customer-experience/BPO outsourcer, is priced for terminal decline (forward P/E ~2.5, P/B ~0.66) on fears AI automates away call-center demand — the stock fell 22% on a weak Q2 and a trimmed 2026 outlook. It recovers only if its AI iX Suite converts into revenue/margin faster than legacy seats erode.",
+  "bullish_points": [
+    "Rock-bottom valuation: forward P/E ~2.5, EV/revenue ~0.7, P/B ~0.66, with ~$776M FCF against a ~$1.8B market cap",
+    "iX Suite AI contract signings up ~400% YoY — evidence the higher-value pivot is landing deals",
+    "Analyst consensus still 'Buy' (7 buy / 2 hold); modest CEO/CFO open-market purchases",
+    "Near-term hard catalyst: fiscal Q3 earnings 2026-09-29, ~2 weeks out, could reset the narrative either way"
+  ],
+  "bearish_points": [
+    "AI disruption hits the core service line directly; accelerated client offshoring is compressing both growth and margins",
+    "Management CUT full-year 2026 guidance and the stock was dropped from an index — momentum and passive flows are against it",
+    "Heavy debt (~$5.5B, D/E ~204) limits flexibility during the transition",
+    "Large holder Groupe Bruxelles Lambert dumped 6M shares (~$133M) — a major overhang and net insider selling (-36%)"
+  ],
+  "catalyst": "Fiscal Q3 earnings and guidance — proof that iX Suite growth offsets legacy erosion, or confirmation it does not",
+  "catalyst_timing": "Q3 2026 earnings on 2026-09-29",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small; size for a binary reaction to the Sept 29 print. Existing deep-dive in data/research/CNXC.md.",
+  "key_risk": "AI structurally shrinks seat-based BPO demand faster than iX Suite scales, turning a cheap multiple into a declining-earnings value trap under a heavy debt load.",
+  "estimated_upside_pct": 65,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Sept 29 guidance is cut again or iX Suite momentum fails to show up in revenue."
+}

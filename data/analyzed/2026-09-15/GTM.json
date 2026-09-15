@@ -1,0 +1,28 @@
+{
+  "ticker": "GTM",
+  "company_name": "ZoomInfo Technologies Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "turnaround_reason": "ZoomInfo (reticker GTM) collapsed from ~$12 to ~$4 as growth stalled to ~1% and customers cited 'AI/agentic confusion' — the fear that internal AI tools and consumption models erode its seat-based go-to-market data business. It might recover if the pivot to consumption pricing + GTM.AI stabilizes net revenue retention off the 90% floor.",
+  "bullish_points": [
+    "Deep value on cash flow: ~$356M FCF and forward P/E ~3.8 against a ~$1.26B market cap (~28% FCF yield)",
+    "Meaningful insider conviction: net +833k shares purchased over 6 months (25% buy vs 0.2% sell)",
+    "86% gross margins and 20% operating margins — the underlying model is still highly profitable",
+    "Q2 beat and full-year revenue guide nudged up ($1.207-1.217B); cost cuts (~20% of workforce) protect FCF"
+  ],
+  "bearish_points": [
+    "Core existential AI risk: contact/intelligence data is exactly the layer buyers may replace with internal LLM tooling",
+    "Net revenue retention stuck at 90% for three straight quarters — no upsell traction",
+    "Revenue growth ~1%; consumption-pricing transition is a near-term revenue headwind",
+    "Pending securities class action; high debt ($1.5B, D/E 183, current ratio 0.65); dossier news feed was empty (no fresh headline confirmation)"
+  ],
+  "catalyst": "Stabilization of net revenue retention and evidence GTM.AI/consumption model re-accelerates growth rather than cannibalizing seats",
+  "catalyst_timing": "Q3 2026 earnings on 2026-11-02",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small starter. Wait for NRR to inflect off 90% before adding.",
+  "key_risk": "AI structurally shrinks demand for third-party GTM data, turning the cheap multiple into a value trap with permanently declining revenue.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "NRR keeps sliding below 90% or consumption transition drives a guidance cut at Q3."
+}
