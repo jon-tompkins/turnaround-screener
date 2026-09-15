@@ -1,0 +1,300 @@
+{
+  "ticker": "GTM",
+  "fetched_at": "2026-09-15T13:35:38.811607",
+  "overview": {
+    "name": "ZoomInfo Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "description": "ZoomInfo Technologies Inc., together with its subsidiaries, provides go-to-market intelligence and engagement platform for sales, marketing, operations, and recruiting professionals in the United States and internationally. The company's cloud-based platform provides workflow tools and information on organizations and professionals to help users identify target customers and decision makers, obtain continually updated predictive lead and company scoring, monitor buying signals and other attributes of target companies, craft messages, engage through automated sales tools, and track progress through the deal cycle. Its paid products include ZoomInfo Copilot, ZoomInfo Sales, ZoomInfo Marketing, ZoomInfo Operations, and ZoomInfo Talent, as well as ZoomInfo Lite. The company serves global enterprises, mid-market companies, and down to small businesses that operate in various industry, including software, business services, manufacturing, telecommunications, financial services, media and internet, transportation, education, hospitality, insurance, and real estate. ZoomInfo Technologies Inc. was founded in 2007 and is headquartered in Vancouver, Washington.",
+    "market_cap": 1257595520,
+    "enterprise_value": 2585251072,
+    "shares_outstanding": 291110046,
+    "float_shares": 243239910,
+    "short_ratio": 5.28,
+    "short_percent_of_float": 0.1612,
+    "held_by_insiders": 0.13196999,
+    "held_by_institutions": 0.98676,
+    "revenue_ttm": 1257699968,
+    "revenue_growth": 0.012,
+    "gross_margins": 0.86507004,
+    "operating_margins": 0.20554,
+    "profit_margins": -0.43015,
+    "free_cashflow": 356462496,
+    "operating_cashflow": 439300000,
+    "total_cash": 152900000,
+    "total_debt": 1518400000,
+    "debt_to_equity": 183.227,
+    "current_ratio": 0.651,
+    "trailing_pe": null,
+    "forward_pe": 3.8296177,
+    "price_to_book": 1.5238096,
+    "ev_to_ebitda": 7.646,
+    "ev_to_revenue": 2.056,
+    "fifty_two_week_high": 12.39,
+    "fifty_two_week_low": 2.54,
+    "current_price": 4.32,
+    "analyst_target_mean": 4.59722,
+    "analyst_target_high": 15.0,
+    "analyst_target_low": 2.5,
+    "recommendation": "none",
+    "num_analysts": 18,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-02 15:00:00-05:00",
+        "EPS Estimate": 0.29,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-05 16:00:00-04:00",
+        "EPS Estimate": 0.26,
+        "Reported EPS": 0.28,
+        "Surprise(%)": 5.78
+      },
+      {
+        "Earnings Date": "2026-05-11 17:00:00-04:00",
+        "EPS Estimate": 0.26,
+        "Reported EPS": 0.28,
+        "Surprise(%)": 8.66
+      },
+      {
+        "Earnings Date": "2026-02-09 16:00:00-05:00",
+        "EPS Estimate": 0.28,
+        "Reported EPS": 0.32,
+        "Surprise(%)": 13.46
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 11,
+    "nearest_expiry": "2026-09-18",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 12.500875,
+    "total_call_oi": 811,
+    "total_put_oi": 3181
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 924884.0,
+        "Trans": 29
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 91778.0,
+        "Trans": 13
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 833106.0,
+        "Trans": 42
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 38417788.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.022,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.025,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.002,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 94,
+        "Value": 392.0,
+        "URL": "",
+        "Text": "Sale at price 4.17 per share.",
+        "Insider": "ROTH JAMES M",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-09-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 34,
+        "Value": 142.0,
+        "URL": "",
+        "Text": "Sale at price 4.17 per share.",
+        "Insider": "MCGRANE ASHLEY",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-09-02 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 207,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "MCGRANE ASHLEY",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-09-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 542,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "O'BRIEN MICHAEL GRAHAM",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-09-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 345,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "ROTH JAMES M",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-09-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 16400,
+        "Value": 68227.0,
+        "URL": "",
+        "Text": "Sale at price 4.16 per share.",
+        "Insider": "MCGRANE ASHLEY",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-08-07 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5000,
+        "Value": 20002.0,
+        "URL": "",
+        "Text": "Sale at price 4.00 per share.",
+        "Insider": "O'BRIEN MICHAEL GRAHAM",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-06 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 997,
+        "Value": 3553.0,
+        "URL": "",
+        "Text": "Sale at price 3.56 per share.",
+        "Insider": "MCGRANE ASHLEY",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-08-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 5987,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "MCGRANE ASHLEY",
+        "Position": "General Counsel",
+        "Transaction": "",
+        "Start Date": "2026-07-31 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 125794,
+        "Value": NaN,
+        "URL": "",
+        "Text": "",
+        "Insider": "O'BRIEN MICHAEL GRAHAM",
+        "Position": "Chief Financial Officer",
+        "Transaction": "",
+        "Start Date": "2026-07-31 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 32.402236118997514,
+    "pct_above_200d_ma": -25.243649699104363,
+    "pct_of_100d_ma": 113.67962128051603,
+    "pct_change_1d": 3.3412855506848915,
+    "pct_change_5d": 11.025636354455305,
+    "pct_change_30d": 21.28851553711133
+  }
+}
