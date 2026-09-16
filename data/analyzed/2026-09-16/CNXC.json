@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "CNXC, a global CX/BPO outsourcer, has been de-rated to a rock-bottom multiple (forward P/E ~2.4, P/B 0.65, EV/EBITDA 5.5) on fears that generative AI structurally erodes its contact-center core. The bull case is that it is dramatically oversold relative to still-strong free cash flow and an emerging AI-services pivot.",
+  "bullish_points": [
+    "Deep value on every metric: forward P/E ~2.4, EV/revenue 0.70, P/B 0.65, EV/EBITDA 5.5, with robust FCF (~$775M TTM)",
+    "AI pivot showing traction: iX Suite contract signings reportedly up 400% YoY — evidence it can sell AI rather than only be disrupted by it",
+    "CEO and CFO made open-market purchases in 2026 ($21-28 range), signaling insider conviction near the lows",
+    "Analyst consensus still 'buy' with mean target $36.25 vs $29 quote; positive 30-day momentum (+12%)"
+  ],
+  "bearish_points": [
+    "Core secular threat is genuine: AI is compressing traditional seat-based outsourcing; Q2 stock fell ~22% on a full-year guidance cut driven by client offshoring and weak demand",
+    "Heavy leverage: $5.5B debt, D/E ~204, EV $7B — magnifies any revenue erosion",
+    "Major holder Groupe Bruxelles Lambert sold 6M shares (~$133M) in Apr 2026 — a large overhang that dwarfs the small insider buys",
+    "GAAP net margin negative (profit margin -13%); high short interest (~18% of float)",
+    "Dossier news fields null (yfinance gap)"
+  ],
+  "catalyst": "Q3 FY2026 earnings — proof that guidance has stabilized and AI/iX Suite revenue is offsetting legacy erosion",
+  "catalyst_timing": "2026-09-29 earnings",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small starter spot only, ahead of or into the 9/29 print; the cheapness is real but the AI disruption is a live secular risk. Size for a value trap.",
+  "key_risk": "AI-driven revenue erosion accelerates and another guidance cut confirms the business is structurally shrinking, turning the low multiple into a value trap",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You believe generative AI permanently impairs seat-based BPO economics, or you want to avoid a highly levered name with a large selling anchor holder"
+}
