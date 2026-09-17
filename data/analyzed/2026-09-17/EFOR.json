@@ -1,0 +1,28 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Fourth-largest US IT staffing/solutions firm (formerly ASGN, rebranded Everforth in April 2026) de-rated on softening commercial demand and lengthening sales cycles; still solidly profitable and cheap at a cyclical trough.",
+  "bullish_points": [
+    "Extraordinary coordinated insider cluster: five execs bought ~$2.18M open-market on Apr 24 2026 (CEO ~$1M at ~$19.24), day one after the blackout lifted — strongest insider signal in this batch",
+    "Genuinely profitable: net margin +2%, trailing P/E ~16 / forward P/E ~7.4, P/B 0.72, ~6-7x EBITDA, FCF $214M",
+    "Q2 beat (0.91 vs 0.82 est); Federal Government + data/AI segments provide ballast as commercial normalizes",
+    "Valuation near a historical trough with demand expected to normalize"
+  ],
+  "bearish_points": [
+    "Revenue -1.3%; commercial conversions slowing, enterprise software projects delayed (higher-margin mix pressured)",
+    "Debt/equity ~83; staffing is cyclical and structurally AI-exposed",
+    "Stock has already bounced ~90% off its 52-week low ($16.9 to ~$31.8), so some recovery is priced in",
+    "Analyst mean target $27.5 sits below the current ~$31.8 price"
+  ],
+  "catalyst": "Q3 earnings showing commercial stabilization / demand normalization",
+  "catalyst_timing": "Q3 earnings ~Oct 28 2026",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot, medium starter position; the insider conviction is the standout. Jan 2027 calls if seeking leverage",
+  "key_risk": "Commercial IT demand stays soft or AI structurally compresses staffing spend, capping the earnings recovery",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Q3 shows no commercial stabilization and sales cycles keep lengthening"
+}

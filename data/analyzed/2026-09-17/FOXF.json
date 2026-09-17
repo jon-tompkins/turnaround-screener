@@ -1,0 +1,28 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Performance-suspension maker (bikes, powersports, Marucci baseball) hammered by pandemic-era bike overstock and channel destocking; now stabilizing with cost cuts and powersports growth.",
+  "bullish_points": [
+    "Beat Q1 and Q2 2026; Q2 adj EBITDA topped guidance by ~$5M and management raised the 2026 sales view",
+    "Powersports revenue +22.5%; adj EBITDA margin +250bps sequentially; bike destocking 'taking shape'",
+    "New e-bike, softball/Marucci fitments and an autonomous-EV OEM award signal R&D payoff",
+    "Reasonable value at forward P/E ~10.6, current ratio 3.1, positive FCF"
+  ],
+  "bearish_points": [
+    "Revenue still -4.5% y/y; GAAP profit margin -20% (amortization/impairment drag)",
+    "Debt/equity ~102; consumer-discretionary demand remains soft",
+    "Upside to analyst mean target $21 is only ~6% from ~$19.8 — much of the recovery looks priced in",
+    "Options are effectively illiquid (call OI 94, put OI 15)"
+  ],
+  "catalyst": "Q3 earnings showing continued margin recovery and 2027 demand normalization",
+  "catalyst_timing": "Q3 earnings ~Nov 5 2026",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, starter near $19-20; genuine recovery but partly priced in",
+  "key_risk": "Consumer-discretionary weakness stalls the bike/powersports recovery before margins fully normalize",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Destocking recovery stalls or sequential margin gains reverse"
+}

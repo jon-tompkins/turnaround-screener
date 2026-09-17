@@ -1,0 +1,28 @@
+{
+  "ticker": "FWRD",
+  "company_name": "Forward Air Corporation",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "turnaround_reason": "Asset-light LTL/logistics operator wrecked by the debt-heavy 2024 Omni Logistics merger; new management is driving record revenue and margin gains across all segments while deleveraging through targeted divestitures.",
+  "bullish_points": [
+    "Q2 2026 record revenue $673M and best EBITDA in 2.5 years, with margin gains in all three segments (Expedited EBITDA +40% y/y)",
+    "Strategic review pivoted from full company sale to targeted divestitures (Intermodal + legacy Omni ~$394M revenue); Intermodal sale on track to close by YE26, $27M of small Omni sales already done — proceeds cut debt",
+    "Massive Q2 EPS surprise (reported 1.53 vs -0.15 est); CEO calls it 'best financial position since taking office'",
+    "Analyst mean target $28 vs ~$16 price (small coverage, but large implied upside)"
+  ],
+  "bearish_points": [
+    "Balance sheet still stretched: $2.1B debt, negative book equity (P/B -4.6), forward P/E ~37",
+    "Largest customer (~$250M annual revenue) at risk — company expects to retain only 50-75%",
+    "Only 2 analysts covering; thin options liquidity",
+    "Turnaround depends on executing asset sales into a soft freight market"
+  ],
+  "catalyst": "Intermodal divestiture close with proceeds to debt paydown, largest-customer retention decision, and Q3 earnings",
+  "catalyst_timing": "Intermodal sale by end-2026; Q3 earnings ~Nov 4 2026",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium spot $15-16, add on confirmation of the Intermodal-sale close; wide stop given leverage",
+  "key_risk": "Balance-sheet leverage plus loss of the major customer's revenue derails the deleveraging path",
+  "estimated_upside_pct": 75,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Divestiture timeline slips or the largest customer walks entirely"
+}

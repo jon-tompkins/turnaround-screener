@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Customer-experience (CX/BPO) outsourcer down ~60% on fears AI is destroying the call-center model, compounded by heavy leverage from the Webhelp acquisition; now statistically the cheapest it has ever been.",
+  "bullish_points": [
+    "Extreme valuation: ~0.16x sales (all-time low), forward P/E ~2.4, EV/EBITDA ~4-5.5x, and ~35% FCF-to-equity yield; FCF $776M vs $1.76B market cap",
+    "Q2 EPS $0.91 (net income +38% y/y) and management cites an AI-deal surge — some evidence it can sell AI rather than only be disrupted by it",
+    "Momentum turning: +11.7% over 30 days, +7.8% over 5 days; CEO made open-market buys",
+    "Analyst 'buy', mean target $36.25 vs ~$28.9"
+  ],
+  "bearish_points": [
+    "Existential AI-disruption thesis — the core BPO business may be in secular decline, not just cyclical",
+    "Heavy leverage: $5.5B debt, debt/equity 204 — amplifies any revenue erosion",
+    "Groupe Bruxelles Lambert sold 6M shares in April; short interest ~18% of float",
+    "Guidance implies only ~0.25-1.25% constant-currency growth — barely stabilizing"
+  ],
+  "catalyst": "Q3 earnings — a hard near-term print that will test AI-erosion vs stabilization",
+  "catalyst_timing": "Q3 earnings ~Sep 29 2026 (roughly 12 days out)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Speculative small spot into the Sep 29 print; size for a binary outcome. Not a core hold until AI-erosion is disproven",
+  "key_risk": "AI genuinely compresses BPO volumes so revenue and FCF erode faster than the company can pay down debt",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Sep 29 print shows accelerating revenue decline or a guidance cut"
+}

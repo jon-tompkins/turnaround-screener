@@ -1,0 +1,28 @@
+{
+  "ticker": "ZTS",
+  "company_name": "Zoetis Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "turnaround_reason": "Blue-chip animal-health leader down ~43-47% to a record-low ~11x P/E on Librela (osteoarthritis mAb) safety/FDA adverse-event fallout and Apoquel/parasiticide share loss to Elanco's Zenrelia; the underlying franchise remains highly profitable.",
+  "bullish_points": [
+    "Elite economics intact: gross margin 72%, operating margin 41%, profit margin 28%, FCF ~$2B",
+    "Trailing/forward P/E ~11-12 — the lowest in company history vs a historical 30-40x range; analyst 'buy', mean target $96 (+~32%)",
+    "Director insider buying ~$0.9M in May 2026 at $75-78 (D'Amelio, McCallister, Bisaro); Michael Burry reportedly doubling down",
+    "Librela revenue rose sequentially for the first time in six quarters; livestock +12% organic — diversification is working"
+  ],
+  "bearish_points": [
+    "Librela safety overhang is real: FDA-flagged neurologic adverse events (ataxia, seizures, deaths) drove a 16% 2025 sales drop",
+    "Securities class action (Jan 2025-May 2026 class period) alleging misleading Companion Animal statements",
+    "US companion-animal revenue -11% in Q1 2026 amid Zenrelia/Apoquel competition; guidance was cut",
+    "Debt/equity elevated from buybacks; the de-rate may be partly justified, not purely sentiment"
+  ],
+  "catalyst": "Q3 earnings plus evidence the OA-pain franchise returns to growth and litigation risk clarifies",
+  "catalyst_timing": "Q3 earnings ~Nov 3 2026",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot, starter near the 52-week low ~$73 and scale in; longer-horizon quality-at-a-discount",
+  "key_risk": "Librela safety/legal situation worsens or competitive share loss accelerates, validating the multiple compression",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "New Librela adverse-event disclosures emerge or guidance is cut again"
+}

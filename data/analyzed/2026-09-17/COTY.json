@@ -1,0 +1,28 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Beauty conglomerate crushed from ~$12 to ~$2.6 on Consumer Beauty underperformance, slowing prestige fragrance, and a heavy debt load; interim CEO Markus Strobel (ex-P&G) is running a turnaround after Sue Nabi's exit.",
+  "bullish_points": [
+    "Sold the Gucci Beauty license back to Kering for ~$400M ($250M cash upfront), proceeds earmarked for debt reduction; net leverage now near a decade low",
+    "CoverGirl and Sally Hansen closing the sellout gap vs market per interim CEO",
+    "Optically cheap: forward P/E ~10, P/B 0.77, EV/EBITDA ~7.4",
+    "Small insider buys near current price (CFO Mercier at $2.65, officer von Bretten 83k shares at $2.41 early 2026)"
+  ],
+  "bearish_points": [
+    "Withdrew FY2026 guidance after Q2 and CEO departure — visibility is poor",
+    "Still $3.3B total debt against a $2.3B market cap; current ratio 0.755 (weak liquidity)",
+    "Operating margin -2.4%, profit margin -10.4%; like-for-like revenue -3%",
+    "Securities class-action lawsuits and management turnover add overhang"
+  ],
+  "catalyst": "Next earnings print showing deleveraging traction and Consumer Beauty stabilization; Gucci second payment ($150M) by Sep 2027",
+  "catalyst_timing": "Q1 FY27 earnings ~Nov 5 2026",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Pass or tiny spot only — too levered until deleveraging and share stabilization are proven",
+  "key_risk": "Debt load plus withdrawn guidance; Consumer Beauty keeps losing share and leverage stays elevated",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Leverage does not come down materially or Consumer Beauty continues bleeding share"
+}
