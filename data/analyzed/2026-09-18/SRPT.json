@@ -1,0 +1,30 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Sarepta cratered in 2025 after patient deaths tied to its ELEVIDYS Duchenne gene therapy led to FDA scrutiny, a boxed liver-injury warning, and loss of the non-ambulatory indication. It has since stabilized ELEVIDYS demand, cut 36% of staff (~$420M annual savings), and refinanced its 2027 converts into 2030s — a classic post-crisis reset now recovering off the lows.",
+  "bullish_points": [
+    "Balance sheet de-risked: Dec 2025 exchange of $291M 2027 converts into 2030 notes removed the near-term debt overhang; $788M cash and 4.4x current ratio",
+    "Aggressive cost reset (36% headcount cut, ~$120M personnel + ~$300M non-personnel annual savings) drives a path to sustainable cash flow; already FCF-positive TTM (~$22M) with $111M operating cash flow",
+    "Still a real ~$2B-revenue commercial franchise (EXONDYS/VYONDYS/AMONDYS exon-skippers plus ELEVIDYS) trading at only 7.8x forward earnings",
+    "Recovering technically: +22% over 30 days, back above the 200-day MA, yet still only ~25% of the 200-week MA — huge room if the reset holds",
+    "Late-2026 clinical data readouts provide upside optionality beyond the base commercial business"
+  ],
+  "bearish_points": [
+    "Revenue down 34% YoY — the ELEVIDYS safety fallout is still working through the P&L and demand recovery is early",
+    "Gene-therapy safety cloud is existential and reputational: further adverse events or label restrictions could re-break the stock",
+    "Profit margins negative (-6.9%) and EV/EBITDA negative; the 'stabilization' is a claim, not yet a trend in the numbers",
+    "Leadership transition underway adds execution uncertainty during a fragile period",
+    "Sampled ATM IV in the dossier looks stale/unreliable; real event vol around readouts will be high and expensive"
+  ],
+  "catalyst": "Continued ELEVIDYS demand stabilization confirmed in prints plus late-2026 pipeline data readouts; evidence the cost reset restores durable positive FCF",
+  "catalyst_timing": "Q3 2026 earnings on Nov 4, 2026, and late-2026 clinical readouts",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small spot starter near $20; add on a confirmed demand-stabilization print. Avoid paying up for options into readouts unless sizing as a defined-risk lottery",
+  "key_risk": "A new ELEVIDYS safety signal or further FDA label action reignites the 2025 collapse",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You avoid gene-therapy headline risk, or you want to see two consecutive quarters of revenue stabilization before trusting the turn"
+}

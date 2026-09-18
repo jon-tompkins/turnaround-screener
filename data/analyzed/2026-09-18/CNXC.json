@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a customer-experience/BPO roll-up carrying heavy WebHelp acquisition debt, has been crushed by fears that generative AI makes call-center outsourcing 'uninvestible.' It cut 2026 guidance on accelerated client offshoring, sending shares from $58 to the high-$20s — now a deep-value name where the market prices structural decline.",
+  "bullish_points": [
+    "Extraordinarily cheap on cash metrics: ~2.4x forward earnings, 0.64x book, 0.70x EV/revenue, with strong ~$775M free cash flow",
+    "Its own AI product (iX Suite) is scaling fast — contract signings up ~400% YoY — offering an offset/hedge to the AI-disruption bear case if it converts to revenue",
+    "Analyst consensus still 'Buy' with a $36 mean target vs ~$28 spot; recent CastleHill acquisition (Sept 8) shows management still executing",
+    "Basing setup with insider CEO/CFO open-market purchases in 2026 (small but directionally positive)",
+    "Sept 29 earnings is a hard near-term catalyst that could re-rate the multiple if guidance stabilizes"
+  ],
+  "bearish_points": [
+    "Core secular thesis is genuinely threatened: AI directly automates the voice/chat work that is Concentrix's bread and butter — this may be a value trap, not a turnaround",
+    "Heavy leverage from the WebHelp deal (~$5.5B debt, ~3 turns, only 2.2x interest coverage) magnifies any revenue erosion",
+    "Trimmed 2026 outlook driven by accelerated client offshoring and pricing pressure; margins and growth have declined two straight years",
+    "Large 10% holder (Groupe Bruxelles Lambert) sold 6M shares (~$133M) in April 2026 — a meaningful negative insider signal outweighing the small management buys",
+    "Net income margin negative (-13%) on goodwill/amortization drag; reported profitability is weak"
+  ],
+  "catalyst": "Q3 (fiscal) earnings on Sept 29 — stabilized guidance and/or iX Suite revenue traction would puncture the 'uninvestible' narrative and re-rate an ultra-low multiple",
+  "catalyst_timing": "Earnings Sept 29, 2026",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small, as a deep-value AI-disruption contrarian; do not lever into the binary Sept 29 print given the debt load",
+  "key_risk": "AI adoption accelerates client insourcing/automation faster than iX Suite grows, and the leverage turns a cheap multiple into permanent impairment",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You believe generative AI structurally shrinks the BPO TAM — then the low multiple is a trap and the debt makes it uninvestable"
+}

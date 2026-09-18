@@ -1,0 +1,30 @@
+{
+  "ticker": "CPRI",
+  "company_name": "Capri Holdings Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "turnaround_reason": "Capri got beaten down after the FTC-blocked Tapestry merger collapsed and Michael Kors kept bleeding sales; the December 2025 sale of Versace cut net debt to ~$80M and let management refocus the whole company on rebuilding Michael Kors and Jimmy Choo. Now a leaner, deleveraged two-brand operator trading at ~5.9x forward earnings near multi-year lows.",
+  "bullish_points": [
+    "Versace sale (closed Dec 2, 2025) slashed net debt to ~$80M from >$1.3B gross, removing the balance-sheet overhang and de-risking the equity",
+    "Very strong recent insider buying: net +1.63M shares over 6 months across 13 transactions, including CEO John Idol buying ~251k shares and the full board participating",
+    "Last two quarters beat EPS handily (+67% and +83% surprises), suggesting numbers had been cut too far",
+    "FY27 guidance calls for a return to low-single-digit revenue growth and ~40% EPS growth; forward P/E of 5.9 prices in almost no recovery",
+    "Jimmy Choo growing (+5% rev, double-digit accessories) and turning back to profit; gross margins remain a healthy ~63%"
+  ],
+  "bearish_points": [
+    "Michael Kors, ~83% of revenue, is still shrinking (-5.6% last reported quarter); the core brand turnaround is unproven",
+    "Total revenue fell to $3.47B (FY26) from $4.14B (FY24) — the top line is still in decline, this is 'basing,' not confirmed recovery",
+    "High debt-to-equity (973) on a thin equity base; luxury handbags are discretionary and exposed to a consumer slowdown",
+    "Brand-heat risk: Michael Kors has been in the aspirational-brand 'discount death spiral' that is very hard to reverse",
+    "No dividend and modest FCF; recovery depends on execution on product refresh and younger-shopper marketing that competitors are also chasing"
+  ],
+  "catalyst": "Michael Kors comp-sales inflection and margin recovery showing up in quarterly prints, validating the FY27 growth guide; deleveraged balance sheet also makes CPRI a cleaner strategic/PE target now that Versace is gone",
+  "catalyst_timing": "Q2 FY26 earnings on Nov 3, 2026, then successive quarters through FY27",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot accumulation near $14-15 with a scale-in; for leverage, Jan 2027 $17.50 calls (IV ~68% is not cheap, so size small)",
+  "key_risk": "Michael Kors comps fail to inflect and the brand keeps eroding, turning the cheap multiple into a value trap despite the clean balance sheet",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You want confirmed momentum — this is early/basing and hinges on an unproven Michael Kors comp turn; wait for one positive comp print if you need confirmation"
+}

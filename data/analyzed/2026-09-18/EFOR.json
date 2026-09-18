@@ -1,0 +1,29 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Everforth (the rebranded ASGN, effective April 2026) is the #4 US IT-staffing firm working through a cyclical trough as enterprise IT project spend slowed. The stock has already rebounded hard off its $16.90 low to ~$33 on hopes that an offshore/AI pivot and a naming/strategy refresh reignite growth.",
+  "bullish_points": [
+    "Cheap on normalized earnings: forward P/E ~7.7 and 0.75x book, with solid ~$213M free cash flow and a 2.1x current ratio",
+    "Rebrand unifies seven brands (Apex, Creative Circle, CyberCoders, ECS, GlideFast, TopBloc, Quinnox) and adds a federal/government segment that is more durable than commercial staffing",
+    "Directors and officers bought stock in April 2026 (multiple open-market purchases ~$18-22), showing insider confidence near the lows",
+    "Highly cyclical model with real operating leverage — an enterprise IT-spend rebound would snap earnings back quickly"
+  ],
+  "bearish_points": [
+    "Stock has already run ~95% off the low to ~$33, now trading ABOVE the $27.50 analyst mean target (high $36) — most of the easy recovery is priced in",
+    "Fundamentals still deteriorating: Q1 2026 EPS $0.69 missed by ~30%, net income down ~74% YoY, and management guided Q2 down 2-5%",
+    "Fresh downgrades (BMO to Market Perform, Truist to Hold) citing slower enterprise IT ramps hurting margins",
+    "Revenue flat-to-declining (-1.3% TTM); staffing is late-cycle and AI is a demand headwind for commodity IT contract labor",
+    "The April insider buys were at ~$20 and are now stale relative to the ~$33 quote"
+  ],
+  "catalyst": "Q3 2026 earnings on Oct 28 showing the offshore/government mix stabilizing margins and commercial staffing bottoming",
+  "catalyst_timing": "Earnings Oct 28, 2026",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Pass / watchlist. If entering, spot only on a pullback toward the low-to-mid $20s where risk-reward resets below the analyst mean",
+  "key_risk": "The rally has front-run a fundamental recovery that hasn't arrived; another guide-down at Oct 28 sends it back toward the $20s",
+  "estimated_upside_pct": 20,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Price is above the analyst mean target with earnings still declining — which is the case today; wait for a cheaper entry or a confirmed earnings inflection"
+}
