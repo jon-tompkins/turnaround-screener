@@ -1,0 +1,300 @@
+{
+  "ticker": "EMBC",
+  "fetched_at": "2026-09-21T13:35:25.038497",
+  "overview": {
+    "name": "Embecta Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "description": "Embecta Corp., a medical device company, provides solutions to improve the health and wellbeing of people living with diabetes in the United States and internationally. The company's products include pen needles, syringes, and safety injection devices, as well as digital applications to assist people with managing patient's diabetes. It primarily sells its products to wholesalers and distributors. The company was formerly known as Berra Newco, Inc. Embecta Corp. was founded in 1924 and is headquartered in Parsippany, New Jersey.",
+    "market_cap": 299445984,
+    "enterprise_value": 1586729216,
+    "shares_outstanding": 56659599,
+    "float_shares": 54771701,
+    "short_ratio": 3.56,
+    "short_percent_of_float": 0.133,
+    "held_by_insiders": 0.020060001,
+    "held_by_institutions": 0.91407996,
+    "revenue_ttm": 1018700032,
+    "revenue_growth": -0.081,
+    "gross_margins": 0.58418,
+    "operating_margins": 0.23666,
+    "profit_margins": 0.085889995,
+    "free_cashflow": 138200000,
+    "operating_cashflow": 174100000,
+    "total_cash": 214700000,
+    "total_debt": 1501699968,
+    "debt_to_equity": null,
+    "current_ratio": 1.68,
+    "trailing_pe": 3.595238,
+    "forward_pe": 2.9985814,
+    "price_to_book": -0.4887183,
+    "ev_to_ebitda": 5.637,
+    "ev_to_revenue": 1.558,
+    "fifty_two_week_high": 14.91,
+    "fifty_two_week_low": 2.77,
+    "current_price": 5.285,
+    "analyst_target_mean": 4.0,
+    "analyst_target_high": 5.0,
+    "analyst_target_low": 3.0,
+    "recommendation": "none",
+    "num_analysts": 2,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-25 07:00:00-05:00",
+        "EPS Estimate": 0.29,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-07 07:00:00-04:00",
+        "EPS Estimate": 0.27,
+        "Reported EPS": 0.56,
+        "Surprise(%)": 111.32
+      },
+      {
+        "Earnings Date": "2026-05-05 06:00:00-04:00",
+        "EPS Estimate": 0.42,
+        "Reported EPS": 0.27,
+        "Surprise(%)": -35.33
+      },
+      {
+        "Earnings Date": "2026-02-05 06:00:00-05:00",
+        "EPS Estimate": 0.67,
+        "Reported EPS": 0.71,
+        "Surprise(%)": 5.97
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 3,
+    "nearest_expiry": "2026-10-16",
+    "farthest_expiry": "2027-02-19",
+    "sampled_expiry": "2026-11-20",
+    "sampled_atm_iv_pct": 50.0005,
+    "total_call_oi": 1816,
+    "total_put_oi": 329
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 145000.0,
+        "Trans": 5
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 6293.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 138707.0,
+        "Trans": 6
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 1136591.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.139,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.145,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.006,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 6293,
+        "Value": 36971,
+        "URL": "",
+        "Text": "Sale at price 5.88 per share.",
+        "Insider": "MORRIS MILTON MAYO",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-09-04 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 45000,
+        "Value": 223848,
+        "URL": "",
+        "Text": "Purchase at price 4.97 per share.",
+        "Insider": "HOMBACH ROBERT J. CPA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-08-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20000,
+        "Value": 99800,
+        "URL": "",
+        "Text": "Purchase at price 4.99 per share.",
+        "Insider": "MANN JEFFREY Z",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 20000,
+        "Value": 93360,
+        "URL": "",
+        "Text": "Purchase at price 4.67 per share.",
+        "Insider": "ELGUICZE JACOB",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-08-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 30000,
+        "Value": 140937,
+        "URL": "",
+        "Text": "Purchase at price 4.70 per share.",
+        "Insider": "KURDIKAR DEVDATT",
+        "Position": "Officer and Director",
+        "Transaction": "",
+        "Start Date": "2026-08-12 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 30000,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "ROTH ANTHONY M.",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-01 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22841,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "MORRIS MILTON MAYO",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22841,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "HOMBACH ROBERT J. CPA",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22841,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "PRANGE KAREN N.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 22841,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "POMEROY CLAIRE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-02-11 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 37.57750903812154,
+    "pct_above_200d_ma": -27.303086622646788,
+    "pct_of_100d_ma": 127.43723623260608,
+    "pct_change_1d": -0.9451831965108126,
+    "pct_change_5d": 0.0,
+    "pct_change_30d": 18.79152377694979
+  }
+}

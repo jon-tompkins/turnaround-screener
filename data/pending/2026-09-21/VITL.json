@@ -1,0 +1,300 @@
+{
+  "ticker": "VITL",
+  "fetched_at": "2026-09-21T13:35:31.858725",
+  "overview": {
+    "name": "Vital Farms, Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "description": "Vital Farms, Inc., a food company, packages, markets, and distributes shell eggs, butter, and other products in the United States. The company produces products sourced from animals raised on family farms, including shell eggs, stick butter, hard-boiled eggs, and liquid whole eggs under the Vital Farms brand and other trade names. It offers its products through third parties and direct to retailers, and commercial and non-commercial foodservice operators. The company was founded in 2007 and is headquartered in Austin, Texas.",
+    "market_cap": 528916320,
+    "enterprise_value": 601757952,
+    "shares_outstanding": 42931522,
+    "float_shares": 34609676,
+    "short_ratio": 6.31,
+    "short_percent_of_float": 0.3209,
+    "held_by_insiders": 0.18354,
+    "held_by_institutions": 0.87671,
+    "revenue_ttm": 765672000,
+    "revenue_growth": -0.101,
+    "gross_margins": 0.28122,
+    "operating_margins": -0.24180001,
+    "profit_margins": 0.0002,
+    "free_cashflow": -98007128,
+    "operating_cashflow": -16710000,
+    "total_cash": 21239000,
+    "total_debt": 108248000,
+    "debt_to_equity": 38.162,
+    "current_ratio": 1.104,
+    "trailing_pe": null,
+    "forward_pe": 47.0229,
+    "price_to_book": 1.6374269,
+    "ev_to_ebitda": 38.297,
+    "ev_to_revenue": 0.786,
+    "fifty_two_week_high": 45.155,
+    "fifty_two_week_low": 7.95,
+    "current_price": 12.32,
+    "analyst_target_mean": 13.22222,
+    "analyst_target_high": 18.0,
+    "analyst_target_low": 10.0,
+    "recommendation": "buy",
+    "num_analysts": 9,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-05 07:00:00-05:00",
+        "EPS Estimate": -0.07,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-06 07:00:00-04:00",
+        "EPS Estimate": -0.47,
+        "Reported EPS": -0.47,
+        "Surprise(%)": 0.27
+      },
+      {
+        "Earnings Date": "2026-05-07 07:00:00-04:00",
+        "EPS Estimate": 0.06,
+        "Reported EPS": -0.03,
+        "Surprise(%)": -150.85
+      },
+      {
+        "Earnings Date": "2026-02-26 07:00:00-05:00",
+        "EPS Estimate": 0.39,
+        "Reported EPS": 0.35,
+        "Surprise(%)": -11.17
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 5,
+    "nearest_expiry": "2026-10-16",
+    "farthest_expiry": "2028-01-21",
+    "sampled_expiry": "2027-01-15",
+    "sampled_atm_iv_pct": 25.00075,
+    "total_call_oi": 8623,
+    "total_put_oi": 5284
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": null,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 0,
+        "Trans": 0
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 7879651,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": null,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": null,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "RUIZ GISEL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "AMOO-GOTTFRIED KOFI OWUSU",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "FLANAGAN GLENDA J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KHOURY KARL",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "POST DENNY MARIE",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "KENNEDY KELLY J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 10436,
+        "Value": 0,
+        "URL": "",
+        "Text": "Stock Award(Grant) at price 0.00 per share.",
+        "Insider": "CYR WILLIAM B.",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-06-10 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 2242,
+        "Value": 19999,
+        "URL": "",
+        "Text": "Purchase at price 8.92 per share.",
+        "Insider": "VAN HOVEN REENA CHAUHAN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-05-19 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6100,
+        "Value": 50813,
+        "URL": "",
+        "Text": "Purchase at price 8.33 per share.",
+        "Insider": "FLANAGAN GLENDA J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      },
+      {
+        "Shares": 6100,
+        "Value": 50813,
+        "URL": "",
+        "Text": "Purchase at price 8.33 per share.",
+        "Insider": "FLANAGAN GLENDA J",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-05-18 00:00:00",
+        "Ownership": "D"
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 49.326173183285036,
+    "pct_above_200d_ma": -29.59396423391346,
+    "pct_of_100d_ma": 108.82492424160144,
+    "pct_change_1d": 1.5012536164460188,
+    "pct_change_5d": 21.33599601491536,
+    "pct_change_30d": -0.5718929422645291
+  }
+}
