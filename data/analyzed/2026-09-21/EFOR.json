@@ -1,0 +1,28 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Digital-engineering / IT-services firm de-rated on the sector-wide 'AI compresses IT services demand' fear despite operationally beating its own guidance. Q2 2026 revenue ~$1B and 9.6% adj EBITDA margin exceeded expectations on strong commercial bookings, federal wins, and the Quinnox integration — but EPS fell 52% YoY, and the stock trades ~6x EV/EBITDA reflecting skepticism margins recover.",
+  "bullish_points": [
+    "Beat guidance on both revenue and EBITDA margin — execution better than the ~7.8x forward multiple implies",
+    "Diversifying growth: commercial bookings strength + federal contract wins + Quinnox integration lifting margins/capabilities",
+    "Trading right at its 200-day MA (-0.8%) — technically basing rather than falling knife",
+    "Cheap on a real, cash-generative services book; positive net margin (~2%) and moderate leverage (D/E ~83%) vs peers"
+  ],
+  "bearish_points": [
+    "EPS down 52% YoY and net income -52% — earnings power still deteriorating even as revenue holds",
+    "Secular AI overhang on IT services is the whole reason it's cheap; multiple may stay compressed regardless of execution",
+    "yfinance business summary blank; limited standalone franchise visibility — much of the story rides on integration synergies",
+    "'Basing' with no obvious hard catalyst — could sit dead-money for quarters"
+  ],
+  "catalyst": "Continued guidance beats showing margins troughing and re-expanding toward late-2025 levels, easing the AI-demand fear discount",
+  "catalyst_timing": "Q3 FY2026 earnings (guided rev $994M-$1,024M; report ~Nov 2026)",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only; modest position on evidence of margin stabilization. No urgency — wait for the next print.",
+  "key_risk": "AI-driven demand erosion across IT services proves structural, so bookings strength fades and the cheap multiple is deserved",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Bookings momentum reverses or EBITDA margin slips back below high-single digits on the next report."
+}

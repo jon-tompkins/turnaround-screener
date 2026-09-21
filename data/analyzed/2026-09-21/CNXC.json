@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "The customer-experience/BPO consolidator (post-Webhelp) has been crushed on the 'AI eats call centers' narrative, a trimmed FY2026 outlook (0.25-1.25% cc growth on ~$10B rev), and index-removal forced selling. Trades at a distressed multiple despite generating real cash; the debate is whether AI is an existential threat or a margin/upsell tailwind for a company already reselling AI seats.",
+  "bullish_points": [
+    "Extraordinarily cheap: ~2.3x forward earnings; non-GAAP EPS ~$2.63/qtr (~$10+ annualized) on a ~$27 stock",
+    "AI is showing up as revenue, not just risk: iX Suite contract signings +400% YoY — evidence Concentrix is monetizing the disruption, not only absorbing it",
+    "Index-shift forced selling (-7.9% pop) is mechanical, not fundamental — classic dislocation for a patient buyer",
+    "Analyst consensus still Buy (7 Buy / 2 Hold); real, diversified, blue-chip client base with recurring revenue",
+    "Deep-dive research note already on file (data/research/CNXC.md)"
+  ],
+  "bearish_points": [
+    "Heavy leverage: $5.5B debt vs $256M cash, D/E ~204% — the thing that turns a cheap cyclical into a value trap if revenue rolls over",
+    "GAAP net margin negative (-13%) from Webhelp amortization/integration; GAAP optics stay ugly for a while",
+    "Secular AI overhang on seat-based BPO volumes is real; iX growth off a small base may not offset core erosion fast enough",
+    "Guidance already cut once this year; growth barely positive"
+  ],
+  "catalyst": "Evidence that AI-suite revenue growth is offsetting core seat erosion, plus deleveraging progress — reflected in FY2026 guide and FCF/debt-paydown updates",
+  "catalyst_timing": "Q3 FY2026 earnings (late Sep/Oct 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot; small-to-medium starter on the index-driven washout, add on a deleveraging + AI-revenue confirmation. Size for the leverage risk.",
+  "key_risk": "The high debt load meets AI-driven revenue decline before iX Suite scales, compressing FCF and forcing a balance-sheet event",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "FCF guidance deteriorates or net leverage rises; the thesis depends on debt paydown continuing while revenue holds."
+}

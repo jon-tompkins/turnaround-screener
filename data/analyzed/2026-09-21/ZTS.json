@@ -1,0 +1,30 @@
+{
+  "ticker": "ZTS",
+  "company_name": "Zoetis Inc.",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "turnaround_reason": "The market's premier animal-health compounder has de-rated ~25% YTD to a fresh 52-week low near $71 on Librela/Solensia osteoarthritis-drug safety headlines, softer US companion-animal demand (fewer vet visits, price-sensitive pet owners), and an August 2026 guidance cut (rev midpoint -6.1%, adj EPS -10.5%). The business itself remains high-quality and highly profitable; this is quality-at-a-discount rather than a distressed turnaround.",
+  "bullish_points": [
+    "Elite margins intact: ~41% operating, ~28% net; a durable, wide-moat franchise with pricing power across companion + livestock",
+    "Valuation reset: ~11-12x trailing/forward earnings vs a historical 25-35x range for a stock that rarely goes on sale",
+    "At the 52-week low ($71 vs $71 floor / $149 high) — asymmetric entry if demand stabilizes and Librela narrative normalizes",
+    "Buybacks supporting EPS following the outlook reduction; balance sheet services heavy debt comfortably given cash generation",
+    "Notable value investor (Burry) reportedly adding — sentiment washout signal"
+  ],
+  "bearish_points": [
+    "Librela/Solensia safety overhang is a genuine product-specific risk, not just macro; could pressure the highest-growth franchise for multiple quarters",
+    "Companion-animal demand tied to discretionary pet spend; a consumer slowdown extends the trough",
+    "D/E ~294% ($9.3B debt vs $1.7B cash) — fine for this cash flow but limits flexibility",
+    "Revenue roughly flat (-0.2%); no growth catalyst until comps ease and new-product cycle re-accelerates",
+    "'Basing' mode — bottom unconfirmed; could re-break lower on another guide-down"
+  ],
+  "catalyst": "Stabilization/re-acceleration signal in US companion-animal + Librela sales trend on the next earnings print, plus continued buyback support",
+  "catalyst_timing": "Q3 FY2026 earnings (early Nov 2026)",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot; starter position near the 52-week low ~$71-73 and scale in on confirmation. Longer horizon.",
+  "key_risk": "Librela safety concerns deepen and drive another guidance cut, turning the de-rate into a fundamental impairment rather than a sentiment dip",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 20,
+  "would_skip_if": "Another Librela safety escalation or a second consecutive guide-down; would wait for a confirmed demand-trend inflection before adding."
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "VITL",
+  "company_name": "Vital Farms, Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "turnaround_reason": "Pasture-raised egg brand whose premium-growth story cracked in 2026: an industry-wide egg oversupply crushed pricing power, forced promotional activity, and triggered a sharp guidance cut (growth reset toward ~5%, EBITDA to ~$0-10M). Q2 2026 posted an adjusted loss of $0.47 on revenue down 10.1% to $166M; the company is exiting butter to refocus on eggs. Stock sits ~$12 vs a $45 high.",
+  "bullish_points": [
+    "Strong brand with genuine shelf presence and a loyal premium customer base; refocusing on the core egg franchise",
+    "Recent momentum: +21% over the past 5 days, management framing Q2 as the trough quarter and reaffirming the (reset) guide",
+    "Clean-ish balance sheet for the group: modest debt (D/E ~38%), so it can ride out the oversupply cycle without solvency risk",
+    "Liquid options (call OI ~8,600) if one wanted defined-risk exposure to a cyclical recovery"
+  ],
+  "bearish_points": [
+    "Still expensive after the fall: ~47x forward earnings with near-zero net margin and negative operating margin (-24%) — priced like growth, performing like a commodity",
+    "Egg oversupply is a cyclical/commodity dynamic Vital Farms can't control; premium pricing power is eroding, the core of the bull case",
+    "Revenue -10% and a swing to adjusted loss — the deterioration is fundamental, not just sentiment",
+    "'Trough quarter' calls are notoriously early in commodity gluts; the bounce may be a dead-cat"
+  ],
+  "catalyst": "Egg-market oversupply easing so pricing/promotions normalize and margins recover toward the reaffirmed EBITDA path",
+  "catalyst_timing": "Q3/Q4 FY2026 earnings + egg-commodity pricing trend (late 2026)",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / tiny spot only. Too expensive for the degree of fundamental deterioration; wait for margin proof, not a price bounce.",
+  "key_risk": "Oversupply and promotional pressure persist, so the 47x multiple compresses even if revenue stabilizes — valuation and fundamentals both work against it",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Egg pricing stays depressed or EBITDA guidance is cut again; would want a confirmed margin inflection before touching it."
+}

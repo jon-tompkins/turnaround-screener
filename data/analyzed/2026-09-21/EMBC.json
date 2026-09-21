@@ -1,0 +1,28 @@
+{
+  "ticker": "EMBC",
+  "company_name": "Embecta Corp.",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "turnaround_reason": "BD spinout whose core pen-needle/insulin-injection business is in structural decline from commoditization, low-cost competition, and alternative delivery methods. Q2 FY2026 came in well below expectations; the company slashed its quarterly dividend from $0.15 to $0.01 and reset guidance while trying to reinvent itself as a broader chronic-care/B2B drug-delivery supplier via the Owen Mumford acquisition.",
+  "bullish_points": [
+    "Optically very cheap: ~3.6x trailing / ~3.0x forward earnings with ~58% gross and ~24% operating margins on the legacy book",
+    "Deleveraging story with teeth: still expects to repay ~$150M of debt in FY2026; new $100M buyback authorized",
+    "Owen Mumford (closed May 2026) diversifies beyond insulin injection into a B2B drug-delivery platform — optionality if it scales",
+    "Deep-value crowd interest (Acquirer's Multiple coverage); up ~19% over the past 30 days off the $2.77 low"
+  ],
+  "bearish_points": [
+    "Core pen-needle business faces structural, not cyclical, decline — the classic melting-ice-cube value trap",
+    "Dividend cut from $0.15 to $0.01 is a distress signal, not a capital-allocation tweak; revenue -8.1%",
+    "Heavy debt ($1.5B) vs $214M cash; debt paydown competes with the reinvention capex the turnaround needs",
+    "Low IV/thin options (call OI ~1,800) and small cap — execution-dependent, illiquid for hedging"
+  ],
+  "catalyst": "Evidence the Owen Mumford / B2B drug-delivery pivot is adding revenue faster than the pen-needle core erodes, plus visible debt reduction",
+  "catalyst_timing": "Q4 FY2026 earnings (fiscal year ends Sept; report ~Nov 2026)",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative deep-value tranche near lows; not an options name. Treat as high-risk turnaround, not core.",
+  "key_risk": "Pen-needle revenue keeps melting while debt service crowds out the pivot, so 'cheap' stays cheap or gets cheaper",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "Another guidance cut, further dividend action, or evidence the Owen Mumford integration is not offsetting core decline."
+}
