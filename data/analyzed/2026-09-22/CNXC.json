@@ -1,0 +1,28 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "CX/BPO outsourcing giant (post-Webhelp) trading at a distressed 2.4x forward earnings because the market is pricing in generative-AI displacement of contact-center labor. Thesis is that the AI-disruption fear is overdone versus a still-cash-generative business pivoting to AI-delivered services.",
+  "bullish_points": [
+    "Extraordinarily cheap: ~2.4x forward EPS, 0.64x book, 5.4x EV/EBITDA, ~$776M free cash flow — even a partial re-rate is a large move",
+    "The AI pivot is showing traction: iX Suite AI contract signings up 400% YoY, evidence Concentrix can sell the disruption rather than only be disrupted by it",
+    "CEO and CFO made open-market purchases in 2026 ($21-28 range); management is buying into the fear",
+    "Guidance was cut but Q3 framework (rev $2.465-2.490B, EPS $2.65-2.77) is stable sequentially — the business is not falling off a cliff"
+  ],
+  "bearish_points": [
+    "The core value proposition — arbitraged human labor for customer support — is the single most AI-exposed BPO model; forward-EPS at 2.4x is the market's verdict, not a gift",
+    "FY26 guidance was cut twice (EPS to $10.83-11.18 vs $11.97 est; revenue to $9.93-10.03B) — estimates are still being reset down",
+    "Groupe Bruxelles Lambert, a >10% holder, dumped 6M shares (~$133M) in April — a large, informed overhang seller",
+    "$5.5B debt against a $1.7B market cap; deleveraging competes with the AI reinvestment the pivot requires"
+  ],
+  "catalyst": "Fiscal Q3 2026 earnings on 2026-09-29 (one week out) — a hard, near-term binary: whether revenue/margins hold the guided line and whether AI-suite bookings translate to revenue will set the tone into year-end.",
+  "catalyst_timing": "Q3 FY2026 earnings on 2026-09-29",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small starter ahead of 9/29 or wait for the print; the 2.4x multiple is a coiled spring but the earnings binary is a week away — let the report define the entry rather than guessing into it.",
+  "key_risk": "Q3 shows AI cannibalizing legacy volumes faster than iX Suite can replace them — revenue and margins step down and the low multiple proves to be a value trap.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "9/29 print shows accelerating revenue decline or another guidance cut, confirming AI erosion is outrunning the pivot."
+}

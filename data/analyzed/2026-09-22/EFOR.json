@@ -1,0 +1,27 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Formerly ASGN, rebranded to Everforth in April 2026; IT staffing and federal-services provider (Apex Systems, ECS, Creative Circle, GlideFast) riding a soft IT-services demand cycle. Screener flagged it as basing, but the stock has already rallied hard off its $16.90 low back to $33.",
+  "bullish_points": [
+    "Real, profitable business at a reasonable multiple: 7.7x forward earnings, 0.75x book, ~$213M FCF, positive net margin",
+    "Strong federal franchise via Apex Systems and ECS into a structural tailwind — the federal cyber/IT workforce gap exceeds 700,000 open roles",
+    "Cluster of insider open-market buying in April 2026 at $18-22 across multiple directors and officers signals internal conviction at the lows"
+  ],
+  "bearish_points": [
+    "Stock is extended, not basing: trading at ~139% of its 100-day MA and roughly double the 52-week low — the easy mean-reversion move is already behind it",
+    "Analyst target mean of $27.50 sits BELOW the current $33.26 price; the sell side sees ~17% downside, and consensus recommendation is 'none'",
+    "Fundamentals are deteriorating, not recovering: revenue flat-to-down, Q1 net income collapsed to $5.5M from $20.9M YoY, and net income is forecast to shrink ~27% next year",
+    "Commercial IT-services demand backdrop remains weak; the rebrand is cosmetic and does not change the demand cycle"
+  ],
+  "catalyst": "Q3 2026 earnings — needs evidence that commercial staffing demand has troughed and federal wins are offsetting; absent that, the recent rally lacks fundamental support.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-10-28",
+  "options_liquid": true,
+  "conviction_score": 3,
+  "suggested_trade": "Pass at $33; watchlist only. Revisit on a pullback toward the $24-27 analyst-fair-value zone or a Q3 print that confirms a demand trough.",
+  "key_risk": "Buying a name that has already rallied into deteriorating estimates and above analyst fair value — the setup is late, not early.",
+  "estimated_upside_pct": 20,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Price is above the analyst target mean with earnings estimates still being revised down — which is the case today."
+}

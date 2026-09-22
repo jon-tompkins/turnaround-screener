@@ -1,0 +1,28 @@
+{
+  "ticker": "FMC",
+  "company_name": "FMC Corporation",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "turnaround_reason": "Crop-protection pure-play crushed by a multi-year channel destocking cycle and generic pressure on its off-patent Rynaxypyr insecticide; stock fell from $36 to ~$10. Thesis is a cyclical bottom as distributor inventories normalize and cost cuts flow through.",
+  "bullish_points": [
+    "Trades at 0.80x book and 6.4x forward earnings after an ~70% drawdown; analyst target mean $13.58 (+30%) with a buy consensus across 16 analysts",
+    "Insiders net bought ~73,900 shares across 29 transactions in the last 6 months — real cluster buying, not token grants",
+    "Two straight quarterly EPS beats (Q1 +40%, Q2 +17%) suggest estimates have been reset low enough; management says the worst of the destocking overhang may be passing",
+    "31% short interest of float (9.8 days to cover) sets up squeeze fuel if Q3 confirms sequential improvement"
+  ],
+  "bearish_points": [
+    "Balance sheet is heavy: $4.4B total debt vs $1.3B market cap, EV $5.2B, debt/equity 265%; dividend already suspended/cut to protect the balance sheet",
+    "Trailing net margin is deeply negative (-85%) on impairments; the recovery is unproven and destocking has repeatedly proven stickier than guided",
+    "Branded Rynaxypyr earnings expected flat in 2026 with generic competition eroding the crown-jewel franchise; new-active pipeline must offset the patent cliff",
+    "Revenue still declining -17.5% YoY — the trough is not yet visible in the top line"
+  ],
+  "catalyst": "Q3 2026 earnings: first look at whether channel inventories have normalized and whether cost-cut savings are dropping through to margins; any raise/reaffirm would validate the bottom.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-10-29",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Small-to-medium starter spot $10.00-10.50, add on a confirmed Q3 inventory-normalization print. Options priced rich (ATM IV ~150%) — prefer shares over premium.",
+  "key_risk": "Destocking extends another two quarters and the debt load forces further deleveraging actions (asset sales, equity) before the ag-chem cycle turns.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows still-rising channel inventory or a covenant/liquidity scare; or the ag-chem cycle shows no sign of a demand trough."
+}

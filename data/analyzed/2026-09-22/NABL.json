@@ -1,0 +1,28 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "MSP-focused software vendor (RMM, backup, endpoint security) whose stock cratered ~36% to the low-$3s after Q2 2026 when it cut full-year revenue guidance on weak UEM/EDR renewals. Thesis is a bottom-fishing setup on a profitable, 80%-gross-margin SaaS business at a distressed multiple.",
+  "bullish_points": [
+    "High-quality unit economics: 80% gross margins, $544M ARR growing 6% cc, adjusted EBITDA ~$40M (29% margin), positive FCF ~$70M — this is a real profitable software business, not a cash burner",
+    "Cheap on every lens: 9.1x forward earnings, ~0.92x book, EV/revenue ~2.0x — a rare valuation for durable recurring software",
+    "Self-help underway: new CRO, 6% workforce reduction (restructuring charge), management retooling go-to-market to fix renewals",
+    "Stock is basing and up ~23% over the last 30 days off the post-earnings low, hinting the forced-selling washout has passed"
+  ],
+  "bearish_points": [
+    "The guidance cut was demand-driven, not one-off: EDR pricing pressure and customers defecting/renegotiating in the largest renewal cohort — a structural competitive concern, not just timing",
+    "$437M total debt against a $742M market cap; leverage limits the margin for error if renewals keep slipping",
+    "Growth has decelerated to mid-single digits; the MSP security space is crowded and price-competitive",
+    "Only 5 analysts, hold consensus, target mean $4.68 — modest conviction from the sell side"
+  ],
+  "catalyst": "Q3 2026 earnings: evidence that renewal rates and EDR pricing have stabilized and that the go-to-market reset is landing; a reaffirm/beat off the reset bar would re-rate the multiple.",
+  "catalyst_timing": "Q3 2026 earnings on 2026-11-05",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Small speculative spot starter $3.80-3.95; size for a name that could re-test the $2.92 low if Q3 renewals disappoint. Options too thin to use.",
+  "key_risk": "Renewal/EDR churn accelerates in Q3, confirming a structural competitive problem rather than a fixable execution stumble.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows further guidance cuts or net-revenue-retention below ~100%, signaling churn is worsening rather than stabilizing."
+}
