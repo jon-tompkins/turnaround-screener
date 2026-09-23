@@ -1,0 +1,29 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty fell to ~$2.68 (from a 52w high of $4.47) on soft consumer-beauty demand, repeated EPS misses, and a heavy debt load. The recovery pitch is a cost-savings program (~$200M targeted), a closed US prestige-fragrance sell-out gap, and debt paydown from divesting the Gucci Beauty license back to Kering.",
+  "bullish_points": [
+    "Cost program delivering: >$40M productivity + >$10M fixed-cost savings in Q1 FY26, ~$200M targeted for the year",
+    "US prestige-fragrance sell-out gap to the market closed (from ~5pts in Q4 FY25 to full alignment); mgmt guides return to sales/profit growth in 2H FY26",
+    "Gucci Beauty license transitions back to Kering for ~$400M, earmarked for debt paydown and core reinvestment",
+    "Deep-value optics: forward P/E ~10.5, P/B 0.79, EV/EBITDA 7.4, positive FCF ~$363M; one notable insider open-market buy (Von Bretten 83k @ $2.41)"
+  ],
+  "bearish_points": [
+    "Debt is the whole story: $3.3B total debt, D/E ~97, current ratio 0.755, and negative operating (-2.4%) and profit (-10.4%) margins",
+    "Recent earnings have missed badly (Aug reported -$0.02 vs -$0.01; May -$0.03 with a -728% surprise)",
+    "Analyst mean target $2.689 is essentially the current price - the Street sees no upside; rec 'hold'",
+    "JAB controls ~59% of shares; float is thin (376M of 881M) and minority holders have limited influence",
+    "Dossier ATM IV of 6.25% looks like bad option data for a sub-$3 name; don't rely on the options read"
+  ],
+  "catalyst": "2H FY26 return to sales/profit growth confirmed on the print, plus visible debt reduction from the Gucci proceeds",
+  "catalyst_timing": "Nov 5, 2026 earnings (EPS est $0.12)",
+  "options_liquid": true,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative deep-value tranche; wait for one clean beat + debt-reduction proof before adding",
+  "key_risk": "Consumer-beauty demand stays soft and another EPS miss forces the market to refocus on the leverage, pressuring the equity toward the $1.82 low",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Next print misses again or 2H FY26 growth guidance is walked back; leverage leaves no margin for operational error"
+}

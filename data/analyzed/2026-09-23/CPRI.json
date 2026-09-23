@@ -1,0 +1,30 @@
+{
+  "ticker": "CPRI",
+  "company_name": "Capri Holdings Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "turnaround_reason": "Capri got beaten down after the FTC blocked the Tapestry acquisition and Michael Kors/Jimmy Choo sales fell, but it sold Versace to Prada for $1.375B (closed Dec 2025), slashed net debt to ~$80M, and returned to profitability. The thesis is a two-brand refocus with Michael Kors at 'the beginning of an inflection.'",
+  "bullish_points": [
+    "Versace sale closed Dec 2025 for $1.375B cash; proceeds used to cut debt to ~$80M net, transforming a stretched balance sheet",
+    "Two consecutive large earnings beats: Q1 FY27 (Aug) $0.67 vs $0.40 est (+66%), prior quarter +83%",
+    "Meaningful insider buying: net +633k shares over 6m, 30.6% buy vs 3.9% sell, incl. CEO John Idol",
+    "Cheap on forward P/E ~6.1; analyst mean target $22.53 vs $15.44 (~46% upside), rec 'buy' across 16 analysts",
+    "Mgmt guides FY27 revenue growth to return and EPS +40% as Michael Kors margins recover and Jimmy Choo turns profitable; Jimmy Choo has a path to $800M revenue",
+    "Strong near-term momentum: +9.5% over 5 days, +7.5% on the day of the dossier"
+  ],
+  "bearish_points": [
+    "Michael Kors turnaround is early and will 'take time' per CEO; accessible-luxury demand is soft and promotional",
+    "Dossier balance-sheet fields (D/E 973, P/B 12.7, total debt $1.39B) look stale/pre-Versace-close; the improved net-debt figure comes from mgmt commentary, so verify on next 10-Q before sizing up",
+    "Revenue still declining TTM (-3.5%); the top-line inflection is guided, not yet delivered",
+    "Consumer-cyclical discretionary spend is macro-sensitive; a US slowdown hits handbags first"
+  ],
+  "catalyst": "Q2 FY27 earnings and continued evidence of the Michael Kors comp inflection plus Jimmy Choo profitability turn",
+  "catalyst_timing": "Nov 3, 2026 earnings (EPS est $0.24)",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot starter $15.00-15.50, add on a confirmed Michael Kors comp inflection at Q2; Jan 2027 $17-20 calls for a leveraged catalyst play given liquid options (ATM IV ~66%)",
+  "key_risk": "Michael Kors comps stay negative into the holiday season and the guided FY27 top-line inflection slips, re-rating the stock back toward the $12.40 low",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Next 10-Q shows net debt materially worse than the ~$80M mgmt cited, or Michael Kors comps deteriorate further"
+}
