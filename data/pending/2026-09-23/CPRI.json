@@ -1,0 +1,300 @@
+{
+  "ticker": "CPRI",
+  "fetched_at": "2026-09-23T13:35:43.882584",
+  "overview": {
+    "name": "Capri Holdings Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Luxury Goods",
+    "description": "Capri Holdings Limited engages in the design, marketing, distribution, and retail of branded women's and men's apparel, footwear, and accessories in the United States, Canada, Latin America, Europe, the Middle East, Africa, Asia, and the Oceania. It operates through two segments: Michael Kors and Jimmy Choo. The company offers handbags, small leather goods, jewelry, scarves and belts, and footwear and related accessories through a distribution network, including retail stores, department and specialty stores, and licenses to wholesale customers, as well as e-commerce sites. It also undertakes licensing agreements relating to manufacture and sale of watches, jewelry, eyewear, and fragrances. The company was formerly known as Michael Kors Holdings Limited and changed its name to Capri Holdings Limited in December 2018. Capri Holdings Limited was founded in 1981 and is based in London, the United Kingdom.",
+    "market_cap": 1773025792,
+    "enterprise_value": 3009368064,
+    "shares_outstanding": 114796106,
+    "float_shares": 110615983,
+    "short_ratio": 2.62,
+    "short_percent_of_float": 0.103,
+    "held_by_insiders": 0.02645,
+    "held_by_institutions": 1.0429,
+    "revenue_ttm": 3446000128,
+    "revenue_growth": -0.035,
+    "gross_margins": 0.6271,
+    "operating_margins": 0.026010001,
+    "profit_margins": 0.0444,
+    "free_cashflow": 192624992,
+    "operating_cashflow": 158000000,
+    "total_cash": 114000000,
+    "total_debt": 1392000000,
+    "debt_to_equity": 973.427,
+    "current_ratio": 1.189,
+    "trailing_pe": 19.801283,
+    "forward_pe": 6.106529,
+    "price_to_book": 12.711933,
+    "ev_to_ebitda": 14.972,
+    "ev_to_revenue": 0.873,
+    "fifty_two_week_high": 28.27,
+    "fifty_two_week_low": 12.4,
+    "current_price": 15.445,
+    "analyst_target_mean": 22.53125,
+    "analyst_target_high": 45.5,
+    "analyst_target_low": 16.0,
+    "recommendation": "buy",
+    "num_analysts": 16,
+    "earnings_dates": [
+      {
+        "Earnings Date": "2026-11-03 07:00:00-05:00",
+        "EPS Estimate": 0.24,
+        "Reported EPS": NaN,
+        "Surprise(%)": NaN
+      },
+      {
+        "Earnings Date": "2026-08-05 06:00:00-04:00",
+        "EPS Estimate": 0.4,
+        "Reported EPS": 0.67,
+        "Surprise(%)": 66.66
+      },
+      {
+        "Earnings Date": "2026-05-27 06:00:00-04:00",
+        "EPS Estimate": 0.12,
+        "Reported EPS": 0.22,
+        "Surprise(%)": 83.15
+      },
+      {
+        "Earnings Date": "2026-02-03 06:00:00-05:00",
+        "EPS Estimate": 0.78,
+        "Reported EPS": 0.81,
+        "Surprise(%)": 4.13
+      }
+    ],
+    "news": [
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      },
+      {
+        "title": null,
+        "publisher": null,
+        "link": null,
+        "published": null
+      }
+    ]
+  },
+  "options": {
+    "has_options": true,
+    "num_expiries": 9,
+    "nearest_expiry": "2026-10-16",
+    "farthest_expiry": "2029-01-19",
+    "sampled_expiry": "2026-12-18",
+    "sampled_atm_iv_pct": 66.01596484375001,
+    "total_call_oi": 5002,
+    "total_put_oi": 2423
+  },
+  "insider": {
+    "insider_purchases_summary": [
+      {
+        "Insider Purchases Last 6m": "Purchases",
+        "Shares": 725933.0,
+        "Trans": 11
+      },
+      {
+        "Insider Purchases Last 6m": "Sales",
+        "Shares": 92236.0,
+        "Trans": 1
+      },
+      {
+        "Insider Purchases Last 6m": "Net Shares Purchased (Sold)",
+        "Shares": 633697.0,
+        "Trans": 12
+      },
+      {
+        "Insider Purchases Last 6m": "Total Insider Shares Held",
+        "Shares": 3006085.0,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Net Shares Purchased (Sold)",
+        "Shares": 0.26700002,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Buy Shares",
+        "Shares": 0.306,
+        "Trans": null
+      },
+      {
+        "Insider Purchases Last 6m": "% Sell Shares",
+        "Shares": 0.039,
+        "Trans": null
+      }
+    ],
+    "recent_transactions": [
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "FREESTONE ROBIN ANTHONY DAVID",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "CROUTHER MARILYN C",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "MADHAVAN MAHESH",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "GIBBONS JUDY",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "THOMPSON JANE A",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 8426,
+        "URL": "",
+        "Text": "",
+        "Insider": "REITMAN STEPHEN F",
+        "Position": "Director",
+        "Transaction": "",
+        "Start Date": "2026-07-29 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 57415,
+        "URL": "",
+        "Text": "",
+        "Insider": "MCDONOUGH KRISTA ANN",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 57415,
+        "URL": "",
+        "Text": "",
+        "Insider": "HENDRICKS JENNA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 57415,
+        "URL": "",
+        "Text": "",
+        "Insider": "HENDRICKS JENNA",
+        "Position": "Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      },
+      {
+        "Shares": 251566,
+        "URL": "",
+        "Text": "",
+        "Insider": "IDOL JOHN D",
+        "Position": "Chief Executive Officer",
+        "Transaction": "",
+        "Start Date": "2026-06-17 00:00:00",
+        "Ownership": "D",
+        "Value": NaN
+      }
+    ]
+  },
+  "screen_mode": "basing",
+  "screen_metrics": {
+    "pct_of_200w_ma": 48.01379464815818,
+    "pct_above_200d_ma": -20.190173010167335,
+    "pct_of_100d_ma": 91.49977058019256,
+    "pct_change_1d": 7.5122276571808255,
+    "pct_change_5d": 9.501779501948526,
+    "pct_change_30d": -0.2916401516780964
+  }
+}
