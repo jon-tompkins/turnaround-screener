@@ -1,0 +1,28 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "SRPT was crushed after three patient deaths tied to its gene therapies in 2025 forced an FDA shipment halt and a boxed liver-failure warning on Elevidys, its flagship DMD product. The stock is basing near multi-year lows as the market weighs whether Elevidys revenue can stabilize under the restricted label.",
+  "bullish_points": [
+    "January 2026 EMBARK 3-year data showed durable, statistically significant motor-function benefit vs. matched controls, supporting the drug's efficacy case",
+    "Forward P/E ~7.2 with ~$1.97B TTM revenue; still a commercial-stage company, not pre-revenue",
+    "July 2025 restructuring cut opex materially, extending cash runway",
+    "Basing above the 100d MA (104%); downside may be largely priced after the drawdown from $25 to ~$19"
+  ],
+  "bearish_points": [
+    "Existential safety/regulatory overhang: gene-therapy deaths and a boxed warning directly threaten the Elevidys revenue trajectory",
+    "FDA restricted distribution; revenue visibility is poor and could deteriorate further",
+    "Debt/equity ~69.5; balance-sheet flexibility limited if the top line erodes",
+    "No insider buying in last 6 months; options open interest is thin"
+  ],
+  "catalyst": "Elevidys revenue stabilization and any FDA loosening of distribution restrictions, plus next quarterly print showing whether restructuring is holding the financials together",
+  "catalyst_timing": "Next quarterly earnings and ongoing FDA label/distribution updates through 2026",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative tranche; avoid options (thin OI). Scale in on confirmation the base holds above $17.",
+  "key_risk": "A fourth adverse safety event or further FDA restriction that collapses Elevidys revenue and the equity thesis outright",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 40,
+  "would_skip_if": "You need clean regulatory visibility; the boxed-warning/death overhang makes this a binary safety bet, not a clean turnaround"
+}

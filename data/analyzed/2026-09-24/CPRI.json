@@ -1,0 +1,29 @@
+{
+  "ticker": "CPRI",
+  "company_name": "Capri Holdings Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "turnaround_reason": "Capri was beaten down after the failed Tapestry merger and years of Michael Kors declines. It has since sold Versace to Prada for $1.4B, slashed net debt from ~$1.5B to ~$224M, and is early in a Michael Kors reset (fewer SKUs, less promotion, new handbag icons) with Michael Kors full-price comps turning positive for the first time in several quarters.",
+  "bullish_points": [
+    "Balance sheet transformed: net debt cut from ~$1.5B to ~$224M via the $1.4B Versace sale to Prada",
+    "Operational green shoots: Michael Kors full-price comps turned positive in Q2; Jimmy Choo growth path toward ~$800M revenue",
+    "CEO John Idol bought 55,000 shares (~$989K) — a real recent insider signal; dossier shows net insider buying of ~634K shares over 6 months",
+    "Cheap at forward P/E ~6.1; active takeover interest with potential buyers reported circling",
+    "Liquid options (ATM IV ~67%) allow defined-risk expressions of the M&A/turnaround bet"
+  ],
+  "bearish_points": [
+    "12-month insider activity is net selling despite the recent CEO purchase; signal is mixed",
+    "Michael Kors turnaround is early and accessible-luxury demand is fragile",
+    "Reported debt/equity is extreme (lease-distorted) and the business is still cyclical",
+    "20% below the 200d MA — the basing thesis is unconfirmed and could re-break down if M&A talks fizzle"
+  ],
+  "catalyst": "A takeover bid/sale-process outcome, and continued positive Michael Kors comps confirming the operational reset",
+  "catalyst_timing": "M&A process ongoing (near-term, next 1-2 quarters); Q4 FY2026 and next-quarter comps",
+  "options_liquid": true,
+  "conviction_score": 7,
+  "suggested_trade": "Spot core position plus a defined-risk call spread into the M&A/turnaround catalyst; size for a binary sale-process outcome",
+  "key_risk": "The sale process ends with no deal and Michael Kors comps roll back over, removing both catalysts at once",
+  "estimated_upside_pct": 70,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "M&A speculation fully deflates and comps turn negative again; the thesis leans meaningfully on the deal optionality"
+}

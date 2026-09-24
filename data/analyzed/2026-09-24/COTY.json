@@ -1,0 +1,28 @@
+{
+  "ticker": "COTY",
+  "company_name": "Coty Inc.",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "turnaround_reason": "Coty has been de-rated as beauty demand softened and the balance sheet stayed levered. Management is running a divestiture-plus-cost-cut program (monetized Wella, sold the Gucci Beauty license back to Kering) to shrink debt and refocus on core brands while like-for-like sales are still falling.",
+  "bullish_points": [
+    "Aggressive deleveraging: $750M from the remaining Wella stake (Dec 2025) plus $400M from selling Gucci Beauty back to Kering (Jul 2026)",
+    "Strong FY2026 free cash flow of ~$348M despite a >$200M EBITDA decline",
+    "Recovering above the 100d MA (109%) and 200d MA; trading near $2.66 vs. 52w high $4.47",
+    "Very low implied vol (~6% ATM) makes long-dated calls cheap if you want convexity"
+  ],
+  "bearish_points": [
+    "Turnaround is incomplete: full-year like-for-like sales fell 5%; volumes, excess inventory and tariffs still pressure gross profit",
+    "FY2027 guided as a transition year with an EBITDA target only above $50M — a low bar",
+    "Debt/equity ~97.5 remains high even after asset sales",
+    "No insider buying in last 6 months; -6% over trailing 30 days shows momentum is not yet convincing"
+  ],
+  "catalyst": "Sequential improvement in like-for-like sales and margin plus continued debt paydown; a clean FY2027 quarter that confirms the transition-year inflection",
+  "catalyst_timing": "FY2027 quarterly prints through 2026-2027",
+  "options_liquid": true,
+  "conviction_score": 5,
+  "suggested_trade": "Spot small starter, or cheap long-dated 2027 calls given the ~6% IV; add only on a confirmed LFL-sales inflection",
+  "key_risk": "Beauty demand stays soft and deleveraging stalls, leaving a levered, low-growth business with no re-rating trigger",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You want evidence the top line has actually inflected; right now it is still a promise, not a print"
+}

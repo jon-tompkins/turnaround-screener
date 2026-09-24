@@ -1,0 +1,28 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Everforth (formerly ASGN Incorporated, renamed April 2026) is an IT services and digital-engineering firm that was de-rated with the broader IT-services group during the staffing/discretionary-spend downturn. It is recovering as demand stabilizes: Q2 2026 beat expectations and management guided optimistically, sending shares up ~16% on the print.",
+  "bullish_points": [
+    "Q2 2026 earnings beat with an above-consensus forward guide; shares jumped ~16% on results, confirming momentum",
+    "Forward P/E ~7.8 on ~$3.97B TTM revenue — cheap for a recovering, cash-generative services business",
+    "Expanded AWS Premier Tier Services Partner status across the portfolio (Aug 2026), extending commercial reach beyond ECS Federal",
+    "Strong technical recovery: ~140% of the 100d MA and back above the 200d MA"
+  ],
+  "bearish_points": [
+    "Already nearly doubled off the 52w low ($16.90 to ~$33.54) — much of the easy re-rating may be done",
+    "Still ~39% below the 52w high; IT-services demand remains cyclical and discretionary",
+    "Options are effectively illiquid (near-zero IV, negligible OI) — spot only",
+    "No insider buying in last 6 months to corroborate the recovery"
+  ],
+  "catalyst": "Continued bookings/guidance beats confirming the IT-services demand recovery and margin normalization",
+  "catalyst_timing": "Next quarterly earnings (Q3 2026) and 2027 guidance",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot only; buy pullbacks toward the 100d MA rather than chasing the post-earnings gap. Momentum-continuation trade, not deep value.",
+  "key_risk": "IT-services demand recovery stalls and the multiple re-rating reverses after the sharp run off the lows",
+  "estimated_upside_pct": 40,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You want an untested base; this one has already run hard, so the asymmetry is thinner than a fresh basing setup"
+}
