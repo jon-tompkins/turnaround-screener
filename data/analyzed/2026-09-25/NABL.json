@@ -1,0 +1,30 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "N-able sells monitoring/security software to managed service providers (MSPs); the stock fell ~37% after cutting 2026 revenue guidance on soft renewals, and is now basing as it repositions from commodity RMM toward a higher-value 'cyber resilience' platform.",
+  "bullish_points": [
+    "High-quality model: 79.9% gross margin, $70M FCF, and a return to profitability narrative at forward P/E ~9.3",
+    "Sticky MSP subscription base with ARR guided to $562-565M; trades near book (P/B 0.95)",
+    "Repositioning toward cyber resilience + new AI features (N-zo assistant) could lift ACV over time",
+    "Low short interest (7% of float) and net cash-generative; not a distressed balance sheet despite $437M debt",
+    "30-day momentum positive (+9.5%) suggests the post-cut washout may be stabilizing"
+  ],
+  "bearish_points": [
+    "The core catalyst is a guidance CUT, not a beat: FY26 revenue trimmed to $539-542M and growth decelerated to 6-7% from 8-9%",
+    "Renewal and pricing pressure in UEM/EDR shows the base is still churning — turnaround is unproven",
+    "Management itself calls legacy RMM a 'deprioritized commodity'; the pivot is early and unmonetized",
+    "Sits ~17% below its 200-day MA — clearly still basing, no confirmed uptrend",
+    "Only 5 analysts, mean target $4.68 offers modest upside vs ~$4.03"
+  ],
+  "catalyst": "Q3 2026 earnings showing renewals/ARR stabilizing and the cyber-resilience pivot gaining ACV traction",
+  "catalyst_timing": "Q3 earnings 2026-11-05",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small speculative starter; wait for one clean quarter proving ARR has stopped bleeding before adding",
+  "key_risk": "Renewal churn and EDR/UEM price pressure continue, forcing another guidance cut and re-breaking the base",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You want confirmation the guidance cut has fully reset expectations before buying a still-churning subscription base"
+}

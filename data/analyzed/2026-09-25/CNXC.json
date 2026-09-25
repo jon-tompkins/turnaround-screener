@@ -1,0 +1,30 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Concentrix, a customer-experience (CX/BPO) outsourcer, trades at a distressed multiple because the market fears generative AI will automate away call-center demand; the bull case is that AI is instead lifting its bookings (iX Suite deals +400% YoY) while it deleverages the Webhelp acquisition debt.",
+  "bullish_points": [
+    "Extraordinary value optics: forward P/E ~2.4, EV/EBITDA 5.5, P/B 0.65, and ~$775M FCF against a $1.77B market cap (~40%+ FCF yield)",
+    "AI bookings inflecting: iX Suite / AI solution contracts up 400% YoY, arguing AI is additive not purely destructive",
+    "Analyst consensus 'buy', mean target $36.25 vs ~$29 spot (~25% upside)",
+    "Hard near-term catalyst: Q3 FY26 earnings 2026-09-29 (4 days out) with guided op income $295-305M",
+    "16.5% short interest — a clean print could squeeze"
+  ],
+  "bearish_points": [
+    "Secular AI-displacement fear is real, not imagined; CX seat-based revenue is the most automatable BPO line",
+    "Heavy leverage: $5.5B debt, D/E 204%, EV $7.0B dwarfs the $1.77B equity — most enterprise value is debt",
+    "Groupe Bruxelles Lambert dumped 6M shares (~$133M) in April — large sponsor overhang",
+    "FY26 revenue guide was cut ($9.93-10.03B from $10.04-10.18B); growth is barely positive (+1.9%)",
+    "Profit margin negative (-13%) on GAAP due to amortization/interest; equity is a thin sliver of the cap structure"
+  ],
+  "catalyst": "Q3 FY26 earnings — confirmation that AI bookings translate to stabilized revenue/margin and continued deleveraging",
+  "catalyst_timing": "Earnings 2026-09-29 (after close)",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot, small-to-medium deep-value tranche; given the 9/29 binary, either take a starter now and add on a clean print, or wait for the report to de-risk the AI narrative",
+  "key_risk": "Earnings show AI cannibalizing seat volumes faster than iX Suite replaces it, confirming secular decline on a leveraged balance sheet",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You want to avoid a leveraged name into a same-week earnings print, or you believe AI structurally shrinks CX faster than management admits"
+}

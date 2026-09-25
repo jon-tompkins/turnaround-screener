@@ -1,0 +1,31 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "ELEVIDYS gene-therapy patient mortality events in 2025 crushed the stock (~$25 high to ~$14.68 low) and drove a 34% revenue decline; demand is now stabilizing after a strategic restructuring and pipeline prioritization, with ELEVIDYS positioned to return to growth.",
+  "bullish_points": [
+    "Real commercial business: ~$2B TTM revenue and positive operating margin (13%), not a pre-revenue biotech",
+    "Commercial portfolio stabilizing; management says ELEVIDYS is positioned to return to growth as ENDEAVOR Cohort 8 (non-ambulatory + sirolimus pretreatment) advances",
+    "Cash $788M vs $1.06B debt, current ratio 4.4, positive FCF — no near-term solvency risk",
+    "Very high short interest (28.9% of float, 8.2 days to cover) sets up squeeze potential on any good news",
+    "Forward P/E ~7 and P/B 1.28 are cheap for a rare-disease franchise with a Roche ELEVIDYS ex-US partnership",
+    "Recent EPS beats (Q2 +32%, Q1 +202%) show cost discipline is landing"
+  ],
+  "bearish_points": [
+    "Gene-therapy safety overhang is existential: any further ELEVIDYS mortality/label restriction can re-break the stock",
+    "Revenue still declining YoY (-34%); the 'return to growth' is a forward promise, not yet in the numbers",
+    "Dossier news feed was empty (nulls) — thesis leans on SEC/IR filings, not fresh tape",
+    "siRNA pipeline (SRP-1001 FSHD, SRP-1003 DM1) is early Phase 1/2a; binary and years from revenue",
+    "Sits ~3.6% below its 200-day MA — still basing, breakout unconfirmed"
+  ],
+  "catalyst": "ENDEAVOR Cohort 8 full enrollment (non-ambulatory ELEVIDYS expansion) plus Q3 print showing demand stabilization; siRNA Phase 1/2a data",
+  "catalyst_timing": "Q3 earnings 2026-11-04; ENDEAVOR Cohort 8 full enrollment by year-end 2026; 12-week cohort data Q1 2027",
+  "options_liquid": true,
+  "conviction_score": 6,
+  "suggested_trade": "Spot core position; small Jan-2027 calls acceptable to play the Q1-2027 ENDEAVOR data with defined risk",
+  "key_risk": "A new ELEVIDYS safety signal or FDA label restriction that reverses the demand-stabilization narrative",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "You can't stomach single-headline 30%+ gap risk on gene-therapy safety news; position accordingly or pass"
+}

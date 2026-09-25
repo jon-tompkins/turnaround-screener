@@ -1,0 +1,30 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "Everforth (the former ASGN, rebranded and re-tickered on 2026-04-24) is the 4th-largest US IT staffing firm; the stock was beaten to ~$16.9 in a soft IT-hiring cycle and has since recovered to ~$32.58, a cyclical staffing-demand turnaround wrapped in a rebrand.",
+  "bullish_points": [
+    "Profitable and cheap: trailing P/E 16.8, forward P/E 7.6, EV/EBITDA 7.8, P/B 0.74, EV/revenue 0.67 on ~$4B revenue",
+    "Heavy, clustered insider buying in April 2026 at $18-22 across 10+ directors/officers — now well in the money, a strong bottom signal",
+    "$1B buyback authorized (~vs $1.34B market cap) provides a floor and EPS tailwind",
+    "Federal Government segment (ECS) adds a less-cyclical, backlog-driven revenue stream",
+    "FCF $214M and a recent Q2 EPS beat (+11%) suggest the earnings trough may be in"
+  ],
+  "bearish_points": [
+    "Stock has already nearly doubled off the low; the easy cyclical rebound is largely priced",
+    "Analyst mean target $27.50 sits BELOW the ~$32.58 price — the tape has run ahead of sell-side estimates",
+    "Revenue still declining (-1.3%); IT staffing demand recovery is not yet confirmed in the top line",
+    "Listed options are effectively illiquid (sampled ATM IV ~0), so this is a spot-only vehicle",
+    "Rebrand is cosmetic — it doesn't change the cyclical staffing fundamentals"
+  ],
+  "catalyst": "Q3 2026 earnings showing staffing demand inflecting back to growth, plus buyback execution",
+  "catalyst_timing": "Q3 earnings 2026-10-28",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, modest size; wait for a pullback toward the 200-day or add on a growth-confirming Q3 print rather than chasing after the ~2x move",
+  "key_risk": "IT hiring stays soft and revenue keeps declining, so the multiple re-rates back down after outrunning analyst targets",
+  "estimated_upside_pct": 30,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You require the top line to actually be growing before paying up, given the price is already above consensus targets"
+}
