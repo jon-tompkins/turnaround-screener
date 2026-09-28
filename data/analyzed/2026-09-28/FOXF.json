@@ -1,0 +1,30 @@
+{
+  "ticker": "FOXF",
+  "company_name": "Fox Factory Holding Corp.",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "turnaround_reason": "Premium suspension/components maker crushed from the high-$20s+ as post-COVID bike-channel overstock and soft powersports/truck demand gutted margins and earnings. The recovery thesis is a genuine operational one: bike channel inventory is finally normalizing while a multi-phase cost program (~$50M gross savings targeted in FY2026) drops through to EBITDA.",
+  "bullish_points": [
+    "Two straight earnings beats: Q2 2026 EPS $0.37 vs $0.18 est (+107%), Q1 $0.18 vs $0.08 (+120%) - the beat cadence is real, not a single fluke",
+    "Cost program executing: >$25M of ~$50M FY2026 gross savings captured in H1; adj. EBITDA margin +~250bps sequentially in Q2",
+    "Bike channel de-stocking nearly complete (days inventory 136 vs 150 yr-ago); powersports revenue +22.5% and management RAISED 2026 sales view",
+    "Recovering screen mode with price sitting on the 200d MA - momentum inflecting rather than a falling knife",
+    "Reasonable value at ~9.9x forward P/E, EV/EBITDA ~9.7x once the cost run-rate annualizes"
+  ],
+  "bearish_points": [
+    "GAAP still ugly: TTM profit margin -20%, heavy goodwill/impairment history; the 'beat' is off very depressed bars",
+    "High leverage: debt/equity ~102%, total debt $680M vs $61M cash - little cushion if consumer discretionary rolls over",
+    "Revenue still declining YoY (-4.5%); the story is margin/cost self-help, not top-line growth yet",
+    "Tariffs and F-150 chassis supply constraints are external swing factors the company doesn't control",
+    "Only 6 analysts cover it; thin, and mean target ($21.8) implies modest ~18% upside"
+  ],
+  "catalyst": "Q3 FY2026 earnings on Nov 5, 2026 - the quarter management flagged as the inflection where bike volumes normalize and Phase 2 cost savings hit full run-rate",
+  "catalyst_timing": "Q3 2026 earnings, Nov 5, 2026",
+  "options_liquid": false,
+  "conviction_score": 6,
+  "suggested_trade": "Spot, half-size starter now with adds on any dip toward the 52-week-low zone ($14-15). Cleanest fundamental turnaround of today's batch - self-help cost story with a dated Nov 5 catalyst.",
+  "key_risk": "A consumer-discretionary demand air-pocket (bikes + trucks + powersports all cyclical) overwhelms the cost savings before the top line turns, and the leverage amplifies the drawdown.",
+  "estimated_upside_pct": 55,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "You expect a 2026 consumer recession, or you require options liquidity (OI is negligible here)."
+}

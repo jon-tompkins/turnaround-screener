@@ -1,0 +1,31 @@
+{
+  "ticker": "SRPT",
+  "company_name": "Sarepta Therapeutics, Inc.",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "turnaround_reason": "Duchenne-focused gene-therapy company that collapsed from ~$25 to ~$18 (and far below prior-cycle highs) after ELEVIDYS safety events in 2025 forced a label restriction to ambulatory patients, cutting revenue ~36% YoY and forcing a guidance cut plus a new CEO. The 'turnaround' is really a stabilization-and-pivot story: exon-skipping cash flow funds a bet on Arrowhead-licensed siRNA programs (SRP-1001 DUX4/FSHD, SRP-1003 DMPK/DM1).",
+  "bullish_points": [
+    "Still operationally profitable and cash-generative through the ELEVIDYS shock: ~$945M cash, positive operating cash flow, FCF slightly positive",
+    "Cheap on forward numbers: ~6.9x forward P/E, ~1.26x book, EV/revenue ~1.1x - a lot of bad news is priced in",
+    "Early-stage siRNA readouts (SRP-1001/1003) positive so far; a credible next-leg pipeline beyond the DMD exon-skippers",
+    "High short interest (~29% of float, 8.2 days to cover) - any genuinely good news could squeeze",
+    "Recovering off the 52-week low ($14.68) and sitting right on the 100d MA; 'basing' setup"
+  ],
+  "bearish_points": [
+    "ELEVIDYS revenue is still DECLINING (Q2 rev $328.7M, -36% YoY) - the core franchise is shrinking, not bottoming with confidence",
+    "Safety events + label restriction are a lasting demand impairment, not a one-time charge; physician/patient hesitancy lingers",
+    "Guidance was CUT ($1.2-1.4B down to $1.2-1.3B) and a CEO change signals a business in flux",
+    "siRNA programs are Phase 1/2a - years and multiple readouts from being needle-movers; binary clinical/regulatory risk",
+    "Debt $1.06B > cash; net debt position while the top line erodes",
+    "yfinance news feed empty in the dossier; thesis rests on one web pass and public filings"
+  ],
+  "catalyst": "Q3 FY2026 earnings on Nov 4, 2026 (ELEVIDYS trajectory + updated guidance), plus incremental siRNA (SRP-1001/1003) data cadence",
+  "catalyst_timing": "Nov 4, 2026 earnings; siRNA readouts ongoing into 2027",
+  "options_liquid": false,
+  "conviction_score": 3,
+  "suggested_trade": "Pass / tiny speculative spot only. This is a falling franchise with a still-early pipeline bet; wait for ELEVIDYS revenue to actually stabilize on a print before treating the base as real. Short squeeze is a trade, not an investment thesis.",
+  "key_risk": "ELEVIDYS demand keeps eroding (further label/safety overhang) and the siRNA pipeline is too early to fill the hole, so 'cheap' compounds lower as revenue and cash decline.",
+  "estimated_upside_pct": 45,
+  "estimated_downside_pct": 35,
+  "would_skip_if": "Nov 4 shows ELEVIDYS revenue declining again or another safety signal - either confirms the franchise impairment is ongoing."
+}

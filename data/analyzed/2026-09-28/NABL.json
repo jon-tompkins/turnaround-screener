@@ -1,0 +1,29 @@
+{
+  "ticker": "NABL",
+  "company_name": "N-able, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "MSP-focused software vendor (RMM + Cove backup + Adlumin cybersecurity) that lost more than half its value after a Q2 2026 print sent shares down 36% on weakening renewal rates and a cut full-year guide. The bull case is a cheap, 80%-gross-margin recurring-revenue business pivoting into faster-growing cyber resilience; the bear case is that the renewal deterioration is the start of a trend, not a blip.",
+  "bullish_points": [
+    "High-quality model: ~80% gross margins, ARR ~$548M growing ~11%, FCF ~$70M - trades at ~0.9x book and ~8.9x forward P/E",
+    "Cybersecurity (Adlumin) is the fastest-growing segment (+17.5%) and now ~27% of revenue - genuine mix shift toward secular growth",
+    "Cove Data Protection (~38% of rev) also growing double digits; the pivot from commodity RMM has real legs",
+    "New-CEO/insider equity grants show alignment; net loss narrowed 91% YoY in Q1"
+  ],
+  "bearish_points": [
+    "Q2 2026 shares fell 36% on WEAKENING RENEWAL RATES + a guidance cut - the single most important datapoint and it's bad",
+    "Basing mode ~20% below the 200d MA; broken momentum, no confirmation the bottom is in",
+    "Core UEM (~35% of rev) growing only ~6% - the legacy base is decelerating and drags the blended rate",
+    "Debt/equity ~54% ($437M debt vs $116M cash); not distressed but not much room if ARR growth keeps slipping",
+    "yfinance news feed empty in the dossier; thesis relies on a single web pass, not deep channel checks"
+  ],
+  "catalyst": "Q3 FY2026 earnings on Nov 5, 2026 - the print that either confirms renewal-rate stabilization or extends the guide-down that broke the stock",
+  "catalyst_timing": "Q3 2026 earnings, Nov 5, 2026",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small watch-list tranche. Wait for Q3 to show renewal rates stabilizing before adding - buying a broken-momentum SaaS name into an unconfirmed base after a 36% guide-down flush is catching the knife.",
+  "key_risk": "The Q2 renewal-rate weakness is structural (MSP churn / competitive displacement), ARR growth keeps decelerating, and the 'cheap' multiple compresses further on a falling growth rate.",
+  "estimated_upside_pct": 50,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "Q3 shows renewal rates or net revenue retention deteriorating again - that invalidates the whole recurring-revenue thesis."
+}

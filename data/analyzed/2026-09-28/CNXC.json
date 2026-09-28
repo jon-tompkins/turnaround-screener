@@ -1,0 +1,29 @@
+{
+  "ticker": "CNXC",
+  "company_name": "Concentrix Corporation",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "CX/BPO outsourcer beaten down ~48% off highs on fears that generative AI structurally shrinks the seat-based contact-center business it bought Webhelp to scale. Trades at ~2.2x forward earnings and 0.58x book on ~$1B/yr FCF, a valuation that prices in secular decline; the bull case is that AI becomes a services tailwind (iX Suite deals +400% YoY) rather than a replacement.",
+  "bullish_points": [
+    "Extremely cheap: ~2.2x forward P/E, 0.58x book, EV/EBITDA ~5.4x, ~$775M TTM FCF against a $1.56B market cap",
+    "iX Suite / agentic-AI deals up 400% YoY - early evidence AI is additive to the services mix, not purely cannibalistic",
+    "CEO Caldwell and CFO both bought stock in open market (small but directionally bullish) in 2026",
+    "Analyst mean target $36.25 vs $25.53 spot (~42% implied); lone recommendation reads 'buy'"
+  ],
+  "bearish_points": [
+    "Secular AI overhang on seat-based CX is the whole reason it's cheap - a value trap risk, not a cyclical dip",
+    "Heavy leverage: total debt $5.5B, debt/equity ~204%, EV $6.9B vs $1.56B equity - most of the enterprise value is debt",
+    "Groupe Bruxelles Lambert (10%+ holder) dumped 6M shares (~$133M) in April 2026 - large informed seller",
+    "Revenue growth barely positive (+1.9%); Q3 consensus EPS already cut 8% over 90 days ($3.06 -> $2.81)",
+    "Reported net profit margin negative (-13%) on GAAP (goodwill/amortization from Webhelp), optics remain poor"
+  ],
+  "catalyst": "Q3 FY2026 earnings after the close on Sep 29, 2026 - guidance on AI deal conversion, revenue trajectory, and deleveraging pace will re-rate or re-break the stock",
+  "catalyst_timing": "Sep 29, 2026 (after market close)",
+  "options_liquid": false,
+  "conviction_score": 5,
+  "suggested_trade": "Spot only, small starter; do NOT chase into the print. Wait for post-earnings reaction - a guide-down flush toward $20 or a relief pop are both playable, but sizing into a binary at 2x P/E cuts both ways given the leverage.",
+  "key_risk": "AI genuinely deflates the core seat-based CX business faster than iX Suite/services can offset, turning cheap into permanently cheap while $5.5B of debt compounds the equity risk.",
+  "estimated_upside_pct": 60,
+  "estimated_downside_pct": 30,
+  "would_skip_if": "You need liquid options (near-worthless here) or you can't stomach a levered value-trap; also skip buying into the Sep 29 print blind."
+}

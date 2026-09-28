@@ -1,0 +1,31 @@
+{
+  "ticker": "EFOR",
+  "company_name": "Everforth, Inc.",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "turnaround_reason": "The former ASGN, rebranded to Everforth in April 2026, is the 4th-largest US IT staffing/solutions firm (commercial + federal). Stock is down ~52% over the past year as DOGE-driven federal spending cuts hit the government segment and a soft IT hiring cycle pressured commercial staffing. The recovery thesis: a profitable, FCF-generative solutions/consulting mix (not just body-shop staffing) at a trough multiple with a heavy insider-buying cluster.",
+  "bullish_points": [
+    "Genuinely profitable and cash-generative: GAAP profit margin ~2%, ~$213M FCF, trailing P/E ~16.7x / forward ~7.5x - not a cash-burner",
+    "Cluster of open-market insider PURCHASES in April 2026 (Matin $193K, Hawthorne $100K, Callaghan $104K, plus several directors) - the strongest insider signal in today's batch",
+    "Cheap on solutions-business metrics: ~0.73x book, EV/EBITDA ~7.9x, EV/revenue ~0.68x",
+    "Rebrand toward 'technology and digital engineering at scale' repositions away from commodity staffing toward higher-margin work",
+    "Q2 EPS beat (+11.4%); commercial segment revenue edged up while the market feared worse"
+  ],
+  "bearish_points": [
+    "Federal segment directly exposed to DOGE / government-efficiency cuts - a policy-driven headwind outside management's control",
+    "Revenue declining (-1.3%) with both segments soft (commercial +0.5%, federal -1.1%) - no top-line inflection yet",
+    "Price is ~132% of the 100d MA and well off the $16.9 low - much of the easy bounce may already be in ('basing' but extended)",
+    "Analyst mean target ($27.5) sits BELOW spot ($32.4) - the Street sees it as roughly fair-to-rich here, recommendation 'none'",
+    "Leverage moderate-high: debt/equity ~83%, $1.5B debt vs $153M cash",
+    "yfinance news feed empty; thesis leans on one web pass + insider filings"
+  ],
+  "catalyst": "Q3 FY2026 earnings on Oct 28, 2026 - read on federal-segment stabilization post-DOGE and commercial IT-hiring recovery",
+  "catalyst_timing": "Q3 2026 earnings, Oct 28, 2026",
+  "options_liquid": false,
+  "conviction_score": 4,
+  "suggested_trade": "Spot only, small starter, and prefer buying weakness given the mean analyst target sits below spot. The April insider-buy cluster is the real reason to watch it; let a pullback toward the mid-$20s improve the entry.",
+  "key_risk": "Federal spending cuts deepen and commercial IT hiring stays weak, so revenue keeps sliding while the stock - already above analyst targets and well off its lows - gives back the bounce.",
+  "estimated_upside_pct": 35,
+  "estimated_downside_pct": 25,
+  "would_skip_if": "Federal segment revenue decline accelerates on the Oct 28 print, or you're unwilling to buy above the Street's mean target."
+}
